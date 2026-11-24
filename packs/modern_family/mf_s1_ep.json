@@ -1,0 +1,963 @@
+{
+  "id": "mf_s1_ep",
+  "title": "Modern Family: Season 1",
+  "description": "Match the famous quote to its Season 1 episode.",
+  "category": "series",
+  "group": "Modern Family",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 150,
+  "quote_count": 50,
+  "questions": [
+    {
+      "quote": "Cameron, you brought a wind machine.",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Not in My House",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Run for Your Wife",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "We were serious about that?",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Not in My House",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, but we had to keep it a secret.",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fears",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Are you sure there's not an \"E-I\" in the middle?",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pilot",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Game Changer",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Benched",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, sorry I don't follow the WNBA.",
+      "description": "Spoken by Haley Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Not in My House",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "He doesn't get hit in the head. He makes observations. He tells the truth in a funny way- come on, he's been on Johnny Carson a hundred times.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pilot",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Run for Your Wife",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, I wish I had a mallet right now.",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Great Expectations",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, never really liked them.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Airport 2010",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fizbo",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, your nephew's first birthday.",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Undeck the Halls",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Great Expectations",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Does he have a mallet?",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Starry Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Great Expectations",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "That's it? No. The agreement was that if he shoots someone, you shoot him.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Luke just shot me!",
+      "description": "Spoken by Alex Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Benched",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I am so excited. Coupons for...five free hugs.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Fears",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Great Expectations",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Benched",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Are you kidding me? I love it. It's so creative--coupons for hugs, which are usually free, but this makes it official, which is so great.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Truth Be Told",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Great Expectations",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "NO, MANUEL ALBERTO! IN THE CAR OR I PUT YOU IN THE TRUNK!",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Run for Your Wife",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I don't know where he gets his fear from, cause his father is not afraid of anything no bulls, no heights, no helicopters, no fast cars.",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fears",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Benched",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I just wanted to dance at the ballet!",
+      "description": "Spoken by Cameron Tucker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Starry Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Airport 2010",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Okay! Of course, sweetie, you know what? Take forty!",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Benched",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Game Changer",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Great Expectations",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, don't be such a baby. It's just some dude with weird hair.",
+      "description": "Spoken by Haley Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Benched",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Not in My House",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, we couldn't get tickets to Billy Elliot.",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Starry Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Benched",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Airport 2010",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "How would you sit on the baby Jesus' lap? You'd squish it.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Benched",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fizbo",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Undeck the Halls",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Try two. Trust me, I had plenty of fun in my time. And then I met your Mom.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Airport 2010",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Starry Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Truth Be Told",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Phil's problem is follow-through.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Undeck the Halls",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Run for Your Wife",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "All he wanted to do was dance, and that's my story.",
+      "description": "Spoken by Cameron Tucker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Fears",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Airport 2010",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Run for Your Wife",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "That was 20 minutes.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Starry Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Benched",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "In Colombia, Manny went to Pablo Escobar Elementary School. If you were pulled out of class, it was definitely to identify a body.",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Run for Your Wife",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Undeck the Halls",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "That's Maya Angelou, you idiot.",
+      "description": "Spoken by Alex Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Not in My House",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Starry Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Great Expectations",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "You don't like it?",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Starry Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Great Expectations",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Run for Your Wife",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Denise? Do I know Denise?",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Great Expectations",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Truth Be Told",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Airport 2010",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I know but I kinda got work--",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fizbo",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Airport 2010",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's not your fault, honey, mother is part of the word. You ever hear of anyone being sfathered to death?",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Fears",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Starry Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Game Changer",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "But go to dinner with him and wait for the check to come then you'll see fear in his eyes, like the waiter's a ghost.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fears",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Good, Papi. If I can't fool you, then your teachers can't fool you either.",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Game Changer",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Airport 2010",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Don't worry about it. We just use it to cover up the seat from when Manny's all sweaty after his Tango class.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Game Changer",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Starry Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Airport 2010",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yes, go Jay, and take Manny with you, too!",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Great Expectations",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fears",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh honey, you’re so sweet!",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Undeck the Halls",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Benched",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Has he ever seen a good one?",
+      "description": "Spoken by Cameron Tucker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Truth Be Told",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Starry Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fizbo",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "We had no more dishes, so we were eating cereal out of a goldfish bowl.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Run for Your Wife",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Great Expectations",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Undeck the Halls",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I don't think they're trying to fool me.",
+      "description": "Spoken by Manny Delgado",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Not in My House",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Game Changer",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, school. That's where people go to learn things like not to keep children up all night!",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Fizbo",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "So then how does he get hit in the head?",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Run for Your Wife",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Starry Night",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "\"Clive\", I have a little something for you.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fears",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "He's got a birthday party.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Run for Your Wife",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "This is so much better than cheesy garlic bread.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Benched",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Not in My House",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, for goodness sake.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fears",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I have to get old... You don't have to get fat.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fears",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh come on, you made out with him, too.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Benched",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Starry Night",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, 21 years ago...",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "En Garde",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fizbo",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Up All Night",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "You can shoot him afterwards. He'll be home at 2:00.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Benched",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Airport 2010",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Well, he doesn't do jokes.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "My Funky Valentine",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Starry Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Run for Your Wife",
+          "description": "Modern Family episode"
+        }
+      ]
+    }
+  ]
+}

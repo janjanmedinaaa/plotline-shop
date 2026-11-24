@@ -1,0 +1,963 @@
+{
+  "id": "mf_classic_ep",
+  "title": "Modern Family: Classic Episodes",
+  "description": "Match the quote to its iconic Modern Family episode.",
+  "category": "series",
+  "group": "Modern Family",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 50,
+  "questions": [
+    {
+      "quote": "You want to get ahead? Don't play by the rules. Turns out nice guys finish last in this cold dog-eat-dog world.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Won't You Be Our Neighbor",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Slow Down Your Neighbors",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Send Out the Clowns",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "What choice do I have? You used to be up for anything. What happened?",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phil on Wire",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "And One to Grow On",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fulgencio",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Which, you're welcome, just kicked in. Now, granted, it doesn't power everything. I had to make some hard choices.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Storm",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Boys' Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Send Out the Clowns",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "You forgot to bring my bread.",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Boys' Night",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "See You Next Fall",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Yard Sale",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "A damn tree's blocking the street. I need my chainsaw.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Storm",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fizbo",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Ok, that's it! If the men in this house don't start talking to me, I swear to God that I will make life miserable for each and every one of you!",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Yard Sale",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Storm",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Express Christmas",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "The stress from my job at the Robot Assassin Factory is too much to take. Aw, shoot me an aspirin, pal.",
+      "description": "Spoken by Luke Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Punkin Chunkin",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Yard Sale",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Unplugged",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, I'm doing a great job from that far back.",
+      "description": "Spoken by Luke Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dude Ranch",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Wow Factor",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Career Day",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's called growing up and having my own interests, just like the preacher's daughter in your precious Footloose.",
+      "description": "Spoken by Luke Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "And One to Grow On",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Punkin Chunkin",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "If that's the slogan for the stupid coat, I'm going to kill you.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "White Christmas",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Treehouse",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Boys' Night",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I don't think it's gonna matter.",
+      "description": "Spoken by Luke Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "White Christmas",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Yard Sale",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Diamond in the Rough",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I just wanted you to be more organized. You can be a little scatterbrained sometimes.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Won't You Be Our Neighbor",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Little Bo Bleep",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "You know, I made the egg that made you that made that project, so in a lot of ways, that project is mine!",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Egg Drop",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Career Day",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I looked it up. The distance between our houses is 2,443 miles.",
+      "description": "Spoken by Alex Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Do Not Push",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Unplugged",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Dude Ranch",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "When you mess with Phil Dunphy, the claws come out.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Phil on Wire",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Mother's Day",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Now you're making jokes?",
+      "description": "Spoken by Alex Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Cold",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Slow Down Your Neighbors",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Unplugged",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "We're interviewing prospective mothers for adoption.",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Little Bo Bleep",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Egg Drop",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Promposal",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, Phil, I'm glad I caught ya.",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Aunt Mommy",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Clean Out Your Junk Drawer",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Egg Drop",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Relax. They're never going to last as long as us.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Fulgencio",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Unplugged",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Promposal",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's the perfect structure!",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Unplugged",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Career Day",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Slow Down Your Neighbors",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "What were Mom and Dad doing?",
+      "description": "Spoken by Luke Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "When a Tree Falls",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Caught in the Act",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "When Good Kids Go Bad",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I distracted Haley while she was driving and we dented your car.",
+      "description": "Spoken by Alex Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Punkin Chunkin",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Me? Jealous?",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Tableau Vivant",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "No, the boy kissed me. Okay, Lily? Boy kissed me.",
+      "description": "Spoken by Alex Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Aunt Mommy",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Dude Ranch",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "See You Next Fall",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "How about this? \"Mitchell, I love you. I can't tell you enough how much I respect you\"...",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "A Fair to Remember",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Tableau Vivant",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Diamond in the Rough",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Really? What's the difference between a gamete and a zygote?",
+      "description": "Spoken by Alex Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Unplugged",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Punkin Chunkin",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "I Don't Know How She Does It",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "You never had a veto.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Career Day",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Me? Jealous?",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Knock 'Em Down",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Hee hee. You kissed the boy.",
+      "description": "Spoken by Lily Tucker-Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Family Portrait",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Wow Factor",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Dude Ranch",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, huddle up everybody. Your mother's right. She's the quarterback of this family and we need to protect her like Blind Side did.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Me? Jealous?",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Do Not Push",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Door to Door",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "You're the one who's going to lose her driving privileges. I don't know why you're so calm.",
+      "description": "Spoken by Alex Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Snip",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Wow Factor",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Punkin Chunkin",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Kids can be so cruel. That doesn't mean you'll turn out that way.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Diamond in the Rough",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Family Portrait",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Someone's at the door!",
+      "description": "Spoken by Luke Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Little Bo Bleep",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Late Show",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Family Portrait",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "And by the way I've known you for a long time. The last thing you need to worry about is looking weak.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "When a Tree Falls",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Promposal",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Seriously, Hayley, you think you are the coolest person ever!",
+      "description": "Spoken by Alex Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Help",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Me? Jealous?",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Snip",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "You know, it's a somber occasion, and all my tops are too joyful.",
+      "description": "Spoken by Cameron Tucker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Pilot",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Snip",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "After the Fire",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "We would have been here sooner, but this one had a wardrobe crisis.",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Won't You Be Our Neighbor",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "After the Fire",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "She cheated, she lied, and she won. Kids, gather round.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "After the Fire",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Send Out the Clowns",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "She heard us from outside!",
+      "description": "Spoken by Alex Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Tableau Vivant",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Aunt Mommy",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Bullets! A laser! Ooh, I know, a falcon! Dad, jump in.",
+      "description": "Spoken by Luke Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Slow Down Your Neighbors",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Knock 'Em Down",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "These are supplies for the crafts table. I finally figured out what we're gonna be making.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Promposal",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fizbo",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Unplugged",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "What are you doing?",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Late Show",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "A Fair to Remember",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Little Bo Bleep",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "She suggested an Arabian Nights theme. Isn't it a little soon?",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Unplugged",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Dancers get all the girls, just like Kevin Bacon in Footloose.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "After the Fire",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "And One to Grow On",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, fun, a three-way.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Help",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "White Christmas",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Tableau Vivant",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "No offense, Dad, but I've seen you with a glue gun, and I think a nail would be harder to get out of my hair.",
+      "description": "Spoken by Luke Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Punkin Chunkin",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Phil on Wire",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Treehouse",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Mitchell! Madonna!",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Fizbo",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Express Yourself",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Family Portrait",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "The question is, why isn't all your underwear good, Jay? You make a nice living.",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Pilot",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Clean Out Your Junk Drawer",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Storm",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "My mom keeps a stun gun for emergencies.",
+      "description": "Spoken by Manny Delgado",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Snip",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Express Christmas",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "When Good Kids Go Bad",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Son of a bitch, I'm Phil!.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "A Fair to Remember",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Diamond in the Rough",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Fulgencio",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "They made us co-chair. That means we are supposed work together. But Claire doesn't take any of my ideas.",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mother's Day",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "After the Fire",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yes! Auntie! Yes! You're 73 years old, not 20! Of course, but I'm in the United States so kill yourself! Kill yourself, because I don't care!",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "When Good Kids Go Bad",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Egg Drop",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "And One to Grow On",
+          "description": "Modern Family episode"
+        }
+      ]
+    }
+  ]
+}

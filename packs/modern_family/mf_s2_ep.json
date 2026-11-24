@@ -1,0 +1,963 @@
+{
+  "id": "mf_s2_ep",
+  "title": "Modern Family: Season 2",
+  "description": "Match the famous quote to its Season 2 episode.",
+  "category": "series",
+  "group": "Modern Family",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 150,
+  "quote_count": 50,
+  "questions": [
+    {
+      "quote": "Alex, did you do that?",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Earthquake",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Kiss",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "There goes the theory that an English accent makes everyone sound smart.",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Princess Party",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Halloween",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "What was good about Luke's report card?",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Someone to Watch Over Lily",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Good Cop Bad Dog",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Can I go golfing with you?",
+      "description": "Spoken by Manny Delgado",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Earthquake",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Chirp",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Princess Party",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "So, what happened?",
+      "description": "Spoken by Luke Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Old Wagon",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Good Cop Bad Dog",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I know what \"we'll see\" means. If you're done with church, just say it.",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Earthquake",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "We've been dropping by unannounced to quietly assess all the candidates.",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Chirp",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Someone to Watch Over Lily",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I know, I was just as blown away as you are.",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Chirp",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "No, I think that amount'd be fine. I'm just happy you want Lily. I.. I think you're gonna be very happy with her. Okay.",
+      "description": "Spoken by Cameron Tucker",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chirp",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Bixby's Back",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Good Cop Bad Dog",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "How would you know?",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Princess Party",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Earthquake",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Haley, did you say that to her?",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Kiss",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Our Children",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I wanna show you something.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Kiss",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Sir Fizbolot, royal court jester, at your service. I understand there's a little princess who's in need of a jolly good time!",
+      "description": "Spoken by Cameron Tucker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Halloween",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Princess Party",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Musical Man",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "That's sweet, Phil. You gotta write that down. You got any lipstick in your purse?",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah; you were surprised because it's not true.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Someone to Watch Over Lily",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Good Cop Bad Dog",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, don't turn this on me! Look at her shoes!",
+      "description": "Spoken by Haley Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Princess Party",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Kiss",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Old Wagon",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, really? What about \"But Yet Rachel\"?",
+      "description": "Spoken by Cameron Tucker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Slow Down Your Neighbors",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "All right. Ask me if you can go golfing.",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Caught in the Act",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Good Cop Bad Dog",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's like you're shaking hands, but you're not using your hands. At all.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Our Children",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Someone to Watch Over Lily",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Caught in the Act",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "K, what's going on here?",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Someone to Watch Over Lily",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "We got our butts kicked by Penn state. The parade was awesome though. Angela Lansbury was the grand marshal. \"Good time, she wrote.\"",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Princess Party",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Old Wagon",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Mom, you look really pretty.",
+      "description": "Spoken by Luke Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Old Wagon",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Our Children",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Slow Down Your Neighbors",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "She was a little nervous about your mother being here, so she tried her first Xanax and washed it down with a shot of tequila.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Earthquake",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Princess Party",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Not from when you were eight. Are you trying to get candy or Japanese business men? Change it. Go.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Halloween",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Caught in the Act",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Well, I guess we're going to have to......adopt, yay, a new attitude towards kale. Maybe we'll even adopt!! a new vinaigrette! Adopt! Yaaay!",
+      "description": "Spoken by Cameron Tucker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Bixby's Back",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Let me guess. It's a copy of the book that I begged you to read, but you wouldn't until your dental hygienist said it changed her life.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Chirp",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Slow Down Your Neighbors",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Never did catch what you do.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Bixby's Back",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Chirp",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Someone to Watch Over Lily",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Surprising, I know. I'm usually pretty good at catching things from women in bars.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Princess Party",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Slow Down Your Neighbors",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Bixby's Back",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I just don't think Jay is the best one to raise Lily.",
+      "description": "Spoken by Cameron Tucker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chirp",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Musical Man",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Someone to Watch Over Lily",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Well Clive, I am just a bored housewife with a dark side and an hour to kill.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Musical Man",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Kiss",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Bixby's Back",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Not all the candidates!",
+      "description": "Spoken by Cameron Tucker",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Someone to Watch Over Lily",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Chirp",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I will give you $10 to go up and put more clothes on.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Earthquake",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Old Wagon",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Halloween",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "\"I'd love to go but... yet... I don't feel like parking.\" It's either \"but\" or \"yet\"... not both.",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Old Wagon",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Slow Down Your Neighbors",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "What? I am her back then when she was hot.",
+      "description": "Spoken by Haley Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chirp",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Caught in the Act",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Halloween",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I get it, Phil. I get it. I am the controlling witch that made you give up everything fun in your life....",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Kiss",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Good Cop Bad Dog",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Sorry. Yeah. It puts a lot of pressure on both of you.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Slow Down Your Neighbors",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Princess Party",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Our Children",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "You do it all the time! And you know what I end up with? Wet dreams....I heard it as soon as I said it, just leave it alone.",
+      "description": "Spoken by Cameron Tucker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Kiss",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Slow Down Your Neighbors",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Musical Man",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Cam, did you just sell our baby?",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Halloween",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Chirp",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Well, you know that's what happens when you give me Kahlua.",
+      "description": "Spoken by Mitchell Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Princess Party",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Our Children",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "That's how they always look at us.",
+      "description": "Spoken by Phil Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Old Wagon",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Kiss",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Caught in the Act",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I didn't lose them. Somebody came in here and stole them!",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Princess Party",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "You know, we wouldn't be having this problem if you hadn't lost the spare set.",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Earthquake",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Princess Party",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Why do you have to throw a wet blanket on my dreams?",
+      "description": "Spoken by Cameron Tucker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dance Dance Revelation",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Musical Man",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "You're lucky no one's kicked your butt yet.",
+      "description": "Spoken by Cameron Tucker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Earthquake",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Slow Down Your Neighbors",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Musical Man",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Are you gonna go to church next week?",
+      "description": "Spoken by Gloria Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Bixby's Back",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Earthquake",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Someone to Watch Over Lily",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "That is the opposite of what I just said.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Our Children",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Kiss",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "You have trouble showing affection in public places?",
+      "description": "Spoken by Jay Pritchett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Kiss",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "The Old Wagon",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Thank you sweetheart.",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Old Wagon",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Regrets Only",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "Did you finish your milkshake?",
+      "description": "Spoken by Claire Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Good Cop Bad Dog",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Manny Get Your Gun",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Caught in the Act",
+          "description": "Modern Family episode"
+        }
+      ]
+    },
+    {
+      "quote": "I don't feel well.",
+      "description": "Spoken by Luke Dunphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Good Cop Bad Dog",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Two Monkeys and a Panda",
+          "description": "Modern Family episode"
+        },
+        {
+          "title": "Caught in the Act",
+          "description": "Modern Family episode"
+        }
+      ]
+    }
+  ]
+}

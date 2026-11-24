@@ -1,0 +1,963 @@
+{
+  "id": "mf_best_who",
+  "title": "Modern Family: Greatest Hits",
+  "description": "Who said the most iconic lines of the series?",
+  "category": "series",
+  "group": "Modern Family",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 160,
+  "quote_count": 50,
+  "questions": [
+    {
+      "quote": "I really need to talk to you.",
+      "description": "Modern Family • After the Fire",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Mitchell Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Then I'll have to fight your dad.",
+      "description": "Modern Family • Classic Episode",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Jay Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "My pimple's starting to show.",
+      "description": "Modern Family • Family Portrait",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "To society, she's in prison.",
+      "description": "Modern Family • Classic Episode",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Mitchell Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Life is like a mountain road, with a new adventure around every corner.",
+      "description": "Modern Family • White Christmas",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "I wonder what kind of experiment we'll do? Maybe they'll show us those inkblots that look like two girls kissing.",
+      "description": "Modern Family • Do Not Push",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "You read her texts?! That's why you made me talk to her?!",
+      "description": "Modern Family • The Kiss",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Gloria Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "No! The little idiot shot me!",
+      "description": "Modern Family • Pilot",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh! Hi there, how's everybody doin'?",
+      "description": "Modern Family • I Don't Know How She Does It",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Manny Delgado",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "I say we eat what we kill.",
+      "description": "Modern Family • Mother's Day",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Because she doesn't look like us? That’s offensive.",
+      "description": "Modern Family • Classic Episode",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Mitchell Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Jay Pritchett",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "No, he's got a soccer game at 3:00, and then-- Oh, we got to leave for that dinner thing at 5:00. 4:15. We could shoot him at 4:15.",
+      "description": "Modern Family • Pilot",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "No she isn't, she's my friend.",
+      "description": "Modern Family • Classic Episode",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Lily Tucker-Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Manny Delgado",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "That's disgusting!",
+      "description": "Modern Family • Manny Get Your Gun",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Lily Tucker-Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Gloria Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Manny Delgado",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "You do not want our problems.",
+      "description": "Modern Family • After the Fire",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Mitchell Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "See how deep his voice is?",
+      "description": "Modern Family • The Late Show",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Manny Delgado",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "That's Missouri. No one from Missouri says Missourah.",
+      "description": "Modern Family • Someone to Watch Over Lily",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Lily Tucker-Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Jay Pritchett",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Hello, blushing bride.",
+      "description": "Modern Family • Classic Episode",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Manny Delgado",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "No, sweetheart. Yes, you are. You are going back to school. But listen to me. Just because a boy sends you flirty texts doesn't mean you -",
+      "description": "Modern Family • The Kiss",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Mitchell Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "You made her talk to me?!",
+      "description": "Modern Family • The Kiss",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Mitchell Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "You are the one whose brains are going to be scattered! Manny, hand me the gun!",
+      "description": "Modern Family • Manny Get Your Gun",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Manny Delgado",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Gloria Pritchett",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "I already have a man who doesn't change light bulbs at home.",
+      "description": "Modern Family • Dance Dance Revelation",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Gloria Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "I'm just saying you were never a kid. Which is good, because I hate kids.",
+      "description": "Modern Family • Manny Get Your Gun",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jay Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Don't worry, girls. We won't deprive ourselves just 'cause Haley's aversion to...",
+      "description": "Modern Family • Classic Episode",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Lily Tucker-Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Manny Delgado",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "You are this close to doing all the sleeping in a tent on the backyard.",
+      "description": "Modern Family • Manny Get Your Gun",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mitchell Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Gloria Pritchett",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "It was another woman's purse...",
+      "description": "Modern Family • Classic Episode",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Lily Tucker-Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Mitchell Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "I want chicken pot pie.",
+      "description": "Modern Family • Unplugged",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "They don't say that do they?",
+      "description": "Modern Family • Clean Out Your Junk Drawer",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Mitchell Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, that's right!",
+      "description": "Modern Family • Benched",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mitchell Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Gloria Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "How come I have to do the bathroom?",
+      "description": "Modern Family • Career Day",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Somehow I doubt that.",
+      "description": "Modern Family • Family Portrait",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Lily Tucker-Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "My mom tells me it's \"Xmas\" in a text.",
+      "description": "Modern Family • Classic Episode",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Gloria Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Okay ... no ... yes. Okay, yes. I guess I'm still a little angry, but you know--you stole my moment, Claire.",
+      "description": "Modern Family • En Garde",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jay Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Mitchell Pritchett",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "In other words, the perfect gay zinger.",
+      "description": "Modern Family • Classic Episode",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Mitchell Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, I'm sorry I'm not a perfect little good girl like you were!",
+      "description": "Modern Family • The Kiss",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "That's real? I thought it was just for show.",
+      "description": "Modern Family • Classic Episode",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Gloria Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Lily Tucker-Pritchett",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Keep your eyes open.",
+      "description": "Modern Family • Diamond in the Rough",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Lily Tucker-Pritchett",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, Lukey, everyone gets older. Just 'cause parts of your mom aren't what they used to be, it doesn't mean-",
+      "description": "Modern Family • The Old Wagon",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jay Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Gloria Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Then you must appreciate a good value.",
+      "description": "Modern Family • Door to Door",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Manny Delgado",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Lily Tucker-Pritchett",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "What'cha got there?",
+      "description": "Modern Family • Fizbo",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Lily Tucker-Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "You mean, a real Head Scratcher?",
+      "description": "Modern Family • Punkin Chunkin",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, Cal, let's say hi to Mommy. Say \"Hi! Mommy!\".",
+      "description": "Modern Family • Classic Episode",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Why did I give you such a big watch?",
+      "description": "Modern Family • Manny Get Your Gun",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Manny Delgado",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Jay Pritchett",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "You drool all the time. Mom wanted to see a specialist.",
+      "description": "Modern Family • Boys' Night",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "So you think he's... they...",
+      "description": "Modern Family • Classic Episode",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Manny Delgado",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Phil Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Whatever is in here, I'll always love my mother.",
+      "description": "Modern Family • Yard Sale",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Manny Delgado",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Try coming back seven years and five months from now when they're all gone!",
+      "description": "Modern Family • Someone to Watch Over Lily",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Claire Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "I can't go to jail. I'm a gay prosecutor, there's no prison gangs for that!",
+      "description": "Modern Family • Classic Episode",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Gloria Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Mitchell Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Lily Tucker-Pritchett",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "We shoot them out.",
+      "description": "Modern Family • Slow Down Your Neighbors",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Luke Dunphy",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Lily Tucker-Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Haley Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    },
+    {
+      "quote": "Look at me! I'm so cool! (The girls kept arguing until Luke stops it.)",
+      "description": "Modern Family • Me? Jealous?",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Cameron Tucker",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Lily Tucker-Pritchett",
+          "description": "Modern Family character"
+        },
+        {
+          "title": "Alex Dunphy",
+          "description": "Modern Family character"
+        }
+      ]
+    }
+  ]
+}
