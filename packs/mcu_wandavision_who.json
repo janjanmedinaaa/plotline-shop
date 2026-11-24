@@ -6,7 +6,7 @@
   "tag": "Who said it?",
   "answer_type": "character",
   "price": 0,
-  "quote_count": 10,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "What is grief, if not love persevering?",
@@ -195,6 +195,766 @@
         {
           "title": "Wanda Maximoff",
           "description": "Opening dinner scene"
+        }
+      ]
+    },
+    {
+      "quote": "My husband and his indestructible head.",
+      "description": "Episode 1 • Dinner Party",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Speaking to Mrs. Hart"
+        },
+        {
+          "title": "Agnes",
+          "description": "Kitchen"
+        },
+        {
+          "title": "Dottie",
+          "description": "Poolside"
+        }
+      ]
+    },
+    {
+      "quote": "Stop it! Stop it!",
+      "description": "Episode 1 • Choking Scene",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Kitchen"
+        },
+        {
+          "title": "Mrs. Hart",
+          "description": "Pleads while Mr. Hart chokes"
+        },
+        {
+          "title": "Agnes",
+          "description": "Living room"
+        }
+      ]
+    },
+    {
+      "quote": "Who's doing this to you, Wanda?",
+      "description": "Episode 2 • Radio Broadcast",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Rambeau",
+          "description": "Laundry"
+        },
+        {
+          "title": "Agnes",
+          "description": "Garden"
+        },
+        {
+          "title": "Jimmy Woo",
+          "description": "Voice over the radio"
+        }
+      ]
+    },
+    {
+      "quote": "No, it's not. You don't control me.",
+      "description": "Episode 3 • Living Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Vision",
+          "description": "Questioning the illusion"
+        },
+        {
+          "title": "Geraldine",
+          "description": "Nursery"
+        },
+        {
+          "title": "Herb",
+          "description": "Brick wall"
+        }
+      ]
+    },
+    {
+      "quote": "She's the one who's doing all of this.",
+      "description": "Episode 4 • SWORD Base",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jimmy Woo",
+          "description": "Whiteboard"
+        },
+        {
+          "title": "Tyler Hayward",
+          "description": "Blaming Wanda"
+        },
+        {
+          "title": "Darcy Lewis",
+          "description": "TV monitor"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a witch! I don't cast spells!",
+      "description": "Episode 5 • 1980s Living Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Arguing with Vision"
+        },
+        {
+          "title": "Agatha Harkness",
+          "description": "Basement"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Medical bay"
+        }
+      ]
+    },
+    {
+      "quote": "Who's the popsicle?",
+      "description": "Episode 6 • Halloween Night",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Tommy Maximoff",
+          "description": "Trick-or-treating"
+        },
+        {
+          "title": "Billy Maximoff",
+          "description": "Town square"
+        },
+        {
+          "title": "Pietro Maximoff",
+          "description": "Teasing Vision"
+        }
+      ]
+    },
+    {
+      "quote": "I don't know what I am.",
+      "description": "Episode 6 • Hex Boundary",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Vision",
+          "description": "Pulled apart outside the Hex"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Town square"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Rover"
+        }
+      ]
+    },
+    {
+      "quote": "You're supposed to be a myth. A being capable of spontaneous creation.",
+      "description": "Episode 8 • Basement",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Memories"
+        },
+        {
+          "title": "Agatha Harkness",
+          "description": "Explaining Chaos Magic"
+        },
+        {
+          "title": "Vision",
+          "description": "Library"
+        }
+      ]
+    },
+    {
+      "quote": "I have no memory. Only data.",
+      "description": "Episode 9 • Library",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Hex Vision",
+          "description": "Town square"
+        },
+        {
+          "title": "Tyler Hayward",
+          "description": "SWORD truck"
+        },
+        {
+          "title": "White Vision",
+          "description": "Ship of Theseus debate"
+        }
+      ]
+    },
+    {
+      "quote": "Neither is the true ship. Both are the true ship.",
+      "description": "Episode 9 • Library",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Hex Vision",
+          "description": "Ship of Theseus conclusion"
+        },
+        {
+          "title": "White Vision",
+          "description": "Scanning memories"
+        },
+        {
+          "title": "Agatha Harkness",
+          "description": "Sky battle"
+        }
+      ]
+    },
+    {
+      "quote": "I don't need you to tell me who I am.",
+      "description": "Episode 9 • Westview Sky",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Monica Rambeau",
+          "description": "Confronting Hayward"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Accepting the Scarlet Witch"
+        },
+        {
+          "title": "Agatha Harkness",
+          "description": "Runes"
+        }
+      ]
+    },
+    {
+      "quote": "You didn't think you were the only magical girl in town, did you?",
+      "description": "Episode 7 • Basement",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Kitchen"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Driveway"
+        },
+        {
+          "title": "Agatha Harkness",
+          "description": "Revealing her purple magic"
+        }
+      ]
+    },
+    {
+      "quote": "I can't feel you.",
+      "description": "Episode 8 • SWORD Facility",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Looking at Vision's body"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Hospital"
+        },
+        {
+          "title": "Darcy Lewis",
+          "description": "Circus"
+        }
+      ]
+    },
+    {
+      "quote": "You can't control everything.",
+      "description": "Episode 5 • Kitchen",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Agnes",
+          "description": "Holding the twins"
+        },
+        {
+          "title": "Vision",
+          "description": "Confronting Wanda"
+        },
+        {
+          "title": "Jimmy Woo",
+          "description": "Briefing"
+        }
+      ]
+    },
+    {
+      "quote": "I'm just a guy with a badge.",
+      "description": "Episode 4 • Westview Perimeter",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Tyler Hayward",
+          "description": "Command tent"
+        },
+        {
+          "title": "Agent Franklin",
+          "description": "Sewer"
+        },
+        {
+          "title": "Jimmy Woo",
+          "description": "Introducing himself to Monica"
+        }
+      ]
+    },
+    {
+      "quote": "Flourish!",
+      "description": "Episode 2 • Magic Show",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Vision",
+          "description": "Drunk on gum"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Stage"
+        },
+        {
+          "title": "Dottie",
+          "description": "Audience"
+        }
+      ]
+    },
+    {
+      "quote": "Is this really happening?",
+      "description": "Episode 3 • Backyard",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Nursery"
+        },
+        {
+          "title": "Vision",
+          "description": "Watching Herb cut the wall"
+        },
+        {
+          "title": "Geraldine",
+          "description": "Sofa"
+        }
+      ]
+    },
+    {
+      "quote": "He was killed by Ultron, wasn't he?",
+      "description": "Episode 3 • Living Room",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Agnes",
+          "description": "Porch"
+        },
+        {
+          "title": "Dottie",
+          "description": "Meeting"
+        },
+        {
+          "title": "Geraldine",
+          "description": "Breaking character about Pietro"
+        }
+      ]
+    },
+    {
+      "quote": "Have you ever seen a commercial?",
+      "description": "Episode 4 • SWORD Tent",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Darcy Lewis",
+          "description": "Studying the broadcast"
+        },
+        {
+          "title": "Jimmy Woo",
+          "description": "Radio"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Briefing"
+        }
+      ]
+    },
+    {
+      "quote": "I know what it's like to lose someone.",
+      "description": "Episode 7 • Driveway",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jimmy Woo",
+          "description": "Tent"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Reaching out to Wanda"
+        },
+        {
+          "title": "Darcy Lewis",
+          "description": "Funnel cake"
+        }
+      ]
+    },
+    {
+      "quote": "Thanks for choosing me to be your mom.",
+      "description": "Episode 9 • Bedroom",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Agatha Harkness",
+          "description": "Basement"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Sky"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Tucking in Billy and Tommy"
+        }
+      ]
+    },
+    {
+      "quote": "You're a vision. You're my vision.",
+      "description": "Episode 9 • House",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Final goodbye"
+        },
+        {
+          "title": "Agnes",
+          "description": "Street"
+        },
+        {
+          "title": "Dottie",
+          "description": "Park"
+        }
+      ]
+    },
+    {
+      "quote": "What am I now?",
+      "description": "Episode 9 • Town Square",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Cabin"
+        },
+        {
+          "title": "Vision",
+          "description": "Asking before fading"
+        },
+        {
+          "title": "White Vision",
+          "description": "Flying away"
+        }
+      ]
+    },
+    {
+      "quote": "We'll say hello again.",
+      "description": "Episode 9 • Living Room",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Porch"
+        },
+        {
+          "title": "Billy Maximoff",
+          "description": "Stairs"
+        },
+        {
+          "title": "Vision",
+          "description": "Final promise to Wanda"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, you're gonna need me.",
+      "description": "Episode 9 • Town Square",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Agatha Harkness",
+          "description": "Warning Wanda before being bound"
+        },
+        {
+          "title": "Darcy Lewis",
+          "description": "Truck"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Alley"
+        }
+      ]
+    },
+    {
+      "quote": "I'm sorry. I'm so sorry.",
+      "description": "Episode 9 • Westview Street",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Agatha Harkness",
+          "description": "Runes"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Apologizing to the townspeople"
+        },
+        {
+          "title": "Tyler Hayward",
+          "description": "Handcuffs"
+        }
+      ]
+    },
+    {
+      "quote": "That's a classic.",
+      "description": "Episode 1 • Kitchen",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Agnes",
+          "description": "Oven"
+        },
+        {
+          "title": "Mr. Hart",
+          "description": "Table"
+        },
+        {
+          "title": "Vision",
+          "description": "Commenting on sitcom tropes"
+        }
+      ]
+    },
+    {
+      "quote": "My mom's gonna be so proud.",
+      "description": "Episode 4 • Hospital",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Monica Rambeau",
+          "description": "Returning from the Blip"
+        },
+        {
+          "title": "Darcy Lewis",
+          "description": "Lab"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Sokovia"
+        }
+      ]
+    },
+    {
+      "quote": "She's not a terrorist.",
+      "description": "Episode 5 • Command Tent",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Darcy Lewis",
+          "description": "Desk"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Defending Wanda to Hayward"
+        },
+        {
+          "title": "Jimmy Woo",
+          "description": "Whiteboard"
+        }
+      ]
+    },
+    {
+      "quote": "I'm just trying to help.",
+      "description": "Episode 6 • Circus",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jimmy Woo",
+          "description": "Car"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Truck"
+        },
+        {
+          "title": "Darcy Lewis",
+          "description": "Talking to Vision"
+        }
+      ]
+    },
+    {
+      "quote": "You're the piece of the Mind Stone that lives in me.",
+      "description": "Episode 9 • Living Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Explaining Hex Vision"
+        },
+        {
+          "title": "Agatha Harkness",
+          "description": "Basement"
+        },
+        {
+          "title": "White Vision",
+          "description": "Library"
+        }
+      ]
+    },
+    {
+      "quote": "Power isn't your problem. It's knowledge.",
+      "description": "Episode 8 • Basement",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Stairs"
+        },
+        {
+          "title": "Agatha Harkness",
+          "description": "Taunting Wanda"
+        },
+        {
+          "title": "Vision",
+          "description": "SWORD"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not leaving without my boys.",
+      "description": "Episode 7 • Driveway",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Agnes",
+          "description": "Living room"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Yard"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Searching for the twins"
+        }
+      ]
+    },
+    {
+      "quote": "You're my family.",
+      "description": "Episode 5 • Kitchen",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "To Vision and the twins"
+        },
+        {
+          "title": "Pietro Maximoff",
+          "description": "Doorway"
+        },
+        {
+          "title": "Agnes",
+          "description": "Porch"
+        }
+      ]
+    },
+    {
+      "quote": "Whoa, whoa, whoa. What's the magic word?",
+      "description": "Episode 6 • Town Square",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Vision",
+          "description": "Street"
+        },
+        {
+          "title": "Pietro Maximoff",
+          "description": "Halloween"
+        },
+        {
+          "title": "Billy Maximoff",
+          "description": "Yard"
+        }
+      ]
+    },
+    {
+      "quote": "This is our home.",
+      "description": "Episode 3 • Backyard",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Vision",
+          "description": "Fence"
+        },
+        {
+          "title": "Agnes",
+          "description": "Garden"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Defending Westview"
+        }
+      ]
+    },
+    {
+      "quote": "We're an unusual couple.",
+      "description": "Episode 1 • Couch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Vision",
+          "description": "Agreeing with Wanda"
+        },
+        {
+          "title": "Mr. Hart",
+          "description": "Dinner"
+        },
+        {
+          "title": "Herb",
+          "description": "Yard"
+        }
+      ]
+    },
+    {
+      "quote": "I can feel him. He's in pain.",
+      "description": "Episode 6 • Street",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "House"
+        },
+        {
+          "title": "Billy Maximoff",
+          "description": "Sensing Vision at the barrier"
+        },
+        {
+          "title": "Tommy Maximoff",
+          "description": "Running"
+        }
+      ]
+    },
+    {
+      "quote": "It's all in your head.",
+      "description": "Episode 8 • Sokovia",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Apartment"
+        },
+        {
+          "title": "Vision",
+          "description": "Compound"
+        },
+        {
+          "title": "Agatha Harkness",
+          "description": "Memory walk"
         }
       ]
     }

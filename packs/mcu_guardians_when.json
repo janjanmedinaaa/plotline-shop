@@ -6,7 +6,7 @@
   "tag": "When was this?",
   "answer_type": "movie",
   "price": 0,
-  "quote_count": 10,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "We are Groot.",
@@ -195,6 +195,766 @@
         {
           "title": "Guardians of the Galaxy Vol. 3",
           "description": "2023 • Counter-Earth"
+        }
+      ]
+    },
+    {
+      "quote": "I am Groot.",
+      "description": "2014 • Xandar Plaza",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Opening lineup"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Sovereign"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Knowhere"
+        }
+      ]
+    },
+    {
+      "quote": "Ain't no thing like me, 'cept me!",
+      "description": "2014 • Kyln Escape",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Rocket in the Milano"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Forest"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Asgard"
+        }
+      ]
+    },
+    {
+      "quote": "What a bunch of a-holes.",
+      "description": "2014 • Nova Corps Lineup",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Rhomann Dey"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Yondu"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • High Evolutionary"
+        }
+      ]
+    },
+    {
+      "quote": "You said it yourself, bitch. We're the Guardians of the Galaxy.",
+      "description": "2014 • Dark Aster",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Quill holds the Power Stone"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Ego's core"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Arete"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna need that guy's prosthetic leg.",
+      "description": "2014 • Kyln Prison",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Rocket's escape plan"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Eclector"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Nidavellir"
+        }
+      ]
+    },
+    {
+      "quote": "We're gonna have to go through the quantum asteroid field!",
+      "description": "2017 • Sovereign Chase",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Knowhere"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Milano escape"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Orgoscope"
+        }
+      ]
+    },
+    {
+      "quote": "There are two types of beings in the universe: those who dance, and those who do not.",
+      "description": "2017 • Berhert Forest",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Knowhere"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Drax to Quill"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Benatar"
+        }
+      ]
+    },
+    {
+      "quote": "I have famously huge turds!",
+      "description": "2017 • Ego's Palace",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Kyln"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Drax at dinner"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Counter-Earth"
+        }
+      ]
+    },
+    {
+      "quote": "Press the button! No, not that button!",
+      "description": "2017 • Ego's Core",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Dark Aster"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Rocket & Baby Groot"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Orgoscope"
+        }
+      ]
+    },
+    {
+      "quote": "It's not ripe!",
+      "description": "2017 • Ravager Mutiny",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Xandar"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Nebula eats a yaro root"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Benatar"
+        }
+      ]
+    },
+    {
+      "quote": "Taserface!",
+      "description": "2017 • Eclector Brig",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Morag"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Rocket laughs at Taserface"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Knowhere"
+        }
+      ]
+    },
+    {
+      "quote": "I'm only gonna ask you this once: where is Gamora?",
+      "description": "2018 • Titan",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Knowhere"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Ego"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Quill & Iron Man"
+        }
+      ]
+    },
+    {
+      "quote": "I'll do you one better: who is Gamora?",
+      "description": "2018 • Titan",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Xandar"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Berhert"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Tony Stark"
+        }
+      ]
+    },
+    {
+      "quote": "I've mastered the ability of standing so incredibly still that I become invisible.",
+      "description": "2018 • Benatar",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Kyln"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Ego"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Drax eating zarg-nuts"
+        }
+      ]
+    },
+    {
+      "quote": "How much for the gun? Not for sale. How much for the arm?",
+      "description": "2018 • Wakanda",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Kyln"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Compound"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Rocket & Bucky"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, yeah. You're much more of a Thanos.",
+      "description": "2018 • Knowhere",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Dark Aster"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Sovereign"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Quill to Thor"
+        }
+      ]
+    },
+    {
+      "quote": "Open the fucking door!",
+      "description": "2023 • Counter-Earth Car",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Milano"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Eclector"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Quill to Nebula"
+        }
+      ]
+    },
+    {
+      "quote": "The name's Rocket. Rocket Raccoon.",
+      "description": "2023 • Arete Laboratories",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Xandar"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Berhert"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Rocket reclaims his name"
+        }
+      ]
+    },
+    {
+      "quote": "It is good to have friends.",
+      "description": "2023 • Lylla's Cage",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Kyln"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Contraxia"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Lylla to Rocket"
+        }
+      ]
+    },
+    {
+      "quote": "There is no God! That's why I stepped in!",
+      "description": "2023 • Arete Bridge",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Ronan"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Ego"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • High Evolutionary"
+        }
+      ]
+    },
+    {
+      "quote": "You weren't meant to be a destroyer, Drax. You were meant to be a dad.",
+      "description": "2023 • Counter-Earth",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Knowhere"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Ego"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Nebula to Drax"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna make some weird shit.",
+      "description": "2017 • Ego's Planet",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Morag"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Quill uses Celestial power"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Knowhere"
+        }
+      ]
+    },
+    {
+      "quote": "Sometimes the thing you've been looking for your whole life is right there beside you.",
+      "description": "2017 • Ravager Funeral",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Xandar"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Peter Quill"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Knowhere"
+        }
+      ]
+    },
+    {
+      "quote": "Welcome to the frickin' Guardians of the Galaxy.",
+      "description": "2017 • Milano",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Kyln"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Rocket to Groot"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Nidavellir"
+        }
+      ]
+    },
+    {
+      "quote": "Kick names, take ass.",
+      "description": "2018 • Titan",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Xandar"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Sovereign"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Mantis"
+        }
+      ]
+    },
+    {
+      "quote": "That's a made-up word. All words are made up.",
+      "description": "2018 • Pod to Nidavellir",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Knowhere"
+        },
+        {
+          "title": "Thor: Ragnarok",
+          "description": "2017 • Sakaar"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Thor & Drax"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna die surrounded by the biggest idiots in the galaxy.",
+      "description": "2014 • Kyln",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Gamora"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Ego"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Orgoscope"
+        }
+      ]
+    },
+    {
+      "quote": "I'm distracting you, you big turd blossom!",
+      "description": "2014 • Xandar",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Quill to Ronan"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Ayesha"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Adam Warlock"
+        }
+      ]
+    },
+    {
+      "quote": "They got my dick message!",
+      "description": "2014 • Xandar",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Peter Quill"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Contraxia"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Titan"
+        }
+      ]
+    },
+    {
+      "quote": "A bunch of jackasses standing in a circle.",
+      "description": "2014 • Nova Corps",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Rocket"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Berhert"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Knowhere"
+        }
+      ]
+    },
+    {
+      "quote": "We're just like Kevin Bacon.",
+      "description": "2014 • Dark Aster",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Quill & Gamora"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Ego"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Knowhere"
+        }
+      ]
+    },
+    {
+      "quote": "You're a good dog, Cosmo.",
+      "description": "2023 • Knowhere",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Collector's museum"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Credits"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Kraglin"
+        }
+      ]
+    },
+    {
+      "quote": "Don't be rash!",
+      "description": "2023 • Orgoscope",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Xandar"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Sovereign"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Adam Warlock"
+        }
+      ]
+    },
+    {
+      "quote": "I bet we were fun.",
+      "description": "2023 • Bowie",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Milano"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Ego"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Quill to 2014 Gamora"
+        }
+      ]
+    },
+    {
+      "quote": "Twelve percent of a plan.",
+      "description": "2014 • Milano",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Quill's plan"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Berhert"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Orgoscope"
+        }
+      ]
+    },
+    {
+      "quote": "He's not a raccoon.",
+      "description": "2014 • Knowhere",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Rocket"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Compound"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Counter-Earth"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna fly some bags.",
+      "description": "2023 • Knowhere",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Xandar"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Sovereign"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Peter Quill"
+        }
+      ]
+    },
+    {
+      "quote": "She just told everyone your deepest, darkest secret!",
+      "description": "2017 • Berhert",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Knowhere"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Drax laughs at Quill"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Titan"
+        }
+      ]
+    },
+    {
+      "quote": "You shouldn't have killed my mom and squished my Walkman.",
+      "description": "2017 • Ego's Core",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Xandar"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Quill vs. Ego"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Arete"
+        }
+      ]
+    },
+    {
+      "quote": "Ooga-chaka, ooga-ooga.",
+      "description": "2014 • Kyln",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Hooked on a Feeling"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Mr. Blue Sky"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "description": "2023 • Creep"
         }
       ]
     }

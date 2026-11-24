@@ -6,7 +6,7 @@
   "tag": "When was this?",
   "answer_type": "episode",
   "price": 0,
-  "quote_count": 10,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "I am Loki of Asgard, and I am burdened with glorious purpose.",
@@ -195,6 +195,766 @@
         {
           "title": "S2E06 • Glorious Purpose",
           "description": "Mobius & Loki's farewell"
+        }
+      ]
+    },
+    {
+      "quote": "What is a TVA?",
+      "description": "Season 1 • Time Theater",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Loki watches his life reel"
+        },
+        {
+          "title": "S1E02 • The Variant",
+          "description": "TVA cafeteria"
+        },
+        {
+          "title": "S1E03 • Lamentis",
+          "description": "Shuroo"
+        }
+      ]
+    },
+    {
+      "quote": "Some people use paperweights. We use Infinity Stones.",
+      "description": "Season 1 • Casey's Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Loki sees the Infinity Stones drawer"
+        },
+        {
+          "title": "S1E02 • The Variant",
+          "description": "Archives"
+        },
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "Evidence room"
+        }
+      ]
+    },
+    {
+      "quote": "I can't go back, can I?",
+      "description": "Season 1 • Time Theater",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Loki learns Frigga's fate"
+        },
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Time Cell"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "The Void"
+        }
+      ]
+    },
+    {
+      "quote": "The universe wants to break free, so it manifests chaos.",
+      "description": "Season 1 • Roxxcart",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Mobius's interrogation"
+        },
+        {
+          "title": "S1E02 • The Variant",
+          "description": "Sylvie explains her plan"
+        },
+        {
+          "title": "S1E06 • For All Time. Always.",
+          "description": "He Who Remains"
+        }
+      ]
+    },
+    {
+      "quote": "I don't enjoy hurting people. I don't enjoy it. I do it because I have to.",
+      "description": "Season 1 • Pompeii 79 AD",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Gobi Desert"
+        },
+        {
+          "title": "S1E02 • The Variant",
+          "description": "Loki & Mobius test apocalypse theory"
+        },
+        {
+          "title": "S1E03 • Lamentis",
+          "description": "Train bar"
+        }
+      ]
+    },
+    {
+      "quote": "Wow.",
+      "description": "Season 1 • TVA Lobby",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Orientation"
+        },
+        {
+          "title": "S1E02 • The Variant",
+          "description": "Mobius reacts to Loki"
+        },
+        {
+          "title": "S2E02 • Breaking Brad",
+          "description": "Pie room"
+        }
+      ]
+    },
+    {
+      "quote": "Full stomach, empty head. Drink!",
+      "description": "Season 1 • Train to the Ark",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "DB Cooper"
+        },
+        {
+          "title": "S1E02 • The Variant",
+          "description": "Oshkosh 1985"
+        },
+        {
+          "title": "S1E03 • Lamentis",
+          "description": "Loki sings in Asgardian"
+        }
+      ]
+    },
+    {
+      "quote": "This is the end of the world, and you're drinking?",
+      "description": "Season 1 • Lamentis-1",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E02 • The Variant",
+          "description": "Pompeii"
+        },
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Shuroo"
+        },
+        {
+          "title": "S1E03 • Lamentis",
+          "description": "Sylvie scolds Loki"
+        }
+      ]
+    },
+    {
+      "quote": "A nexus event? On Lamentis? Everyone dies!",
+      "description": "Season 1 • Apocalyptic Moon",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Loki & Sylvie's branch"
+        },
+        {
+          "title": "S1E03 • Lamentis",
+          "description": "Ark explosion"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "Void"
+        }
+      ]
+    },
+    {
+      "quote": "You're both Variants!",
+      "description": "Season 1 • TVA Interrogation",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Hunter B-15 & Sylvie"
+        },
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Judge Renslayer"
+        },
+        {
+          "title": "S1E02 • The Variant",
+          "description": "Mobius"
+        }
+      ]
+    },
+    {
+      "quote": "Mindless androids!",
+      "description": "Season 1 • Time-Keepers Chamber",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Sylvie decapitates a Time-Keeper"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "Alligator Loki"
+        },
+        {
+          "title": "S1E06 • For All Time. Always.",
+          "description": "Miss Minutes"
+        }
+      ]
+    },
+    {
+      "quote": "Every Loki is meant to lose.",
+      "description": "Season 1 • Underground Bunker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Time Cell"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "Kid Loki & Boastful Loki"
+        },
+        {
+          "title": "S1E06 • For All Time. Always.",
+          "description": "Citadel"
+        }
+      ]
+    },
+    {
+      "quote": "Glorious purpose!",
+      "description": "Season 1 • The Void",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E03 • Lamentis",
+          "description": "Train fight"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "Classic Loki's Asgard illusion"
+        },
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "Loom room"
+        }
+      ]
+    },
+    {
+      "quote": "I think I'm the most dangerous one.",
+      "description": "Season 1 • The Void",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E02 • The Variant",
+          "description": "Roxxcart"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "Alligator Loki bites President Loki"
+        },
+        {
+          "title": "S2E04 • Heart of the TVA",
+          "description": "War Room"
+        }
+      ]
+    },
+    {
+      "quote": "If you think I'm evil, well, just wait till you meet my variants.",
+      "description": "Season 1 • Citadel",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Renslayer"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "Void"
+        },
+        {
+          "title": "S1E06 • For All Time. Always.",
+          "description": "He Who Remains' warning"
+        }
+      ]
+    },
+    {
+      "quote": "I've been waiting for you.",
+      "description": "Season 1 • End of Time",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Mobius"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "Classic Loki"
+        },
+        {
+          "title": "S1E06 • For All Time. Always.",
+          "description": "He Who Remains greets Loki & Sylvie"
+        }
+      ]
+    },
+    {
+      "quote": "Who are you? Who is this?",
+      "description": "Season 1 • Pruned TVA",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Renslayer"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "Mobius"
+        },
+        {
+          "title": "S1E06 • For All Time. Always.",
+          "description": "Mobius doesn't recognize Loki"
+        }
+      ]
+    },
+    {
+      "quote": "I'm O.B. Pleasure to meet you!",
+      "description": "Season 2 • Repairs & Advancement",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "O.B. meets Loki & Mobius"
+        },
+        {
+          "title": "S2E02 • Breaking Brad",
+          "description": "London 1977"
+        },
+        {
+          "title": "S2E03 • 1893",
+          "description": "Chicago"
+        }
+      ]
+    },
+    {
+      "quote": "You have to prune yourself!",
+      "description": "Season 2 • Temporal Loom",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "Stopping the time-slipping"
+        },
+        {
+          "title": "S2E04 • Heart of the TVA",
+          "description": "Throughput Multiplier"
+        },
+        {
+          "title": "S2E06 • Glorious Purpose",
+          "description": "Loom control"
+        }
+      ]
+    },
+    {
+      "quote": "We're not gods. We're just people.",
+      "description": "Season 2 • McDonald's 1982",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "TVA War Room"
+        },
+        {
+          "title": "S2E02 • Breaking Brad",
+          "description": "Sylvie in Broxton"
+        },
+        {
+          "title": "S2E05 • Science/Fiction",
+          "description": "Record store"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a villain. I'm a movie star!",
+      "description": "Season 2 • London Premiere",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "TVA Archives"
+        },
+        {
+          "title": "S2E02 • Breaking Brad",
+          "description": "Hunter X-5 as Brad Wolfe"
+        },
+        {
+          "title": "S2E03 • 1893",
+          "description": "World's Fair"
+        }
+      ]
+    },
+    {
+      "quote": "It's the TVA Handbook! I wrote it!",
+      "description": "Season 2 • 1893",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "O.B.'s basement"
+        },
+        {
+          "title": "S2E02 • Breaking Brad",
+          "description": "Interrogation room"
+        },
+        {
+          "title": "S2E03 • 1893",
+          "description": "Victor Timely & O.B. connection"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Victor Timely.",
+      "description": "Season 2 • Chicago World's Fair",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "Elevator"
+        },
+        {
+          "title": "S2E04 • Heart of the TVA",
+          "description": "Loom"
+        },
+        {
+          "title": "S2E03 • 1893",
+          "description": "Stage demonstration"
+        }
+      ]
+    },
+    {
+      "quote": "Make the hard choice.",
+      "description": "Season 2 • Gangway",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E04 • Heart of the TVA",
+          "description": "Victor Timely spaghettifies"
+        },
+        {
+          "title": "S2E02 • Breaking Brad",
+          "description": "Pie room"
+        },
+        {
+          "title": "S2E05 • Science/Fiction",
+          "description": "San Francisco"
+        }
+      ]
+    },
+    {
+      "quote": "It's not about where, when, or why. It's about who.",
+      "description": "Season 2 • Branches",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "O.B.'s workshop"
+        },
+        {
+          "title": "S2E05 • Science/Fiction",
+          "description": "Loki learns to control time-slipping"
+        },
+        {
+          "title": "S2E06 • Glorious Purpose",
+          "description": "Citadel"
+        }
+      ]
+    },
+    {
+      "quote": "I don't want to be alone.",
+      "description": "Season 2 • Broxton Bar",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E02 • Breaking Brad",
+          "description": "McDonald's"
+        },
+        {
+          "title": "S2E05 • Science/Fiction",
+          "description": "Loki confesses to Sylvie"
+        },
+        {
+          "title": "S2E06 • Glorious Purpose",
+          "description": "Loom"
+        }
+      ]
+    },
+    {
+      "quote": "Centuries later... try again!",
+      "description": "Season 2 • Time Loop",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "Extractor"
+        },
+        {
+          "title": "S2E04 • Heart of the TVA",
+          "description": "Meltdown"
+        },
+        {
+          "title": "S2E06 • Glorious Purpose",
+          "description": "Loki studies physics for centuries"
+        }
+      ]
+    },
+    {
+      "quote": "The equation is unsolvable. The Loom will always fail.",
+      "description": "Season 2 • Citadel Return",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E04 • Heart of the TVA",
+          "description": "O.B. warns Mobius"
+        },
+        {
+          "title": "S2E05 • Science/Fiction",
+          "description": "Casey"
+        },
+        {
+          "title": "S2E06 • Glorious Purpose",
+          "description": "He Who Remains explains the Loom"
+        }
+      ]
+    },
+    {
+      "quote": "For you. For all of us.",
+      "description": "Season 2 • End of Time",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E03 • 1893",
+          "description": "Ferris wheel"
+        },
+        {
+          "title": "S2E05 • Science/Fiction",
+          "description": "Jet-ski shop"
+        },
+        {
+          "title": "S2E06 • Glorious Purpose",
+          "description": "Loki steps onto the gangway"
+        }
+      ]
+    },
+    {
+      "quote": "Let's just say I'm a fan of jet skis.",
+      "description": "Season 1 • Time Theater",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Mobius's magazine"
+        },
+        {
+          "title": "S1E03 • Lamentis",
+          "description": "Train"
+        },
+        {
+          "title": "S2E02 • Breaking Brad",
+          "description": "Cafeteria"
+        }
+      ]
+    },
+    {
+      "quote": "Why does it have to be a jet ski?",
+      "description": "Season 1 • Archives",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Courtroom"
+        },
+        {
+          "title": "S1E02 • The Variant",
+          "description": "Loki teases Mobius"
+        },
+        {
+          "title": "S2E05 • Science/Fiction",
+          "description": "Cleveland"
+        }
+      ]
+    },
+    {
+      "quote": "We're not pruning branches anymore. We're protecting them.",
+      "description": "Season 2 • New TVA",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "War Room"
+        },
+        {
+          "title": "S2E04 • Heart of the TVA",
+          "description": "Lab"
+        },
+        {
+          "title": "S2E06 • Glorious Purpose",
+          "description": "B-15 & Mobius"
+        }
+      ]
+    },
+    {
+      "quote": "You're a good man, Mobius.",
+      "description": "Season 1 • The Void",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E02 • The Variant",
+          "description": "Roxxcart"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "Loki's farewell before Alioth"
+        },
+        {
+          "title": "S2E06 • Glorious Purpose",
+          "description": "Jet-ski"
+        }
+      ]
+    },
+    {
+      "quote": "He's a little confused, but he's got the spirit.",
+      "description": "Season 1 • The Void",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Time Cell"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "Alligator Loki"
+        },
+        {
+          "title": "S2E03 • 1893",
+          "description": "Victor"
+        }
+      ]
+    },
+    {
+      "quote": "I'm just gonna take a look at the Loom.",
+      "description": "Season 2 • Final Loop",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "Basement"
+        },
+        {
+          "title": "S2E04 • Heart of the TVA",
+          "description": "Blast doors"
+        },
+        {
+          "title": "S2E06 • Glorious Purpose",
+          "description": "Loki destroys the Loom"
+        }
+      ]
+    },
+    {
+      "quote": "Don't you ever get tired of running?",
+      "description": "Season 1 • Lamentis",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E02 • The Variant",
+          "description": "Alabama"
+        },
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Elevator"
+        },
+        {
+          "title": "S1E03 • Lamentis",
+          "description": "Loki & Sylvie walk"
+        }
+      ]
+    },
+    {
+      "quote": "It's my turn to ask the questions.",
+      "description": "Season 1 • TVA",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Loki breaks free briefly"
+        },
+        {
+          "title": "S1E03 • Lamentis",
+          "description": "Shuroo"
+        },
+        {
+          "title": "S2E02 • Breaking Brad",
+          "description": "Cube"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a variant. I'm a god.",
+      "description": "Season 1 • Courtroom",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Before Judge Renslayer"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "Bunker"
+        },
+        {
+          "title": "S2E04 • Heart of the TVA",
+          "description": "Control room"
+        }
+      ]
+    },
+    {
+      "quote": "Welcome to the TVA.",
+      "description": "Season 1 • Orientation",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Miss Minutes' video"
+        },
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "O.B.'s desk"
+        },
+        {
+          "title": "S2E06 • Glorious Purpose",
+          "description": "B-15"
+        }
+      ]
+    },
+    {
+      "quote": "We are the ones who keep time.",
+      "description": "Season 2 • Final Episode",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "Hallway"
+        },
+        {
+          "title": "S2E03 • 1893",
+          "description": "Boat"
+        },
+        {
+          "title": "S2E06 • Glorious Purpose",
+          "description": "TVA's new mission"
         }
       ]
     }

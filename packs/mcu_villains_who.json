@@ -6,7 +6,7 @@
   "tag": "Who said it?",
   "answer_type": "character",
   "price": 150,
-  "quote_count": 10,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "The hardest choices require the strongest wills.",
@@ -195,6 +195,766 @@
         {
           "title": "Obadiah Stane",
           "description": "Iron Man"
+        }
+      ]
+    },
+    {
+      "quote": "Dread it. Run from it. Destiny arrives all the same.",
+      "description": "2018 • Statesman",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Thanos",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Ebony Maw",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Ronan",
+          "description": "Guardians of the Galaxy"
+        }
+      ]
+    },
+    {
+      "quote": "You could not live with your own failure. Where did that bring you? Back to me.",
+      "description": "2019 • Compound Ruins",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ultron",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Thanos",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Red Skull",
+          "description": "Captain America: The First Avenger"
+        }
+      ]
+    },
+    {
+      "quote": "I'm going to enjoy it. Very, very much.",
+      "description": "2019 • Endgame Battle",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Hela",
+          "description": "Thor: Ragnarok"
+        },
+        {
+          "title": "Killmonger",
+          "description": "Black Panther"
+        },
+        {
+          "title": "Thanos",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "Peace in our time.",
+      "description": "2015 • Sokovia",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ultron",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Zemo",
+          "description": "Captain America: Civil War"
+        }
+      ]
+    },
+    {
+      "quote": "I'm sorry, I know you mean well. You just didn't think it through.",
+      "description": "2015 • Stark Tower",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Loki",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Ultron",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Mysterio",
+          "description": "Spider-Man: Far From Home"
+        }
+      ]
+    },
+    {
+      "quote": "Everyone creates the thing they dread.",
+      "description": "2015 • South Africa",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Zemo",
+          "description": "Captain America: Civil War"
+        },
+        {
+          "title": "Thanos",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Ultron",
+          "description": "Avengers: Age of Ultron"
+        }
+      ]
+    },
+    {
+      "quote": "I am Loki of Asgard, and I am burdened with glorious purpose.",
+      "description": "2012 • Germany",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Loki",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Malekith",
+          "description": "Thor: The Dark World"
+        },
+        {
+          "title": "Hela",
+          "description": "Thor: Ragnarok"
+        }
+      ]
+    },
+    {
+      "quote": "Your savior is here!",
+      "description": "2017 • Rainbow Bridge",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Thor",
+          "description": "Thor: Ragnarok"
+        },
+        {
+          "title": "Loki",
+          "description": "Thor: Ragnarok"
+        },
+        {
+          "title": "Grandmaster",
+          "description": "Thor: Ragnarok"
+        }
+      ]
+    },
+    {
+      "quote": "I've been falling for thirty minutes!",
+      "description": "2017 • New York",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Grandmaster",
+          "description": "Thor: Ragnarok"
+        },
+        {
+          "title": "Hela",
+          "description": "Thor: Ragnarok"
+        },
+        {
+          "title": "Loki",
+          "description": "Thor: Ragnarok"
+        }
+      ]
+    },
+    {
+      "quote": "Asgard is not a place, it's a people.",
+      "description": "2017 • Palace",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Hela",
+          "description": "Thor: Ragnarok"
+        },
+        {
+          "title": "Odin",
+          "description": "Thor: Ragnarok"
+        },
+        {
+          "title": "Loki",
+          "description": "Thor: Ragnarok"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a queen, or a monster. I'm the Goddess of Death.",
+      "description": "2017 • Bifrost",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sylvie",
+          "description": "Loki"
+        },
+        {
+          "title": "Hela",
+          "description": "Thor: Ragnarok"
+        },
+        {
+          "title": "Agatha",
+          "description": "WandaVision"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, Auntie.",
+      "description": "2018 • Throne Room",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ulysses Klaue",
+          "description": "Black Panther"
+        },
+        {
+          "title": "M'Baku",
+          "description": "Black Panther"
+        },
+        {
+          "title": "Erik Killmonger",
+          "description": "Black Panther"
+        }
+      ]
+    },
+    {
+      "quote": "You're the world's greatest superhero, and you can't even save your own family.",
+      "description": "2018 • Wakanda",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Erik Killmonger",
+          "description": "Black Panther"
+        },
+        {
+          "title": "Namor",
+          "description": "Black Panther: Wakanda Forever"
+        },
+        {
+          "title": "Zemo",
+          "description": "Captain America: Civil War"
+        }
+      ]
+    },
+    {
+      "quote": "Longing. Rusted. Seventeen. Daybreak. Furnace. Nine. Benign. Homecoming. One. Freight car.",
+      "description": "2016 • Berlin",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Alexander Pierce",
+          "description": "Captain America: The Winter Soldier"
+        },
+        {
+          "title": "Helmut Zemo",
+          "description": "Captain America: Civil War"
+        },
+        {
+          "title": "Arnim Zola",
+          "description": "Captain America: The Winter Soldier"
+        }
+      ]
+    },
+    {
+      "quote": "Did you really think I wanted more of you?",
+      "description": "2016 • Bunker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ultron",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Red Skull",
+          "description": "Captain America: The First Avenger"
+        },
+        {
+          "title": "Helmut Zemo",
+          "description": "Captain America: Civil War"
+        }
+      ]
+    },
+    {
+      "quote": "I guide others to a treasure I cannot possess.",
+      "description": "2018 • Vormir",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Red Skull",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "The Collector",
+          "description": "Guardians of the Galaxy"
+        },
+        {
+          "title": "Ebony Maw",
+          "description": "Avengers: Infinity War"
+        }
+      ]
+    },
+    {
+      "quote": "Cut off one head, two more shall take its place.",
+      "description": "2011 • HYDRA Base",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Arnim Zola",
+          "description": "Captain America: The First Avenger"
+        },
+        {
+          "title": "Red Skull",
+          "description": "Captain America: The First Avenger"
+        },
+        {
+          "title": "Crossbones",
+          "description": "Captain America: Civil War"
+        }
+      ]
+    },
+    {
+      "quote": "You're out of time, Captain.",
+      "description": "2014 • Bunker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Alexander Pierce",
+          "description": "Captain America: The Winter Soldier"
+        },
+        {
+          "title": "Brock Rumlow",
+          "description": "Captain America: The Winter Soldier"
+        },
+        {
+          "title": "Arnim Zola",
+          "description": "Captain America: The Winter Soldier"
+        }
+      ]
+    },
+    {
+      "quote": "To build a really better world sometimes means tearing the old one down.",
+      "description": "2014 • Triskelion",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Alexander Pierce",
+          "description": "Captain America: The Winter Soldier"
+        },
+        {
+          "title": "Helmut Zemo",
+          "description": "Captain America: Civil War"
+        },
+        {
+          "title": "Thanos",
+          "description": "Avengers: Infinity War"
+        }
+      ]
+    },
+    {
+      "quote": "Hear me, and rejoice!",
+      "description": "2018 • Statesman",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Corvus Glaive",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Ebony Maw",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Proxima Midnight",
+          "description": "Avengers: Infinity War"
+        }
+      ]
+    },
+    {
+      "quote": "Your powers are quaint. You must be popular with children.",
+      "description": "2018 • New York",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Cull Obsidian",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Thanos",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Ebony Maw",
+          "description": "Avengers: Infinity War"
+        }
+      ]
+    },
+    {
+      "quote": "You're strong. Me, I'm generous.",
+      "description": "2010 • Monaco",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ivan Vanko",
+          "description": "Iron Man 2"
+        },
+        {
+          "title": "Justin Hammer",
+          "description": "Iron Man 2"
+        },
+        {
+          "title": "Obadiah Stane",
+          "description": "Iron Man"
+        }
+      ]
+    },
+    {
+      "quote": "Tony Stark was able to build this in a cave! With a box of scraps!",
+      "description": "2008 • Stark Industries",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Justin Hammer",
+          "description": "Iron Man 2"
+        },
+        {
+          "title": "Obadiah Stane",
+          "description": "Iron Man"
+        },
+        {
+          "title": "Aldrich Killian",
+          "description": "Iron Man 3"
+        }
+      ]
+    },
+    {
+      "quote": "You're not the only one cursed with knowledge.",
+      "description": "2018 • Titan",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ultron",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Mysterio",
+          "description": "Spider-Man: Far From Home"
+        },
+        {
+          "title": "Thanos",
+          "description": "Avengers: Infinity War"
+        }
+      ]
+    },
+    {
+      "quote": "I am the Mandarin.",
+      "description": "2013 • Oil Rig",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Aldrich Killian",
+          "description": "Iron Man 3"
+        },
+        {
+          "title": "Trevor Slattery",
+          "description": "Iron Man 3"
+        },
+        {
+          "title": "Wenwu",
+          "description": "Shang-Chi"
+        }
+      ]
+    },
+    {
+      "quote": "You'll never see me coming.",
+      "description": "2013 • Broadcast",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Aldrich Killian",
+          "description": "Iron Man 3"
+        },
+        {
+          "title": "Trevor Slattery",
+          "description": "Iron Man 3"
+        },
+        {
+          "title": "Mysterio",
+          "description": "Spider-Man: Far From Home"
+        }
+      ]
+    },
+    {
+      "quote": "Rich guys like Tony Stark don't care about us.",
+      "description": "2017 • Salvage Yard",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Shocker",
+          "description": "Spider-Man: Homecoming"
+        },
+        {
+          "title": "Electro",
+          "description": "Spider-Man: No Way Home"
+        },
+        {
+          "title": "Adrian Toomes",
+          "description": "Spider-Man: Homecoming"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna burn this planet down.",
+      "description": "2014 • Xandar",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ronan the Accuser",
+          "description": "Guardians of the Galaxy"
+        },
+        {
+          "title": "Ego",
+          "description": "Guardians of the Galaxy Vol. 2"
+        },
+        {
+          "title": "Thanos",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "Behold... the Guardians of the Galaxy.",
+      "description": "2014 • Dark Aster",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Yondu",
+          "description": "Guardians of the Galaxy"
+        },
+        {
+          "title": "Ronan the Accuser",
+          "description": "Guardians of the Galaxy"
+        },
+        {
+          "title": "Korath",
+          "description": "Guardians of the Galaxy"
+        }
+      ]
+    },
+    {
+      "quote": "I broke your heart, didn't I? Good.",
+      "description": "2017 • Ego's Planet",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ayesha",
+          "description": "Guardians of the Galaxy Vol. 2"
+        },
+        {
+          "title": "Taserface",
+          "description": "Guardians of the Galaxy Vol. 2"
+        },
+        {
+          "title": "Ego",
+          "description": "Guardians of the Galaxy Vol. 2"
+        }
+      ]
+    },
+    {
+      "quote": "Now, it's time to show them what I can do.",
+      "description": "2019 • London",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Mysterio",
+          "description": "Spider-Man: Far From Home"
+        },
+        {
+          "title": "Vulture",
+          "description": "Spider-Man: Homecoming"
+        },
+        {
+          "title": "Green Goblin",
+          "description": "Spider-Man: No Way Home"
+        }
+      ]
+    },
+    {
+      "quote": "Strong enough to have it all. Too weak to take it!",
+      "description": "2021 • Happy's Condo",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Doc Ock",
+          "description": "Spider-Man: No Way Home"
+        },
+        {
+          "title": "Green Goblin",
+          "description": "Spider-Man: No Way Home"
+        },
+        {
+          "title": "Electro",
+          "description": "Spider-Man: No Way Home"
+        }
+      ]
+    },
+    {
+      "quote": "Gods don't have to choose. We take.",
+      "description": "2021 • Condo Lobby",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Electro",
+          "description": "Spider-Man: No Way Home"
+        },
+        {
+          "title": "Lizard",
+          "description": "Spider-Man: No Way Home"
+        },
+        {
+          "title": "Green Goblin",
+          "description": "Spider-Man: No Way Home"
+        }
+      ]
+    },
+    {
+      "quote": "All gods will die.",
+      "description": "2022 • Shadow Realm",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Gorr the God Butcher",
+          "description": "Thor: Love and Thunder"
+        },
+        {
+          "title": "Hela",
+          "description": "Thor: Ragnarok"
+        },
+        {
+          "title": "Kang",
+          "description": "Ant-Man and the Wasp: Quantumania"
+        }
+      ]
+    },
+    {
+      "quote": "I am Kang.",
+      "description": "2023 • Quantum Realm",
+      "correct": 1,
+      "options": [
+        {
+          "title": "MODOK",
+          "description": "Ant-Man and the Wasp: Quantumania"
+        },
+        {
+          "title": "Kang the Conqueror",
+          "description": "Ant-Man and the Wasp: Quantumania"
+        },
+        {
+          "title": "He Who Remains",
+          "description": "Loki"
+        }
+      ]
+    },
+    {
+      "quote": "My name is Namor.",
+      "description": "2022 • Yucatan",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Attuma",
+          "description": "Black Panther: Wakanda Forever"
+        },
+        {
+          "title": "Killmonger",
+          "description": "Black Panther"
+        },
+        {
+          "title": "Namor",
+          "description": "Black Panther: Wakanda Forever"
+        }
+      ]
+    },
+    {
+      "quote": "Only the most broken people can be great leaders.",
+      "description": "2022 • Talokan",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Namor",
+          "description": "Black Panther: Wakanda Forever"
+        },
+        {
+          "title": "M'Baku",
+          "description": "Black Panther"
+        },
+        {
+          "title": "Zemo",
+          "description": "Captain America: Civil War"
+        }
+      ]
+    },
+    {
+      "quote": "There is no such thing as a fair fight.",
+      "description": "2021 • Golden Daggers",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Wenwu",
+          "description": "Shang-Chi"
+        },
+        {
+          "title": "Razor Fist",
+          "description": "Shang-Chi"
+        },
+        {
+          "title": "Death Dealer",
+          "description": "Shang-Chi"
+        }
+      ]
+    },
+    {
+      "quote": "I've lived a thousand years, and I've never met anyone like you.",
+      "description": "2021 • Ta Lo",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mandarin",
+          "description": "Iron Man 3"
+        },
+        {
+          "title": "Wong",
+          "description": "Shang-Chi"
+        },
+        {
+          "title": "Wenwu",
+          "description": "Shang-Chi"
+        }
+      ]
+    },
+    {
+      "quote": "Reality is often disappointing.",
+      "description": "2018 • Knowhere",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Thanos",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Ebony Maw",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Ultron",
+          "description": "Avengers: Age of Ultron"
         }
       ]
     }

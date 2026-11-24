@@ -6,7 +6,7 @@
   "tag": "When was this?",
   "answer_type": "movie",
   "price": 0,
-  "quote_count": 10,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "The truth is... I am Iron Man.",
@@ -195,6 +195,766 @@
         {
           "title": "Black Panther: Wakanda Forever",
           "description": "2022 • Royal Lab"
+        }
+      ]
+    },
+    {
+      "quote": "Sometimes you gotta run before you can walk.",
+      "description": "2008 • Workshop Flight Test",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Iron Man",
+          "description": "2008 • Tony testing Mark II"
+        },
+        {
+          "title": "Iron Man 2",
+          "description": "2010 • Monaco"
+        },
+        {
+          "title": "Iron Man 3",
+          "description": "2013 • Tennessee"
+        }
+      ]
+    },
+    {
+      "quote": "I have successfully privatized world peace.",
+      "description": "2010 • Senate Hearing",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Iron Man",
+          "description": "2008 • Press Conference"
+        },
+        {
+          "title": "Iron Man 2",
+          "description": "2010 • Tony vs. Senator Stern"
+        },
+        {
+          "title": "The Avengers",
+          "description": "2012 • Stark Tower"
+        }
+      ]
+    },
+    {
+      "quote": "Another!",
+      "description": "2011 • New Mexico Diner",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Thor",
+          "description": "2011 • Thor smashes his coffee mug"
+        },
+        {
+          "title": "The Avengers",
+          "description": "2012 • Shawarma"
+        },
+        {
+          "title": "Thor: Ragnarok",
+          "description": "2017 • Sakaar"
+        }
+      ]
+    },
+    {
+      "quote": "Not a good soldier, but a good man.",
+      "description": "2011 • Camp Lehigh",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Captain America: The Winter Soldier",
+          "description": "2014 • Bunker"
+        },
+        {
+          "title": "Captain America: Civil War",
+          "description": "2016 • Vienna"
+        },
+        {
+          "title": "Captain America: The First Avenger",
+          "description": "2011 • Dr. Erskine to Steve"
+        }
+      ]
+    },
+    {
+      "quote": "I had a date.",
+      "description": "2011 • Times Square Awakening",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Captain America: The First Avenger",
+          "description": "2011 • Steve wakes up in 2011"
+        },
+        {
+          "title": "The Avengers",
+          "description": "2012 • Boxing gym"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Dance with Peggy"
+        }
+      ]
+    },
+    {
+      "quote": "That's a lot of red in my ledger.",
+      "description": "2012 • Helicarrier Cell",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Iron Man 2",
+          "description": "2010 • Hammer Industries"
+        },
+        {
+          "title": "The Avengers",
+          "description": "2012 • Natasha & Loki"
+        },
+        {
+          "title": "Black Widow",
+          "description": "2021 • Red Room"
+        }
+      ]
+    },
+    {
+      "quote": "We create our own demons.",
+      "description": "2013 • Opening Voiceover",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Iron Man",
+          "description": "2008 • Afghanistan"
+        },
+        {
+          "title": "Iron Man 2",
+          "description": "2010 • Stark Expo"
+        },
+        {
+          "title": "Iron Man 3",
+          "description": "2013 • Tony Stark's monologue"
+        }
+      ]
+    },
+    {
+      "quote": "Hail HYDRA.",
+      "description": "2014 • S.H.I.E.L.D. Briefing",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Captain America: The Winter Soldier",
+          "description": "2014 • Sitwell & Pierce"
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "description": "2015 • Strucker's castle"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Elevator"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Mary Poppins, y'all!",
+      "description": "2017 • Ego's Planet",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Xandar"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "description": "2017 • Yondu's rescue"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Titan"
+        }
+      ]
+    },
+    {
+      "quote": "You didn't see that coming?",
+      "description": "2015 • Sokovia Streets",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Captain America: Civil War",
+          "description": "2016 • Lagos"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Edinburgh"
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "description": "2015 • Quicksilver's final line"
+        }
+      ]
+    },
+    {
+      "quote": "Baskin-Robbins always finds out.",
+      "description": "2015 • Ice Cream Shop",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ant-Man",
+          "description": "2015 • Scott Lang fired"
+        },
+        {
+          "title": "Ant-Man and the Wasp",
+          "description": "2018 • San Francisco"
+        },
+        {
+          "title": "Captain America: Civil War",
+          "description": "2016 • Van"
+        }
+      ]
+    },
+    {
+      "quote": "I can do this all day. Yeah, I know, I know.",
+      "description": "2019 • Stark Tower",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Captain America: Civil War",
+          "description": "2016 • Airport"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • 2023 Cap vs. 2012 Cap"
+        },
+        {
+          "title": "Captain America: The First Avenger",
+          "description": "2011 • Alley"
+        }
+      ]
+    },
+    {
+      "quote": "They never get the faces right.",
+      "description": "2016 • Berlin Containment",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Captain America: The Winter Soldier",
+          "description": "2014 • Smithsonian"
+        },
+        {
+          "title": "The Avengers",
+          "description": "2012 • Helicarrier"
+        },
+        {
+          "title": "Captain America: Civil War",
+          "description": "2016 • Bucky"
+        }
+      ]
+    },
+    {
+      "quote": "Forget everything that you think you know.",
+      "description": "2016 • Kamar-Taj",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Doctor Strange",
+          "description": "2016 • The Ancient One"
+        },
+        {
+          "title": "Doctor Strange in the Multiverse of Madness",
+          "description": "2022 • Kamar-Taj"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Sanctum"
+        }
+      ]
+    },
+    {
+      "quote": "If you're nothing without this suit, then you shouldn't have it.",
+      "description": "2017 • Queens Rooftop",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Captain America: Civil War",
+          "description": "2016 • Queens"
+        },
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Tony to Peter"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • London"
+        }
+      ]
+    },
+    {
+      "quote": "I've been falling for thirty minutes!",
+      "description": "2017 • New York Sanctum",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Avengers",
+          "description": "2012 • Stark Tower"
+        },
+        {
+          "title": "Thor: The Dark World",
+          "description": "2013 • Greenwich"
+        },
+        {
+          "title": "Thor: Ragnarok",
+          "description": "2017 • Loki returns"
+        }
+      ]
+    },
+    {
+      "quote": "In times of crisis, the wise build bridges, while the foolish build barriers.",
+      "description": "2018 • UN Summit",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Black Panther",
+          "description": "2018 • T'Challa's speech"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Wakanda"
+        },
+        {
+          "title": "Black Panther: Wakanda Forever",
+          "description": "2022 • UN"
+        }
+      ]
+    },
+    {
+      "quote": "Perfectly balanced, as all things should be.",
+      "description": "2018 • Gamora Flashback",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Avengers: Age of Ultron",
+          "description": "2015 • Post-credits"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Thanos's knife"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Garden"
+        }
+      ]
+    },
+    {
+      "quote": "You should have gone for the head.",
+      "description": "2018 • Wakanda Forest",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Garden"
+        },
+        {
+          "title": "Thor: Ragnarok",
+          "description": "2017 • Rainbow Bridge"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Thanos's snap"
+        }
+      ]
+    },
+    {
+      "quote": "Do you guys just put the word 'quantum' in front of everything?",
+      "description": "2018 • Van Lab",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ant-Man and the Wasp",
+          "description": "2018 • Scott Lang"
+        },
+        {
+          "title": "Ant-Man",
+          "description": "2015 • Pym Lab"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Compound"
+        }
+      ]
+    },
+    {
+      "quote": "On your left.",
+      "description": "2019 • Compound Ruins",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Captain America: Civil War",
+          "description": "2016 • Airport"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Sam over comms"
+        },
+        {
+          "title": "The Avengers",
+          "description": "2012 • Central Park"
+        }
+      ]
+    },
+    {
+      "quote": "Proof that Tony Stark has a heart.",
+      "description": "2008 • Pepper's Gift",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Iron Man 2",
+          "description": "2010 • Stark Expo"
+        },
+        {
+          "title": "Iron Man 3",
+          "description": "2013 • Malibu"
+        },
+        {
+          "title": "Iron Man",
+          "description": "2008 • Arc Reactor case"
+        }
+      ]
+    },
+    {
+      "quote": "I'm always angry.",
+      "description": "2012 • Midtown Manhattan",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Avengers",
+          "description": "2012 • Bruce Banner transforms"
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "description": "2015 • Hulkbuster"
+        },
+        {
+          "title": "Thor: Ragnarok",
+          "description": "2017 • Sakaar"
+        }
+      ]
+    },
+    {
+      "quote": "You get to be a hero.",
+      "description": "2018 • San Francisco",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ant-Man",
+          "description": "2015 • Luis"
+        },
+        {
+          "title": "Ant-Man and the Wasp",
+          "description": "2018 • Hope & Scott"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Storage unit"
+        }
+      ]
+    },
+    {
+      "quote": "I'm just a kid from Brooklyn.",
+      "description": "2011 • Alleyway",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Avengers",
+          "description": "2012 • Helicarrier"
+        },
+        {
+          "title": "Captain America: The Winter Soldier",
+          "description": "2014 • Smithsonian"
+        },
+        {
+          "title": "Captain America: The First Avenger",
+          "description": "2011 • Steve Rogers"
+        }
+      ]
+    },
+    {
+      "quote": "What did it cost? Everything.",
+      "description": "2018 • Soul World",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Thanos & young Gamora"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Vormir"
+        },
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Sanctuary"
+        }
+      ]
+    },
+    {
+      "quote": "I love you 3000.",
+      "description": "2019 • Stark Cabin",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Central Park"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Tony & Morgan"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Mural"
+        }
+      ]
+    },
+    {
+      "quote": "He's fast and she's weird.",
+      "description": "2015 • Avengers Tower",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Captain America: Civil War",
+          "description": "2016 • Compound"
+        },
+        {
+          "title": "The Avengers",
+          "description": "2012 • Helicarrier"
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "description": "2015 • Maria Hill on twins"
+        }
+      ]
+    },
+    {
+      "quote": "You're a good man, with a good heart.",
+      "description": "2011 • Camp Lehigh",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Captain America: The First Avenger",
+          "description": "2011 • Dr. Erskine"
+        },
+        {
+          "title": "Captain America: The Winter Soldier",
+          "description": "2014 • Peggy"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Steve"
+        }
+      ]
+    },
+    {
+      "quote": "Get this man a shield.",
+      "description": "2018 • Wakanda Palace",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Captain America: Civil War",
+          "description": "2016 • Wakanda"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • T'Challa"
+        },
+        {
+          "title": "Black Panther",
+          "description": "2018 • Shuri's lab"
+        }
+      ]
+    },
+    {
+      "quote": "Why was she up there all this time?",
+      "description": "2018 • Edinburgh / Wakanda",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Compound"
+        },
+        {
+          "title": "Black Panther",
+          "description": "2018 • Border"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Okoye on Scarlet Witch"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a hero. I'm a high-functioning sociopath—no, wait, that's...",
+      "description": "2010 • Stark Expo",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Iron Man 2",
+          "description": "2010 • Justin Hammer"
+        },
+        {
+          "title": "Iron Man 3",
+          "description": "2013 • Trevor Slattery"
+        },
+        {
+          "title": "Doctor Strange",
+          "description": "2016 • Stephen Strange"
+        }
+      ]
+    },
+    {
+      "quote": "I know what it's like to lose.",
+      "description": "2018 • Statesman Opening",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Ronan"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Thanos"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Thanos"
+        }
+      ]
+    },
+    {
+      "quote": "The hardest choices require the strongest wills.",
+      "description": "2018 • Titan",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Compound"
+        },
+        {
+          "title": "Doctor Strange",
+          "description": "2016 • Kamar-Taj"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Thanos to Strange"
+        }
+      ]
+    },
+    {
+      "quote": "I went forward in time to view alternate futures.",
+      "description": "2018 • Titan",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • 14,000,605 outcomes"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Portals"
+        },
+        {
+          "title": "Doctor Strange",
+          "description": "2016 • Hong Kong"
+        }
+      ]
+    },
+    {
+      "quote": "It's not about how much we lost. It's about how much we have left.",
+      "description": "2019 • Compound",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Compound"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Tony Stark"
+        },
+        {
+          "title": "Captain America: Civil War",
+          "description": "2016 • Compound"
+        }
+      ]
+    },
+    {
+      "quote": "This is the fight of our lives.",
+      "description": "2019 • Briefing Room",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Avengers",
+          "description": "2012 • Helicarrier"
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "description": "2015 • Farmhouse"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Steve Rogers"
+        }
+      ]
+    },
+    {
+      "quote": "No resurrections this time.",
+      "description": "2018 • Statesman",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Thanos kills Loki"
+        },
+        {
+          "title": "Thor: The Dark World",
+          "description": "2013 • Svartalfheim"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Vormir"
+        }
+      ]
+    },
+    {
+      "quote": "I am Groot.",
+      "description": "2014 • Kyln Prison",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Thor: Ragnarok",
+          "description": "2017 • Sakaar"
+        },
+        {
+          "title": "Guardians of the Galaxy",
+          "description": "2014 • Groot"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Portals"
+        }
+      ]
+    },
+    {
+      "quote": "Let's finish this.",
+      "description": "2016 • Siberian Bunker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Compound"
+        },
+        {
+          "title": "The Avengers",
+          "description": "2012 • Central Park"
+        },
+        {
+          "title": "Captain America: Civil War",
+          "description": "2016 • Tony vs. Steve"
         }
       ]
     }

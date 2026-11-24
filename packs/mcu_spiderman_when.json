@@ -6,7 +6,7 @@
   "tag": "When was this?",
   "answer_type": "movie",
   "price": 200,
-  "quote_count": 10,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "If you're nothing without this suit, then you shouldn't have it.",
@@ -195,6 +195,766 @@
         {
           "title": "Spider-Man: No Way Home",
           "description": "2021 • Three Peters"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Spider-Man! Look at me!",
+      "description": "2017 • Washington Monument",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Ned in class"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Venice"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • School"
+        }
+      ]
+    },
+    {
+      "quote": "Wait a minute, you guys aren't the real Avengers!",
+      "description": "2017 • Bank Robbery",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • ATM heist"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Prague"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Bridge"
+        }
+      ]
+    },
+    {
+      "quote": "That's awesome! You're Spider-Man!",
+      "description": "2017 • Bedroom",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Ned drops the Death Star"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Hotel"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Sanctum"
+        }
+      ]
+    },
+    {
+      "quote": "Can I be an Avenger?",
+      "description": "2017 • Car Ride",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Peter to Happy"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Jet"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Rooftop"
+        }
+      ]
+    },
+    {
+      "quote": "You're the guy from YouTube!",
+      "description": "2017 • Deli",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Mr. Delmar"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Airport"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Donut shop"
+        }
+      ]
+    },
+    {
+      "quote": "Don't do anything I would do, and definitely don't do anything I wouldn't do.",
+      "description": "2017 • Car",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Tony's advice"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • EDITH"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Strange"
+        }
+      ]
+    },
+    {
+      "quote": "Activate Instant Kill!",
+      "description": "2017 • Suit Training",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Karen AI"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Stealth suit"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Iron Spider"
+        }
+      ]
+    },
+    {
+      "quote": "I'm sorry, Mr. Stark.",
+      "description": "2017 • Ferry",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Staten Island Ferry"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Berlin"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Bridge"
+        }
+      ]
+    },
+    {
+      "quote": "What the f—!",
+      "description": "2017 • Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Aunt May's ending"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Midtown"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Donut shop"
+        }
+      ]
+    },
+    {
+      "quote": "I'm just a guy with a web-shooter.",
+      "description": "2017 • Alley",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Queens"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • London"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Statue"
+        }
+      ]
+    },
+    {
+      "quote": "Even dead, I'm the hero.",
+      "description": "2019 • Hologram",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Stark Tower"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • EDITH glasses"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Lab"
+        }
+      ]
+    },
+    {
+      "quote": "Bitch, please. You've been to space.",
+      "description": "2019 • Venice Hotel",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Decathlon"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Nick Fury"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Sanctum"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Night Monkey.",
+      "description": "2019 • Prague Carnival",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Homecoming dance"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Ned's cover story"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Lab"
+        }
+      ]
+    },
+    {
+      "quote": "You're a terrible liar.",
+      "description": "2019 • Bridge",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Liz"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • MJ"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • MJ"
+        }
+      ]
+    },
+    {
+      "quote": "Don't ever apologize for being the smartest one in the room.",
+      "description": "2019 • Hologram",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Lab"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Beck's speech"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Condo"
+        }
+      ]
+    },
+    {
+      "quote": "I don't think Tony would have done what he did if he didn't know you were gonna be here.",
+      "description": "2019 • Private Jet",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Compound"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Happy Hogan"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Grave"
+        }
+      ]
+    },
+    {
+      "quote": "It's easy to fool people when they're already fooling themselves.",
+      "description": "2019 • Tower Bridge",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Warehouse"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Mysterio"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Bridge"
+        }
+      ]
+    },
+    {
+      "quote": "Execute them all.",
+      "description": "2019 • London",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Plane"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Beck's drone order"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Sanctum"
+        }
+      ]
+    },
+    {
+      "quote": "Spider-Man's real name is Peter Parker!",
+      "description": "2019 • Mid-Credits",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Press room"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Daily Bugle broadcast"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Times Square"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not ready to be the next Iron Man.",
+      "description": "2019 • Berlin",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Rooftop"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Peter to Happy"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Apartment"
+        }
+      ]
+    },
+    {
+      "quote": "Scooby-Doo this crap!",
+      "description": "2021 • Undercroft",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • School"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Prague"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Doctor Strange"
+        }
+      ]
+    },
+    {
+      "quote": "You're not Peter Parker.",
+      "description": "2021 • Bridge",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Ferry"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • London"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Doc Ock"
+        }
+      ]
+    },
+    {
+      "quote": "I'm something of a scientist myself.",
+      "description": "2021 • Happy's Condo",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Lab"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Prague"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Norman Osborn"
+        }
+      ]
+    },
+    {
+      "quote": "You have a metal arm? That is awesome, dude!",
+      "description": "2021 • Condo",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Airport"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Venice"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Electro"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna put some dirt in your eye—wait, no, wrong movie.",
+      "description": "2021 • Rooftop",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Alley"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Berlin"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Youth pastor joke"
+        }
+      ]
+    },
+    {
+      "quote": "You're amazing!",
+      "description": "2021 • Statue of Liberty",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Dance"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Prague"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Tobey to Andrew"
+        }
+      ]
+    },
+    {
+      "quote": "We're gonna cure them all.",
+      "description": "2021 • Undercroft",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Lab"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Jet"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Peter's choice"
+        }
+      ]
+    },
+    {
+      "quote": "I got you.",
+      "description": "2021 • Statue of Liberty",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Elevator"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Bridge"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Andrew catches MJ"
+        }
+      ]
+    },
+    {
+      "quote": "Expect disappointment, and you'll never really be disappointed.",
+      "description": "2021 • Rooftop",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Detention"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Bus"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • MJ's motto"
+        }
+      ]
+    },
+    {
+      "quote": "Make everyone forget who Peter Parker is.",
+      "description": "2021 • Statue of Liberty",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Queens"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • London"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Final spell"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a really good lawyer.",
+      "description": "2021 • Apartment",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • School"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Berlin"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Matt Murdock catches brick"
+        }
+      ]
+    },
+    {
+      "quote": "What's a multiverse?",
+      "description": "2021 • Sanctum",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Lab"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Bar"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Peter & Ned"
+        }
+      ]
+    },
+    {
+      "quote": "My back!",
+      "description": "2021 • Scaffolding",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Warehouse"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Train"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Tobey's back"
+        }
+      ]
+    },
+    {
+      "quote": "Did your Peter have a Ned?",
+      "description": "2021 • Lab",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • School"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Bus"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Ned asks Tobey"
+        }
+      ]
+    },
+    {
+      "quote": "Please, Scooby-Doo this!",
+      "description": "2021 • Undercroft",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Gym"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Hotel"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Strange's patience"
+        }
+      ]
+    },
+    {
+      "quote": "I'm trying to do better.",
+      "description": "2021 • Coffee Shop",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Deli"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Plane"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Peter leaves MJ"
+        }
+      ]
+    },
+    {
+      "quote": "Hi, I'm Peter Parker.",
+      "description": "2021 • Coffee Shop",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Liz's party"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Venice"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Stranger to MJ"
+        }
+      ]
+    },
+    {
+      "quote": "Stay back, I'm warning you!",
+      "description": "2017 • Ferry",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Shocker fight"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Prague"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Bridge"
+        }
+      ]
+    },
+    {
+      "quote": "You're just a kid!",
+      "description": "2017 • Plane",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Vulture on the jet"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Berlin"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Condo"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not going anywhere.",
+      "description": "2019 • London",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Queens"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Happy & kids"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Statue"
         }
       ]
     }

@@ -6,7 +6,7 @@
   "tag": "When was this?",
   "answer_type": "episode",
   "price": 220,
-  "quote_count": 10,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "Float like a butterfly, sting like a bee. My name is Steven with a V.",
@@ -195,6 +195,766 @@
         {
           "title": "S1E06 • Gods and Monsters",
           "description": "Khonshu & Harrow in the limo"
+        }
+      ]
+    },
+    {
+      "quote": "Later, gators!",
+      "description": "Episode 1 • Gift Shop",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Steven leaves work"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Storage"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Market"
+        }
+      ]
+    },
+    {
+      "quote": "Gus has two fins, not one!",
+      "description": "Episode 1 • Pet Shop",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Steven notices the goldfish"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Flat"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Ward"
+        }
+      ]
+    },
+    {
+      "quote": "You're a worm!",
+      "description": "Episode 1 • Bathroom",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Khonshu yells at Steven"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Alley"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Desert"
+        }
+      ]
+    },
+    {
+      "quote": "Don't you dare take control!",
+      "description": "Episode 1 • Cupcake Van",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Alps chase"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Street"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Ship"
+        }
+      ]
+    },
+    {
+      "quote": "Who are you? I'm Marc Spector.",
+      "description": "Episode 1 • Mirror",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "First mirror conversation"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Locker"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Sarcophagus"
+        }
+      ]
+    },
+    {
+      "quote": "Why did you summon a three-piece suit?",
+      "description": "Episode 2 • London",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Alps"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Marc reacts to Mr. Knight"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Cairo"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Layla. Your wife.",
+      "description": "Episode 2 • Steven's Flat",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Phone call"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Layla arrives in London"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Desert"
+        }
+      ]
+    },
+    {
+      "quote": "You're not a hero. You're a killer.",
+      "description": "Episode 2 • Storage Locker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Museum"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Steven confronts Marc"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Memory"
+        }
+      ]
+    },
+    {
+      "quote": "Ammit will judge everyone before they commit evil.",
+      "description": "Episode 2 • Cult Compound",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Village"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Harrow's pitch"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Temple"
+        }
+      ]
+    },
+    {
+      "quote": "Give me the body, Steven!",
+      "description": "Episode 2 • Street",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Van"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Jackal fight"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Rooftop"
+        }
+      ]
+    },
+    {
+      "quote": "Did you just turn back the night sky?",
+      "description": "Episode 3 • Cairo",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Alps"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "London"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "2,000 years ago stars"
+        }
+      ]
+    },
+    {
+      "quote": "You're banned from the Ennead.",
+      "description": "Episode 3 • Pyramid",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Flat"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Chamber"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Khonshu imprisoned in stone"
+        }
+      ]
+    },
+    {
+      "quote": "I didn't do that! That wasn't me!",
+      "description": "Episode 3 • Rooftop",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Museum"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Locker"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Jake Lockley blacks out"
+        }
+      ]
+    },
+    {
+      "quote": "You're looking for Senfu's tomb.",
+      "description": "Episode 3 • Mansion",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Museum"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Camp"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Anton Mogart"
+        }
+      ]
+    },
+    {
+      "quote": "This is the last time I trust you.",
+      "description": "Episode 3 • Desert",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Flat"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Altar"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Layla to Marc"
+        }
+      ]
+    },
+    {
+      "quote": "It's Alexander the Great!",
+      "description": "Episode 4 • Tomb",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Mansion"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Steven finds the ushabti"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Ward"
+        }
+      ]
+    },
+    {
+      "quote": "Are we dead?",
+      "description": "Episode 4 • Psychiatric Ward",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Desert"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Marc & Steven reunite"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Cairo"
+        }
+      ]
+    },
+    {
+      "quote": "You're not supposed to be here!",
+      "description": "Episode 4 • Tomb",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Flat"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Harrow shoots Marc"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Office"
+        }
+      ]
+    },
+    {
+      "quote": "There's another one in there!",
+      "description": "Episode 4 • Hallway",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Rooftop"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Shaking third sarcophagus"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Limo"
+        }
+      ]
+    },
+    {
+      "quote": "We're in a mental hospital.",
+      "description": "Episode 4 • Rec Room",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Mansion"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Waking up in Dr. Harrow's ward"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Deck"
+        }
+      ]
+    },
+    {
+      "quote": "Your scales aren't balanced!",
+      "description": "Episode 5 • Duat Ship",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Hallway"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Taweret weighs their hearts"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Temple"
+        }
+      ]
+    },
+    {
+      "quote": "I created you to protect me.",
+      "description": "Episode 5 • Childhood Room",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Tomb"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Marc explains Steven's origin"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Reeds"
+        }
+      ]
+    },
+    {
+      "quote": "You're the only real thing I ever had.",
+      "description": "Episode 5 • Duat",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Ward"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Marc & Steven on the boat"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Cairo"
+        }
+      ]
+    },
+    {
+      "quote": "Welcome to the Field of Reeds.",
+      "description": "Episode 5 • Golden Field",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Desert"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Marc arrives alone"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Temple"
+        }
+      ]
+    },
+    {
+      "quote": "It wasn't your fault, Marc.",
+      "description": "Episode 5 • Cave",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Altar"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Steven comforts Marc"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Sky"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not leaving without Steven.",
+      "description": "Episode 6 • Field of Reeds",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Ward"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Boat"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Marc returns to Duat"
+        }
+      ]
+    },
+    {
+      "quote": "Release Khonshu!",
+      "description": "Episode 6 • Pyramid",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Chamber"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Altar"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Layla smashes the ushabti"
+        }
+      ]
+    },
+    {
+      "quote": "We can bind Ammit in a mortal body.",
+      "description": "Episode 6 • Temple",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Cairo"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Ship"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Marc & Layla's plan"
+        }
+      ]
+    },
+    {
+      "quote": "You're my avatar now, Layla.",
+      "description": "Episode 6 • Pyramid",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Tomb"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Duat"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Taweret's Scarlet Scarab"
+        }
+      ]
+    },
+    {
+      "quote": "We're done, Khonshu. Let us go.",
+      "description": "Episode 6 • Cairo Sky",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Chamber"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Boat"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Marc & Steven demand freedom"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Steven Grant, and I work in a gift shop.",
+      "description": "Episode 1 • Bus",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Daily routine"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Flat"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Market"
+        }
+      ]
+    },
+    {
+      "quote": "Why is there sand in my bed?",
+      "description": "Episode 1 • Flat",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Waking up"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Locker"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Ward"
+        }
+      ]
+    },
+    {
+      "quote": "Wait, I have a passport?",
+      "description": "Episode 2 • Locker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Flat"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Finding Marc's things"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Airport"
+        }
+      ]
+    },
+    {
+      "quote": "You're a terrible tour guide!",
+      "description": "Episode 3 • Cairo",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Museum"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "London"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Layla & Marc"
+        }
+      ]
+    },
+    {
+      "quote": "Hekate's beard!",
+      "description": "Episode 4 • Tomb",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Museum"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Mansion"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Steven's exclamation"
+        }
+      ]
+    },
+    {
+      "quote": "That's a hippo!",
+      "description": "Episode 4 • Ward",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Museum"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Meeting Taweret"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Deck"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not Marc! I'm Steven!",
+      "description": "Episode 5 • Ward",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Alps"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Dr. Harrow's office"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Cairo"
+        }
+      ]
+    },
+    {
+      "quote": "We did it together.",
+      "description": "Episode 6 • Cairo",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Tomb"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Duat"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Marc & Steven fight as one"
+        }
+      ]
+    },
+    {
+      "quote": "Don't wake up in the Alps again.",
+      "description": "Episode 6 • Flat",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Alps"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Flat"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Waking up in London"
+        }
+      ]
+    },
+    {
+      "quote": "Hoy es tu día.",
+      "description": "Episode 6 • Post-Credits",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Rooftop"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Hallway"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Jake Lockley in the limo"
         }
       ]
     }

@@ -6,7 +6,7 @@
   "tag": "Who said it?",
   "answer_type": "character",
   "price": 0,
-  "quote_count": 10,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "I can do this all day.",
@@ -194,6 +194,766 @@
         },
         {
           "title": "M'Baku",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "Doth mother know you weareth her drapes?",
+      "description": "2012 • Forest Confrontation",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Tony Stark",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Clint Barton",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Steve Rogers",
+          "description": "The Avengers"
+        }
+      ]
+    },
+    {
+      "quote": "I'm just a kid from Brooklyn.",
+      "description": "2011 • Alleyway Fight",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Captain America: The First Avenger"
+        },
+        {
+          "title": "Steve Rogers",
+          "description": "Captain America: The First Avenger"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Captain America: The Winter Soldier"
+        }
+      ]
+    },
+    {
+      "quote": "No amount of money ever bought a second of time.",
+      "description": "2019 • Tony & Howard Stark",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Howard Stark",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Bruce Banner",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "I have nothing to prove to you.",
+      "description": "2019 • Confronting Yon-Rogg",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Natasha Romanoff",
+          "description": "Black Widow"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Doctor Strange in the Multiverse of Madness"
+        },
+        {
+          "title": "Carol Danvers",
+          "description": "Captain Marvel"
+        }
+      ]
+    },
+    {
+      "quote": "You get hurt, hurt 'em back. You get killed... walk it off.",
+      "description": "2015 • Sokovia Pep Talk",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Thor Odinson",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Steve Rogers",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Clint Barton",
+          "description": "Avengers: Age of Ultron"
+        }
+      ]
+    },
+    {
+      "quote": "Language!",
+      "description": "2015 • HYDRA Base Raid",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Steve Rogers",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Maria Hill",
+          "description": "Avengers: Age of Ultron"
+        }
+      ]
+    },
+    {
+      "quote": "Genius, billionaire, playboy, philanthropist.",
+      "description": "2012 • Helicarrier Lab",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Steve Rogers",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Bruce Banner",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Tony Stark",
+          "description": "The Avengers"
+        }
+      ]
+    },
+    {
+      "quote": "I'm with you till the end of the line.",
+      "description": "2014 • Helicarrier Bridge",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Captain America: Civil War"
+        },
+        {
+          "title": "Steve Rogers",
+          "description": "Captain America: The Winter Soldier"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "The Falcon and the Winter Soldier"
+        }
+      ]
+    },
+    {
+      "quote": "Part of the journey is the end.",
+      "description": "2019 • Hologram Recording",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Steve Rogers",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Pepper Potts",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "Before we get started, does anyone want to get out?",
+      "description": "2014 • Triskelion Elevator",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Brock Rumlow",
+          "description": "Captain America: The Winter Soldier"
+        },
+        {
+          "title": "Nick Fury",
+          "description": "Captain America: The Winter Soldier"
+        },
+        {
+          "title": "Steve Rogers",
+          "description": "Captain America: The Winter Soldier"
+        }
+      ]
+    },
+    {
+      "quote": "I recognize the council has made a decision, but given that it's a stupid-ass decision, I've elected to ignore it.",
+      "description": "2012 • World Security Council",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Tony Stark",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Nick Fury",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Phil Coulson",
+          "description": "The Avengers"
+        }
+      ]
+    },
+    {
+      "quote": "He's adopted.",
+      "description": "2012 • Helicarrier Bridge",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Thor Odinson",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Natasha Romanoff",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Bruce Banner",
+          "description": "The Avengers"
+        }
+      ]
+    },
+    {
+      "quote": "Wait till you see what's coming.",
+      "description": "2015 • Sokovia Church",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Vision",
+          "description": "Avengers: Age of Ultron"
+        }
+      ]
+    },
+    {
+      "quote": "You took everything from me.",
+      "description": "2019 • Endgame Crater",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Thor Odinson",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Carol Danvers",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "Let's go get this son of a bitch.",
+      "description": "2019 • Garden Ambush Plan",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Steve Rogers",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Rhodey",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Rocket",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "I am Iron Man.",
+      "description": "2019 • Final Snap",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pepper Potts",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Peter Parker",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "Don't do that. Don't give me hope.",
+      "description": "2019 • Tokyo Rain",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Natasha Romanoff",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Scott Lang",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Clint Barton",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "As far as I'm concerned, that's America's ass.",
+      "description": "2019 • Stark Tower Time Heist",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Scott Lang",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Steve Rogers",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "I see this as an absolute win!",
+      "description": "2019 • Time Travel Test",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Scott Lang",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Bruce Banner",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Rocket",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "We don't trade lives, Vision.",
+      "description": "2018 • Avengers Compound",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Natasha Romanoff",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Steve Rogers",
+          "description": "Avengers: Infinity War"
+        }
+      ]
+    },
+    {
+      "quote": "I'm still worthy!",
+      "description": "2019 • Asgard 2013",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Thor Odinson",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Steve Rogers",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Valkyrie",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "There was an idea to bring together a group of remarkable people.",
+      "description": "2012 • Helicarrier Briefing",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phil Coulson",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Nick Fury",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Maria Hill",
+          "description": "The Avengers"
+        }
+      ]
+    },
+    {
+      "quote": "I'm always picking up after you boys.",
+      "description": "2015 • Sokovia Bridge",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Maria Hill",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Natasha Romanoff",
+          "description": "Avengers: Age of Ultron"
+        }
+      ]
+    },
+    {
+      "quote": "The sun will shine on us again.",
+      "description": "2018 • Statesman Ship",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Loki",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Thor Odinson",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Heimdall",
+          "description": "Avengers: Infinity War"
+        }
+      ]
+    },
+    {
+      "quote": "You're embarrassing me in front of the wizards.",
+      "description": "2018 • Greenwich Village",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Peter Parker",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Bruce Banner",
+          "description": "Avengers: Infinity War"
+        }
+      ]
+    },
+    {
+      "quote": "Is this your king?",
+      "description": "2018 • Warrior Falls",
+      "correct": 2,
+      "options": [
+        {
+          "title": "W'Kabi",
+          "description": "Black Panther"
+        },
+        {
+          "title": "M'Baku",
+          "description": "Black Panther"
+        },
+        {
+          "title": "Erik Killmonger",
+          "description": "Black Panther"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not looking for forgiveness, and I'm way past asking permission.",
+      "description": "2018 • Avengers Compound",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Natasha Romanoff",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Steve Rogers",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Avengers: Infinity War"
+        }
+      ]
+    },
+    {
+      "quote": "A thing isn't beautiful because it lasts.",
+      "description": "2015 • Sokovia Forest",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Bruce Banner",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Vision",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Ultron",
+          "description": "Avengers: Age of Ultron"
+        }
+      ]
+    },
+    {
+      "quote": "I had strings, but now I'm free.",
+      "description": "2015 • Avengers Tower Party",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Jarvis",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Ultron",
+          "description": "Avengers: Age of Ultron"
+        }
+      ]
+    },
+    {
+      "quote": "Whatever it takes.",
+      "description": "2019 • Time Heist Launch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Steve Rogers",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Scott Lang",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Rhodey",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "I'm just a guy with a boomerang. I didn't ask for all this flying and magic.",
+      "description": "2015 • Sokovia",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Clint Barton",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Scott Lang",
+          "description": "Captain America: Civil War"
+        }
+      ]
+    },
+    {
+      "quote": "Boom! You looking for this?",
+      "description": "2015 • Avengers Tower Party",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "James Rhodes",
+          "description": "Avengers: Age of Ultron"
+        }
+      ]
+    },
+    {
+      "quote": "I'm sorry, Earth is closed today.",
+      "description": "2018 • Bleeker Street",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Doctor Strange",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Wong",
+          "description": "Avengers: Infinity War"
+        }
+      ]
+    },
+    {
+      "quote": "We're in the endgame now.",
+      "description": "2018 • Titan",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Doctor Strange",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Peter Quill",
+          "description": "Avengers: Infinity War"
+        }
+      ]
+    },
+    {
+      "quote": "Does anyone have any orange slices?",
+      "description": "2016 • Leipzig Airport",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Peter Parker",
+          "description": "Captain America: Civil War"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Captain America: Civil War"
+        },
+        {
+          "title": "Scott Lang",
+          "description": "Captain America: Civil War"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, everyone.",
+      "description": "2016 • Leipzig Airport",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Peter Parker",
+          "description": "Captain America: Civil War"
+        },
+        {
+          "title": "Scott Lang",
+          "description": "Captain America: Civil War"
+        },
+        {
+          "title": "T'Challa",
+          "description": "Captain America: Civil War"
+        }
+      ]
+    },
+    {
+      "quote": "Vengeance has consumed you. It's consuming them. I'm done letting it consume me.",
+      "description": "2016 • Siberian Bunker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Steve Rogers",
+          "description": "Captain America: Civil War"
+        },
+        {
+          "title": "T'Challa",
+          "description": "Captain America: Civil War"
+        },
+        {
+          "title": "Natasha Romanoff",
+          "description": "Captain America: Civil War"
+        }
+      ]
+    },
+    {
+      "quote": "He's my friend. So was I.",
+      "description": "2016 • Siberian Bunker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Captain America: Civil War"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Captain America: Civil War"
+        },
+        {
+          "title": "Tony Stark",
+          "description": "Captain America: Civil War"
+        }
+      ]
+    },
+    {
+      "quote": "I could have done more.",
+      "description": "2019 • Compound Briefing",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Natasha Romanoff",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Bruce Banner",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Carol Danvers",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "How does it feel? Like it's someone else's.",
+      "description": "2019 • Bench by the Lake",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Steve Rogers",
           "description": "Avengers: Endgame"
         }
       ]

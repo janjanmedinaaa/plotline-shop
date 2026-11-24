@@ -8,7 +8,7 @@
       "tag": "Who said it?",
       "answer_type": "character",
       "price": 0,
-      "quote_count": 10,
+      "quote_count": 50,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_avengers_who.json"
     },
     {
@@ -19,7 +19,7 @@
       "tag": "When was this?",
       "answer_type": "movie",
       "price": 0,
-      "quote_count": 10,
+      "quote_count": 50,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_infinity_when.json"
     },
     {
@@ -30,7 +30,7 @@
       "tag": "When was this?",
       "answer_type": "episode",
       "price": 0,
-      "quote_count": 10,
+      "quote_count": 50,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_loki_ep.json"
     },
     {
@@ -41,7 +41,7 @@
       "tag": "Who said it?",
       "answer_type": "character",
       "price": 0,
-      "quote_count": 10,
+      "quote_count": 50,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_wandavision_who.json"
     },
     {
@@ -52,7 +52,7 @@
       "tag": "When was this?",
       "answer_type": "movie",
       "price": 0,
-      "quote_count": 10,
+      "quote_count": 50,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_guardians_when.json"
     },
     {
@@ -63,7 +63,7 @@
       "tag": "Who said it?",
       "answer_type": "character",
       "price": 150,
-      "quote_count": 10,
+      "quote_count": 50,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_villains_who.json"
     },
     {
@@ -74,7 +74,7 @@
       "tag": "When was this?",
       "answer_type": "movie",
       "price": 200,
-      "quote_count": 10,
+      "quote_count": 50,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_spiderman_when.json"
     },
     {
@@ -85,7 +85,7 @@
       "tag": "When was this?",
       "answer_type": "episode",
       "price": 180,
-      "quote_count": 10,
+      "quote_count": 50,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_hawkeye_ep.json"
     },
     {
@@ -96,7 +96,7 @@
       "tag": "Who said it?",
       "answer_type": "character",
       "price": 160,
-      "quote_count": 10,
+      "quote_count": 50,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_falcon_who.json"
     },
     {
@@ -107,7 +107,7 @@
       "tag": "When was this?",
       "answer_type": "episode",
       "price": 220,
-      "quote_count": 10,
+      "quote_count": 50,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_moonknight_ep.json"
     }
   ]

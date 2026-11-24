@@ -6,7 +6,7 @@
   "tag": "Who said it?",
   "answer_type": "character",
   "price": 160,
-  "quote_count": 10,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "Symbols are nothing without the women and men that give them meaning.",
@@ -195,6 +195,766 @@
         {
           "title": "Sarah Wilson",
           "description": "Dockyard"
+        }
+      ]
+    },
+    {
+      "quote": "Who are you? I'm Sam.",
+      "description": "Episode 1 • Tunisia",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Talking to Torres"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Therapy"
+        },
+        {
+          "title": "John Walker",
+          "description": "Locker room"
+        }
+      ]
+    },
+    {
+      "quote": "Looking strong, John.",
+      "description": "Episode 2 • Truck Roof",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Highway"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Meeting John Walker"
+        },
+        {
+          "title": "Lemar Hoskins",
+          "description": "Truck"
+        }
+      ]
+    },
+    {
+      "quote": "You're not Steve Rogers.",
+      "description": "Episode 4 • Latvia",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Street"
+        },
+        {
+          "title": "Karli Morgenthau",
+          "description": "Camp"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Talking to John Walker"
+        }
+      ]
+    },
+    {
+      "quote": "I'm always on your left.",
+      "description": "Episode 5 • Boat",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Louisiana"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Training"
+        },
+        {
+          "title": "Isaiah Bradley",
+          "description": "Porch"
+        }
+      ]
+    },
+    {
+      "quote": "Don't ever touch my shield.",
+      "description": "Episode 4 • Warehouse",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Airfield"
+        },
+        {
+          "title": "John Walker",
+          "description": "After Lemar's death"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Latvia"
+        }
+      ]
+    },
+    {
+      "quote": "We're not assassins. We're not killers.",
+      "description": "Episode 3 • Madripoor",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Helmut Zemo",
+          "description": "Bar"
+        },
+        {
+          "title": "Sharon Carter",
+          "description": "Gallery"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Arguing with Zemo"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the Smiling Tiger!",
+      "description": "Episode 3 • Madripoor",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Undercover identity"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Bar"
+        },
+        {
+          "title": "Helmut Zemo",
+          "description": "Jet"
+        }
+      ]
+    },
+    {
+      "quote": "Do the work.",
+      "description": "Episode 6 • New York",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Street"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Speaking to the Senator"
+        },
+        {
+          "title": "Isaiah Bradley",
+          "description": "Museum"
+        }
+      ]
+    },
+    {
+      "quote": "You're a good man, Sam.",
+      "description": "Episode 5 • Baltimore",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Dock"
+        },
+        {
+          "title": "Sarah Wilson",
+          "description": "Kitchen"
+        },
+        {
+          "title": "Isaiah Bradley",
+          "description": "Living room"
+        }
+      ]
+    },
+    {
+      "quote": "One world, one people.",
+      "description": "Episode 2 • Munich",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Karli Morgenthau",
+          "description": "Flag Smashers motto"
+        },
+        {
+          "title": "John Walker",
+          "description": "Press"
+        },
+        {
+          "title": "Helmut Zemo",
+          "description": "Prison"
+        }
+      ]
+    },
+    {
+      "quote": "I don't want to fight you, Karli.",
+      "description": "Episode 6 • Tunnel",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Truck"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Final confrontation"
+        },
+        {
+          "title": "Sharon Carter",
+          "description": "Alley"
+        }
+      ]
+    },
+    {
+      "quote": "I'm sorry about Lemar.",
+      "description": "Episode 5 • Warehouse",
+      "correct": 2,
+      "options": [
+        {
+          "title": "John Walker",
+          "description": "Hearing"
+        },
+        {
+          "title": "Karli Morgenthau",
+          "description": "Camp"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Trying to de-escalate"
+        }
+      ]
+    },
+    {
+      "quote": "You're free, Bucky.",
+      "description": "Episode 1 • Wakanda Flashback",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ayo",
+          "description": "Removing the Winter Soldier words"
+        },
+        {
+          "title": "Okoye",
+          "description": "Wakanda"
+        },
+        {
+          "title": "Shuri",
+          "description": "Lab"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not gonna be a pawn.",
+      "description": "Episode 3 • Madripoor",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Bar"
+        },
+        {
+          "title": "Sharon Carter",
+          "description": "Gallery"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Street"
+        }
+      ]
+    },
+    {
+      "quote": "They'll never understand.",
+      "description": "Episode 5 • Baltimore",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Boat"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Therapy"
+        },
+        {
+          "title": "Isaiah Bradley",
+          "description": "Porch"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna fix this.",
+      "description": "Episode 6 • New York",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Putting on the wings"
+        },
+        {
+          "title": "John Walker",
+          "description": "Shield"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Alley"
+        }
+      ]
+    },
+    {
+      "quote": "You're a terrible wingman.",
+      "description": "Episode 2 • Airfield",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Jet"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Teasing Sam"
+        },
+        {
+          "title": "Torres",
+          "description": "Lab"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a super soldier. I'm just a guy.",
+      "description": "Episode 4 • Latvia",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Street"
+        },
+        {
+          "title": "John Walker",
+          "description": "Tent"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Talking to Karli"
+        }
+      ]
+    },
+    {
+      "quote": "That's the Black Falcon!",
+      "description": "Episode 2 • Street",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Kid in Baltimore",
+          "description": "Recognizing Sam"
+        },
+        {
+          "title": "Torres",
+          "description": "Tunisia"
+        },
+        {
+          "title": "Sarah Wilson",
+          "description": "Bank"
+        }
+      ]
+    },
+    {
+      "quote": "It's Black Falcon? No, it's just Falcon.",
+      "description": "Episode 2 • Street",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Alley"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Correcting the kid"
+        },
+        {
+          "title": "John Walker",
+          "description": "Jeep"
+        }
+      ]
+    },
+    {
+      "quote": "You can't just punch your way out of this.",
+      "description": "Episode 4 • Latvia",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Hotel"
+        },
+        {
+          "title": "Helmut Zemo",
+          "description": "Street"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "To John Walker"
+        }
+      ]
+    },
+    {
+      "quote": "I'm still the Winter Soldier.",
+      "description": "Episode 3 • Madripoor Bar",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Acting for Zemo"
+        },
+        {
+          "title": "John Walker",
+          "description": "Hearing"
+        },
+        {
+          "title": "Isaiah Bradley",
+          "description": "Porch"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a monster.",
+      "description": "Episode 5 • Hearing",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Karli Morgenthau",
+          "description": "Camp"
+        },
+        {
+          "title": "John Walker",
+          "description": "Defending himself"
+        },
+        {
+          "title": "Helmut Zemo",
+          "description": "Memorial"
+        }
+      ]
+    },
+    {
+      "quote": "You made me!",
+      "description": "Episode 5 • Hearing",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Karli Morgenthau",
+          "description": "Tunnel"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Therapy"
+        },
+        {
+          "title": "John Walker",
+          "description": "To the Senators"
+        }
+      ]
+    },
+    {
+      "quote": "I'm proud of you, Sam.",
+      "description": "Episode 6 • Smithsonian",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Isaiah Bradley",
+          "description": "Seeing his statue"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Dock"
+        },
+        {
+          "title": "Sarah Wilson",
+          "description": "Boat"
+        }
+      ]
+    },
+    {
+      "quote": "You're Captain America now.",
+      "description": "Episode 6 • New York",
+      "correct": 1,
+      "options": [
+        {
+          "title": "John Walker",
+          "description": "Alley"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "To Sam"
+        },
+        {
+          "title": "Torres",
+          "description": "Lab"
+        }
+      ]
+    },
+    {
+      "quote": "Keep the wings.",
+      "description": "Episode 5 • Airfield",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Jet"
+        },
+        {
+          "title": "John Walker",
+          "description": "Tent"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Leaving old wings to Torres"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not going back to prison.",
+      "description": "Episode 3 • Riga",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Helmut Zemo",
+          "description": "Jet"
+        },
+        {
+          "title": "Sharon Carter",
+          "description": "Madripoor"
+        },
+        {
+          "title": "Karli Morgenthau",
+          "description": "Camp"
+        }
+      ]
+    },
+    {
+      "quote": "You're a natural, Cap.",
+      "description": "Episode 6 • Dock",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sarah Wilson",
+          "description": "Boat"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Cookout"
+        },
+        {
+          "title": "Torres",
+          "description": "Phone"
+        }
+      ]
+    },
+    {
+      "quote": "I built this boat with my own hands.",
+      "description": "Episode 1 • Louisiana",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Bank"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Dock"
+        },
+        {
+          "title": "Sarah Wilson",
+          "description": "Talking about the family boat"
+        }
+      ]
+    },
+    {
+      "quote": "Rules are rules.",
+      "description": "Episode 1 • Bank",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Loan Officer",
+          "description": "Denying Sam's loan"
+        },
+        {
+          "title": "Senator",
+          "description": "Ceremony"
+        },
+        {
+          "title": "Dr. Raynor",
+          "description": "Office"
+        }
+      ]
+    },
+    {
+      "quote": "Amends. That's the second rule.",
+      "description": "Episode 1 • List",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Boat"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Making amends"
+        },
+        {
+          "title": "Dr. Raynor",
+          "description": "Office"
+        }
+      ]
+    },
+    {
+      "quote": "Why did you give up the shield?",
+      "description": "Episode 2 • Airfield",
+      "correct": 2,
+      "options": [
+        {
+          "title": "John Walker",
+          "description": "Jeep"
+        },
+        {
+          "title": "Sarah Wilson",
+          "description": "Dock"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Confronting Sam"
+        }
+      ]
+    },
+    {
+      "quote": "You're just a bully.",
+      "description": "Episode 4 • Tent",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "To Walker"
+        },
+        {
+          "title": "Karli Morgenthau",
+          "description": "Camp"
+        },
+        {
+          "title": "Ayo",
+          "description": "Apartment"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the only one who can stop them.",
+      "description": "Episode 4 • Latvia",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Street"
+        },
+        {
+          "title": "John Walker",
+          "description": "Taking the serum"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Hotel"
+        }
+      ]
+    },
+    {
+      "quote": "You're not alone anymore.",
+      "description": "Episode 5 • Louisiana",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Sarah Wilson",
+          "description": "Kitchen"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Boat"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Helping with the boat"
+        }
+      ]
+    },
+    {
+      "quote": "We're gonna need a bigger boat.",
+      "description": "Episode 5 • Dock",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Joking with Bucky"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Engine"
+        },
+        {
+          "title": "Sarah Wilson",
+          "description": "Porch"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not your enemy.",
+      "description": "Episode 4 • Funeral",
+      "correct": 1,
+      "options": [
+        {
+          "title": "John Walker",
+          "description": "Doorway"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Speaking to Karli"
+        },
+        {
+          "title": "Zemo",
+          "description": "Alley"
+        }
+      ]
+    },
+    {
+      "quote": "Thank you for your service.",
+      "description": "Episode 1 • Bank",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Senator",
+          "description": "Smithsonian"
+        },
+        {
+          "title": "Dr. Raynor",
+          "description": "Office"
+        },
+        {
+          "title": "Loan Officer",
+          "description": "Bank desk"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not giving up the shield.",
+      "description": "Episode 6 • New York",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Landing in the new suit"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Street"
+        },
+        {
+          "title": "John Walker",
+          "description": "Truck"
         }
       ]
     }
