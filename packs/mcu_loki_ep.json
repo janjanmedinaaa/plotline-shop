@@ -1,0 +1,202 @@
+{
+  "id": "mcu_loki_ep",
+  "title": "Sacred Timeline",
+  "description": "Pinpoint the exact Loki episode for each TVA quote.",
+  "category": "series",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 0,
+  "quote_count": 10,
+  "questions": [
+    {
+      "quote": "I am Loki of Asgard, and I am burdened with glorious purpose.",
+      "description": "Season 1 • Gobi Desert & TVA",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Loki is captured by the TVA"
+        },
+        {
+          "title": "S1E02 • The Variant",
+          "description": "Roxxcart in 2050"
+        },
+        {
+          "title": "S1E06 • For All Time. Always.",
+          "description": "Citadel at the End of Time"
+        }
+      ]
+    },
+    {
+      "quote": "We're not gonna fight. We're gonna talk.",
+      "description": "Season 1 • Roxxcart Superstore",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "Time Theater interrogation"
+        },
+        {
+          "title": "S1E02 • The Variant",
+          "description": "Loki meets Sylvie in Alabama"
+        },
+        {
+          "title": "S1E03 • Lamentis",
+          "description": "Train to the Ark"
+        }
+      ]
+    },
+    {
+      "quote": "Love is a dagger. It's a weapon to be wielded far away or up close.",
+      "description": "Season 1 • Train on Lamentis-1",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E02 • The Variant",
+          "description": "TVA Library"
+        },
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Time Cell"
+        },
+        {
+          "title": "S1E03 • Lamentis",
+          "description": "Loki & Sylvie on the train"
+        }
+      ]
+    },
+    {
+      "quote": "You're a liar, and a manipulator, and a thief. And I'm proud of you.",
+      "description": "Season 1 • The Void",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Time-Keepers Chamber"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "Classic Loki & Kid Loki"
+        },
+        {
+          "title": "S1E06 • For All Time. Always.",
+          "description": "He Who Remains"
+        }
+      ]
+    },
+    {
+      "quote": "See you soon.",
+      "description": "Season 1 • Citadel at the End of Time",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Pruning Ravonna"
+        },
+        {
+          "title": "S1E05 • Journey into Mystery",
+          "description": "Enchanting Alioth"
+        },
+        {
+          "title": "S1E06 • For All Time. Always.",
+          "description": "He Who Remains' warning"
+        }
+      ]
+    },
+    {
+      "quote": "Time-slipping! It's impossible to time-slip in the TVA!",
+      "description": "Season 2 • Repairs & Advancement",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "Loki meets O.B. in the basement"
+        },
+        {
+          "title": "S2E02 • Breaking Brad",
+          "description": "London 1977"
+        },
+        {
+          "title": "S2E04 • Heart of the TVA",
+          "description": "Temporal Loom meltdown"
+        }
+      ]
+    },
+    {
+      "quote": "The hardest part is knowing what to do with the time you have.",
+      "description": "Season 2 • Pie Room Chat",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E01 • Ouroboros",
+          "description": "Temporal Aura Extractor"
+        },
+        {
+          "title": "S2E02 • Breaking Brad",
+          "description": "Mobius & Loki over Key Lime Pie"
+        },
+        {
+          "title": "S2E03 • 1893",
+          "description": "Chicago World's Fair"
+        }
+      ]
+    },
+    {
+      "quote": "I know what I want. I know what kind of god I need to be.",
+      "description": "Season 2 • Temporal Loom",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E04 • Heart of the TVA",
+          "description": "Loom explosion"
+        },
+        {
+          "title": "S2E05 • Science/Fiction",
+          "description": "Gathering the team"
+        },
+        {
+          "title": "S2E06 • Glorious Purpose",
+          "description": "Loki ascends the throne"
+        }
+      ]
+    },
+    {
+      "quote": "What's a Loki without a little chaos?",
+      "description": "Season 1 • Nexus Event",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E04 • The Nexus Event",
+          "description": "Loki & Sylvie on Lamentis"
+        },
+        {
+          "title": "S1E01 • Glorious Purpose",
+          "description": "DB Cooper flashback"
+        },
+        {
+          "title": "S2E03 • 1893",
+          "description": "Victor Timely's workshop"
+        }
+      ]
+    },
+    {
+      "quote": "Most purpose is more burden than glory.",
+      "description": "Season 2 • Rewriting the Story",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E02 • Breaking Brad",
+          "description": "Hunter X-5 interrogation"
+        },
+        {
+          "title": "S2E05 • Science/Fiction",
+          "description": "Don the jet-ski salesman"
+        },
+        {
+          "title": "S2E06 • Glorious Purpose",
+          "description": "Mobius & Loki's farewell"
+        }
+      ]
+    }
+  ]
+}

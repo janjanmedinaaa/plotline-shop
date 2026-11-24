@@ -1,0 +1,202 @@
+{
+  "id": "mcu_spiderman_when",
+  "title": "Web-Slinger Trilogy",
+  "description": "Guess which Spider-Man MCU film each quote comes from.",
+  "category": "movies",
+  "tag": "When was this?",
+  "answer_type": "movie",
+  "price": 200,
+  "quote_count": 10,
+  "questions": [
+    {
+      "quote": "If you're nothing without this suit, then you shouldn't have it.",
+      "description": "2017 • Queens Rooftop",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Tony Stark to Peter"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Happy Hogan"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Doctor Strange"
+        }
+      ]
+    },
+    {
+      "quote": "Come on, Spider-Man!",
+      "description": "2017 • Trapped Under Rubble",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Warehouse collapse"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Berlin illusion"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Statue of Liberty"
+        }
+      ]
+    },
+    {
+      "quote": "Uneasy lies the head that wears the crown.",
+      "description": "2019 • Prague Bar",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Ferry"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Beck's toast"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Sanctum"
+        }
+      ]
+    },
+    {
+      "quote": "With great power, there must also come great responsibility.",
+      "description": "2021 • Apartment Corridor",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Midtown High"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Venice"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Aunt May's final words"
+        }
+      ]
+    },
+    {
+      "quote": "Peter tingle!",
+      "description": "2019 • School Bus & Plane",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Washington D.C."
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Aunt May & Happy"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Ned's house"
+        }
+      ]
+    },
+    {
+      "quote": "The multiverse is a concept about which we know frighteningly little.",
+      "description": "2021 • Sanctum Sanctorum",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Stark Tower"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Quentin Beck's lie"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Doctor Strange"
+        }
+      ]
+    },
+    {
+      "quote": "I'm just a friendly neighborhood Spider-Man.",
+      "description": "2017 • Car Ride Home",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Staying in Queens"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • London"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Bridge"
+        }
+      ]
+    },
+    {
+      "quote": "Hello, Peter.",
+      "description": "2021 • Alexander Hamilton Bridge",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Vulture's car"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Tower Bridge"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Doc Ock's arrival"
+        }
+      ]
+    },
+    {
+      "quote": "You're not Iron Man. You're never gonna be Iron Man.",
+      "description": "2019 • Private Jet",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Staten Island"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Happy reassuring Peter"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Rooftop"
+        }
+      ]
+    },
+    {
+      "quote": "I've always wanted brothers.",
+      "description": "2021 • Statue of Liberty Scaffolding",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Ned & Peter"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "description": "2019 • Europe trip"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Three Peters"
+        }
+      ]
+    }
+  ]
+}

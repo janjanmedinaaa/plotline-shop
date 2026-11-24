@@ -1,0 +1,202 @@
+{
+  "id": "mcu_infinity_when",
+  "title": "Infinity Saga",
+  "description": "Match legendary MCU quotes to the movie they appeared in.",
+  "category": "movies",
+  "tag": "When was this?",
+  "answer_type": "movie",
+  "price": 0,
+  "quote_count": 10,
+  "questions": [
+    {
+      "quote": "The truth is... I am Iron Man.",
+      "description": "2008 • Stark Industries Press Conference",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Iron Man",
+          "description": "2008 • Directed by Jon Favreau"
+        },
+        {
+          "title": "Iron Man 2",
+          "description": "2010 • Stark Expo"
+        },
+        {
+          "title": "The Avengers",
+          "description": "2012 • New York Invasion"
+        }
+      ]
+    },
+    {
+      "quote": "Puny god.",
+      "description": "2012 • Stark Tower Floor Smash",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Thor: Ragnarok",
+          "description": "2017 • Sakaar Arena"
+        },
+        {
+          "title": "The Avengers",
+          "description": "2012 • Hulk vs. Loki"
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "description": "2015 • Sokovia"
+        }
+      ]
+    },
+    {
+      "quote": "I'm with you till the end of the line.",
+      "description": "2014 • Helicarrier Bridge",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Captain America: The First Avenger",
+          "description": "2011 • Brooklyn Flashback"
+        },
+        {
+          "title": "Captain America: Civil War",
+          "description": "2016 • Siberian Bunker"
+        },
+        {
+          "title": "Captain America: The Winter Soldier",
+          "description": "2014 • Steve to Bucky"
+        }
+      ]
+    },
+    {
+      "quote": "Dormammu, I've come to bargain.",
+      "description": "2016 • Dark Dimension Time Loop",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Doctor Strange",
+          "description": "2016 • Hong Kong Sanctum Climax"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Titan Battle"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "description": "2021 • Mirror Dimension"
+        }
+      ]
+    },
+    {
+      "quote": "He's a friend from work!",
+      "description": "2017 • Grandmaster's Arena",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Avengers",
+          "description": "2012 • Helicarrier"
+        },
+        {
+          "title": "Thor: Ragnarok",
+          "description": "2017 • Sakaar Contest of Champions"
+        },
+        {
+          "title": "Thor: Love and Thunder",
+          "description": "2022 • New Asgard"
+        }
+      ]
+    },
+    {
+      "quote": "Mr. Stark, I don't feel so good.",
+      "description": "2018 • Titan Aftermath",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "description": "2017 • Ferry Rescue"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Compound Battle"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • The Blip on Titan"
+        }
+      ]
+    },
+    {
+      "quote": "Avengers... assemble.",
+      "description": "2019 • Portals Open",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Final Charge"
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "description": "2015 • New Avengers Facility"
+        },
+        {
+          "title": "The Avengers",
+          "description": "2012 • Manhattan Circle"
+        }
+      ]
+    },
+    {
+      "quote": "There are no strings on me.",
+      "description": "2015 • Sokovia Research Base",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Iron Man 3",
+          "description": "2013 • House Party Protocol"
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "description": "2015 • Ultron's Awakening"
+        },
+        {
+          "title": "Captain America: Civil War",
+          "description": "2016 • Sokovia Accords"
+        }
+      ]
+    },
+    {
+      "quote": "Higher, further, faster, baby.",
+      "description": "2019 • Space Hangar",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Avengers: Endgame",
+          "description": "2019 • Sanctuary II"
+        },
+        {
+          "title": "The Marvels",
+          "description": "2023 • Saber Station"
+        },
+        {
+          "title": "Captain Marvel",
+          "description": "2019 • Carol & Maria"
+        }
+      ]
+    },
+    {
+      "quote": "Just because something works doesn't mean it can't be improved.",
+      "description": "2018 • Shuri's Lab",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Black Panther",
+          "description": "2018 • Wakandan Tech Reveal"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "description": "2018 • Mind Stone Extraction"
+        },
+        {
+          "title": "Black Panther: Wakanda Forever",
+          "description": "2022 • Royal Lab"
+        }
+      ]
+    }
+  ]
+}

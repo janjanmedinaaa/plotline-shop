@@ -1,0 +1,202 @@
+{
+  "id": "mcu_moonknight_ep",
+  "title": "Fist of Khonshu",
+  "description": "Pinpoint the Moon Knight episode for every quote.",
+  "category": "series",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 220,
+  "quote_count": 10,
+  "questions": [
+    {
+      "quote": "Float like a butterfly, sting like a bee. My name is Steven with a V.",
+      "description": "Episode 1 • Museum & Alps",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Steven wakes up in the Alps"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Storage locker"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Cairo rooftop"
+        }
+      ]
+    },
+    {
+      "quote": "Summon the suit!",
+      "description": "Episode 2 • London Street",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Museum bathroom"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Mr. Knight's debut"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Sarcophagus room"
+        }
+      ]
+    },
+    {
+      "quote": "There's chaos in you.",
+      "description": "Episode 1 • Cult Village",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Arthur Harrow's scales"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Ennead trial"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Cairo battle"
+        }
+      ]
+    },
+    {
+      "quote": "Do you swear to protect the travelers of the night?",
+      "description": "Episode 3 • Ennead Chamber",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Khonshu's warning"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Turning back the night sky"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Duat ship"
+        }
+      ]
+    },
+    {
+      "quote": "Hi!",
+      "description": "Episode 4 • Psychiatric Ward",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Layla's arrival"
+        },
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Senfu's tomb"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Taweret greets Marc & Steven"
+        }
+      ]
+    },
+    {
+      "quote": "You are my son, Marc. You're the only one I have left.",
+      "description": "Episode 5 • Scales of Justice",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Desert camp"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Exploring Marc's memories"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Field of Reeds"
+        }
+      ]
+    },
+    {
+      "quote": "Are you an Egyptian superhero?",
+      "description": "Episode 6 • Cairo Alley",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E03 • The Friendly Type",
+          "description": "Cairo market"
+        },
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Desert"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Scarlet Scarab saves a girl"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not crazy. I have a sleeping disorder.",
+      "description": "Episode 1 • Steven's Flat",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • The Goldfish Problem",
+          "description": "Ankle restraint & sand"
+        },
+        {
+          "title": "S1E02 • Summon the Suit",
+          "description": "Donna's office"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Dr. Harrow's office"
+        }
+      ]
+    },
+    {
+      "quote": "You saved me. Now let me save you.",
+      "description": "Episode 5 • Duat",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Marc & Steven hug"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Steven turns to sand for Marc"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Final fight"
+        }
+      ]
+    },
+    {
+      "quote": "Meet my friend, Jake Lockley.",
+      "description": "Episode 6 • Post-Credits Limo",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E04 • The Tomb",
+          "description": "Shaking sarcophagus"
+        },
+        {
+          "title": "S1E05 • Asylum",
+          "description": "Third sarcophagus"
+        },
+        {
+          "title": "S1E06 • Gods and Monsters",
+          "description": "Khonshu & Harrow in the limo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "mcu_wandavision_who",
+  "title": "Westview Static",
+  "description": "Guess who spoke each line inside the Westview Hex.",
+  "category": "series",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 0,
+  "quote_count": 10,
+  "questions": [
+    {
+      "quote": "What is grief, if not love persevering?",
+      "description": "Episode 8 • Avengers Compound Memory",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Vision",
+          "description": "Comforting Wanda after Pietro's death"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Creating the Hex"
+        },
+        {
+          "title": "Agatha Harkness",
+          "description": "Basement reveal"
+        }
+      ]
+    },
+    {
+      "quote": "It's been Agatha all along!",
+      "description": "Episode 7 • Basement Theme Song",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Breaking the Fourth Wall"
+        },
+        {
+          "title": "Agatha Harkness",
+          "description": "Revealing her true identity"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Breaching the Hex"
+        }
+      ]
+    },
+    {
+      "quote": "You are my sadness and my hope. But mostly, you're my love.",
+      "description": "Episode 9 • Farewell in Westview",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Vision",
+          "description": "Goodbye at the house"
+        },
+        {
+          "title": "Billy Maximoff",
+          "description": "Bedroom scene"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Saying goodbye to Vision"
+        }
+      ]
+    },
+    {
+      "quote": "I am not a monster. I'm a mother.",
+      "description": "Episode 9 • Westview Town Square",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Confronting Agatha"
+        },
+        {
+          "title": "Agatha Harkness",
+          "description": "Salem flashback"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Speaking to Hayward"
+        }
+      ]
+    },
+    {
+      "quote": "For the children.",
+      "description": "Episode 2 • Neighborhood Talent Show",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Norm",
+          "description": "Neighborhood watch"
+        },
+        {
+          "title": "Dottie Jones",
+          "description": "Planning committee"
+        },
+        {
+          "title": "Herb",
+          "description": "Trimming the hedge"
+        }
+      ]
+    },
+    {
+      "quote": "I request elaboration.",
+      "description": "Episode 9 • Library of White Vision",
+      "correct": 0,
+      "options": [
+        {
+          "title": "White Vision",
+          "description": "Ship of Theseus debate"
+        },
+        {
+          "title": "Hex Vision",
+          "description": "Explaining memory"
+        },
+        {
+          "title": "Jimmy Woo",
+          "description": "SWORD briefing"
+        }
+      ]
+    },
+    {
+      "quote": "She's the Scarlet Witch.",
+      "description": "Episode 8 • Westview Street",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Darcy Lewis",
+          "description": "Watching the broadcast"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Hex boundary"
+        },
+        {
+          "title": "Agatha Harkness",
+          "description": "Naming Wanda's chaos magic"
+        }
+      ]
+    },
+    {
+      "quote": "They'll never know what you sacrificed for them.",
+      "description": "Episode 9 • Town Square",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jimmy Woo",
+          "description": "After the Hex falls"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Speaking to Wanda"
+        },
+        {
+          "title": "Darcy Lewis",
+          "description": "Food truck"
+        }
+      ]
+    },
+    {
+      "quote": "That's a really nice shirt. Do you have it in black?",
+      "description": "Episode 4 • SWORD Base",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Darcy Lewis",
+          "description": "Decoding the signal"
+        },
+        {
+          "title": "Jimmy Woo",
+          "description": "Whiteboard clues"
+        },
+        {
+          "title": "Monica Rambeau",
+          "description": "Rover mission"
+        }
+      ]
+    },
+    {
+      "quote": "We are an unusual couple, you know.",
+      "description": "Episode 1 • Sitcom Kitchen",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Agnes",
+          "description": "Bringing a houseplant"
+        },
+        {
+          "title": "Mr. Hart",
+          "description": "Dinner party"
+        },
+        {
+          "title": "Wanda Maximoff",
+          "description": "Opening dinner scene"
+        }
+      ]
+    }
+  ]
+}

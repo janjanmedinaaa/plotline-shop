@@ -1,0 +1,202 @@
+{
+  "id": "mcu_villains_who",
+  "title": "Voices of Doom",
+  "description": "Chilling threats and monologues from MCU villains.",
+  "category": "movies",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 10,
+  "questions": [
+    {
+      "quote": "The hardest choices require the strongest wills.",
+      "description": "2018 • Titan Conversation",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Thanos",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Red Skull",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Ultron",
+          "description": "Avengers: Age of Ultron"
+        }
+      ]
+    },
+    {
+      "quote": "Bury me in the ocean with my ancestors that jumped from the ships.",
+      "description": "2018 • Wakanda Sunset",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ulysses Klaue",
+          "description": "Black Panther"
+        },
+        {
+          "title": "Erik Killmonger",
+          "description": "Black Panther"
+        },
+        {
+          "title": "Namor",
+          "description": "Black Panther: Wakanda Forever"
+        }
+      ]
+    },
+    {
+      "quote": "I am burdened with glorious purpose.",
+      "description": "2012 • Stuttgart & Helicarrier",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Malekith",
+          "description": "Thor: The Dark World"
+        },
+        {
+          "title": "Hela",
+          "description": "Thor: Ragnarok"
+        },
+        {
+          "title": "Loki",
+          "description": "The Avengers"
+        }
+      ]
+    },
+    {
+      "quote": "When the Earth starts to settle, God throws a stone at it.",
+      "description": "2015 • Sokovia Church",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ultron",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Baron Zemo",
+          "description": "Captain America: Civil War"
+        },
+        {
+          "title": "Alexander Pierce",
+          "description": "Captain America: The Winter Soldier"
+        }
+      ]
+    },
+    {
+      "quote": "Kneel before me.",
+      "description": "2017 • Asgardian Palace",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Loki",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Hela",
+          "description": "Thor: Ragnarok"
+        },
+        {
+          "title": "Gorr",
+          "description": "Thor: Love and Thunder"
+        }
+      ]
+    },
+    {
+      "quote": "An empire toppled by its enemies can rise again. One which crumbles from within is dead forever.",
+      "description": "2016 • Siberian Bunker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Red Skull",
+          "description": "Captain America: The First Avenger"
+        },
+        {
+          "title": "Whiplash",
+          "description": "Iron Man 2"
+        },
+        {
+          "title": "Helmut Zemo",
+          "description": "Captain America: Civil War"
+        }
+      ]
+    },
+    {
+      "quote": "Now is no time at all.",
+      "description": "2018 • Wakanda Forest",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Thanos",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Ebony Maw",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Ronan",
+          "description": "Guardians of the Galaxy"
+        }
+      ]
+    },
+    {
+      "quote": "People need to believe. And nowadays, they'll believe anything.",
+      "description": "2019 • London Tower Bridge",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Vulture",
+          "description": "Spider-Man: Homecoming"
+        },
+        {
+          "title": "Mysterio",
+          "description": "Spider-Man: Far From Home"
+        },
+        {
+          "title": "Green Goblin",
+          "description": "Spider-Man: No Way Home"
+        }
+      ]
+    },
+    {
+      "quote": "The world's changing. It's time we change too.",
+      "description": "2017 • Staten Island Ferry",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Shocker",
+          "description": "Spider-Man: Homecoming"
+        },
+        {
+          "title": "Electro",
+          "description": "Spider-Man: No Way Home"
+        },
+        {
+          "title": "Adrian Toomes",
+          "description": "Spider-Man: Homecoming"
+        }
+      ]
+    },
+    {
+      "quote": "You're a laboratory rat, Stark.",
+      "description": "2010 • Monaco Grand Prix",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ivan Vanko",
+          "description": "Iron Man 2"
+        },
+        {
+          "title": "Justin Hammer",
+          "description": "Iron Man 2"
+        },
+        {
+          "title": "Obadiah Stane",
+          "description": "Iron Man"
+        }
+      ]
+    }
+  ]
+}

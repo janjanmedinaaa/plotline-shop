@@ -1,0 +1,114 @@
+{
+  "packs": [
+    {
+      "id": "mcu_avengers_who",
+      "title": "Earth's Mightiest",
+      "description": "Iconic battle cries and quips from Avengers films.",
+      "category": "movies",
+      "tag": "Who said it?",
+      "answer_type": "character",
+      "price": 0,
+      "quote_count": 10,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_avengers_who.json"
+    },
+    {
+      "id": "mcu_infinity_when",
+      "title": "Infinity Saga",
+      "description": "Match legendary MCU quotes to the movie they appeared in.",
+      "category": "movies",
+      "tag": "When was this?",
+      "answer_type": "movie",
+      "price": 0,
+      "quote_count": 10,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_infinity_when.json"
+    },
+    {
+      "id": "mcu_loki_ep",
+      "title": "Sacred Timeline",
+      "description": "Pinpoint the exact Loki episode for each TVA quote.",
+      "category": "series",
+      "tag": "When was this?",
+      "answer_type": "episode",
+      "price": 0,
+      "quote_count": 10,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_loki_ep.json"
+    },
+    {
+      "id": "mcu_wandavision_who",
+      "title": "Westview Static",
+      "description": "Guess who spoke each line inside the Westview Hex.",
+      "category": "series",
+      "tag": "Who said it?",
+      "answer_type": "character",
+      "price": 0,
+      "quote_count": 10,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_wandavision_who.json"
+    },
+    {
+      "id": "mcu_guardians_when",
+      "title": "Awesome Mix",
+      "description": "Identify which Guardians of the Galaxy film each quote is from.",
+      "category": "movies",
+      "tag": "When was this?",
+      "answer_type": "movie",
+      "price": 0,
+      "quote_count": 10,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_guardians_when.json"
+    },
+    {
+      "id": "mcu_villains_who",
+      "title": "Voices of Doom",
+      "description": "Chilling threats and monologues from MCU villains.",
+      "category": "movies",
+      "tag": "Who said it?",
+      "answer_type": "character",
+      "price": 150,
+      "quote_count": 10,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_villains_who.json"
+    },
+    {
+      "id": "mcu_spiderman_when",
+      "title": "Web-Slinger Trilogy",
+      "description": "Guess which Spider-Man MCU film each quote comes from.",
+      "category": "movies",
+      "tag": "When was this?",
+      "answer_type": "movie",
+      "price": 200,
+      "quote_count": 10,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_spiderman_when.json"
+    },
+    {
+      "id": "mcu_hawkeye_ep",
+      "title": "Holiday in NYC",
+      "description": "Match each Hawkeye quote to the exact episode.",
+      "category": "series",
+      "tag": "When was this?",
+      "answer_type": "episode",
+      "price": 180,
+      "quote_count": 10,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_hawkeye_ep.json"
+    },
+    {
+      "id": "mcu_falcon_who",
+      "title": "Shield & Wings",
+      "description": "Who said it in The Falcon and the Winter Soldier?",
+      "category": "series",
+      "tag": "Who said it?",
+      "answer_type": "character",
+      "price": 160,
+      "quote_count": 10,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_falcon_who.json"
+    },
+    {
+      "id": "mcu_moonknight_ep",
+      "title": "Fist of Khonshu",
+      "description": "Pinpoint the Moon Knight episode for every quote.",
+      "category": "series",
+      "tag": "When was this?",
+      "answer_type": "episode",
+      "price": 220,
+      "quote_count": 10,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/mcu_moonknight_ep.json"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "mcu_falcon_who",
+  "title": "Shield & Wings",
+  "description": "Who said it in The Falcon and the Winter Soldier?",
+  "category": "series",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 160,
+  "quote_count": 10,
+  "questions": [
+    {
+      "quote": "Symbols are nothing without the women and men that give them meaning.",
+      "description": "Episode 1 • Smithsonian Ceremony",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Retiring the shield"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Therapy session"
+        },
+        {
+          "title": "Isaiah Bradley",
+          "description": "Baltimore porch"
+        }
+      ]
+    },
+    {
+      "quote": "If he was wrong about you, then he was wrong about me.",
+      "description": "Episode 2 • Therapy & Airfield",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Talking to John Walker"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Confronting Sam about the shield"
+        },
+        {
+          "title": "Sharon Carter",
+          "description": "Madripoor"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Captain America.",
+      "description": "Episode 4 • Latvia Warehouse",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "New York speech"
+        },
+        {
+          "title": "Steve Rogers",
+          "description": "Flashback"
+        },
+        {
+          "title": "John Walker",
+          "description": "Holding the bloodied shield"
+        }
+      ]
+    },
+    {
+      "quote": "You've gotta stop calling them terrorists.",
+      "description": "Episode 6 • GRC Press Conference",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Addressing the senators"
+        },
+        {
+          "title": "Karli Morgenthau",
+          "description": "Flag Smashers"
+        },
+        {
+          "title": "Joaquin Torres",
+          "description": "Tunisia"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a killer anymore.",
+      "description": "Episode 1 • Therapist's Office",
+      "correct": 1,
+      "options": [
+        {
+          "title": "John Walker",
+          "description": "Press tour"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Dr. Raynor's rules"
+        },
+        {
+          "title": "Helmut Zemo",
+          "description": "Prison cell"
+        }
+      ]
+    },
+    {
+      "quote": "They will never let a Black man be Captain America.",
+      "description": "Episode 5 • Baltimore Living Room",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "Louisiana boatyard"
+        },
+        {
+          "title": "Lemar Hoskins",
+          "description": "Locker room"
+        },
+        {
+          "title": "Isaiah Bradley",
+          "description": "Sharing his history"
+        }
+      ]
+    },
+    {
+      "quote": "The Dora Milaje have jurisdiction wherever the Dora Milaje find themselves to be.",
+      "description": "Episode 4 • Zemo's Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ayo",
+          "description": "Confronting John Walker"
+        },
+        {
+          "title": "Okoye",
+          "description": "Wakanda"
+        },
+        {
+          "title": "Sharon Carter",
+          "description": "Madripoor"
+        }
+      ]
+    },
+    {
+      "quote": "Super soldiers cannot be allowed to exist.",
+      "description": "Episode 3 • Riga Street",
+      "correct": 1,
+      "options": [
+        {
+          "title": "John Walker",
+          "description": "Serum vial"
+        },
+        {
+          "title": "Helmut Zemo",
+          "description": "Explaining his mission"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Wakanda flashback"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the Power Broker.",
+      "description": "Episode 6 • New York Tunnel",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Helmut Zemo",
+          "description": "Madripoor bar"
+        },
+        {
+          "title": "Georges Batroc",
+          "description": "Helicopter"
+        },
+        {
+          "title": "Sharon Carter",
+          "description": "Revealing her identity"
+        }
+      ]
+    },
+    {
+      "quote": "On your left, Cap.",
+      "description": "Episode 5 • Boat Repair",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "Tossing the shield case"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Training montage"
+        },
+        {
+          "title": "Sarah Wilson",
+          "description": "Dockyard"
+        }
+      ]
+    }
+  ]
+}

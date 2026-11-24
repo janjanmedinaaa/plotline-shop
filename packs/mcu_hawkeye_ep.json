@@ -1,0 +1,202 @@
+{
+  "id": "mcu_hawkeye_ep",
+  "title": "Holiday in NYC",
+  "description": "Match each Hawkeye quote to the exact episode.",
+  "category": "series",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 180,
+  "quote_count": 10,
+  "questions": [
+    {
+      "quote": "Some people have actually called me the world's greatest archer.",
+      "description": "Episode 1 • Bell Tower & Auction",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • Never Meet Your Heroes",
+          "description": "Kate rings the bell & Ronin auction"
+        },
+        {
+          "title": "S1E02 • Hide and Seek",
+          "description": "Tracksuit Mafia hideout"
+        },
+        {
+          "title": "S1E03 • Echoes",
+          "description": "Car chase on the bridge"
+        }
+      ]
+    },
+    {
+      "quote": "Bro, I found him!",
+      "description": "Episode 2 • LARPing & Tracksuits",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Never Meet Your Heroes",
+          "description": "Black market auction"
+        },
+        {
+          "title": "S1E02 • Hide and Seek",
+          "description": "Tracksuit Mafia captures Clint"
+        },
+        {
+          "title": "S1E04 • Partners, Am I Right?",
+          "description": "Rooftop battle"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a role model.",
+      "description": "Episode 3 • Diner & Bridge Chase",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • Never Meet Your Heroes",
+          "description": "Rogers: The Musical"
+        },
+        {
+          "title": "S1E02 • Hide and Seek",
+          "description": "Kate's apartment"
+        },
+        {
+          "title": "S1E03 • Echoes",
+          "description": "Clint & Kate at the diner"
+        }
+      ]
+    },
+    {
+      "quote": "Trick arrows! That's what makes you Hawkeye!",
+      "description": "Episode 4 • Apartment Decorating",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E03 • Echoes",
+          "description": "Pym arrow"
+        },
+        {
+          "title": "S1E04 • Partners, Am I Right?",
+          "description": "Boomerang arrow debate"
+        },
+        {
+          "title": "S1E05 • Ronin",
+          "description": "Yelena's mac & cheese"
+        }
+      ]
+    },
+    {
+      "quote": "Stop making me like you!",
+      "description": "Episode 5 • Kate's Apartment",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E04 • Partners, Am I Right?",
+          "description": "Rooftop fight"
+        },
+        {
+          "title": "S1E06 • So This Is Christmas?",
+          "description": "Ice rink"
+        },
+        {
+          "title": "S1E05 • Ronin",
+          "description": "Yelena & Kate's dinner"
+        }
+      ]
+    },
+    {
+      "quote": "You're my partner.",
+      "description": "Episode 6 • Rockefeller Center",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E03 • Echoes",
+          "description": "Bridge escape"
+        },
+        {
+          "title": "S1E04 • Partners, Am I Right?",
+          "description": "Swordsman's penthouse"
+        },
+        {
+          "title": "S1E06 • So This Is Christmas?",
+          "description": "Clint & Kate at the tree"
+        }
+      ]
+    },
+    {
+      "quote": "I can't hear you! My hearing aid is broken!",
+      "description": "Episode 3 • Car Chase",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Never Meet Your Heroes",
+          "description": "Musical theater"
+        },
+        {
+          "title": "S1E03 • Echoes",
+          "description": "Maya's ambush"
+        },
+        {
+          "title": "S1E05 • Ronin",
+          "description": "Meet at the car lot"
+        }
+      ]
+    },
+    {
+      "quote": "This is the best hot sauce I've ever had.",
+      "description": "Episode 5 • Yelena's Visit",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E05 • Ronin",
+          "description": "Macaroni with hot sauce"
+        },
+        {
+          "title": "S1E02 • Hide and Seek",
+          "description": "Pizza Dog"
+        },
+        {
+          "title": "S1E06 • So This Is Christmas?",
+          "description": "Barton farm"
+        }
+      ]
+    },
+    {
+      "quote": "I'm going to save Christmas!",
+      "description": "Episode 1 • New York Streets",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • Never Meet Your Heroes",
+          "description": "Clint promises his kids"
+        },
+        {
+          "title": "S1E04 • Partners, Am I Right?",
+          "description": "Holiday movie marathon"
+        },
+        {
+          "title": "S1E06 • So This Is Christmas?",
+          "description": "Tree toppling"
+        }
+      ]
+    },
+    {
+      "quote": "Kingpin. That's the guy I've been worried about.",
+      "description": "Episode 5 • Eleanor's Secret",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E04 • Partners, Am I Right?",
+          "description": "Jack Duquesne arrested"
+        },
+        {
+          "title": "S1E05 • Ronin",
+          "description": "Photo sent to Kate"
+        },
+        {
+          "title": "S1E06 • So This Is Christmas?",
+          "description": "Toy store showdown"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "mcu_avengers_who",
+  "title": "Earth's Mightiest",
+  "description": "Iconic battle cries and quips from Avengers films.",
+  "category": "movies",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 0,
+  "quote_count": 10,
+  "questions": [
+    {
+      "quote": "I can do this all day.",
+      "description": "2011 • Alleyway Fight & Civil War",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Steve Rogers",
+          "description": "Captain America: The First Avenger"
+        },
+        {
+          "title": "Bucky Barnes",
+          "description": "Captain America: The Winter Soldier"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "That's my secret, Captain: I'm always angry.",
+      "description": "2012 • Battle of New York",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Tony Stark",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Nick Fury",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Bruce Banner",
+          "description": "The Avengers"
+        }
+      ]
+    },
+    {
+      "quote": "I love you 3000.",
+      "description": "2019 • Hologram Message",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Morgan Stark",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Pepper Potts",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "We have a Hulk.",
+      "description": "2012 • Stark Tower Penthouse",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Tony Stark",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Steve Rogers",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Clint Barton",
+          "description": "Avengers: Age of Ultron"
+        }
+      ]
+    },
+    {
+      "quote": "Bring me Thanos!",
+      "description": "2018 • Arrival in Wakanda",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Steve Rogers",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Thor Odinson",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "T'Challa",
+          "description": "Avengers: Infinity War"
+        }
+      ]
+    },
+    {
+      "quote": "I am inevitable.",
+      "description": "2019 • Endgame Final Battle",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ultron",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Loki",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Thanos",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    },
+    {
+      "quote": "On your left.",
+      "description": "2014 • Morning Jog & Portals",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Steve Rogers",
+          "description": "Captain America: The Winter Soldier"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "Avengers: Endgame"
+        },
+        {
+          "title": "Natasha Romanoff",
+          "description": "Captain America: The Winter Soldier"
+        }
+      ]
+    },
+    {
+      "quote": "I don't see how that's a party.",
+      "description": "2012 • Helicarrier Arrival",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Tony Stark",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Natasha Romanoff",
+          "description": "The Avengers"
+        },
+        {
+          "title": "Maria Hill",
+          "description": "The Avengers"
+        }
+      ]
+    },
+    {
+      "quote": "The city is flying and we're fighting an army of robots.",
+      "description": "2015 • Battle of Sokovia",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Tony Stark",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Pietro Maximoff",
+          "description": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Clint Barton",
+          "description": "Avengers: Age of Ultron"
+        }
+      ]
+    },
+    {
+      "quote": "Wakanda Forever!",
+      "description": "2018 • Border Tribe Charge",
+      "correct": 0,
+      "options": [
+        {
+          "title": "T'Challa",
+          "description": "Avengers: Infinity War"
+        },
+        {
+          "title": "Okoye",
+          "description": "Black Panther"
+        },
+        {
+          "title": "M'Baku",
+          "description": "Avengers: Endgame"
+        }
+      ]
+    }
+  ]
+}
