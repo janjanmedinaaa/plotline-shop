@@ -11,7 +11,7 @@
   "questions": [
     {
       "quote": "Swipe right for a good time, swipe left for a great time!",
-      "description": "Office • Tinder Bio",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -30,7 +30,7 @@
     },
     {
       "quote": "I'm a chill dude who loves to kiss!",
-      "description": "Office • Dating Profile",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -48,8 +48,8 @@
       ]
     },
     {
-      "quote": "Amir, you're fifty! No, I'm twenty-eight!",
-      "description": "Restaurant • Cheryl",
+      "quote": "I'm twenty-eight! And a half!",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -68,7 +68,7 @@
     },
     {
       "quote": "I'm gonna take her to a nice restaurant: McDonald's!",
-      "description": "Office • Date Plan",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -81,13 +81,13 @@
         },
         {
           "title": "Streeter",
-          "description": "CollegeHumor character"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "She texted me back! 'Stop texting me!'",
-      "description": "Office • Phone",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -106,7 +106,7 @@
     },
     {
       "quote": "I'm a romantic! I brought her a dead pigeon!",
-      "description": "Office • Gift",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -125,7 +125,7 @@
     },
     {
       "quote": "Just be yourself. Wait, no, be someone else.",
-      "description": "Office • Advice",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -144,7 +144,7 @@
     },
     {
       "quote": "I'm gonna kiss her! Right on the ear!",
-      "description": "Office • Practice",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -157,13 +157,13 @@
         },
         {
           "title": "Streeter",
-          "description": "CollegeHumor character"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "I got catfished by a twelve-year-old!",
-      "description": "Office • Laptop",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -182,7 +182,7 @@
     },
     {
       "quote": "I'm gonna ask out the waitress!",
-      "description": "Diner • Booth",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -201,7 +201,7 @@
     },
     {
       "quote": "You're a sweet boy, Amir.",
-      "description": "Restaurant • Cheryl",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -220,7 +220,7 @@
     },
     {
       "quote": "I'm wearing cologne! It's called 'Axe'!",
-      "description": "Office • Spraying",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -233,13 +233,13 @@
         },
         {
           "title": "Dan",
-          "description": "CollegeHumor writer & cast"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "Do you think she's 'The One'?",
-      "description": "Office • Looking at Phone",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -252,13 +252,13 @@
         },
         {
           "title": "Streeter",
-          "description": "CollegeHumor character"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "I'm a catch!",
-      "description": "Office • Mirror",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -277,7 +277,7 @@
     },
     {
       "quote": "Let's double date!",
-      "description": "Office • Desk",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -296,7 +296,7 @@
     },
     {
       "quote": "Did you just eat a whole jar of mayo?",
-      "description": "Office • Lunch",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -309,13 +309,13 @@
         },
         {
           "title": "Streeter",
-          "description": "CollegeHumor character"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "Dinner tonight? My treat—you pay!",
-      "description": "Office • Desk",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -328,13 +328,13 @@
         },
         {
           "title": "Pat",
-          "description": "CollegeHumor character"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "Bad vest! No, it's jeans!",
-      "description": "Office • Outfit Critique",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -353,7 +353,7 @@
     },
     {
       "quote": "You're a nightmare.",
-      "description": "Office • Every Day",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -366,13 +366,13 @@
         },
         {
           "title": "Dan",
-          "description": "CollegeHumor writer & cast"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "I'm Rick Fox! And I love eggs!",
-      "description": "Office • NBA Guest",
+      "description": "Jake and Amir • NBA Guest",
       "correct": 2,
       "options": [
         {
@@ -391,7 +391,7 @@
     },
     {
       "quote": "Hello, Amir! Remember me? Penis Anthony Doubligné!",
-      "description": "Office • Thomas Middleditch",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -410,7 +410,7 @@
     },
     {
       "quote": "Stop! Just stop talking!",
-      "description": "Office • Every Episode",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -429,7 +429,7 @@
     },
     {
       "quote": "I found these nuggets in my pocket from Tuesday!",
-      "description": "Office • Snack",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -442,13 +442,13 @@
         },
         {
           "title": "Streeter",
-          "description": "CollegeHumor character"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "Amir, I'm gonna kick your ass!",
-      "description": "Office • Murph",
+      "description": "Jake and Amir • Murph",
       "correct": 2,
       "options": [
         {
@@ -467,7 +467,7 @@
     },
     {
       "quote": "That's a bad tweet.",
-      "description": "Office • Social Media",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -486,7 +486,7 @@
     },
     {
       "quote": "Why is there a raccoon in your drawer?",
-      "description": "Office • Desk",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -505,7 +505,7 @@
     },
     {
       "quote": "I'm the Milk Man! Give me a glass!",
-      "description": "Office • Ben Schwartz",
+      "description": "Jake and Amir • Ben Schwartz",
       "correct": 0,
       "options": [
         {
@@ -524,7 +524,7 @@
     },
     {
       "quote": "I'm eating a cockmeat sandwich!",
-      "description": "Office • Lunch",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -542,8 +542,8 @@
       ]
     },
     {
-      "quote": "Why did you bring a live pigeon to work?",
-      "description": "Office • Desk",
+      "quote": "Why is there a live pigeon on your desk?",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -556,13 +556,13 @@
         },
         {
           "title": "Streeter",
-          "description": "CollegeHumor character"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "Dinner tonight?",
-      "description": "Office Desk • Classic Opener",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -581,7 +581,7 @@
     },
     {
       "quote": "Why are you eating raw cookie dough with your hands?",
-      "description": "Office • Desk",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -594,13 +594,13 @@
         },
         {
           "title": "Sarah",
-          "description": "CollegeHumor writer & cast"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "How is that fair?!",
-      "description": "Office • Every Episode",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -619,7 +619,7 @@
     },
     {
       "quote": "It's called 'efficiency'!",
-      "description": "Kitchen • Soup",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -632,13 +632,13 @@
         },
         {
           "title": "Streeter",
-          "description": "CollegeHumor character"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "That's HR! Run!",
-      "description": "Office • Hallway",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -657,7 +657,7 @@
     },
     {
       "quote": "You gotta learn how to be funny, man.",
-      "description": "Office • Comedy",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -676,7 +676,7 @@
     },
     {
       "quote": "I'm gonna sue you!",
-      "description": "Office • Argument",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -689,13 +689,13 @@
         },
         {
           "title": "Pat",
-          "description": "CollegeHumor character"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "My vest! It's called style, Amir!",
-      "description": "Office • Outfit",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -708,13 +708,13 @@
         },
         {
           "title": "Streeter",
-          "description": "CollegeHumor character"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "You broke the coffee machine!",
-      "description": "Kitchen • Morning",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -727,13 +727,13 @@
         },
         {
           "title": "Pat",
-          "description": "CollegeHumor character"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "Do you think I look like a cool guy?",
-      "description": "Office • Mirror",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -752,7 +752,7 @@
     },
     {
       "quote": "I'm doing taxes! With crayons!",
-      "description": "Office • April",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -765,13 +765,13 @@
         },
         {
           "title": "Ricky",
-          "description": "CollegeHumor executive"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "I'm Carrot Slat!",
-      "description": "Office • Ben Schwartz",
+      "description": "Jake and Amir • Ben Schwartz",
       "correct": 0,
       "options": [
         {
@@ -790,7 +790,7 @@
     },
     {
       "quote": "That's a bad idea.",
-      "description": "Office • Always Right",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -809,7 +809,7 @@
     },
     {
       "quote": "Do you want a bite of my hot dog?",
-      "description": "Office • No Bun",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -822,13 +822,13 @@
         },
         {
           "title": "Dan",
-          "description": "CollegeHumor writer & cast"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "Namaste.",
-      "description": "Office • Fake Zen",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -847,7 +847,7 @@
     },
     {
       "quote": "A-weird!",
-      "description": "Office • Adjective",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -860,13 +860,13 @@
         },
         {
           "title": "Dan",
-          "description": "CollegeHumor writer & cast"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "You're sitting in my chair!",
-      "description": "Office • Morning",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -879,13 +879,13 @@
         },
         {
           "title": "Streeter",
-          "description": "CollegeHumor character"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "It's a protein shake! Made of cheese!",
-      "description": "Office • Blender",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -904,7 +904,7 @@
     },
     {
       "quote": "I'm writing a screenplay! It's called 'The Vest'!",
-      "description": "Office • Typing",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -917,13 +917,13 @@
         },
         {
           "title": "Doobs",
-          "description": "CollegeHumor character"
+          "description": "Jake and Amir character"
         }
       ]
     },
     {
       "quote": "Please, just do your job.",
-      "description": "Office • Tired",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -942,7 +942,7 @@
     },
     {
       "quote": "Hey! Leave Amir alone—actually, no, hit him.",
-      "description": "Office • Streeter",
+      "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {

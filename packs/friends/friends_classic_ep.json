@@ -11,951 +11,951 @@
   "questions": [
     {
       "quote": "Could I BE wearing any more clothes?",
-      "description": "Season 3 • Getting Ready",
+      "description": "Friends • Getting Ready",
       "correct": 0,
       "options": [
         {
           "title": "S3E02 • The One Where No One's Ready",
-          "description": "Ross's museum benefit"
+          "description": "Friends • Season 3"
         },
         {
           "title": "S4E12 • The One with the Embryos",
-          "description": "Quiz"
+          "description": "Friends • Season 4"
         },
         {
           "title": "S5E14 • The One Where Everybody Finds Out",
-          "description": "Secret"
+          "description": "Friends • Season 5"
         }
       ]
     },
     {
-      "quote": "What is Chandler Bing's job?!",
-      "description": "Season 4 • Lightning Round",
+      "quote": "Statistical analysis and data reconfiguration—nobody knows!",
+      "description": "Friends • Lightning Round",
       "correct": 1,
       "options": [
         {
           "title": "S3E02 • The One Where No One's Ready",
-          "description": "Chair fight"
+          "description": "Friends • Season 3"
         },
         {
           "title": "S4E12 • The One with the Embryos",
-          "description": "Transponster!"
+          "description": "Friends • Season 4"
         },
         {
           "title": "S5E16 • The One with the Cop",
-          "description": "Pivot"
+          "description": "Friends • Season 5"
         }
       ]
     },
     {
       "quote": "That's not even a word!",
-      "description": "Season 4 • Apartment Bet",
+      "description": "Friends • Apartment Bet",
       "correct": 1,
       "options": [
         {
           "title": "S2E14 • The One with the Prom Video",
-          "description": "Lobster"
+          "description": "Friends • Season 2"
         },
         {
           "title": "S4E12 • The One with the Embryos",
-          "description": "Rachel yells 'Transponster!'"
+          "description": "Friends • Season 4"
         },
         {
           "title": "S6E09 • The One Where Ross Got High",
-          "description": "Trifle"
+          "description": "Friends • Season 6"
         }
       ]
     },
     {
       "quote": "He's her lobster!",
-      "description": "Season 2 • Prom Video",
+      "description": "Friends • Prom Video",
       "correct": 0,
       "options": [
         {
           "title": "S2E14 • The One with the Prom Video",
-          "description": "Phoebe's lobster theory"
+          "description": "Friends • Season 2"
         },
         {
           "title": "S1E01 • Pilot",
-          "description": "Wedding dress"
+          "description": "Friends • Season 1"
         },
         {
           "title": "S3E15 • The One Where Ross and Rachel Take a Break",
-          "description": "Break"
+          "description": "Friends • Season 3"
         }
       ]
     },
     {
-      "quote": "I, Ross, take thee Rachel...",
-      "description": "Season 4 • London Altar",
+      "quote": "I said the wrong name right in front of everyone at the altar.",
+      "description": "Friends • London Altar",
       "correct": 2,
       "options": [
         {
           "title": "S4E12 • The One with the Embryos",
-          "description": "Quiz"
+          "description": "Friends • Season 4"
         },
         {
           "title": "S5E01 • The One After Ross Says Rachel",
-          "description": "Reception"
+          "description": "Friends • Season 5"
         },
         {
           "title": "S4E24 • The One with Ross's Wedding",
-          "description": "Wrong name at the altar"
+          "description": "Friends • Season 4"
         }
       ]
     },
     {
       "quote": "Custard, good. Jam, good. Meat, GOOD!",
-      "description": "Season 6 • Thanksgiving",
+      "description": "Friends • Thanksgiving",
       "correct": 0,
       "options": [
         {
           "title": "S6E09 • The One Where Ross Got High",
-          "description": "Rachel's English trifle"
+          "description": "Friends • Season 6"
         },
         {
           "title": "S5E08 • The One with All the Thanksgivings",
-          "description": "Turkey head"
+          "description": "Friends • Season 5"
         },
         {
           "title": "S10E08 • The One with the Late Thanksgiving",
-          "description": "Floating heads"
+          "description": "Friends • Season 10"
         }
       ]
     },
     {
       "quote": "Pivot! Pivot! PIVOT!",
-      "description": "Season 5 • Stairwell",
+      "description": "Friends • Stairwell",
       "correct": 1,
       "options": [
         {
           "title": "S5E14 • The One Where Everybody Finds Out",
-          "description": "Balcony"
+          "description": "Friends • Season 5"
         },
         {
           "title": "S5E16 • The One with the Cop",
-          "description": "Ross buys a new couch"
+          "description": "Friends • Season 5"
         },
         {
           "title": "S6E17 • The One with Unagi",
-          "description": "Karate"
+          "description": "Friends • Season 6"
         }
       ]
     },
     {
       "quote": "They don't know that we know they know we know!",
-      "description": "Season 5 • Window",
+      "description": "Friends • Window",
       "correct": 0,
       "options": [
         {
           "title": "S5E14 • The One Where Everybody Finds Out",
-          "description": "Monica & Chandler's secret"
+          "description": "Friends • Season 5"
         },
         {
           "title": "S5E16 • The One with the Cop",
-          "description": "Couch"
+          "description": "Friends • Season 5"
         },
         {
           "title": "S4E12 • The One with the Embryos",
-          "description": "Bet"
+          "description": "Friends • Season 4"
         }
       ]
     },
     {
       "quote": "Seven! Seven! Seven!",
-      "description": "Season 4 • Living Room",
+      "description": "Friends • Living Room",
       "correct": 2,
       "options": [
         {
           "title": "S4E12 • The One with the Embryos",
-          "description": "Quiz"
+          "description": "Friends • Season 4"
         },
         {
           "title": "S5E08 • The One with All the Thanksgivings",
-          "description": "1987"
+          "description": "Friends • Season 5"
         },
         {
           "title": "S4E11 • The One with Phoebe's Uterus",
-          "description": "Monica's diagram"
+          "description": "Friends • Season 4"
         }
       ]
     },
     {
       "quote": "I got off the plane.",
-      "description": "Season 10 • Series Finale",
+      "description": "Friends • Series Finale",
       "correct": 1,
       "options": [
         {
           "title": "S9E24 • The One in Barbados",
-          "description": "Ping pong"
+          "description": "Friends • Season 9"
         },
         {
           "title": "S10E17 • The Last One",
-          "description": "Rachel returns to Ross"
+          "description": "Friends • Season 10"
         },
         {
           "title": "S8E24 • The One Where Rachel Has a Baby",
-          "description": "Hospital"
+          "description": "Friends • Season 8"
         }
       ]
     },
     {
       "quote": "Welcome to the real world. It sucks. You're gonna love it.",
-      "description": "Season 1 • Pilot",
+      "description": "Friends • Pilot",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • The One Where Monica Gets a Roommate",
-          "description": "Monica to Rachel"
+          "description": "Friends • Season 1"
         },
         {
           "title": "S1E07 • The One with the Blackout",
-          "description": "Vestibule"
+          "description": "Friends • Season 1"
         },
         {
           "title": "S2E07 • The One Where Ross Finds Out",
-          "description": "Cat"
+          "description": "Friends • Season 2"
         }
       ]
     },
     {
       "quote": "I'm trapped in an ATM vestibule with Jill Goodacre!",
-      "description": "Season 1 • Blackout",
+      "description": "Friends • Blackout",
       "correct": 1,
       "options": [
         {
           "title": "S1E01 • Pilot",
-          "description": "Central Perk"
+          "description": "Friends • Season 1"
         },
         {
           "title": "S1E07 • The One with the Blackout",
-          "description": "Chandler's whisper"
+          "description": "Friends • Season 1"
         },
         {
           "title": "S2E14 • The One with the Prom Video",
-          "description": "Bracelet"
+          "description": "Friends • Season 2"
         }
       ]
     },
     {
       "quote": "My eyes! My eyes!",
-      "description": "Season 5 • Ugly Naked Guy's",
+      "description": "Friends • Ugly Naked Guy's",
       "correct": 0,
       "options": [
         {
           "title": "S5E14 • The One Where Everybody Finds Out",
-          "description": "Phoebe sees Monica & Chandler"
+          "description": "Friends • Season 5"
         },
         {
           "title": "S5E08 • The One with All the Thanksgivings",
-          "description": "Turkey"
+          "description": "Friends • Season 5"
         },
         {
           "title": "S6E09 • The One Where Ross Got High",
-          "description": "Trifle"
+          "description": "Friends • Season 6"
         }
       ]
     },
     {
-      "quote": "I'm fine! Totally fine!",
-      "description": "Season 10 • Fajitas",
+      "quote": "My fajitas are ready, and I'm totally fine!",
+      "description": "Friends • Fajitas",
       "correct": 2,
       "options": [
         {
           "title": "S5E16 • The One with the Cop",
-          "description": "Couch"
+          "description": "Friends • Season 5"
         },
         {
           "title": "S6E17 • The One with Unagi",
-          "description": "Salmon"
+          "description": "Friends • Season 6"
         },
         {
           "title": "S10E02 • The One Where Ross Is Fine",
-          "description": "Ross's squeaky voice"
+          "description": "Friends • Season 10"
         }
       ]
     },
     {
       "quote": "See? He's her lobster!",
-      "description": "Season 2 • Apartment 20",
+      "description": "Friends • Apartment 20",
       "correct": 0,
       "options": [
         {
           "title": "S2E14 • The One with the Prom Video",
-          "description": "Ross & Rachel kiss"
+          "description": "Friends • Season 2"
         },
         {
           "title": "S3E02 • The One Where No One's Ready",
-          "description": "Dress"
+          "description": "Friends • Season 3"
         },
         {
           "title": "S10E17 • The Last One",
-          "description": "Keys"
-        }
-      ]
-    },
-    {
-      "quote": "Je m'appelle Claude.",
-      "description": "Season 10 • French Audition",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Speaking gibberish"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Teaching him French"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Laughing"
-        }
-      ]
-    },
-    {
-      "quote": "I'm wonderfully weird!",
-      "description": "Season 9 • Mike's Parents",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Kitchen"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Paris"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "To Mike"
-        }
-      ]
-    },
-    {
-      "quote": "I'm curvy and I like it!",
-      "description": "Season 7 • Turkey Pants",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Cooking"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Teasing"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Phoebe's maternity pants"
-        }
-      ]
-    },
-    {
-      "quote": "I'm not gonna let you go to Paris, Rachel.",
-      "description": "Season 10 • Airport",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Gunther",
-          "description": "Confessing"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Terminal"
-        },
-        {
-          "title": "Mark Robinson",
-          "description": "Bloomingdale's"
-        }
-      ]
-    },
-    {
-      "quote": "The fridge broke, so I had to eat everything.",
-      "description": "Apartment 19 • Kitchen",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Logical solution"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Paying for it"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Cheesecake"
+          "description": "Friends • Season 10"
         }
       ]
     },
     {
       "quote": "My best friend and my sister!",
-      "description": "Season 5/6 • Apartment",
+      "description": "Friends • Season 5/6 • Apartment",
       "correct": 2,
       "options": [
         {
           "title": "S6E09 • Ross Got High",
-          "description": "Living room"
+          "description": "Friends • Season 6"
         },
         {
           "title": "S6E25 • The Proposal",
-          "description": "Candles"
+          "description": "Friends • Season 6"
         },
         {
           "title": "S5E14 • The One Where Everybody Finds Out",
-          "description": "Ross sees them"
+          "description": "Friends • Season 5"
         }
       ]
     },
     {
-      "quote": "You're a shoe! You're a shoe! You're a shoe!",
-      "description": "Season 1 • Phone Call",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Closet"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Telling her dad off"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Central Perk"
-        }
-      ]
-    },
-    {
-      "quote": "I'm the Holiday Armadillo!",
-      "description": "Season 7 • Apartment",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Teaching Ben about Hanukkah"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Santa"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Superman"
-        }
-      ]
-    },
-    {
-      "quote": "We're late! The floating heads!",
-      "description": "Season 10 • Hallway Door",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Angry"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Lock"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Stuck in the door"
-        }
-      ]
-    },
-    {
-      "quote": "Mississippi-lessly?!",
-      "description": "Season 10 • Spray Tan Salon",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Counted '1 Mississippi'"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Laughing at the tan"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Counting"
-        }
-      ]
-    },
-    {
-      "quote": "Wait, where?",
-      "description": "Season 10 • Last Line",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "After Rachel asks 'get some coffee?'"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Doorway"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Keys"
-        }
-      ]
-    },
-    {
-      "quote": "You ate my sandwich?!",
-      "description": "Season 5 • Museum",
+      "quote": "Did you confuse it with your own turkey leftover?",
+      "description": "Friends • Museum",
       "correct": 2,
       "options": [
         {
           "title": "S5E08 • All the Thanksgivings",
-          "description": "1992"
+          "description": "Friends • Season 5"
         },
         {
           "title": "S5E14 • Everybody Finds Out",
-          "description": "Balcony"
+          "description": "Friends • Season 5"
         },
         {
           "title": "S5E09 • The One with Ross's Sandwich",
-          "description": "The Moist Maker"
-        }
-      ]
-    },
-    {
-      "quote": "My favorite part was when Superman flew all the Jews out of Egypt.",
-      "description": "Season 7 • Living Room",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "No!"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Santa"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "In Superman suit"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a little bit country!",
-      "description": "Season 3 • Touch Football",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Running"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Flashing"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Long"
-        }
-      ]
-    },
-    {
-      "quote": "I thought you were Chandler!",
-      "description": "Central Perk • Couch",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Janice Litman",
-          "description": "Laughing"
-        },
-        {
-          "title": "Gunther",
-          "description": "Hates Ross"
-        },
-        {
-          "title": "Mike Hannigan",
-          "description": "Piano"
-        }
-      ]
-    },
-    {
-      "quote": "They're not coming on, man! And the lotion and the powder have made a paste!",
-      "description": "Season 5 • Bathroom",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Leather pants disaster"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "On the phone"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Living room"
-        }
-      ]
-    },
-    {
-      "quote": "I'm not great at the advice. Can I interest you in a sarcastic comment?",
-      "description": "Central Perk • Couch",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Classic Chandler"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Dinosaur lecture"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Cleaning"
-        }
-      ]
-    },
-    {
-      "quote": "I hate Thanksgiving!",
-      "description": "Every Thanksgiving • Couch",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Loves food"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Parents' divorce"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Turkey"
-        }
-      ]
-    },
-    {
-      "quote": "I'm Crap Bag.",
-      "description": "Season 10 • Central Perk",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Gunther",
-          "description": "Coffee"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Laughing"
-        },
-        {
-          "title": "Mike Hannigan",
-          "description": "Paul Rudd"
-        }
-      ]
-    },
-    {
-      "quote": "I wish I could, but I don't want to.",
-      "description": "Season 1 • Central Perk",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Honest excuse"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Sleeping"
-        }
-      ]
-    },
-    {
-      "quote": "Little black curly hair!",
-      "description": "Central Perk • Open Mic",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Original song"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Keyboard"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Clapping"
-        }
-      ]
-    },
-    {
-      "quote": "Rachel, I love you. That's all.",
-      "description": "Season 10 • Central Perk",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Gunther",
-          "description": "Finally tells Rachel"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Cab"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Booth"
-        }
-      ]
-    },
-    {
-      "quote": "If I have to, I'll pee on anyone!",
-      "description": "Season 4 • Beach",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Jellyfish"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Stung"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Stepped up"
-        }
-      ]
-    },
-    {
-      "quote": "DANGER! DANGER!",
-      "description": "Season 6 • Unagi Prank",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Jumping out at Rachel & Phoebe"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Laughing"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Unimpressed"
-        }
-      ]
-    },
-    {
-      "quote": "Why is your family Scottish? Why is your family ROSS?!",
-      "description": "Season 7 • Bagpipes",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Playing bagpipes"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Covering ears"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Screaming over the pipes"
-        }
-      ]
-    },
-    {
-      "quote": "Ah, salmon skin roll.",
-      "description": "Season 6 • Central Perk",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Unagi"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Teasing Ross"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Smirking"
+          "description": "Friends • Season 5"
         }
       ]
     },
     {
       "quote": "I'm going to Yemen! 15 Yemen Road, Yemen!",
-      "description": "Season 4 • Airport",
+      "description": "Friends • Airport",
       "correct": 1,
       "options": [
         {
           "title": "S4E12 • The One with the Embryos",
-          "description": "Apartment"
+          "description": "Friends • Season 4"
         },
         {
           "title": "S4E15 • The One with All the Rugby",
-          "description": "Chandler escaping Janice"
+          "description": "Friends • Season 4"
         },
         {
           "title": "S4E24 • Ross's Wedding",
-          "description": "London"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna be a dinosaur!",
-      "description": "Season 1 • Museum",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist"
-        },
-        {
-          "title": "Ben Geller",
-          "description": "Playing"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Audition"
-        }
-      ]
-    },
-    {
-      "quote": "I'm curvy, and I like it!",
-      "description": "Season 7 • Apartment",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Massage"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Cooking"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Eating"
-        }
-      ]
-    },
-    {
-      "quote": "That's right, I stepped up!",
-      "description": "Season 4 • Beach",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Watching"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Guilty"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "About the jellyfish"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a huge fan of your work, Joey.",
-      "description": "Days of Our Lives • Set",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Gunther",
-          "description": "Coffee"
-        },
-        {
-          "title": "Richard Burke",
-          "description": "Cigar"
-        },
-        {
-          "title": "Mr. Heckles",
-          "description": "Broom"
+          "description": "Friends • Season 4"
         }
       ]
     },
     {
       "quote": "Veto!",
-      "description": "Season 9 • Baby Names",
+      "description": "Friends • Baby Names",
       "correct": 0,
       "options": [
         {
           "title": "S9E05 • Phoebe's Birthday Dinner",
-          "description": "Wait—S8/S9"
+          "description": "Friends • Season 9"
         },
         {
           "title": "S10E13 • Joey Speaks French",
-          "description": "Audition"
+          "description": "Friends • Season 10"
         },
         {
           "title": "S10E17 • The Last One",
-          "description": "Airport"
+          "description": "Friends • Season 10"
         }
       ]
     },
     {
       "quote": "I'm not gonna be a shoe!",
-      "description": "Season 1 • Coffee Shop",
+      "description": "Friends • Coffee Shop",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • The One Where Monica Gets a Roommate",
-          "description": "Rachel cuts her credit cards"
+          "description": "Friends • Season 1"
         },
         {
           "title": "S1E07 • The One with the Blackout",
-          "description": "Vestibule"
+          "description": "Friends • Season 1"
         },
         {
           "title": "S1E18 • The One with All the Poker",
-          "description": "Poker"
+          "description": "Friends • Season 1"
         }
       ]
     },
     {
-      "quote": "EEEEE! EEEEE!",
-      "description": "Season 7 • Playing Bagpipes",
+      "quote": "Why God, why?! We had a deal!",
+      "description": "Friends • 30th Birthday",
       "correct": 1,
       "options": [
         {
-          "title": "Ross Geller",
-          "description": "Playing"
+          "title": "S7E10 • Holiday Armadillo",
+          "description": "Friends • Season 7"
         },
         {
-          "title": "Phoebe Buffay",
-          "description": "Singing along with the pipes"
+          "title": "S7E14 • The One Where They All Turn Thirty",
+          "description": "Friends • Season 7"
         },
         {
-          "title": "Rachel Green",
-          "description": "Holding back laughter"
+          "title": "S8E09 • The Rumor",
+          "description": "Friends • Season 8"
         }
       ]
     },
     {
-      "quote": "You make me happier than I ever thought I could be.",
-      "description": "Season 6 • Apartment 20",
+      "quote": "I'm Ken Adams!",
+      "description": "Friends • Living Room",
       "correct": 0,
       "options": [
         {
-          "title": "Chandler Bing",
-          "description": "Proposal speech"
+          "title": "S8E04 • The One with the Videotape",
+          "description": "Friends • Season 8"
         },
         {
-          "title": "Ross Geller",
-          "description": "Airport"
+          "title": "S9E02 • Emma Cries",
+          "description": "Friends • Season 9"
         },
         {
-          "title": "Mike Hannigan",
-          "description": "Wedding"
+          "title": "S10E02 • Ross Is Fine",
+          "description": "Friends • Season 10"
+        }
+      ]
+    },
+    {
+      "quote": "That's not a cat!",
+      "description": "Friends • Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E21 • The One with the Ball",
+          "description": "Friends • Season 5"
+        },
+        {
+          "title": "S4E01 • The Jellyfish",
+          "description": "Friends • Season 4"
+        },
+        {
+          "title": "S3E08 • Giant Poking Device",
+          "description": "Friends • Season 3"
+        }
+      ]
+    },
+    {
+      "quote": "Je m'appelle Claude.",
+      "description": "Friends • Theater",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S10E03 • Ross's Tan",
+          "description": "Friends • Season 10"
+        },
+        {
+          "title": "S10E13 • The One Where Joey Speaks French",
+          "description": "Friends • Season 10"
+        },
+        {
+          "title": "S10E17 • The Last One",
+          "description": "Friends • Season 10"
+        }
+      ]
+    },
+    {
+      "quote": "I wasn't supposed to put beef in the trifle!",
+      "description": "Friends • Apartment 20",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S6E09 • The One Where Ross Got High",
+          "description": "Friends • Season 6"
+        },
+        {
+          "title": "S7E08 • Chandler Doesn't Like Dogs",
+          "description": "Friends • Season 7"
+        },
+        {
+          "title": "S8E09 • The Rumor",
+          "description": "Friends • Season 8"
+        }
+      ]
+    },
+    {
+      "quote": "You can't just give up! Is that what a dinosaur would do?",
+      "description": "Spoken by Joey Tribbiani",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E18 • The One with All the Poker",
+          "description": "Friends • Season 1"
+        },
+        {
+          "title": "S5E09 • The One with Ross's Sandwich",
+          "description": "Friends • Season 5"
+        },
+        {
+          "title": "S8E04 • The One with the Videotape",
+          "description": "Friends • Season 8"
+        }
+      ]
+    },
+    {
+      "quote": "Years ago, when I was backpacking across Western Europe...",
+      "description": "Friends • Mount Tibidabo",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S8E04 • The One with the Videotape",
+          "description": "Friends • Season 8"
+        },
+        {
+          "title": "S8E09 • The Rumor",
+          "description": "Friends • Season 8"
+        },
+        {
+          "title": "S8E24 • Rachel Has a Baby",
+          "description": "Friends • Season 8"
+        }
+      ]
+    },
+    {
+      "quote": "Gum would be perfection.",
+      "description": "Spoken by Chandler Bing",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E07 • The One with the Blackout",
+          "description": "Friends • Season 1"
+        },
+        {
+          "title": "S2E07 • The One Where Ross Finds Out",
+          "description": "Friends • Season 2"
+        },
+        {
+          "title": "S3E08 • The One with the Giant Poking Device",
+          "description": "Friends • Season 3"
+        }
+      ]
+    },
+    {
+      "quote": "I'm breezy!",
+      "description": "Spoken by Monica Geller",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E02 • The One Where No One's Ready",
+          "description": "Friends • Season 3"
+        },
+        {
+          "title": "S4E15 • The One with All the Rugby",
+          "description": "Friends • Season 4"
+        },
+        {
+          "title": "S2E20 • The One Where Old Yeller Dies",
+          "description": "Friends • Season 2"
+        }
+      ]
+    },
+    {
+      "quote": "The margaritas are kicking in, and everything is great!",
+      "description": "Friends • Ross's Apartment",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S9E24 • Barbados",
+          "description": "Friends • Season 9"
+        },
+        {
+          "title": "S10E02 • The One Where Ross Is Fine",
+          "description": "Friends • Season 10"
+        },
+        {
+          "title": "S10E03 • Ross's Tan",
+          "description": "Friends • Season 10"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a doctor, not a miracle worker—actually, I'm a paleontologist.",
+      "description": "Spoken by Ross Geller",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S4E24 • The One with Ross's Wedding",
+          "description": "Friends • Season 4"
+        },
+        {
+          "title": "S5E16 • The One with the Cop",
+          "description": "Friends • Season 5"
+        },
+        {
+          "title": "S10E03 • The One with Ross's Tan",
+          "description": "Friends • Season 10"
+        }
+      ]
+    },
+    {
+      "quote": "Should we get some coffee?",
+      "description": "Friends • Empty Apartment",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S10E08 • Late Thanksgiving",
+          "description": "Friends • Season 10"
+        },
+        {
+          "title": "S10E13 • Joey Speaks French",
+          "description": "Friends • Season 10"
+        },
+        {
+          "title": "S10E17 • The Last One",
+          "description": "Friends • Season 10"
+        }
+      ]
+    },
+    {
+      "quote": "When were you... under me?",
+      "description": "Friends • Central Perk",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E01 • The One with Ross's New Girlfriend",
+          "description": "Friends • Season 2"
+        },
+        {
+          "title": "S2E14 • The One with the Prom Video",
+          "description": "Friends • Season 2"
+        },
+        {
+          "title": "S2E07 • The One Where Ross Finds Out",
+          "description": "Friends • Season 2"
+        }
+      ]
+    },
+    {
+      "quote": "Wait... you had a turkey on your head!",
+      "description": "Friends • Flashback Thanksgiving",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E01 • After Ross Says Rachel",
+          "description": "Friends • Season 5"
+        },
+        {
+          "title": "S5E08 • The One with All the Thanksgivings",
+          "description": "Friends • Season 5"
+        },
+        {
+          "title": "S6E09 • Ross Got High",
+          "description": "Friends • Season 6"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna go get one of those job things.",
+      "description": "Spoken by Rachel Green",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E14 • The One with the Prom Video",
+          "description": "Friends • Season 2"
+        },
+        {
+          "title": "S1E01 • The One Where Monica Gets a Roommate",
+          "description": "Friends • Season 1"
+        },
+        {
+          "title": "S3E02 • The One Where No One's Ready",
+          "description": "Friends • Season 3"
+        }
+      ]
+    },
+    {
+      "quote": "I'm hopeless and awkward and desperate for love!",
+      "description": "Spoken by Chandler Bing",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S6E24 • The One with the Proposal",
+          "description": "Friends • Season 6"
+        },
+        {
+          "title": "S1E01 • The One Where Monica Gets a Roommate",
+          "description": "Friends • Season 1"
+        },
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Friends • Season 4"
+        }
+      ]
+    },
+    {
+      "quote": "I'm an eight!",
+      "description": "Friends • Tanning Salon",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S10E02 • Ross Is Fine",
+          "description": "Friends • Season 10"
+        },
+        {
+          "title": "S10E08 • Late Thanksgiving",
+          "description": "Friends • Season 10"
+        },
+        {
+          "title": "S10E03 • The One with Ross's Tan",
+          "description": "Friends • Season 10"
+        }
+      ]
+    },
+    {
+      "quote": "You fell asleep?!",
+      "description": "Friends • Bedroom",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Friends • Season 4"
+        },
+        {
+          "title": "S4E24 • Ross's Wedding",
+          "description": "Friends • Season 4"
+        },
+        {
+          "title": "S4E01 • The One with the Jellyfish",
+          "description": "Friends • Season 4"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the founder of the 'I Hate Rachel Green' club!",
+      "description": "Friends • Thanksgiving",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S7E24 • Wedding",
+          "description": "Friends • Season 7"
+        },
+        {
+          "title": "S8E04 • The One with the Videotape",
+          "description": "Friends • Season 8"
+        },
+        {
+          "title": "S8E09 • The One with the Rumor",
+          "description": "Friends • Season 8"
+        }
+      ]
+    },
+    {
+      "quote": "You have to stop the Q-tip when there's resistance!",
+      "description": "Spoken by Chandler Bing",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Friends • Season 4"
+        },
+        {
+          "title": "S5E14 • The One Where Everybody Finds Out",
+          "description": "Friends • Season 5"
+        },
+        {
+          "title": "S2E06 • The One with the Baby on the Bus",
+          "description": "Friends • Season 2"
+        }
+      ]
+    },
+    {
+      "quote": "In London?!",
+      "description": "Friends • Reception",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E01 • The One After Ross Says Rachel",
+          "description": "Friends • Season 5"
+        },
+        {
+          "title": "S4E24 • The One with Ross's Wedding",
+          "description": "Friends • Season 4"
+        },
+        {
+          "title": "S5E14 • Everybody Finds Out",
+          "description": "Friends • Season 5"
+        }
+      ]
+    },
+    {
+      "quote": "I'm sorry, did my back hurt your knife?",
+      "description": "Spoken by Rachel Green",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E01 • The One with the Jellyfish",
+          "description": "Friends • Season 4"
+        },
+        {
+          "title": "S5E08 • The One with All the Thanksgivings",
+          "description": "Friends • Season 5"
+        },
+        {
+          "title": "S3E15 • The One Where Ross and Rachel Take a Break",
+          "description": "Friends • Season 3"
+        }
+      ]
+    },
+    {
+      "quote": "Look at me, I'm Chandlerrr!",
+      "description": "Friends • Bedroom",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E08 • The One with the Giant Poking Device",
+          "description": "Friends • Season 3"
+        },
+        {
+          "title": "S3E02 • The One Where No One's Ready",
+          "description": "Friends • Season 3"
+        },
+        {
+          "title": "S3E15 • The One Where Ross and Rachel Take a Break",
+          "description": "Friends • Season 3"
+        }
+      ]
+    },
+    {
+      "quote": "It's 18 pages... FRONT AND BACK!",
+      "description": "Friends • Beach House",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E15 • Take a Break",
+          "description": "Friends • Season 3"
+        },
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Friends • Season 4"
+        },
+        {
+          "title": "S4E01 • The One with the Jellyfish",
+          "description": "Friends • Season 4"
+        }
+      ]
+    },
+    {
+      "quote": "Your collective dating record reads like a who's who of human crap.",
+      "description": "Friends • Poker Night",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Friends • Season 1"
+        },
+        {
+          "title": "S1E18 • The One with All the Poker",
+          "description": "Friends • Season 1"
+        },
+        {
+          "title": "S2E07 • The One Where Ross Finds Out",
+          "description": "Friends • Season 2"
+        }
+      ]
+    },
+    {
+      "quote": "We taped thirty chopsticks together to reach across the street.",
+      "description": "Friends • Apartment 20",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E08 • The One with the Giant Poking Device",
+          "description": "Friends • Season 3"
+        },
+        {
+          "title": "S3E02 • The One Where No One's Ready",
+          "description": "Friends • Season 3"
+        },
+        {
+          "title": "S3E15 • The One Where Ross and Rachel Take a Break",
+          "description": "Friends • Season 3"
+        }
+      ]
+    },
+    {
+      "quote": "Red Ross!",
+      "description": "Friends • Rugby",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E09 • The One with Ross's Sandwich",
+          "description": "Friends • Season 5"
+        },
+        {
+          "title": "S4E15 • The One with All the Rugby",
+          "description": "Friends • Season 4"
+        },
+        {
+          "title": "S5E16 • The One with the Cop",
+          "description": "Friends • Season 5"
+        }
+      ]
+    },
+    {
+      "quote": "You're gonna be a great dad.",
+      "description": "Friends • Holiday Armadillo",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S7E10 • The One with the Holiday Armadillo",
+          "description": "Friends • Season 7"
+        },
+        {
+          "title": "S7E14 • They All Turn Thirty",
+          "description": "Friends • Season 7"
+        },
+        {
+          "title": "S7E24 • Monica and Chandler's Wedding",
+          "description": "Friends • Season 7"
+        }
+      ]
+    },
+    {
+      "quote": "Paper! Snow! A ghost!",
+      "description": "Friends • Game Show",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E16 • The One with the Cop",
+          "description": "Friends • Season 5"
+        },
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Friends • Season 4"
+        },
+        {
+          "title": "S6E11 • The One with the Apothecary Table",
+          "description": "Friends • Season 6"
+        }
+      ]
+    },
+    {
+      "quote": "Why is it inside out?!",
+      "description": "Friends • Cat",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E21 • The One with the Ball",
+          "description": "Friends • Season 5"
+        },
+        {
+          "title": "S5E14 • Everybody Finds Out",
+          "description": "Friends • Season 5"
+        },
+        {
+          "title": "S5E09 • Ross's Sandwich",
+          "description": "Friends • Season 5"
         }
       ]
     }

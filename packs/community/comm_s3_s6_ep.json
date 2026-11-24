@@ -11,951 +11,951 @@
   "questions": [
     {
       "quote": "I'm a sexy cat!",
-      "description": "Season 3/5 • Nic Cage",
+      "description": "Community • Season 3/5 • Nic Cage",
       "correct": 0,
       "options": [
         {
           "title": "S5E02 • Introduction to Teaching",
-          "description": "Abed's Nic Cage class"
+          "description": "Community • Season 5"
         },
         {
           "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Timeline"
+          "description": "Community • Season 3"
         },
         {
           "title": "S3E14 • Pillows and Blankets",
-          "description": "Fort"
+          "description": "Community • Season 3"
         }
       ]
     },
     {
       "quote": "Evil Troy and Evil Abed!",
-      "description": "Season 3 • Darkest Timeline",
+      "description": "Community • Darkest Timeline",
       "correct": 1,
       "options": [
         {
           "title": "S3E14 • Pillows and Blankets",
-          "description": "Blanket"
+          "description": "Community • Season 3"
         },
         {
           "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Felt goatees"
+          "description": "Community • Season 3"
         },
         {
           "title": "S3E17 • Basic Lupine Urology",
-          "description": "Yam"
+          "description": "Community • Season 3"
         }
       ]
     },
     {
       "quote": "Who killed the yam?!",
-      "description": "Season 3 • Biology",
+      "description": "Community • Biology",
       "correct": 2,
       "options": [
         {
           "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Dice"
+          "description": "Community • Season 3"
         },
         {
           "title": "S3E14 • Pillows and Blankets",
-          "description": "War"
+          "description": "Community • Season 3"
         },
         {
           "title": "S3E17 • Basic Lupine Urology",
-          "description": "Law & Order parody"
+          "description": "Community • Season 3"
         }
       ]
     },
     {
       "quote": "I'm the True Repairman!",
-      "description": "Season 3 • AC Repair School",
+      "description": "Community • AC Repair School",
       "correct": 0,
       "options": [
         {
           "title": "S3E22 • Introduction to Finality",
-          "description": "Sun Chamber duel"
+          "description": "Community • Season 3"
         },
         {
           "title": "S3E14 • Pillows and Blankets",
-          "description": "War"
+          "description": "Community • Season 3"
         },
         {
           "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Pizza"
+          "description": "Community • Season 3"
         }
       ]
     },
     {
       "quote": "Welcome to the Dreamatorium!",
-      "description": "Season 3 • Apartment 303",
+      "description": "Community • Apartment 303",
       "correct": 1,
       "options": [
         {
           "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Hallway"
+          "description": "Community • Season 3"
         },
         {
           "title": "S3E16 • Virtual Systems Analysis",
-          "description": "Annie & Abed"
+          "description": "Community • Season 3"
         },
         {
           "title": "S3E17 • Basic Lupine Urology",
-          "description": "Lab"
+          "description": "Community • Season 3"
         }
       ]
     },
     {
       "quote": "Here's your sperm.",
-      "description": "Season 5 • Study Room",
+      "description": "Community • Study Room",
       "correct": 2,
       "options": [
         {
           "title": "S5E02 • Intro to Teaching",
-          "description": "Class"
+          "description": "Community • Season 5"
         },
         {
           "title": "S5E05 • Geothermal Escapism",
-          "description": "Lava"
+          "description": "Community • Season 5"
         },
         {
           "title": "S5E04 • Cooperative Polygraphy",
-          "description": "Pierce's bequeathals"
+          "description": "Community • Season 5"
         }
       ]
     },
     {
       "quote": "The floor is lava! Knock knock!",
-      "description": "Season 5 • Campus",
+      "description": "Community • Campus",
       "correct": 1,
       "options": [
         {
           "title": "S5E04 • Cooperative Polygraphy",
-          "description": "Will"
+          "description": "Community • Season 5"
         },
         {
           "title": "S5E05 • Geothermal Escapism",
-          "description": "Clone Troy"
+          "description": "Community • Season 5"
         },
         {
           "title": "S5E08 • App Development and Condiments",
-          "description": "Beenz"
+          "description": "Community • Season 5"
         }
       ]
     },
     {
       "quote": "I'm a 5! Bow before my MeowMeowBeenz!",
-      "description": "Season 5 • Cafeteria",
+      "description": "Community • Cafeteria",
       "correct": 2,
       "options": [
         {
           "title": "S5E04 • Cooperative Polygraphy",
-          "description": "Polygraph"
+          "description": "Community • Season 5"
         },
         {
           "title": "S5E05 • Geothermal Escapism",
-          "description": "Chair"
+          "description": "Community • Season 5"
         },
         {
           "title": "S5E08 • App Development and Condiments",
-          "description": "Shirley & Jeff"
+          "description": "Community • Season 5"
         }
       ]
     },
     {
       "quote": "It's a GI Joe cartoon! Yo Joe!",
-      "description": "Season 5 • Animated",
+      "description": "Community • Animated",
       "correct": 0,
       "options": [
         {
           "title": "S5E11 • G.I. Jeff",
-          "description": "Jeff's 40th birthday"
+          "description": "Community • Season 5"
         },
         {
           "title": "S5E08 • App Development",
-          "description": "Beenz"
+          "description": "Community • Season 5"
         },
         {
           "title": "S5E05 • Geothermal Escapism",
-          "description": "Lava"
+          "description": "Community • Season 5"
         }
       ]
     },
     {
       "quote": "Elroy! Encourage white people!",
-      "description": "Season 6 • RV",
+      "description": "Community • RV",
       "correct": 1,
       "options": [
         {
           "title": "S6E01 • Ladders",
-          "description": "Frankie arrives"
+          "description": "Community • Season 6"
         },
         {
           "title": "S6E12 • Wedding Videography",
-          "description": "Garrett's wedding"
+          "description": "Community • Season 6"
         },
         {
           "title": "S6E13 • Emotional Consequences of Broadcast Television",
-          "description": "Finale"
+          "description": "Community • Season 6"
         }
       ]
     },
     {
       "quote": "Now there's a man who knows how to marry his cousin!",
-      "description": "Season 6 • Wedding",
+      "description": "Community • Wedding",
       "correct": 1,
       "options": [
         {
           "title": "S6E01 • Ladders",
-          "description": "Bar"
+          "description": "Community • Season 6"
         },
         {
           "title": "S6E12 • Wedding Videography",
-          "description": "Elroy's addiction to encouraging white people"
+          "description": "Community • Season 6"
         },
         {
           "title": "S6E13 • Series Finale",
-          "description": "Bar"
+          "description": "Community • Season 6"
         }
       ]
     },
     {
       "quote": "I'm Frankie Dart, and I'm here to save Greendale.",
-      "description": "Season 6 • Premiere",
+      "description": "Community • Premiere",
       "correct": 0,
       "options": [
         {
           "title": "S6E01 • Ladders",
-          "description": "Speakeasy"
+          "description": "Community • Season 6"
         },
         {
           "title": "S6E07 • Advanced Safety Features",
-          "description": "Honda"
+          "description": "Community • Season 6"
         },
         {
           "title": "S6E12 • Wedding Videography",
-          "description": "Wedding"
+          "description": "Community • Season 6"
         }
       ]
     },
     {
       "quote": "I'm a level 7 susceptible!",
-      "description": "Season 6 • Honda CR-V",
+      "description": "Community • Honda CR-V",
       "correct": 1,
       "options": [
         {
           "title": "S6E01 • Ladders",
-          "description": "Ladders class"
+          "description": "Community • Season 6"
         },
         {
           "title": "S6E07 • Advanced Safety Features",
-          "description": "Subway & Honda"
+          "description": "Community • Season 6"
         },
         {
           "title": "S6E13 • Series Finale",
-          "description": "Pitching Season 7"
+          "description": "Community • Season 6"
         }
       ]
     },
     {
       "quote": "Cool. Cool cool cool... #AndAMovie.",
-      "description": "Season 6 • Series Finale",
+      "description": "Community • Series Finale",
       "correct": 2,
       "options": [
         {
           "title": "S6E01 • Ladders",
-          "description": "Bar"
+          "description": "Community • Season 6"
         },
         {
           "title": "S6E12 • Wedding Videography",
-          "description": "Toast"
+          "description": "Community • Season 6"
         },
         {
           "title": "S6E13 • Emotional Consequences of Broadcast Television",
-          "description": "Airport hug"
+          "description": "Community • Season 6"
         }
       ]
     },
     {
-      "quote": "Ladders! Welcome to Ladders!",
-      "description": "Season 6 • Cafeteria",
+      "quote": "Who wants to see how high we can climb in the cafeteria?",
+      "description": "Community • Cafeteria",
       "correct": 0,
       "options": [
         {
           "title": "S6E01 • Ladders",
-          "description": "Greendale's most dangerous class"
+          "description": "Community • Season 6"
         },
         {
           "title": "S5E05 • Geothermal Escapism",
-          "description": "Lava"
+          "description": "Community • Season 5"
         },
         {
           "title": "S3E14 • Pillows and Blankets",
-          "description": "Fort"
-        }
-      ]
-    },
-    {
-      "quote": "This is the darkest timeline.",
-      "description": "Apartment 303 • Fire",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Naming the timeline"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Troll doll"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Gun"
+          "description": "Community • Season 3"
         }
       ]
     },
     {
       "quote": "Greendale is on lockdown! Paintball!",
-      "description": "Season 1 • Priority Registration",
+      "description": "Community • Priority Registration",
       "correct": 1,
       "options": [
         {
           "title": "S1E21 • Contemporary American Poultry",
-          "description": "Mafia"
+          "description": "Community • Season 1"
         },
         {
           "title": "S1E23 • Modern Warfare",
-          "description": "First paintball war"
+          "description": "Community • Season 1"
         },
         {
           "title": "S2E23 • A Fistful of Paintballs",
-          "description": "Second paintball"
-        }
-      ]
-    },
-    {
-      "quote": "Greendale is a slam dunk!",
-      "description": "Campus • Commercial",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Thumbs up"
-        },
-        {
-          "title": "Dean Pelton",
-          "description": "Filming"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Directing"
-        }
-      ]
-    },
-    {
-      "quote": "Greendale: You're already accepted!",
-      "description": "Campus • Slogan",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Dean Pelton",
-          "description": "School motto"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Sighing"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Camera"
-        }
-      ]
-    },
-    {
-      "quote": "Watch me.",
-      "description": "Study Room • Standing Up",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "About to give a speech"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Inspired"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Ready"
+          "description": "Community • Season 2"
         }
       ]
     },
     {
       "quote": "Dean-a-ling-a-ling!",
-      "description": "Season 1 • Paintball",
+      "description": "Community • Paintball",
       "correct": 0,
       "options": [
         {
           "title": "S1E23 • Modern Warfare",
-          "description": "Dean's announcement"
+          "description": "Community • Season 1"
         },
         {
           "title": "S2E14 • Advanced D&D",
-          "description": "Elf"
+          "description": "Community • Season 2"
         },
         {
           "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Pizza"
-        }
-      ]
-    },
-    {
-      "quote": "Don't eat the crab dip! Yay-yay!",
-      "description": "Study Room F • Troy's Joke",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Blank stare"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Proud of his joke"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Chortling"
-        }
-      ]
-    },
-    {
-      "quote": "This better not awaken anything in me.",
-      "description": "Office • Dalmatian Video",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Dean Pelton",
-          "description": "Dalmatian obsession"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Walking away"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Confused"
-        }
-      ]
-    },
-    {
-      "quote": "Me llamo T-Bone, la araña discoteca!",
-      "description": "Spanish 101 • Rap",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Beatboxing"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Rapping"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Dancing"
+          "description": "Community • Season 3"
         }
       ]
     },
     {
       "quote": "I'm gonna win that $100,000 for Greendale!",
-      "description": "Season 2 • Paintball Finale",
+      "description": "Community • Paintball Finale",
       "correct": 2,
       "options": [
         {
           "title": "S2E06 • Epidemiology",
-          "description": "Zombies"
+          "description": "Community • Season 2"
         },
         {
           "title": "S2E19 • Critical Film Studies",
-          "description": "Diner"
+          "description": "Community • Season 2"
         },
         {
           "title": "S2E23 • A Fistful of Paintballs",
-          "description": "City College invasion"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna go watch 'Inspector Spacetime'!",
-      "description": "Apartment 303 • Couch",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Doctor Who parody"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Grabbing popcorn"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Studying"
-        }
-      ]
-    },
-    {
-      "quote": "I am Señor Chang! And I'm so ill!",
-      "description": "Spanish 101 • Rap",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Dean Pelton",
-          "description": "Payday"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Intro song"
-        },
-        {
-          "title": "Magnitude",
-          "description": "Pop pop"
-        }
-      ]
-    },
-    {
-      "quote": "Troy and Abed in the moooorning!",
-      "description": "Study Room F • Talk Show",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Annoyed"
-        },
-        {
-          "title": "Troy & Abed",
-          "description": "Morning show hosts"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Guest"
+          "description": "Community • Season 2"
         }
       ]
     },
     {
       "quote": "The floor is lava!",
-      "description": "Season 5 • Troy's Goodbye",
+      "description": "Community • Troy's Goodbye",
       "correct": 0,
       "options": [
         {
           "title": "S5E05 • Geothermal Escapism",
-          "description": "Troy leaves on the Childish Tycoon"
+          "description": "Community • Season 5"
         },
         {
           "title": "S1E23 • Modern Warfare",
-          "description": "Paintball"
+          "description": "Community • Season 1"
         },
         {
           "title": "S3E14 • Pillows and Blankets",
-          "description": "Pillows"
-        }
-      ]
-    },
-    {
-      "quote": "Annie's pretty young, we try not to sexualize her.",
-      "description": "Study Room • Jeff & Troy",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Troy Barnes",
-          "description": "Nodding"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Observing"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "To Buddy"
-        }
-      ]
-    },
-    {
-      "quote": "I'll allow it.",
-      "description": "Spanish 101 • Chang's Class",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Cheating"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Raising hand"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Señor Chang"
-        }
-      ]
-    },
-    {
-      "quote": "I didn't just masturbate in the study room. I masturbated everywhere!",
-      "description": "Season 1 • Confession",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Blank"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Out-of-context quote"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Confused"
-        }
-      ]
-    },
-    {
-      "quote": "You're the AT&T of people!",
-      "description": "Study Room • Insult",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Pizza burn"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Roasting Britta"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Laughing"
-        }
-      ]
-    },
-    {
-      "quote": "We're gonna be fine. Because we're a family.",
-      "description": "Study Room • Finale",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Hugging"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Cool"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Group hug"
-        }
-      ]
-    },
-    {
-      "quote": "Dean-dong!",
-      "description": "Study Room • Entrance",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Dean Pelton",
-          "description": "Every entrance"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Hallway"
-        },
-        {
-          "title": "Star-Burns",
-          "description": "Top hat"
-        }
-      ]
-    },
-    {
-      "quote": "Frankly, my dear, I don't give a dean!",
-      "description": "Study Room • Puns",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Dean Pelton",
-          "description": "Constant 'dean' puns"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Rolling eyes"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Groaning"
-        }
-      ]
-    },
-    {
-      "quote": "See you in the movie.",
-      "description": "Campus • Meta",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Winking"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Drinking"
-        },
-        {
-          "title": "Dean Pelton",
-          "description": "Waving"
+          "description": "Community • Season 3"
         }
       ]
     },
     {
       "quote": "This is a bottle episode!",
-      "description": "Season 2 • Study Room",
+      "description": "Community • Study Room",
       "correct": 1,
       "options": [
         {
           "title": "S2E01 • Anthropology 101",
-          "description": "Classroom"
+          "description": "Community • Season 2"
         },
         {
           "title": "S2E08 • Cooperative Calligraphy",
-          "description": "Annie's pen"
+          "description": "Community • Season 2"
         },
         {
           "title": "S2E11 • Abed's Uncontrollable Christmas",
-          "description": "Claymation"
-        }
-      ]
-    },
-    {
-      "quote": "I'm only doing this because it's a flashback episode!",
-      "description": "Campus • Clip Show",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Paradigms of Human Memory"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Monkey"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Speech"
-        }
-      ]
-    },
-    {
-      "quote": "Shut up, Leonard! I saw your YouTube page!",
-      "description": "Cafeteria • Review",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Leonard",
-          "description": "Frozen pizza"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Roasting Leonard"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Laughing"
-        }
-      ]
-    },
-    {
-      "quote": "We're in a claymation Christmas!",
-      "description": "Study Room • Stop-Motion",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Seeing everyone in clay"
-        },
-        {
-          "title": "Professor Duncan",
-          "description": "Therapy"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Ballerina"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a Spanish teacher! Not a therapist!",
-      "description": "Classroom • Chang",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Ian Duncan",
-          "description": "Psych"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Yelling"
-        },
-        {
-          "title": "Dean Pelton",
-          "description": "Office"
-        }
-      ]
-    },
-    {
-      "quote": "I lived in New York!",
-      "description": "Study Room F • Pronunciation",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Annie Edison",
-          "description": "Baggel?"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Bagel -> Baggel"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Baking"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna go get a drink... of water!",
-      "description": "Study Room • Nervous",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Calm"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Panicking"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Notes"
-        }
-      ]
-    },
-    {
-      "quote": "Everything's gonna be fine! Wait—no it's not!",
-      "description": "Study Room • Finals",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Calm"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Panicking"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Crying"
+          "description": "Community • Season 2"
         }
       ]
     },
     {
       "quote": "I'm a community college student, not a loser!",
-      "description": "Season 1 • Pilot",
+      "description": "Community • Pilot",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • Pilot",
-          "description": "Forming the study group"
+          "description": "Community • Season 1"
         },
         {
           "title": "S1E07 • Introduction to Statistics",
-          "description": "Halloween"
+          "description": "Community • Season 1"
         },
         {
           "title": "S1E21 • Contemporary American Poultry",
-          "description": "Chicken"
+          "description": "Community • Season 1"
         }
       ]
     },
     {
-      "quote": "This is a 'My Dinner with Andre' homage!",
-      "description": "Restaurant • Birthday",
+      "quote": "Everyone in this room is a suspect!",
+      "description": "Spoken by Annie Edison",
       "correct": 0,
       "options": [
         {
-          "title": "Abed Nadir",
-          "description": "Explaining to Jeff"
+          "title": "S2E08 • Cooperative Calligraphy",
+          "description": "Community • Season 2"
         },
         {
-          "title": "Jeff Winger",
-          "description": "I thought we were just having dinner"
+          "title": "S3E17 • Basic Lupine Urology",
+          "description": "Community • Season 3"
         },
         {
-          "title": "Troy Barnes",
-          "description": "Pulp Fiction"
+          "title": "S5E04 • Cooperative Polygraphy",
+          "description": "Community • Season 5"
         }
       ]
     },
     {
-      "quote": "We're the Greendale Seven!",
-      "description": "Campus • Rally",
-      "correct": 0,
+      "quote": "Priority registration! Let the games begin!",
+      "description": "Community • Community • Paintball",
+      "correct": 2,
       "options": [
         {
-          "title": "Jeff Winger",
-          "description": "Leading the group"
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Community • Season 1"
         },
         {
-          "title": "Pierce Hawthorne",
-          "description": "And Pierce!"
+          "title": "S1E17 • Physical Education",
+          "description": "Community • Season 1"
         },
         {
-          "title": "Abed Nadir",
-          "description": "Meta"
+          "title": "S1E23 • Modern Warfare",
+          "description": "Community • Season 1"
         }
       ]
     },
     {
-      "quote": "E Pluribus Anus.",
-      "description": "Flag • Greendale Seal",
+      "quote": "I'm gonna need you to stop making that face.",
+      "description": "Spoken by Jeff Winger",
       "correct": 0,
       "options": [
         {
-          "title": "Dean Pelton",
-          "description": "Proud of the flag"
+          "title": "S1E01 • Pilot",
+          "description": "Community • Season 1"
         },
         {
-          "title": "Jeff Winger",
-          "description": "It's a butt!"
+          "title": "S2E08 • Cooperative Calligraphy",
+          "description": "Community • Season 2"
         },
         {
-          "title": "Annie Edison",
-          "description": "Designed it"
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Community • Season 3"
         }
       ]
     },
     {
-      "quote": "I'm a high-functioning sociopath—no, wait, I'm just Abed.",
-      "description": "Study Room • Sherlock Joke",
+      "quote": "My Dinner with Andre... at a fancy restaurant!",
+      "description": "Community • Community • Pulp Fiction",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E14 • Advanced D&D",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S2E19 • Critical Film Studies",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S2E23 • A Fistful of Paintballs",
+          "description": "Community • Season 2"
+        }
+      ]
+    },
+    {
+      "quote": "Anthropology! Why is Betty White choking Jeff?",
+      "description": "Community • Community • Premiere",
       "correct": 0,
       "options": [
         {
-          "title": "Abed Nadir",
-          "description": "Analyzing everyone"
+          "title": "S2E01 • Anthropology 101",
+          "description": "Community • Season 2"
         },
         {
-          "title": "Jeff Winger",
-          "description": "Stop"
+          "title": "S2E06 • Epidemiology",
+          "description": "Community • Season 2"
         },
         {
-          "title": "Britta Perry",
-          "description": "Psychology major"
+          "title": "S2E08 • Cooperative Calligraphy",
+          "description": "Community • Season 2"
+        }
+      ]
+    },
+    {
+      "quote": "Nobody leaves Study Room F until we find that purple pen!",
+      "description": "Community • Community • Study Room F",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S2E08 • Cooperative Calligraphy",
+          "description": "Community • Season 2"
+        }
+      ]
+    },
+    {
+      "quote": "You're just a bad person with good hair.",
+      "description": "Spoken by Britta Perry",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S2E01 • Anthropology 101",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S5E04 • Cooperative Polygraphy",
+          "description": "Community • Season 5"
+        }
+      ]
+    },
+    {
+      "quote": "Clearly you don't understand anything about defeating trolls.",
+      "description": "Community • Community • Darkest Timeline",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Community • Season 3"
+        },
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S2E14 • Advanced Dungeons & Dragons",
+          "description": "Community • Season 2"
+        }
+      ]
+    },
+    {
+      "quote": "I'm playing pool in shorts? No, I'm playing naked!",
+      "description": "Community • Community • Gym",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S1E17 • Physical Education",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Community • Season 1"
+        }
+      ]
+    },
+    {
+      "quote": "Professor Professorson!",
+      "description": "Community • Community • Night School",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E09 • Conspiracy Theories and Interior Design",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S2E01 • Anthropology 101",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S2E23 • A Fistful of Paintballs",
+          "description": "Community • Season 2"
+        }
+      ]
+    },
+    {
+      "quote": "Roll the twenty-sided die for initiative!",
+      "description": "Community • Community • Study Room Table",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S2E14 • Advanced Dungeons & Dragons",
+          "description": "Community • Season 2"
+        }
+      ]
+    },
+    {
+      "quote": "As far back as I can remember, I always wanted to be in a Mafia movie.",
+      "description": "Community • Community • Chicken Fingers",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S3E14 • Pillows and Blankets",
+          "description": "Community • Season 3"
+        }
+      ]
+    },
+    {
+      "quote": "Objection! We're doing Law & Order!",
+      "description": "Community • Community • Biology Yam",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E11 • Uncontrollable Christmas",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S3E17 • Basic Lupine Urology",
+          "description": "Community • Season 3"
+        },
+        {
+          "title": "S5E04 • Cooperative Polygraphy",
+          "description": "Community • Season 5"
+        }
+      ]
+    },
+    {
+      "quote": "You're a wizard, Pierce!",
+      "description": "Community • Community • D&D",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E14 • Advanced Dungeons & Dragons",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S2E11 • Uncontrollable Christmas",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S2E19 • Critical Film Studies",
+          "description": "Community • Season 2"
+        }
+      ]
+    },
+    {
+      "quote": "Taco meat from the army surplus store!",
+      "description": "Community • Community • Halloween",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E01 • Anthropology 101",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S2E08 • Cooperative Calligraphy",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Community • Season 2"
+        }
+      ]
+    },
+    {
+      "quote": "We're a Mafia! Selling chicken fingers!",
+      "description": "Community • Community • Cafeteria",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E07 • Introduction to Statistics",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S1E17 • Physical Education",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Community • Season 1"
+        }
+      ]
+    },
+    {
+      "quote": "This campus isn't big enough for two rival forts!",
+      "description": "Community • Community • Documentary",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E23 • A Fistful of Paintballs",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Community • Season 3"
+        },
+        {
+          "title": "S3E14 • Pillows and Blankets",
+          "description": "Community • Season 3"
+        }
+      ]
+    },
+    {
+      "quote": "My whole brain is crying!",
+      "description": "Community • Community • Conspiracy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E09 • Conspiracy Theories and Interior Design",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S2E08 • Cooperative Calligraphy",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S2E14 • Advanced D&D",
+          "description": "Community • Season 2"
+        }
+      ]
+    },
+    {
+      "quote": "This is definitely the darkest timeline.",
+      "description": "Spoken by Abed Nadir",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E11 • Abed's Uncontrollable Christmas",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S5E05 • Geothermal Escapism",
+          "description": "Community • Season 5"
+        },
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Community • Season 3"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna live forever or die trying!",
+      "description": "Spoken by Pierce Hawthorne",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Community • Season 3"
+        }
+      ]
+    },
+    {
+      "quote": "All hail the Fives! Fours are barely human!",
+      "description": "Community • Community • App Dystopia",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E05 • Geothermal Escapism",
+          "description": "Community • Season 5"
+        },
+        {
+          "title": "S5E08 • App Development and Condiments",
+          "description": "Community • Season 5"
+        },
+        {
+          "title": "S5E04 • Cooperative Polygraphy",
+          "description": "Community • Season 5"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a dean of the people!",
+      "description": "Spoken by Dean Pelton",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S6E01 • Ladders",
+          "description": "Community • Season 6"
+        },
+        {
+          "title": "S3E22 • Introduction to Finality",
+          "description": "Community • Season 3"
+        }
+      ]
+    },
+    {
+      "quote": "Wait... there are other timelines?",
+      "description": "Community • Community • Rolling the Die",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Community • Season 3"
+        },
+        {
+          "title": "S2E23 • A Fistful of Paintballs",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Community • Season 1"
+        }
+      ]
+    },
+    {
+      "quote": "ABBA! Why is ABBA playing during a zombie outbreak?!",
+      "description": "Community • Community • Halloween",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Community • Season 3"
+        }
+      ]
+    },
+    {
+      "quote": "You're streets behind!",
+      "description": "Community • Community • Study Room",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S1E07 • Intro to Statistics",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Community • Season 1"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna go get my paintball gun.",
+      "description": "Spoken by Shirley Bennett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S3E14 • Pillows and Blankets",
+          "description": "Community • Season 3"
+        },
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Community • Season 1"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a nerd! I'm a cool guy who happens to love Inspector Spacetime.",
+      "description": "Spoken by Troy Barnes",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E19 • Critical Film Studies",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S3E16 • Virtual Systems Analysis",
+          "description": "Community • Season 3"
+        },
+        {
+          "title": "S5E05 • Geothermal Escapism",
+          "description": "Community • Season 5"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Batman. And I'm saving you.",
+      "description": "Community • Community • Halloween",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S1E07 • Introduction to Statistics",
+          "description": "Community • Season 1"
+        },
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Community • Season 1"
+        }
+      ]
+    },
+    {
+      "quote": "Roxanne! No!",
+      "description": "Community • Community • Apartment 303",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Community • Season 3"
+        },
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Community • Season 2"
+        },
+        {
+          "title": "S3E14 • Pillows and Blankets",
+          "description": "Community • Season 3"
         }
       ]
     }

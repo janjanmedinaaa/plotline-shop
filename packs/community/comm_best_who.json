@@ -11,20 +11,20 @@
   "questions": [
     {
       "quote": "I can excuse racism, but I draw the line at animal cruelty.",
-      "description": "Study Room • Shirley & Britta",
+      "description": "Community • Classic Scene",
       "correct": 0,
       "options": [
         {
           "title": "Britta Perry",
-          "description": "Animal rights"
+          "description": "Activist & psychology major"
         },
         {
           "title": "Shirley Bennett",
-          "description": "You can excuse racism?!"
+          "description": "Entrepreneur & protective mom"
         },
         {
           "title": "Annie Edison",
-          "description": "Shocked"
+          "description": "Overachieving perfectionist student"
         }
       ]
     },
@@ -35,34 +35,34 @@
       "options": [
         {
           "title": "Annie Edison",
-          "description": "Quiet"
+          "description": "Overachieving perfectionist student"
         },
         {
           "title": "Shirley Bennett",
-          "description": "Calling out Britta"
+          "description": "Entrepreneur & protective mom"
         },
         {
           "title": "Jeff Winger",
-          "description": "Drinking"
+          "description": "Former lawyer & study group leader"
         }
       ]
     },
     {
       "quote": "I'm a pizza burn on the roof of the world's mouth!",
-      "description": "Study Room • Britta",
+      "description": "Community • Classic Scene",
       "correct": 0,
       "options": [
         {
           "title": "Britta Perry",
-          "description": "Self-roast"
+          "description": "Activist & psychology major"
         },
         {
           "title": "Troy Barnes",
-          "description": "Opposite of Batman"
+          "description": "Former high school quarterback"
         },
         {
           "title": "Jeff Winger",
-          "description": "Nods"
+          "description": "Former lawyer & study group leader"
         }
       ]
     },
@@ -73,15 +73,15 @@
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Dictionary"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Annie Edison",
-          "description": "Explaining"
+          "description": "Overachieving perfectionist student"
         },
         {
           "title": "Troy Barnes",
-          "description": "Asking"
+          "description": "Former high school quarterback"
         }
       ]
     },
@@ -92,34 +92,34 @@
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Calm"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Shirley Bennett",
-          "description": "Sweet voice"
+          "description": "Entrepreneur & protective mom"
         },
         {
           "title": "Britta Perry",
-          "description": "Protesting"
+          "description": "Activist & psychology major"
         }
       ]
     },
     {
       "quote": "Don't preach to me about romance, Annie! I had a three-way in a hot air balloon!",
-      "description": "Study Room • Pierce",
+      "description": "Community • Classic Scene",
       "correct": 2,
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "TMI"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Troy Barnes",
-          "description": "Whoa"
+          "description": "Former high school quarterback"
         },
         {
           "title": "Pierce Hawthorne",
-          "description": "Bragging"
+          "description": "Moist-towelette heir"
         }
       ]
     },
@@ -130,15 +130,15 @@
       "options": [
         {
           "title": "Ian Duncan",
-          "description": "Psych"
+          "description": "British anthropology professor"
         },
         {
           "title": "Ben Chang",
-          "description": "Yelling"
+          "description": "Unpredictable Greendale instructor"
         },
         {
           "title": "Dean Pelton",
-          "description": "Office"
+          "description": "Costume-loving Greendale Dean"
         }
       ]
     },
@@ -149,34 +149,34 @@
       "options": [
         {
           "title": "Dean Pelton",
-          "description": "School motto"
+          "description": "Costume-loving Greendale Dean"
         },
         {
           "title": "Jeff Winger",
-          "description": "Sighing"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Abed Nadir",
-          "description": "Camera"
+          "description": "Pop-culture-obsessed filmmaker"
         }
       ]
     },
     {
       "quote": "I'm not a nerd! I'm a cool guy!",
-      "description": "Study Room • Troy",
+      "description": "Community • Classic Scene",
       "correct": 2,
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Cool"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Jeff Winger",
-          "description": "Suit"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Troy Barnes",
-          "description": "In denial"
+          "description": "Former high school quarterback"
         }
       ]
     },
@@ -187,15 +187,15 @@
       "options": [
         {
           "title": "Dean Pelton",
-          "description": "Proud of the flag"
+          "description": "Costume-loving Greendale Dean"
         },
         {
           "title": "Jeff Winger",
-          "description": "It's a butt!"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Annie Edison",
-          "description": "Designed it"
+          "description": "Overachieving perfectionist student"
         }
       ]
     },
@@ -206,15 +206,15 @@
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Pointing"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Annie Edison",
-          "description": "Defending her design"
+          "description": "Overachieving perfectionist student"
         },
         {
           "title": "Troy Barnes",
-          "description": "Laughing"
+          "description": "Former high school quarterback"
         }
       ]
     },
@@ -225,15 +225,15 @@
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Hugging"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Abed Nadir",
-          "description": "Cool"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Shirley Bennett",
-          "description": "Group hug"
+          "description": "Entrepreneur & protective mom"
         }
       ]
     },
@@ -244,15 +244,15 @@
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Moving to LA"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Jeff Winger",
-          "description": "Staying at Greendale"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Annie Edison",
-          "description": "FBI internship"
+          "description": "Overachieving perfectionist student"
         }
       ]
     },
@@ -263,15 +263,15 @@
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Camera"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Annie Edison",
-          "description": "Before FBI"
+          "description": "Overachieving perfectionist student"
         },
         {
           "title": "Britta Perry",
-          "description": "Bar"
+          "description": "Activist & psychology major"
         }
       ]
     },
@@ -282,15 +282,15 @@
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Winking"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Jeff Winger",
-          "description": "Drinking"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Dean Pelton",
-          "description": "Waving"
+          "description": "Costume-loving Greendale Dean"
         }
       ]
     },
@@ -301,15 +301,15 @@
       "options": [
         {
           "title": "Dean Pelton",
-          "description": "To the school board"
+          "description": "Costume-loving Greendale Dean"
         },
         {
           "title": "Ben Chang",
-          "description": "Security"
+          "description": "Unpredictable Greendale instructor"
         },
         {
           "title": "Pierce Hawthorne",
-          "description": "Board"
+          "description": "Moist-towelette heir"
         }
       ]
     },
@@ -320,15 +320,15 @@
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Calm"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Troy Barnes",
-          "description": "Overwhelmed by twists"
+          "description": "Former high school quarterback"
         },
         {
           "title": "Jeff Winger",
-          "description": "Shooting blank"
+          "description": "Former lawyer & study group leader"
         }
       ]
     },
@@ -339,15 +339,15 @@
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Explaining to Jeff"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Jeff Winger",
-          "description": "I thought we were just having dinner"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Troy Barnes",
-          "description": "Pulp Fiction"
+          "description": "Former high school quarterback"
         }
       ]
     },
@@ -358,34 +358,34 @@
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Naming the timeline"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Troy Barnes",
-          "description": "Troll doll"
+          "description": "Former high school quarterback"
         },
         {
           "title": "Annie Edison",
-          "description": "Gun"
+          "description": "Overachieving perfectionist student"
         }
       ]
     },
     {
-      "quote": "I'm a high-functioning sociopath—no, wait, I'm just Abed.",
+      "quote": "I'm just Abed. I like movies.",
       "description": "Study Room • Sherlock Joke",
       "correct": 0,
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Analyzing everyone"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Jeff Winger",
-          "description": "Stop"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Britta Perry",
-          "description": "Psychology major"
+          "description": "Activist & psychology major"
         }
       ]
     },
@@ -396,15 +396,15 @@
       "options": [
         {
           "title": "Dean Pelton",
-          "description": "Puns"
+          "description": "Costume-loving Greendale Dean"
         },
         {
           "title": "Ben Chang",
-          "description": "Ventilation shaft"
+          "description": "Unpredictable Greendale instructor"
         },
         {
           "title": "Leonard",
-          "description": "Pool"
+          "description": "Elderly Greendale student"
         }
       ]
     },
@@ -415,15 +415,15 @@
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Filming everyone"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Dean Pelton",
-          "description": "Posing"
+          "description": "Costume-loving Greendale Dean"
         },
         {
           "title": "Chang",
-          "description": "Photobombing"
+          "description": "Community character"
         }
       ]
     },
@@ -434,15 +434,15 @@
       "options": [
         {
           "title": "Magnitude",
-          "description": "Pop pop"
+          "description": "One-man Greendale party"
         },
         {
           "title": "Garrett Lambert",
-          "description": "Sweaty & panicked"
+          "description": "Panicked Greendale student"
         },
         {
           "title": "Star-Burns",
-          "description": "Lizard"
+          "description": "Sideburn-wearing student"
         }
       ]
     },
@@ -453,15 +453,15 @@
       "options": [
         {
           "title": "Dean Pelton",
-          "description": "Costume"
+          "description": "Costume-loving Greendale Dean"
         },
         {
           "title": "Pierce Hawthorne",
-          "description": "Mansion"
+          "description": "Moist-towelette heir"
         },
         {
           "title": "Ben Chang",
-          "description": "El Tigre Chino"
+          "description": "Unpredictable Greendale instructor"
         }
       ]
     },
@@ -472,34 +472,34 @@
       "options": [
         {
           "title": "Dean Pelton",
-          "description": "Office"
+          "description": "Costume-loving Greendale Dean"
         },
         {
           "title": "Ben Chang",
-          "description": "Keytar solo"
+          "description": "Unpredictable Greendale instructor"
         },
         {
           "title": "Jeff Winger",
-          "description": "Cheating"
+          "description": "Former lawyer & study group leader"
         }
       ]
     },
     {
-      "quote": "Everything's gonna be fine! Wait—no it's not!",
+      "quote": "We are definitely going to fail this final!",
       "description": "Study Room • Finals",
       "correct": 1,
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Calm"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Annie Edison",
-          "description": "Panicking"
+          "description": "Overachieving perfectionist student"
         },
         {
           "title": "Troy Barnes",
-          "description": "Crying"
+          "description": "Former high school quarterback"
         }
       ]
     },
@@ -510,34 +510,34 @@
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Star Trek"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Troy Barnes",
-          "description": "Singing Reading Rainbow"
+          "description": "Former high school quarterback"
         },
         {
           "title": "Jeff Winger",
-          "description": "Hallway"
+          "description": "Former lawyer & study group leader"
         }
       ]
     },
     {
-      "quote": "Troy and Abed in the moooorning!",
+      "quote": "Cool. Cool cool cool.",
       "description": "Study Room F • Talk Show",
       "correct": 1,
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Annoyed"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Troy & Abed",
-          "description": "Morning show hosts"
+          "description": "Community character"
         },
         {
           "title": "Britta Perry",
-          "description": "Guest"
+          "description": "Activist & psychology major"
         }
       ]
     },
@@ -548,34 +548,34 @@
       "options": [
         {
           "title": "Annie Edison",
-          "description": "Baggel?"
+          "description": "Overachieving perfectionist student"
         },
         {
           "title": "Britta Perry",
-          "description": "Bagel -> Baggel"
+          "description": "Activist & psychology major"
         },
         {
           "title": "Shirley Bennett",
-          "description": "Baking"
+          "description": "Entrepreneur & protective mom"
         }
       ]
     },
     {
       "quote": "Streets ahead!",
-      "description": "Study Room F • Pierce's Coinage",
+      "description": "Community • Classic Scene",
       "correct": 2,
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Mocks it"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Troy Barnes",
-          "description": "Confused"
+          "description": "Former high school quarterback"
         },
         {
           "title": "Pierce Hawthorne",
-          "description": "Hawthorne Wipes"
+          "description": "Moist-towelette heir"
         }
       ]
     },
@@ -586,34 +586,34 @@
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "To Jeff/Annie"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Troy Barnes",
-          "description": "Looking at camera"
+          "description": "Former high school quarterback"
         },
         {
           "title": "Shirley Bennett",
-          "description": "Smiling"
+          "description": "Entrepreneur & protective mom"
         }
       ]
     },
     {
-      "quote": "Troy and Abed are in mourning!",
+      "quote": "I thought 'mourning' meant 'morning'!",
       "description": "Season 3 • Funeral",
       "correct": 0,
       "options": [
         {
           "title": "Troy & Abed",
-          "description": "Thought 'mourning' meant 'morning'"
+          "description": "Community character"
         },
         {
           "title": "Shirley Bennett",
-          "description": "Scolding them"
+          "description": "Entrepreneur & protective mom"
         },
         {
           "title": "Jeff Winger",
-          "description": "Facepalm"
+          "description": "Former lawyer & study group leader"
         }
       ]
     },
@@ -624,15 +624,15 @@
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Classic Winger"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Britta Perry",
-          "description": "Eye roll"
+          "description": "Activist & psychology major"
         },
         {
           "title": "Pierce Hawthorne",
-          "description": "Old"
+          "description": "Moist-towelette heir"
         }
       ]
     },
@@ -643,15 +643,15 @@
       "options": [
         {
           "title": "Pierce Hawthorne",
-          "description": "Playing the villain"
+          "description": "Moist-towelette heir"
         },
         {
           "title": "Leonard",
-          "description": "Laughing"
+          "description": "Elderly Greendale student"
         },
         {
           "title": "Ben Chang",
-          "description": "Betrayal"
+          "description": "Unpredictable Greendale instructor"
         }
       ]
     },
@@ -662,15 +662,15 @@
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Leading the group"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Pierce Hawthorne",
-          "description": "And Pierce!"
+          "description": "Moist-towelette heir"
         },
         {
           "title": "Abed Nadir",
-          "description": "Meta"
+          "description": "Pop-culture-obsessed filmmaker"
         }
       ]
     },
@@ -681,15 +681,15 @@
       "options": [
         {
           "title": "Pierce Hawthorne",
-          "description": "Opposite of Chang"
+          "description": "Moist-towelette heir"
         },
         {
           "title": "Ben Chang",
-          "description": "Fire"
+          "description": "Unpredictable Greendale instructor"
         },
         {
           "title": "Abed Nadir",
-          "description": "Analyzing"
+          "description": "Pop-culture-obsessed filmmaker"
         }
       ]
     },
@@ -700,53 +700,53 @@
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Staring into the lens"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Jeff Winger",
-          "description": "Stop Jim-ing the camera"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Pierce Hawthorne",
-          "description": "Waving"
+          "description": "Moist-towelette heir"
         }
       ]
     },
     {
-      "quote": "I'm gonna eat your brains! No, wait, I'm just hungry.",
+      "quote": "I'm just hungry, okay?",
       "description": "Halloween • Cafeteria",
       "correct": 0,
       "options": [
         {
           "title": "Troy Barnes",
-          "description": "Sexy Dracula"
+          "description": "Former high school quarterback"
         },
         {
           "title": "Leonard",
-          "description": "Zombie"
+          "description": "Elderly Greendale student"
         },
         {
           "title": "Garrett",
-          "description": "Running"
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "I'm a lawyer! Well, I was a lawyer!",
+      "quote": "I practiced law for six years before they caught on.",
       "description": "Study Room • Backstory",
       "correct": 0,
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Fake degree from Colombia"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Alan Connor",
-          "description": "Law firm"
+          "description": "Community character"
         },
         {
           "title": "Pierce Hawthorne",
-          "description": "Wipes"
+          "description": "Moist-towelette heir"
         }
       ]
     },
@@ -757,15 +757,15 @@
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Pizza burn"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Troy Barnes",
-          "description": "Roasting Britta"
+          "description": "Former high school quarterback"
         },
         {
           "title": "Pierce Hawthorne",
-          "description": "Laughing"
+          "description": "Moist-towelette heir"
         }
       ]
     },
@@ -776,15 +776,15 @@
       "options": [
         {
           "title": "Garrett",
-          "description": "Did we?"
+          "description": "Community character"
         },
         {
           "title": "Dean Pelton",
-          "description": "Mic"
+          "description": "Costume-loving Greendale Dean"
         },
         {
           "title": "Annie Edison",
-          "description": "Campaign"
+          "description": "Overachieving perfectionist student"
         }
       ]
     },
@@ -795,34 +795,34 @@
       "options": [
         {
           "title": "Britta Perry",
-          "description": "Trying to diagnose"
+          "description": "Activist & psychology major"
         },
         {
           "title": "Jeff Winger",
-          "description": "Mocking Britta"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Abed Nadir",
-          "description": "Already did"
+          "description": "Pop-culture-obsessed filmmaker"
         }
       ]
     },
     {
       "quote": "Pop! Pop!",
-      "description": "Everywhere • Magnitude",
+      "description": "Community • Classic Scene",
       "correct": 1,
       "options": [
         {
           "title": "Star-Burns",
-          "description": "Sideburns"
+          "description": "Sideburn-wearing student"
         },
         {
           "title": "Magnitude",
-          "description": "One-man party"
+          "description": "One-man Greendale party"
         },
         {
           "title": "Leonard",
-          "description": "Reviews"
+          "description": "Elderly Greendale student"
         }
       ]
     },
@@ -833,15 +833,15 @@
       "options": [
         {
           "title": "Dean Pelton",
-          "description": "Duali-dean of Man"
+          "description": "Costume-loving Greendale Dean"
         },
         {
           "title": "Ben Chang",
-          "description": "Keytar"
+          "description": "Unpredictable Greendale instructor"
         },
         {
           "title": "Pierce Hawthorne",
-          "description": "Mansion"
+          "description": "Moist-towelette heir"
         }
       ]
     },
@@ -852,15 +852,15 @@
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Desk"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Ben Chang",
-          "description": "Arizona backwards is Arizona!"
+          "description": "Unpredictable Greendale instructor"
         },
         {
           "title": "Abed Nadir",
-          "description": "Filming"
+          "description": "Pop-culture-obsessed filmmaker"
         }
       ]
     },
@@ -871,15 +871,15 @@
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Dreamatorium"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Troy Barnes",
-          "description": "AC Repair School"
+          "description": "Former high school quarterback"
         },
         {
           "title": "Dean Pelton",
-          "description": "Office"
+          "description": "Costume-loving Greendale Dean"
         }
       ]
     },
@@ -890,34 +890,34 @@
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Breaking the fourth wall"
+          "description": "Pop-culture-obsessed filmmaker"
         },
         {
           "title": "Jeff Winger",
-          "description": "What?"
+          "description": "Former lawyer & study group leader"
         },
         {
           "title": "Britta Perry",
-          "description": "Huh?"
+          "description": "Activist & psychology major"
         }
       ]
     },
     {
       "quote": "I'm a level 6 laser lotus!",
-      "description": "Study Room • Pierce",
+      "description": "Community • Classic Scene",
       "correct": 2,
       "options": [
         {
           "title": "Leonard",
-          "description": "Old"
+          "description": "Elderly Greendale student"
         },
         {
           "title": "Ian Duncan",
-          "description": "Drunk"
+          "description": "British anthropology professor"
         },
         {
           "title": "Pierce Hawthorne",
-          "description": "Cult member"
+          "description": "Moist-towelette heir"
         }
       ]
     },
@@ -928,34 +928,34 @@
       "options": [
         {
           "title": "Dean Pelton",
-          "description": "Hiring"
+          "description": "Costume-loving Greendale Dean"
         },
         {
           "title": "Ben Chang",
-          "description": "Changlorious Bastards"
+          "description": "Unpredictable Greendale instructor"
         },
         {
           "title": "Leonard",
-          "description": "Pool"
+          "description": "Elderly Greendale student"
         }
       ]
     },
     {
       "quote": "Buy my frozen pizza! Four stars!",
-      "description": "YouTube • Leonard's Reviews",
+      "description": "Community • Classic Scene",
       "correct": 1,
       "options": [
         {
           "title": "Garrett",
-          "description": "Choir"
+          "description": "Community character"
         },
         {
           "title": "Leonard Rodriguez",
-          "description": "Food reviewer"
+          "description": "Community character"
         },
         {
           "title": "Star-Burns",
-          "description": "Meth lab"
+          "description": "Sideburn-wearing student"
         }
       ]
     }

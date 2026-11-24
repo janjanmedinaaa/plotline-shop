@@ -15,15 +15,15 @@
       "options": [
         {
           "title": "Steve Rogers",
-          "description": "Captain America: The First Avenger"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Captain America: The Winter Soldier"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Sam Wilson",
-          "description": "Avengers: Endgame"
+          "description": "The Falcon & Avenger"
         }
       ]
     },
@@ -34,15 +34,15 @@
       "options": [
         {
           "title": "Tony Stark",
-          "description": "The Avengers"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Nick Fury",
-          "description": "The Avengers"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Bruce Banner",
-          "description": "The Avengers"
+          "description": "Scientist & the Hulk"
         }
       ]
     },
@@ -53,15 +53,15 @@
       "options": [
         {
           "title": "Morgan Stark",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Tony Stark",
-          "description": "Avengers: Endgame"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Pepper Potts",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -72,34 +72,15 @@
       "options": [
         {
           "title": "Tony Stark",
-          "description": "The Avengers"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Steve Rogers",
-          "description": "The Avengers"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "Clint Barton",
-          "description": "Avengers: Age of Ultron"
-        }
-      ]
-    },
-    {
-      "quote": "Bring me Thanos!",
-      "description": "2018 • Arrival in Wakanda",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Steve Rogers",
-          "description": "Avengers: Infinity War"
-        },
-        {
-          "title": "Thor Odinson",
-          "description": "Avengers: Infinity War"
-        },
-        {
-          "title": "T'Challa",
-          "description": "Avengers: Infinity War"
+          "description": "Master archer & Avenger"
         }
       ]
     },
@@ -110,15 +91,15 @@
       "options": [
         {
           "title": "Ultron",
-          "description": "Avengers: Age of Ultron"
+          "description": "Rogue AI villain"
         },
         {
           "title": "Loki",
-          "description": "Avengers: Infinity War"
+          "description": "God of Mischief"
         },
         {
           "title": "Thanos",
-          "description": "Avengers: Endgame"
+          "description": "Mad Titan warlord"
         }
       ]
     },
@@ -129,15 +110,15 @@
       "options": [
         {
           "title": "Steve Rogers",
-          "description": "Captain America: The Winter Soldier"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "Sam Wilson",
-          "description": "Avengers: Endgame"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Natasha Romanoff",
-          "description": "Captain America: The Winter Soldier"
+          "description": "Master spy & Avenger"
         }
       ]
     },
@@ -148,15 +129,15 @@
       "options": [
         {
           "title": "Tony Stark",
-          "description": "The Avengers"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Natasha Romanoff",
-          "description": "The Avengers"
+          "description": "Master spy & Avenger"
         },
         {
           "title": "Maria Hill",
-          "description": "The Avengers"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -167,15 +148,15 @@
       "options": [
         {
           "title": "Tony Stark",
-          "description": "Avengers: Age of Ultron"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Pietro Maximoff",
-          "description": "Avengers: Age of Ultron"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Clint Barton",
-          "description": "Avengers: Age of Ultron"
+          "description": "Master archer & Avenger"
         }
       ]
     },
@@ -186,15 +167,15 @@
       "options": [
         {
           "title": "T'Challa",
-          "description": "Avengers: Infinity War"
+          "description": "King of Wakanda"
         },
         {
           "title": "Okoye",
-          "description": "Black Panther"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "M'Baku",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -205,15 +186,15 @@
       "options": [
         {
           "title": "Tony Stark",
-          "description": "The Avengers"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Clint Barton",
-          "description": "The Avengers"
+          "description": "Master archer & Avenger"
         },
         {
           "title": "Steve Rogers",
-          "description": "The Avengers"
+          "description": "Super Soldier & Avengers leader"
         }
       ]
     },
@@ -224,34 +205,34 @@
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Captain America: The First Avenger"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Steve Rogers",
-          "description": "Captain America: The First Avenger"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "Sam Wilson",
-          "description": "Captain America: The Winter Soldier"
+          "description": "The Falcon & Avenger"
         }
       ]
     },
     {
       "quote": "No amount of money ever bought a second of time.",
-      "description": "2019 • Tony & Howard Stark",
+      "description": "Marvel Cinematic Universe • Classic Scene",
       "correct": 0,
       "options": [
         {
           "title": "Tony Stark",
-          "description": "Avengers: Endgame"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Howard Stark",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Bruce Banner",
-          "description": "Avengers: Endgame"
+          "description": "Scientist & the Hulk"
         }
       ]
     },
@@ -262,15 +243,15 @@
       "options": [
         {
           "title": "Natasha Romanoff",
-          "description": "Black Widow"
+          "description": "Master spy & Avenger"
         },
         {
           "title": "Wanda Maximoff",
-          "description": "Doctor Strange in the Multiverse of Madness"
+          "description": "Chaos magic Avenger"
         },
         {
           "title": "Carol Danvers",
-          "description": "Captain Marvel"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -281,15 +262,15 @@
       "options": [
         {
           "title": "Thor Odinson",
-          "description": "Avengers: Age of Ultron"
+          "description": "God of Thunder from Asgard"
         },
         {
           "title": "Steve Rogers",
-          "description": "Avengers: Age of Ultron"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "Clint Barton",
-          "description": "Avengers: Age of Ultron"
+          "description": "Master archer & Avenger"
         }
       ]
     },
@@ -300,15 +281,15 @@
       "options": [
         {
           "title": "Steve Rogers",
-          "description": "Avengers: Age of Ultron"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "Tony Stark",
-          "description": "Avengers: Age of Ultron"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Maria Hill",
-          "description": "Avengers: Age of Ultron"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -319,15 +300,15 @@
       "options": [
         {
           "title": "Steve Rogers",
-          "description": "The Avengers"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "Bruce Banner",
-          "description": "The Avengers"
+          "description": "Scientist & the Hulk"
         },
         {
           "title": "Tony Stark",
-          "description": "The Avengers"
+          "description": "Genius, billionaire, philanthropist"
         }
       ]
     },
@@ -338,15 +319,15 @@
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Captain America: Civil War"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Steve Rogers",
-          "description": "Captain America: The Winter Soldier"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "Sam Wilson",
-          "description": "The Falcon and the Winter Soldier"
+          "description": "The Falcon & Avenger"
         }
       ]
     },
@@ -357,15 +338,15 @@
       "options": [
         {
           "title": "Tony Stark",
-          "description": "Avengers: Endgame"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Steve Rogers",
-          "description": "Avengers: Endgame"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "Pepper Potts",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -376,15 +357,15 @@
       "options": [
         {
           "title": "Brock Rumlow",
-          "description": "Captain America: The Winter Soldier"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Nick Fury",
-          "description": "Captain America: The Winter Soldier"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Steve Rogers",
-          "description": "Captain America: The Winter Soldier"
+          "description": "Super Soldier & Avengers leader"
         }
       ]
     },
@@ -395,34 +376,15 @@
       "options": [
         {
           "title": "Tony Stark",
-          "description": "The Avengers"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Nick Fury",
-          "description": "The Avengers"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Phil Coulson",
-          "description": "The Avengers"
-        }
-      ]
-    },
-    {
-      "quote": "He's adopted.",
-      "description": "2012 • Helicarrier Bridge",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Thor Odinson",
-          "description": "The Avengers"
-        },
-        {
-          "title": "Natasha Romanoff",
-          "description": "The Avengers"
-        },
-        {
-          "title": "Bruce Banner",
-          "description": "The Avengers"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -433,15 +395,15 @@
       "options": [
         {
           "title": "Tony Stark",
-          "description": "Avengers: Age of Ultron"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Wanda Maximoff",
-          "description": "Avengers: Age of Ultron"
+          "description": "Chaos magic Avenger"
         },
         {
           "title": "Vision",
-          "description": "Avengers: Age of Ultron"
+          "description": "Synthezoid Avenger"
         }
       ]
     },
@@ -452,15 +414,15 @@
       "options": [
         {
           "title": "Thor Odinson",
-          "description": "Avengers: Endgame"
+          "description": "God of Thunder from Asgard"
         },
         {
           "title": "Carol Danvers",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Wanda Maximoff",
-          "description": "Avengers: Endgame"
+          "description": "Chaos magic Avenger"
         }
       ]
     },
@@ -471,15 +433,15 @@
       "options": [
         {
           "title": "Steve Rogers",
-          "description": "Avengers: Endgame"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "Rhodey",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Rocket",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -490,15 +452,15 @@
       "options": [
         {
           "title": "Pepper Potts",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Tony Stark",
-          "description": "Avengers: Endgame"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Peter Parker",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -509,15 +471,15 @@
       "options": [
         {
           "title": "Natasha Romanoff",
-          "description": "Avengers: Endgame"
+          "description": "Master spy & Avenger"
         },
         {
           "title": "Scott Lang",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Clint Barton",
-          "description": "Avengers: Endgame"
+          "description": "Master archer & Avenger"
         }
       ]
     },
@@ -528,15 +490,15 @@
       "options": [
         {
           "title": "Scott Lang",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Tony Stark",
-          "description": "Avengers: Endgame"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Steve Rogers",
-          "description": "Avengers: Endgame"
+          "description": "Super Soldier & Avengers leader"
         }
       ]
     },
@@ -547,15 +509,15 @@
       "options": [
         {
           "title": "Scott Lang",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Bruce Banner",
-          "description": "Avengers: Endgame"
+          "description": "Scientist & the Hulk"
         },
         {
           "title": "Rocket",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -566,34 +528,15 @@
       "options": [
         {
           "title": "Wanda Maximoff",
-          "description": "Avengers: Infinity War"
+          "description": "Chaos magic Avenger"
         },
         {
           "title": "Natasha Romanoff",
-          "description": "Avengers: Infinity War"
+          "description": "Master spy & Avenger"
         },
         {
           "title": "Steve Rogers",
-          "description": "Avengers: Infinity War"
-        }
-      ]
-    },
-    {
-      "quote": "I'm still worthy!",
-      "description": "2019 • Asgard 2013",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Thor Odinson",
-          "description": "Avengers: Endgame"
-        },
-        {
-          "title": "Steve Rogers",
-          "description": "Avengers: Endgame"
-        },
-        {
-          "title": "Valkyrie",
-          "description": "Avengers: Endgame"
+          "description": "Super Soldier & Avengers leader"
         }
       ]
     },
@@ -604,15 +547,15 @@
       "options": [
         {
           "title": "Phil Coulson",
-          "description": "The Avengers"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Nick Fury",
-          "description": "The Avengers"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Maria Hill",
-          "description": "The Avengers"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -623,15 +566,15 @@
       "options": [
         {
           "title": "Maria Hill",
-          "description": "Avengers: Age of Ultron"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Wanda Maximoff",
-          "description": "Avengers: Age of Ultron"
+          "description": "Chaos magic Avenger"
         },
         {
           "title": "Natasha Romanoff",
-          "description": "Avengers: Age of Ultron"
+          "description": "Master spy & Avenger"
         }
       ]
     },
@@ -642,15 +585,15 @@
       "options": [
         {
           "title": "Loki",
-          "description": "Avengers: Infinity War"
+          "description": "God of Mischief"
         },
         {
           "title": "Thor Odinson",
-          "description": "Avengers: Infinity War"
+          "description": "God of Thunder from Asgard"
         },
         {
           "title": "Heimdall",
-          "description": "Avengers: Infinity War"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -661,15 +604,15 @@
       "options": [
         {
           "title": "Peter Parker",
-          "description": "Avengers: Infinity War"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Tony Stark",
-          "description": "Avengers: Infinity War"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Bruce Banner",
-          "description": "Avengers: Infinity War"
+          "description": "Scientist & the Hulk"
         }
       ]
     },
@@ -680,15 +623,15 @@
       "options": [
         {
           "title": "W'Kabi",
-          "description": "Black Panther"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "M'Baku",
-          "description": "Black Panther"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Erik Killmonger",
-          "description": "Black Panther"
+          "description": "Wakandan challenger"
         }
       ]
     },
@@ -699,15 +642,15 @@
       "options": [
         {
           "title": "Natasha Romanoff",
-          "description": "Avengers: Infinity War"
+          "description": "Master spy & Avenger"
         },
         {
           "title": "Steve Rogers",
-          "description": "Avengers: Infinity War"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "Sam Wilson",
-          "description": "Avengers: Infinity War"
+          "description": "The Falcon & Avenger"
         }
       ]
     },
@@ -718,15 +661,15 @@
       "options": [
         {
           "title": "Bruce Banner",
-          "description": "Avengers: Age of Ultron"
+          "description": "Scientist & the Hulk"
         },
         {
           "title": "Vision",
-          "description": "Avengers: Age of Ultron"
+          "description": "Synthezoid Avenger"
         },
         {
           "title": "Ultron",
-          "description": "Avengers: Age of Ultron"
+          "description": "Rogue AI villain"
         }
       ]
     },
@@ -737,15 +680,15 @@
       "options": [
         {
           "title": "Tony Stark",
-          "description": "Avengers: Age of Ultron"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Jarvis",
-          "description": "Avengers: Age of Ultron"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Ultron",
-          "description": "Avengers: Age of Ultron"
+          "description": "Rogue AI villain"
         }
       ]
     },
@@ -756,15 +699,15 @@
       "options": [
         {
           "title": "Steve Rogers",
-          "description": "Avengers: Endgame"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "Scott Lang",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Rhodey",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -775,15 +718,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Avengers: Age of Ultron"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Clint Barton",
-          "description": "Avengers: Age of Ultron"
+          "description": "Master archer & Avenger"
         },
         {
           "title": "Scott Lang",
-          "description": "Captain America: Civil War"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -794,15 +737,15 @@
       "options": [
         {
           "title": "Tony Stark",
-          "description": "Avengers: Age of Ultron"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Sam Wilson",
-          "description": "Avengers: Age of Ultron"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "James Rhodes",
-          "description": "Avengers: Age of Ultron"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -813,34 +756,15 @@
       "options": [
         {
           "title": "Tony Stark",
-          "description": "Avengers: Infinity War"
+          "description": "Genius, billionaire, philanthropist"
         },
         {
           "title": "Doctor Strange",
-          "description": "Avengers: Infinity War"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Wong",
-          "description": "Avengers: Infinity War"
-        }
-      ]
-    },
-    {
-      "quote": "We're in the endgame now.",
-      "description": "2018 • Titan",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Tony Stark",
-          "description": "Avengers: Infinity War"
-        },
-        {
-          "title": "Doctor Strange",
-          "description": "Avengers: Infinity War"
-        },
-        {
-          "title": "Peter Quill",
-          "description": "Avengers: Infinity War"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -851,15 +775,15 @@
       "options": [
         {
           "title": "Peter Parker",
-          "description": "Captain America: Civil War"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Sam Wilson",
-          "description": "Captain America: Civil War"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Scott Lang",
-          "description": "Captain America: Civil War"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -870,15 +794,15 @@
       "options": [
         {
           "title": "Peter Parker",
-          "description": "Captain America: Civil War"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Scott Lang",
-          "description": "Captain America: Civil War"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "T'Challa",
-          "description": "Captain America: Civil War"
+          "description": "King of Wakanda"
         }
       ]
     },
@@ -889,15 +813,15 @@
       "options": [
         {
           "title": "Steve Rogers",
-          "description": "Captain America: Civil War"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "T'Challa",
-          "description": "Captain America: Civil War"
+          "description": "King of Wakanda"
         },
         {
           "title": "Natasha Romanoff",
-          "description": "Captain America: Civil War"
+          "description": "Master spy & Avenger"
         }
       ]
     },
@@ -908,15 +832,15 @@
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Captain America: Civil War"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Sam Wilson",
-          "description": "Captain America: Civil War"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Tony Stark",
-          "description": "Captain America: Civil War"
+          "description": "Genius, billionaire, philanthropist"
         }
       ]
     },
@@ -927,34 +851,110 @@
       "options": [
         {
           "title": "Natasha Romanoff",
-          "description": "Avengers: Endgame"
+          "description": "Master spy & Avenger"
         },
         {
           "title": "Bruce Banner",
-          "description": "Avengers: Endgame"
+          "description": "Scientist & the Hulk"
         },
         {
           "title": "Carol Danvers",
-          "description": "Avengers: Endgame"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
     {
-      "quote": "How does it feel? Like it's someone else's.",
+      "quote": "It feels like it's someone else's.",
       "description": "2019 • Bench by the Lake",
       "correct": 1,
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Avengers: Endgame"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Sam Wilson",
-          "description": "Avengers: Endgame"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Steve Rogers",
-          "description": "Avengers: Endgame"
+          "description": "Super Soldier & Avengers leader"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a queen, or a monster. I'm the Goddess of Death.",
+      "description": "2017 • Bifrost",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sylvie",
+          "description": "Marvel Cinematic Universe character"
+        },
+        {
+          "title": "Hela",
+          "description": "Goddess of Death"
+        },
+        {
+          "title": "Agatha",
+          "description": "Marvel Cinematic Universe character"
+        }
+      ]
+    },
+    {
+      "quote": "Keep the wings.",
+      "description": "Episode 5 • Airfield",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Bucky Barnes",
+          "description": "The Winter Soldier"
+        },
+        {
+          "title": "John Walker",
+          "description": "Government-appointed Captain"
+        },
+        {
+          "title": "Sam Wilson",
+          "description": "The Falcon & Avenger"
+        }
+      ]
+    },
+    {
+      "quote": "Stop it! Stop it!",
+      "description": "Episode 1 • Choking Scene",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Wanda Maximoff",
+          "description": "Chaos magic Avenger"
+        },
+        {
+          "title": "Mrs. Hart",
+          "description": "Marvel Cinematic Universe character"
+        },
+        {
+          "title": "Agnes",
+          "description": "Marvel Cinematic Universe character"
+        }
+      ]
+    },
+    {
+      "quote": "You're just a bully.",
+      "description": "Episode 4 • Tent",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Wilson",
+          "description": "The Falcon & Avenger"
+        },
+        {
+          "title": "Karli Morgenthau",
+          "description": "Flag Smashers leader"
+        },
+        {
+          "title": "Ayo",
+          "description": "Dora Milaje warrior"
         }
       ]
     }

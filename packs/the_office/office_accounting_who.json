@@ -16,15 +16,15 @@
       "options": [
         {
           "title": "Kevin Malone",
-          "description": "Sea World / See world"
+          "description": "Chili-loving accountant"
         },
         {
           "title": "Stanley Hudson",
-          "description": "Crossword"
+          "description": "Crossword-loving salesman"
         },
         {
           "title": "Creed Bratton",
-          "description": "Mung beans"
+          "description": "Mysterious Quality Assurance rep"
         }
       ]
     },
@@ -35,15 +35,15 @@
       "options": [
         {
           "title": "Kevin Malone",
-          "description": "Chili"
+          "description": "Chili-loving accountant"
         },
         {
           "title": "Stanley Hudson",
-          "description": "364 days till the next Pretzel Day"
+          "description": "Crossword-loving salesman"
         },
         {
           "title": "Oscar Martinez",
-          "description": "Spreadsheet"
+          "description": "Detail-oriented accountant"
         }
       ]
     },
@@ -54,15 +54,15 @@
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Shocked"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Stanley Hudson",
-          "description": "Putting Michael in his place"
+          "description": "Crossword-loving salesman"
         },
         {
           "title": "Toby Flenderson",
-          "description": "Quiet"
+          "description": "Mild-mannered HR rep"
         }
       ]
     },
@@ -73,15 +73,15 @@
       "options": [
         {
           "title": "Kevin Malone",
-          "description": "Simple man"
+          "description": "Chili-loving accountant"
         },
         {
           "title": "Angela Martin",
-          "description": "Disgusted"
+          "description": "Head of Accounting & Party Planning"
         },
         {
           "title": "Phyllis Vance",
-          "description": "Popcarn"
+          "description": "Dunder Mifflin saleswoman"
         }
       ]
     },
@@ -92,15 +92,15 @@
       "options": [
         {
           "title": "Kevin Malone",
-          "description": "Vending machine"
+          "description": "Chili-loving accountant"
         },
         {
           "title": "Oscar Martinez",
-          "description": "In the ceiling"
+          "description": "Detail-oriented accountant"
         },
         {
           "title": "Angela Martin",
-          "description": "Throwing her cat"
+          "description": "Head of Accounting & Party Planning"
         }
       ]
     },
@@ -111,34 +111,34 @@
       "options": [
         {
           "title": "Creed Bratton",
-          "description": "Often outdoors, in the mud and the rain"
+          "description": "Mysterious Quality Assurance rep"
         },
         {
           "title": "Michael Scott",
-          "description": "Conference room"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Stanley Hudson",
-          "description": "Ignoring"
+          "description": "Crossword-loving salesman"
         }
       ]
     },
     {
       "quote": "B-O-B-O-D-D-Y. What does the first B stand for?",
-      "description": "Conference Room • Creed as Manager",
+      "description": "The Office (US) • Classic Scene",
       "correct": 0,
       "options": [
         {
           "title": "Creed Bratton",
-          "description": "Biznus!"
+          "description": "Mysterious Quality Assurance rep"
         },
         {
           "title": "Kevin Malone",
-          "description": "I like it!"
+          "description": "Chili-loving accountant"
         },
         {
           "title": "Jim Halpert",
-          "description": "Writing it down"
+          "description": "Prank-loving paper salesman"
         }
       ]
     },
@@ -149,34 +149,34 @@
       "options": [
         {
           "title": "Ryan Howard",
-          "description": "WUPHF"
+          "description": "Temp turned corporate exec"
         },
         {
           "title": "Kelly Kapoor",
-          "description": "Fashion & gossip"
+          "description": "Customer Service rep"
         },
         {
           "title": "Toby Flenderson",
-          "description": "Sighing"
+          "description": "Mild-mannered HR rep"
         }
       ]
     },
     {
       "quote": "I have a lot of questions. Number one: how dare you?",
-      "description": "Conference Room • Kelly",
+      "description": "The Office (US) • Classic Scene",
       "correct": 1,
       "options": [
         {
           "title": "Angela Martin",
-          "description": "Cats"
+          "description": "Head of Accounting & Party Planning"
         },
         {
           "title": "Kelly Kapoor",
-          "description": "To Ryan"
+          "description": "Customer Service rep"
         },
         {
           "title": "Erin Hannon",
-          "description": "Confused"
+          "description": "Cheerful receptionist"
         }
       ]
     },
@@ -187,34 +187,34 @@
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Cheering"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Kelly Kapoor",
-          "description": "Dancing"
+          "description": "Customer Service rep"
         },
         {
           "title": "Dwight Schrute",
-          "description": "About the cheesy pita"
+          "description": "Beet farmer & top salesman"
         }
       ]
     },
     {
-      "quote": "I'm the Scranton Strangler—wait, no, I'm not.",
-      "description": "Office • Creed",
+      "quote": "Nobody steals from Creed Bratton and gets away with it.",
+      "description": "The Office (US) • Classic Scene",
       "correct": 0,
       "options": [
         {
           "title": "Creed Bratton",
-          "description": "Halloween blood on shirt"
+          "description": "Mysterious Quality Assurance rep"
         },
         {
           "title": "Toby Flenderson",
-          "description": "Jury duty"
+          "description": "Mild-mannered HR rep"
         },
         {
           "title": "Gabe Lewis",
-          "description": "Skeleton man"
+          "description": "The Office (US) character"
         }
       ]
     },
@@ -225,15 +225,15 @@
       "options": [
         {
           "title": "Kevin Malone",
-          "description": "Chili"
+          "description": "Chili-loving accountant"
         },
         {
           "title": "Stanley Hudson",
-          "description": "Sleeping"
+          "description": "Crossword-loving salesman"
         },
         {
           "title": "Oscar Martinez",
-          "description": "Actually..."
+          "description": "Detail-oriented accountant"
         }
       ]
     },
@@ -244,34 +244,34 @@
       "options": [
         {
           "title": "Angela Martin",
-          "description": "Party Planning"
+          "description": "Head of Accounting & Party Planning"
         },
         {
           "title": "Kevin Malone",
-          "description": "Math"
+          "description": "Chili-loving accountant"
         },
         {
           "title": "Oscar Martinez",
-          "description": "The 'Actually' guy"
+          "description": "Detail-oriented accountant"
         }
       ]
     },
     {
       "quote": "You're a presentation tool!",
-      "description": "Office • Ryan",
+      "description": "The Office (US) • Classic Scene",
       "correct": 1,
       "options": [
         {
           "title": "Kelly Kapoor",
-          "description": "Yelling"
+          "description": "Customer Service rep"
         },
         {
           "title": "Ryan Howard",
-          "description": "WUPHF.com"
+          "description": "Temp turned corporate exec"
         },
         {
           "title": "Michael Scott",
-          "description": "Proud"
+          "description": "Dunder Mifflin Regional Manager"
         }
       ]
     },
@@ -282,15 +282,15 @@
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Investing"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Ryan Howard",
-          "description": "Pitching WUPHF"
+          "description": "Temp turned corporate exec"
         },
         {
           "title": "Stanley Hudson",
-          "description": "No"
+          "description": "Crossword-loving salesman"
         }
       ]
     },
@@ -301,15 +301,15 @@
       "options": [
         {
           "title": "Andy Bernard",
-          "description": "Ring"
+          "description": "Cornell grad & salesman"
         },
         {
           "title": "Dwight Schrute",
-          "description": "Beets"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Michael Scott",
-          "description": "Proposing to Holly"
+          "description": "Dunder Mifflin Regional Manager"
         }
       ]
     },
@@ -320,15 +320,15 @@
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Misspelled for Phyllis"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Phyllis Vance",
-          "description": "Wait, it says Bushiest..."
+          "description": "Dunder Mifflin saleswoman"
         },
         {
           "title": "Pam Beesly",
-          "description": "Laughing"
+          "description": "Receptionist & artist"
         }
       ]
     },
@@ -339,34 +339,34 @@
       "options": [
         {
           "title": "Jim Halpert",
-          "description": "About Angela"
+          "description": "Prank-loving paper salesman"
         },
         {
           "title": "Kevin Malone",
-          "description": "Cookies"
+          "description": "Chili-loving accountant"
         },
         {
           "title": "Oscar Martinez",
-          "description": "Tax"
+          "description": "Detail-oriented accountant"
         }
       ]
     },
     {
       "quote": "You don't even know what a write-off is!",
-      "description": "Warehouse • Darryl",
+      "description": "The Office (US) • Classic Scene",
       "correct": 0,
       "options": [
         {
           "title": "Darryl Philbin",
-          "description": "Foreman"
+          "description": "Warehouse foreman"
         },
         {
           "title": "Roy Anderson",
-          "description": "Truck"
+          "description": "The Office (US) character"
         },
         {
           "title": "Lonny",
-          "description": "Forklift"
+          "description": "The Office (US) character"
         }
       ]
     },
@@ -377,15 +377,15 @@
       "options": [
         {
           "title": "Andy Bernard",
-          "description": "Nard Dog"
+          "description": "Cornell grad & salesman"
         },
         {
           "title": "Erin Hannon",
-          "description": "Reception"
+          "description": "Cheerful receptionist"
         },
         {
           "title": "Michael Scott",
-          "description": "Laughing"
+          "description": "Dunder Mifflin Regional Manager"
         }
       ]
     },
@@ -396,15 +396,15 @@
       "options": [
         {
           "title": "Erin Hannon",
-          "description": "Watching"
+          "description": "Cheerful receptionist"
         },
         {
           "title": "Pam Beesly",
-          "description": "Crying"
+          "description": "Receptionist & artist"
         },
         {
           "title": "Holly Flax",
-          "description": "Saying yes to Michael"
+          "description": "Quirky HR representative"
         }
       ]
     },
@@ -415,15 +415,15 @@
       "options": [
         {
           "title": "Dwight Schrute",
-          "description": "Recommendation letter"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Pam Beesly",
-          "description": "Airport"
+          "description": "Receptionist & artist"
         },
         {
           "title": "Jim Halpert",
-          "description": "Tomorrow at lunch"
+          "description": "Prank-loving paper salesman"
         }
       ]
     },
@@ -434,34 +434,34 @@
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Secret agent"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Dwight Schrute",
-          "description": "Samuel L. Chang"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Jim Halpert",
-          "description": "Goldenface"
+          "description": "Prank-loving paper salesman"
         }
       ]
     },
     {
       "quote": "I'm the fucking Lizard King.",
-      "description": "Phone • Robert California",
+      "description": "The Office (US) • Classic Scene",
       "correct": 1,
       "options": [
         {
           "title": "David Wallace",
-          "description": "Buying back Dunder Mifflin"
+          "description": "Dunder Mifflin CFO"
         },
         {
           "title": "Robert California",
-          "description": "You don't even know my real name"
+          "description": "Enigmatic CEO"
         },
         {
           "title": "Andy Bernard",
-          "description": "Listening"
+          "description": "Cornell grad & salesman"
         }
       ]
     },
@@ -472,15 +472,15 @@
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Philosophy"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Dwight Schrute",
-          "description": "Nodding"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Ryan Howard",
-          "description": "Temp"
+          "description": "Temp turned corporate exec"
         }
       ]
     },
@@ -491,34 +491,34 @@
       "options": [
         {
           "title": "Jim Halpert",
-          "description": "Early seasons"
+          "description": "Prank-loving paper salesman"
         },
         {
           "title": "Dwight Schrute",
-          "description": "Ambitious"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Stanley Hudson",
-          "description": "Pretzel Day"
+          "description": "Crossword-loving salesman"
         }
       ]
     },
     {
       "quote": "It's $3,500!",
-      "description": "Corporate • David Wallace",
+      "description": "The Office (US) • Classic Scene",
       "correct": 2,
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Five thousand three hundred dollars?!"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Dwight Schrute",
-          "description": "Silent"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "David Wallace",
-          "description": "About the CPR dummy"
+          "description": "Dunder Mifflin CFO"
         }
       ]
     },
@@ -529,15 +529,15 @@
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Surprised"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "The Office Cast",
-          "description": "Singing Seasons of Love"
+          "description": "The Office (US) character"
         },
         {
           "title": "Dwight Schrute",
-          "description": "Harmony"
+          "description": "Beet farmer & top salesman"
         }
       ]
     },
@@ -548,15 +548,15 @@
       "options": [
         {
           "title": "Dwight Schrute",
-          "description": "Claims the title"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Michael Scott",
-          "description": "Corrects Dwight"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Jim Halpert",
-          "description": "Laughs"
+          "description": "Prank-loving paper salesman"
         }
       ]
     },
@@ -567,34 +567,34 @@
       "options": [
         {
           "title": "Holly Flax",
-          "description": "Tea"
+          "description": "Quirky HR representative"
         },
         {
           "title": "Erin Hannon",
-          "description": "Making hot tea for Robert"
+          "description": "Cheerful receptionist"
         },
         {
           "title": "Angela Martin",
-          "description": "Disgusted"
+          "description": "Head of Accounting & Party Planning"
         }
       ]
     },
     {
       "quote": "Boom! Roasted!",
-      "description": "Warehouse • Roast of Michael Scott",
+      "description": "The Office (US) • Classic Scene",
       "correct": 0,
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Roasting the whole office"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Stanley Hudson",
-          "description": "Laughing"
+          "description": "Crossword-loving salesman"
         },
         {
           "title": "Oscar Martinez",
-          "description": "Smiling"
+          "description": "Detail-oriented accountant"
         }
       ]
     },
@@ -605,15 +605,15 @@
       "options": [
         {
           "title": "Dwight Schrute",
-          "description": "Smiling"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Michael Scott",
-          "description": "At Dwight's wedding"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Jim Halpert",
-          "description": "Winking"
+          "description": "Prank-loving paper salesman"
         }
       ]
     },
@@ -624,15 +624,15 @@
       "options": [
         {
           "title": "Jan Levinson",
-          "description": "Wine"
+          "description": "Corporate VP"
         },
         {
           "title": "David Wallace",
-          "description": "After talking to Michael"
+          "description": "Dunder Mifflin CFO"
         },
         {
           "title": "Toby Flenderson",
-          "description": "Annex"
+          "description": "Mild-mannered HR rep"
         }
       ]
     },
@@ -643,15 +643,15 @@
       "options": [
         {
           "title": "Andy Bernard",
-          "description": "A cappella glory days"
+          "description": "Cornell grad & salesman"
         },
         {
           "title": "Jim Halpert",
-          "description": "Staring"
+          "description": "Prank-loving paper salesman"
         },
         {
           "title": "Oscar Martinez",
-          "description": "Sighing"
+          "description": "Detail-oriented accountant"
         }
       ]
     },
@@ -662,15 +662,15 @@
       "options": [
         {
           "title": "Dwight Schrute",
-          "description": "Answering Pam"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Michael Scott",
-          "description": "Impressed"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Oscar",
-          "description": "Skeptical"
+          "description": "The Office (US) character"
         }
       ]
     },
@@ -681,15 +681,15 @@
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Presenting to Ryan"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Kelly Kapoor",
-          "description": "Jealous"
+          "description": "Customer Service rep"
         },
         {
           "title": "Ryan Howard",
-          "description": "Embarrassed"
+          "description": "Temp turned corporate exec"
         }
       ]
     },
@@ -700,15 +700,15 @@
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Meeting"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Pam Beesly",
-          "description": "Smiling with tears"
+          "description": "Receptionist & artist"
         },
         {
           "title": "Dwight Schrute",
-          "description": "Confused"
+          "description": "Beet farmer & top salesman"
         }
       ]
     },
@@ -719,15 +719,15 @@
       "options": [
         {
           "title": "Andy Bernard",
-          "description": "Here Comes Treble"
+          "description": "Cornell grad & salesman"
         },
         {
           "title": "Ryan Howard",
-          "description": "Business school"
+          "description": "Temp turned corporate exec"
         },
         {
           "title": "Jim Halpert",
-          "description": "Stamford"
+          "description": "Prank-loving paper salesman"
         }
       ]
     },
@@ -738,15 +738,15 @@
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Tears"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Jim Halpert",
-          "description": "Bestisch Mensch"
+          "description": "Prank-loving paper salesman"
         },
         {
           "title": "Pam Beesly",
-          "description": "Smiling"
+          "description": "Receptionist & artist"
         }
       ]
     },
@@ -757,15 +757,15 @@
       "options": [
         {
           "title": "Dwight Schrute",
-          "description": "Last year I came to work with my spud-gun"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Creed Bratton",
-          "description": "Quality assurance"
+          "description": "Mysterious Quality Assurance rep"
         },
         {
           "title": "Toby Flenderson",
-          "description": "HR"
+          "description": "Mild-mannered HR rep"
         }
       ]
     },
@@ -776,15 +776,15 @@
       "options": [
         {
           "title": "Andy Bernard",
-          "description": "Anger issues"
+          "description": "Cornell grad & salesman"
         },
         {
           "title": "Dwight Schrute",
-          "description": "Desk"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Jim Halpert",
-          "description": "Hiding phone in ceiling"
+          "description": "Prank-loving paper salesman"
         }
       ]
     },
@@ -795,15 +795,15 @@
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Presenting"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Pam Beesly",
-          "description": "Drunk speech"
+          "description": "Receptionist & artist"
         },
         {
           "title": "Roy Anderson",
-          "description": "Leaving"
+          "description": "The Office (US) character"
         }
       ]
     },
@@ -814,15 +814,15 @@
       "options": [
         {
           "title": "Jim Halpert",
-          "description": "Guten Pranken"
+          "description": "Prank-loving paper salesman"
         },
         {
           "title": "Dwight Schrute",
-          "description": "Seeing Michael"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Angela Martin",
-          "description": "Smiling"
+          "description": "Head of Accounting & Party Planning"
         }
       ]
     },
@@ -833,15 +833,15 @@
       "options": [
         {
           "title": "Andy Bernard",
-          "description": "Butt tattoo"
+          "description": "Cornell grad & salesman"
         },
         {
           "title": "Kevin Malone",
-          "description": "Laughing"
+          "description": "Chili-loving accountant"
         },
         {
           "title": "Darryl Philbin",
-          "description": "Warehouse"
+          "description": "Warehouse foreman"
         }
       ]
     },
@@ -852,34 +852,34 @@
       "options": [
         {
           "title": "Dwight Schrute",
-          "description": "False! Black bear"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Jim Halpert",
-          "description": "Asking as Dwight"
+          "description": "Prank-loving paper salesman"
         },
         {
           "title": "Stanley",
-          "description": "Sleeping"
+          "description": "The Office (US) character"
         }
       ]
     },
     {
       "quote": "Wait... you think he's retarded?!",
-      "description": "Season 5 • Kevin & Holly",
+      "description": "The Office (US) • Classic Scene",
       "correct": 2,
       "options": [
         {
           "title": "Kevin Malone",
-          "description": "Vending machine"
+          "description": "Chili-loving accountant"
         },
         {
           "title": "Michael Scott",
-          "description": "Laughing"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Holly Flax",
-          "description": "Thinking Kevin is mentally challenged"
+          "description": "Quirky HR representative"
         }
       ]
     },
@@ -890,15 +890,15 @@
       "options": [
         {
           "title": "Dwight Schrute",
-          "description": "Life rule"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Jim Halpert",
-          "description": "Prank"
+          "description": "Prank-loving paper salesman"
         },
         {
           "title": "Kevin Malone",
-          "description": "Chili"
+          "description": "Chili-loving accountant"
         }
       ]
     },
@@ -909,15 +909,15 @@
       "options": [
         {
           "title": "Dwight Schrute",
-          "description": "Schrute Farms"
+          "description": "Beet farmer & top salesman"
         },
         {
           "title": "Jim Halpert",
-          "description": "Doubtful"
+          "description": "Prank-loving paper salesman"
         },
         {
           "title": "Michael Scott",
-          "description": "Believing"
+          "description": "Dunder Mifflin Regional Manager"
         }
       ]
     },
@@ -928,15 +928,15 @@
       "options": [
         {
           "title": "Darryl Philbin",
-          "description": "New office"
+          "description": "Warehouse foreman"
         },
         {
           "title": "Roy Anderson",
-          "description": "Gravel company"
+          "description": "The Office (US) character"
         },
         {
           "title": "Andy Bernard",
-          "description": "Boat"
+          "description": "Cornell grad & salesman"
         }
       ]
     },
@@ -947,15 +947,15 @@
       "options": [
         {
           "title": "Michael Scott",
-          "description": "Seeing Toby Flenderson"
+          "description": "Dunder Mifflin Regional Manager"
         },
         {
           "title": "Toby Flenderson",
-          "description": "HR"
+          "description": "Mild-mannered HR rep"
         },
         {
           "title": "Dwight Schrute",
-          "description": "Watching"
+          "description": "Beet farmer & top salesman"
         }
       ]
     }

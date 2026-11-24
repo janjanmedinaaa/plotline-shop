@@ -10,952 +10,952 @@
   "quote_count": 50,
   "questions": [
     {
-      "quote": "We're going to Vegas, baby!",
-      "description": "Road Trip • Car",
+      "quote": "Road trip! No luggage, just vibes!",
+      "description": "Jake and Amir • Road Trip • Car",
       "correct": 0,
       "options": [
         {
           "title": "Road Trip: Vegas",
-          "description": "Amir drives"
+          "description": "Jake and Amir"
         },
         {
           "title": "Road Trip: LA",
-          "description": "Coast"
+          "description": "Jake and Amir"
         },
         {
           "title": "Airplane",
-          "description": "Flight"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
-      "quote": "Did you bring any luggage? Just a bag of loose cheese.",
-      "description": "Road Trip • Trunk",
+      "quote": "I packed a bag of loose cheese for the road!",
+      "description": "Jake and Amir • Road Trip • Trunk",
       "correct": 0,
       "options": [
         {
           "title": "Road Trip: Vegas",
-          "description": "Packing"
+          "description": "Jake and Amir"
         },
         {
           "title": "Road Trip: Austin",
-          "description": "BBQ"
+          "description": "Jake and Amir"
         },
         {
           "title": "Hotel",
-          "description": "Room"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "I booked us one bed! For bonding!",
-      "description": "Hotel • Check-in",
+      "description": "Jake and Amir • Hotel • Check-in",
       "correct": 1,
       "options": [
         {
           "title": "Road Trip: Vegas",
-          "description": "Car"
+          "description": "Jake and Amir"
         },
         {
           "title": "Hotel Room",
-          "description": "Amir's reservation"
+          "description": "Jake and Amir"
         },
         {
           "title": "Airplane",
-          "description": "Seats"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "I'm afraid of flying! Hold my hand!",
-      "description": "Airport • Terminal",
+      "description": "Jake and Amir • Airport • Terminal",
       "correct": 2,
       "options": [
         {
           "title": "Road Trip: Vegas",
-          "description": "Highway"
+          "description": "Jake and Amir"
         },
         {
           "title": "Hotel Room",
-          "description": "Lobby"
+          "description": "Jake and Amir"
         },
         {
           "title": "Airplane",
-          "description": "Amir on the plane"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "We're moving to Los Angeles!",
-      "description": "Office • Finale Era",
+      "description": "Jake and Amir • Office • Finale Era",
       "correct": 0,
       "options": [
         {
           "title": "Moving to LA",
-          "description": "Saying goodbye to NYC"
+          "description": "Jake and Amir"
         },
         {
           "title": "Road Trip: Vegas",
-          "description": "Casino"
+          "description": "Jake and Amir"
         },
         {
           "title": "Hotel Room",
-          "description": "Pool"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "I lost all our money at blackjack!",
-      "description": "Casino • Vegas",
+      "description": "Jake and Amir • Casino • Vegas",
       "correct": 1,
       "options": [
         {
           "title": "Hotel Room",
-          "description": "Check-in"
+          "description": "Jake and Amir"
         },
         {
           "title": "Road Trip: Vegas",
-          "description": "Amir gambles"
+          "description": "Jake and Amir"
         },
         {
           "title": "Airplane",
-          "description": "Duty free"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Why did you bring a passport to New Jersey?",
-      "description": "Car • Tunnel",
+      "description": "Jake and Amir • Car • Tunnel",
       "correct": 2,
       "options": [
         {
           "title": "Airplane",
-          "description": "Gate"
+          "description": "Jake and Amir"
         },
         {
           "title": "Moving to LA",
-          "description": "Boxes"
+          "description": "Jake and Amir"
         },
         {
           "title": "Road Trip: Atlantic City",
-          "description": "Border joke"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "I'm driving! With my feet!",
-      "description": "Highway • Steering Wheel",
+      "description": "Jake and Amir • Highway • Steering Wheel",
       "correct": 0,
       "options": [
         {
           "title": "Road Trip: Vegas",
-          "description": "Dangerous driving"
+          "description": "Jake and Amir"
         },
         {
           "title": "Airplane",
-          "description": "Cockpit"
+          "description": "Jake and Amir"
         },
         {
           "title": "Hotel Room",
-          "description": "Valet"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Let's go to the beach! I brought a winter coat!",
-      "description": "California • Sand",
+      "description": "Jake and Amir • California • Sand",
       "correct": 1,
       "options": [
         {
           "title": "Road Trip: Vegas",
-          "description": "Desert"
+          "description": "Jake and Amir"
         },
         {
           "title": "Moving to LA",
-          "description": "Beach day"
+          "description": "Jake and Amir"
         },
         {
           "title": "Hotel Room",
-          "description": "Pool"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "I'm gonna tip the pilot!",
-      "description": "Airplane • Landing",
+      "description": "Jake and Amir • Airplane • Landing",
       "correct": 2,
       "options": [
         {
           "title": "Road Trip: Vegas",
-          "description": "Valet"
+          "description": "Jake and Amir"
         },
         {
           "title": "Hotel Room",
-          "description": "Bellhop"
+          "description": "Jake and Amir"
         },
         {
           "title": "Airplane",
-          "description": "Clapping on landing"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "I'm staying in the mini-bar!",
-      "description": "Hotel • Night",
+      "description": "Jake and Amir • Hotel • Night",
       "correct": 0,
       "options": [
         {
           "title": "Hotel Room",
-          "description": "Expensive snacks"
+          "description": "Jake and Amir"
         },
         {
           "title": "Road Trip: Vegas",
-          "description": "Buffet"
+          "description": "Jake and Amir"
         },
         {
           "title": "Moving to LA",
-          "description": "Packing"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "We missed our flight! Because you were eating mayo!",
-      "description": "Airport • Gate",
+      "description": "Jake and Amir • Airport • Gate",
       "correct": 1,
       "options": [
         {
           "title": "Road Trip: Vegas",
-          "description": "Rest stop"
+          "description": "Jake and Amir"
         },
         {
           "title": "Airplane",
-          "description": "TSA"
+          "description": "Jake and Amir"
         },
         {
           "title": "Hotel Room",
-          "description": "Lobby"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "I'm gonna miss this desk.",
-      "description": "Office • Finale",
+      "description": "Jake and Amir • Office • Finale",
       "correct": 2,
       "options": [
         {
           "title": "Road Trip: Vegas",
-          "description": "Car"
+          "description": "Jake and Amir"
         },
         {
           "title": "Hotel Room",
-          "description": "Bed"
+          "description": "Jake and Amir"
         },
         {
           "title": "Series Finale",
-          "description": "Leaving CollegeHumor"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "It's been a wild eight years.",
-      "description": "Office • Goodbye",
+      "description": "Jake and Amir • Office • Goodbye",
       "correct": 2,
       "options": [
         {
           "title": "Moving to LA",
-          "description": "Boxes"
+          "description": "Jake and Amir"
         },
         {
           "title": "Road Trip: Vegas",
-          "description": "Highway"
+          "description": "Jake and Amir"
         },
         {
           "title": "Series Finale",
-          "description": "Final episode"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Dinner tonight? One last time?",
-      "description": "Office • Finale",
+      "description": "Jake and Amir • Office • Finale",
       "correct": 2,
       "options": [
         {
           "title": "Road Trip: Vegas",
-          "description": "Diner"
+          "description": "Jake and Amir"
         },
         {
           "title": "Hotel Room",
-          "description": "Room service"
+          "description": "Jake and Amir"
         },
         {
           "title": "Series Finale",
-          "description": "Jake says yes"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Number 8: A plate of hot spum!",
-      "description": "Office • Gross List",
+      "description": "Jake and Amir • Office • Gross List",
       "correct": 2,
       "options": [
         {
           "title": "Milk Man",
-          "description": "Milk"
+          "description": "Jake and Amir"
         },
         {
           "title": "Nuggets",
-          "description": "Pocket"
+          "description": "Jake and Amir"
         },
         {
           "title": "Top 10 Foods",
-          "description": "Amir's menu"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "A-weird!",
-      "description": "Office • Weird",
+      "description": "Jake and Amir • Office • Weird",
       "correct": 0,
       "options": [
         {
           "title": "A-Weird",
-          "description": "Amir's adjective"
+          "description": "Jake and Amir"
         },
         {
           "title": "Ass",
-          "description": "Word"
+          "description": "Jake and Amir"
         },
         {
           "title": "Cool",
-          "description": "Shades"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Bad vest!",
-      "description": "Office • Fashion",
+      "description": "Jake and Amir • Office • Fashion",
       "correct": 1,
       "options": [
         {
           "title": "A-Weird",
-          "description": "Desk"
+          "description": "Jake and Amir"
         },
         {
           "title": "Vest",
-          "description": "Jake's vest"
+          "description": "Jake and Amir"
         },
         {
           "title": "Fedora",
-          "description": "Hat"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Todah! Todah!",
-      "description": "Office • Hebrew",
+      "description": "Jake and Amir • Office • Hebrew",
       "correct": 0,
       "options": [
         {
           "title": "Todah",
-          "description": "Amir says thank you"
+          "description": "Jake and Amir"
         },
         {
           "title": "Namaste",
-          "description": "Zen"
+          "description": "Jake and Amir"
         },
         {
           "title": "Go Bills",
-          "description": "Sports"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "I'm a golden god!",
-      "description": "Office • Ego",
+      "description": "Jake and Amir • Office • Ego",
       "correct": 2,
       "options": [
         {
           "title": "Todah",
-          "description": "Desk"
+          "description": "Jake and Amir"
         },
         {
           "title": "Go Bills",
-          "description": "Football"
+          "description": "Jake and Amir"
         },
         {
           "title": "Golden God",
-          "description": "Amir's speech"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "A-a-a-a-almond!",
-      "description": "Office • Chanting",
+      "description": "Jake and Amir • Office • Chanting",
       "correct": 2,
       "options": [
         {
           "title": "Scroll",
-          "description": "Paper"
+          "description": "Jake and Amir"
         },
         {
           "title": "Beefing",
-          "description": "Crying"
+          "description": "Jake and Amir"
         },
         {
           "title": "One Almond",
-          "description": "Desk chant"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
-      "quote": "I'm the Milk Man! I've got milk!",
-      "description": "Guest Star • Ben Schwartz",
+      "quote": "I deliver dairy straight to your cubicle!",
+      "description": "Jake and Amir • Guest Star • Ben Schwartz",
       "correct": 0,
       "options": [
         {
           "title": "Milk Man",
-          "description": "Ben Schwartz as the Milk Man"
+          "description": "Jake and Amir"
         },
         {
           "title": "Scroll",
-          "description": "Top 10 Scroll"
+          "description": "Jake and Amir"
         },
         {
           "title": "vest",
-          "description": "Corduroy Pant"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
-      "quote": "Chicken nuggets! In my pocket!",
-      "description": "Office • Lunch",
+      "quote": "They've been marinating in my lint since Tuesday!",
+      "description": "Jake and Amir • Office • Lunch",
       "correct": 0,
       "options": [
         {
           "title": "Nuggets",
-          "description": "Amir's pocket nuggets"
+          "description": "Jake and Amir"
         },
         {
           "title": "Scroll",
-          "description": "Paper"
+          "description": "Jake and Amir"
         },
         {
           "title": "Poker",
-          "description": "Card game"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Number 9: A hot dog with no bun!",
-      "description": "Office • Scroll",
+      "description": "Jake and Amir • Office • Scroll",
       "correct": 2,
       "options": [
         {
           "title": "Nuggets",
-          "description": "Pocket"
+          "description": "Jake and Amir"
         },
         {
           "title": "One Almond",
-          "description": "Nut"
+          "description": "Jake and Amir"
         },
         {
           "title": "Top 10 BBQ Foods",
-          "description": "Grill"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "A sleeveless shirt for this piece of dirt makes the sweeties go squirt!",
-      "description": "Office • Outfit",
+      "description": "Jake and Amir • Office • Outfit",
       "correct": 1,
       "options": [
         {
           "title": "Beefing",
-          "description": "Crying"
+          "description": "Jake and Amir"
         },
         {
           "title": "Fashion",
-          "description": "Amir's vest/shirt"
+          "description": "Jake and Amir"
         },
         {
           "title": "Nuggets",
-          "description": "Chicken"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Number 4: A baby Bjorn for my cat!",
-      "description": "Office • Scroll",
+      "description": "Jake and Amir • Office • Scroll",
       "correct": 0,
       "options": [
         {
           "title": "Top 10 Baby Names",
-          "description": "Cats"
+          "description": "Jake and Amir"
         },
         {
           "title": "Pigeon",
-          "description": "Bird"
+          "description": "Jake and Amir"
         },
         {
           "title": "Tinder",
-          "description": "Profile"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Number 10: A salmon named Ben!",
-      "description": "Scroll • Top 10 Fish",
+      "description": "Jake and Amir • Scroll • Top 10 Fish",
       "correct": 0,
       "options": [
         {
           "title": "Top 10 Fish to Fry",
-          "description": "Amir's scroll"
+          "description": "Jake and Amir"
         },
         {
           "title": "Top 10 Scroll",
-          "description": "Names"
+          "description": "Jake and Amir"
         },
         {
           "title": "One Almond",
-          "description": "Walnut"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Number 5: Just a little bit of salt!",
-      "description": "Office • Scroll",
+      "description": "Jake and Amir • Office • Scroll",
       "correct": 0,
       "options": [
         {
           "title": "Top 10 Sandwich Toppings",
-          "description": "Salt"
+          "description": "Jake and Amir"
         },
         {
           "title": "One Almond",
-          "description": "Almond"
+          "description": "Jake and Amir"
         },
         {
           "title": "Beer",
-          "description": "Drink"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
-      "quote": "I'm gonna buy a walnut! It's the same thing!",
-      "description": "Office • Desk",
+      "quote": "One almond is all you need!",
+      "description": "Jake and Amir • Office • Desk",
       "correct": 2,
       "options": [
         {
           "title": "Top 10 Foods",
-          "description": "Menu"
+          "description": "Jake and Amir"
         },
         {
           "title": "Milk Man",
-          "description": "Glass"
+          "description": "Jake and Amir"
         },
         {
           "title": "One Almond",
-          "description": "Amir's obsession"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "We're beefing!",
-      "description": "Office • Both Crying",
+      "description": "Jake and Amir • Office • Both Crying",
       "correct": 1,
       "options": [
         {
           "title": "Nuggets",
-          "description": "Pocket"
+          "description": "Jake and Amir"
         },
         {
           "title": "Cheryl",
-          "description": "Jake & Amir cry together"
+          "description": "Jake and Amir"
         },
         {
           "title": "Doobs",
-          "description": "Set"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "I'm a pimp and a cool!",
-      "description": "Office • Sunglasses",
+      "description": "Jake and Amir • Office • Sunglasses",
       "correct": 2,
       "options": [
         {
           "title": "Milk Man",
-          "description": "Milk"
+          "description": "Jake and Amir"
         },
         {
           "title": "Doobs",
-          "description": "Actor"
+          "description": "Jake and Amir"
         },
         {
           "title": "Cool",
-          "description": "Amir's fake confidence"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Number 6: A glass of warm milk.",
-      "description": "Office • Scroll",
+      "description": "Jake and Amir • Office • Scroll",
       "correct": 0,
       "options": [
         {
           "title": "Milk Man",
-          "description": "Ben Schwartz"
+          "description": "Jake and Amir"
         },
         {
           "title": "Top 10 Drinks",
-          "description": "List"
+          "description": "Jake and Amir"
         },
         {
           "title": "Beer",
-          "description": "Pub"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "I'm beefing!",
-      "description": "Office • Crying",
+      "description": "Jake and Amir • Office • Crying",
       "correct": 0,
       "options": [
         {
           "title": "Beefing",
-          "description": "Tears of soy"
+          "description": "Jake and Amir"
         },
         {
           "title": "Nuggets",
-          "description": "Pocket"
+          "description": "Jake and Amir"
         },
         {
           "title": "Scroll",
-          "description": "Paper"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "I'm a bit of a martyr!",
-      "description": "Office • Sacrifice",
+      "description": "Jake and Amir • Office • Sacrifice",
       "correct": 2,
       "options": [
         {
           "title": "Karate",
-          "description": "Belt"
+          "description": "Jake and Amir"
         },
         {
           "title": "Fedora",
-          "description": "Hat"
+          "description": "Jake and Amir"
         },
         {
           "title": "Martyr",
-          "description": "Amir's fake heroism"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Taupe! That's so taupe!",
-      "description": "Office • Rating",
+      "description": "Jake and Amir • Office • Rating",
       "correct": 1,
       "options": [
         {
           "title": "Dinner Tonight",
-          "description": "Booth"
+          "description": "Jake and Amir"
         },
         {
           "title": "Dope",
-          "description": "Amir invents 'taupe'"
+          "description": "Jake and Amir"
         },
         {
           "title": "Ass",
-          "description": "Insult"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
-      "quote": "It's called 'Karate'!",
-      "description": "Office • Fight",
+      "quote": "I earned this black belt in a strip mall!",
+      "description": "Jake and Amir • Office • Fight",
       "correct": 1,
       "options": [
         {
           "title": "Golden God",
-          "description": "Desk"
+          "description": "Jake and Amir"
         },
         {
           "title": "Karate",
-          "description": "Amir's black belt"
+          "description": "Jake and Amir"
         },
         {
           "title": "Doobs",
-          "description": "Actor"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Number 1: A hug from Jake!",
-      "description": "Office • Sweet Ending",
+      "description": "Jake and Amir • Office • Sweet Ending",
       "correct": 2,
       "options": [
         {
           "title": "Beefing",
-          "description": "Tears"
+          "description": "Jake and Amir"
         },
         {
           "title": "Cheryl",
-          "description": "Date"
+          "description": "Jake and Amir"
         },
         {
           "title": "Top 10 Birthday Wishes",
-          "description": "Amir's wish"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
-      "quote": "I'm beefing! Look at me, I'm beefing!",
-      "description": "Office • Crying",
+      "quote": "Tears of soy are streaming down my face!",
+      "description": "Jake and Amir • Office • Crying",
       "correct": 0,
       "options": [
         {
           "title": "Beefing",
-          "description": "Weeping tears of soy"
+          "description": "Jake and Amir"
         },
         {
           "title": "Scroll",
-          "description": "Top 10"
+          "description": "Jake and Amir"
         },
         {
           "title": "Tinder",
-          "description": "Dating app"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
-      "quote": "I got a Tinder! Swipe right!",
-      "description": "Office • Dating App",
+      "quote": "Swipe right for a good time, left for a great time!",
+      "description": "Jake and Amir • Office • Dating App",
       "correct": 2,
       "options": [
         {
           "title": "Scroll",
-          "description": "List"
+          "description": "Jake and Amir"
         },
         {
           "title": "Fashion",
-          "description": "Vest"
+          "description": "Jake and Amir"
         },
         {
           "title": "Tinder",
-          "description": "Amir's profile"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
-      "quote": "I'm gonna buy a fedora!",
-      "description": "Office • Insecure Jake",
+      "quote": "It's called fashion—look it up!",
+      "description": "Jake and Amir • Office • Insecure Jake",
       "correct": 1,
       "options": [
         {
           "title": "Scroll",
-          "description": "List"
+          "description": "Jake and Amir"
         },
         {
           "title": "Fedora",
-          "description": "Jake's hat"
+          "description": "Jake and Amir"
         },
         {
           "title": "Nuggets",
-          "description": "Food"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "One almond!",
-      "description": "Office • Snack",
+      "description": "Jake and Amir • Office • Snack",
       "correct": 1,
       "options": [
         {
           "title": "Nuggets",
-          "description": "Chicken"
+          "description": "Jake and Amir"
         },
         {
           "title": "One Almond",
-          "description": "Walnut"
+          "description": "Jake and Amir"
         },
         {
           "title": "Milk Man",
-          "description": "Milk"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Doobs! Penis Anthony Doubligné!",
-      "description": "Guest Star • Thomas Middleditch",
+      "description": "Jake and Amir • Guest Star • Thomas Middleditch",
       "correct": 1,
       "options": [
         {
           "title": "Milk Man",
-          "description": "Milk"
+          "description": "Jake and Amir"
         },
         {
           "title": "Doobs",
-          "description": "Amir's childhood nemesis"
+          "description": "Jake and Amir"
         },
         {
           "title": "Cheryl",
-          "description": "Date"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Number 2: A pair of jeans that fits!",
-      "description": "Office • Scroll",
+      "description": "Jake and Amir • Office • Scroll",
       "correct": 1,
       "options": [
         {
           "title": "Fashion",
-          "description": "Vest"
+          "description": "Jake and Amir"
         },
         {
           "title": "Top 10 Outfits",
-          "description": "Jeans"
+          "description": "Jake and Amir"
         },
         {
           "title": "Fedora",
-          "description": "Hat"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Number 3: Just yell 'Taupe!' at strangers.",
-      "description": "Office • Scroll",
+      "description": "Jake and Amir • Office • Scroll",
       "correct": 1,
       "options": [
         {
           "title": "Beefing",
-          "description": "Soy"
+          "description": "Jake and Amir"
         },
         {
           "title": "Top 10 Compliments",
-          "description": "Dope/Taupe"
+          "description": "Jake and Amir"
         },
         {
           "title": "Cool",
-          "description": "Shades"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
-      "quote": "One almond! How much do you think it's worth?",
-      "description": "Office • Snack",
+      "quote": "How many nuts would you say is the perfect amount?",
+      "description": "Jake and Amir • Office • Snack",
       "correct": 2,
       "options": [
         {
           "title": "Fedora",
-          "description": "Hat"
+          "description": "Jake and Amir"
         },
         {
           "title": "Tinder",
-          "description": "App"
+          "description": "Jake and Amir"
         },
         {
           "title": "One Almond",
-          "description": "Amir's walnut/almond obsession"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Ass!",
-      "description": "Office • Insult",
+      "description": "Jake and Amir • Office • Insult",
       "correct": 0,
       "options": [
         {
           "title": "Ass",
-          "description": "Stop saying 'ass'!"
+          "description": "Jake and Amir"
         },
         {
           "title": "Milk Man",
-          "description": "Milk"
+          "description": "Jake and Amir"
         },
         {
           "title": "Doobs",
-          "description": "Huddy"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "I'm the Milk Man!",
-      "description": "Office • Ben Schwartz",
+      "description": "Jake and Amir • Office • Ben Schwartz",
       "correct": 0,
       "options": [
         {
           "title": "Milk Man",
-          "description": "Milk delivery"
+          "description": "Jake and Amir"
         },
         {
           "title": "Doobs",
-          "description": "Actor"
+          "description": "Jake and Amir"
         },
         {
           "title": "Tinder",
-          "description": "App"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Penis Anthony Doubligné!",
-      "description": "Office • Doobs",
+      "description": "Jake and Amir • Office • Doobs",
       "correct": 2,
       "options": [
         {
           "title": "Milk Man",
-          "description": "Milk"
+          "description": "Jake and Amir"
         },
         {
           "title": "Scroll",
-          "description": "List"
+          "description": "Jake and Amir"
         },
         {
           "title": "Doobs",
-          "description": "Thomas Middleditch"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Number 1: A bad amount of money!",
-      "description": "Office • Scroll",
+      "description": "Jake and Amir • Office • Scroll",
       "correct": 1,
       "options": [
         {
           "title": "Top 10 Fish to Fry",
-          "description": "Fish"
+          "description": "Jake and Amir"
         },
         {
           "title": "Top 10 Things to Buy",
-          "description": "Amir's budget"
+          "description": "Jake and Amir"
         },
         {
           "title": "Tinder",
-          "description": "Swipe"
+          "description": "Jake and Amir"
         }
       ]
     },
     {
       "quote": "Dinner tonight?",
-      "description": "Office • Classic",
+      "description": "Jake and Amir • Office • Classic",
       "correct": 0,
       "options": [
         {
           "title": "Dinner Tonight",
-          "description": "Original recurring bit"
+          "description": "Jake and Amir"
         },
         {
           "title": "Milk Man",
-          "description": "Milk"
+          "description": "Jake and Amir"
         },
         {
           "title": "Scroll",
-          "description": "Top 10"
+          "description": "Jake and Amir"
         }
       ]
     }

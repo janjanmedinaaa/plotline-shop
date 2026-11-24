@@ -11,951 +11,951 @@
   "questions": [
     {
       "quote": "She left me at the altar.",
-      "description": "Season 4 • Wedding",
+      "description": "How I Met Your Mother • How I Met Your Mother • Wedding",
       "correct": 0,
       "options": [
         {
           "title": "S4E05 • Shelter Island",
-          "description": "Stella leaves Ted"
+          "description": "How I Met Your Mother • Season 4"
         },
         {
           "title": "S4E01 • Do I Know You?",
-          "description": "Proposal"
+          "description": "How I Met Your Mother • Season 4"
         },
         {
           "title": "S4E09 • The Naked Man",
-          "description": "Couch"
+          "description": "How I Met Your Mother • Season 4"
         }
       ]
     },
     {
-      "quote": "The Three Days Rule! Wait three days!",
-      "description": "Season 4 • Texting",
+      "quote": "Jesus waited three days, and he came back!",
+      "description": "How I Met Your Mother • How I Met Your Mother • Texting",
       "correct": 1,
       "options": [
         {
           "title": "S4E05 • Shelter Island",
-          "description": "Wedding"
+          "description": "How I Met Your Mother • Season 4"
         },
         {
           "title": "S4E21 • The Three Days Rule",
-          "description": "Holli"
+          "description": "How I Met Your Mother • Season 4"
         },
         {
           "title": "S4E24 • The Leap",
-          "description": "Rooftop"
+          "description": "How I Met Your Mother • Season 4"
         }
       ]
     },
     {
       "quote": "Jump! To the other roof!",
-      "description": "Season 4 • Finale",
+      "description": "How I Met Your Mother • How I Met Your Mother • Finale",
       "correct": 2,
       "options": [
         {
           "title": "S4E09 • The Naked Man",
-          "description": "Apartment"
+          "description": "How I Met Your Mother • Season 4"
         },
         {
           "title": "S4E21 • The Three Days Rule",
-          "description": "Booth"
+          "description": "How I Met Your Mother • Season 4"
         },
         {
           "title": "S4E24 • The Leap",
-          "description": "Leaping to the next year"
+          "description": "How I Met Your Mother • Season 4"
         }
       ]
     },
     {
       "quote": "Robin 101: a class taught by Barney.",
-      "description": "Season 5 • Classroom",
+      "description": "How I Met Your Mother • How I Met Your Mother • Classroom",
       "correct": 0,
       "options": [
         {
           "title": "S5E03 • Robin 101",
-          "description": "Ted takes notes on Robin"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S5E08 • The Playbook",
-          "description": "Scuba"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S5E12 • Girls Versus Suits",
-          "description": "Musical"
+          "description": "How I Met Your Mother • Season 5"
         }
       ]
     },
     {
       "quote": "The Window is open!",
-      "description": "Season 5 • Maggie Wilks",
+      "description": "How I Met Your Mother • How I Met Your Mother • Maggie Wilks",
       "correct": 1,
       "options": [
         {
           "title": "S5E03 • Robin 101",
-          "description": "Class"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S5E10 • The Window",
-          "description": "Girl next door"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S5E15 • Rabbit or Duck",
-          "description": "Phone"
+          "description": "How I Met Your Mother • Season 5"
         }
       ]
     },
     {
-      "quote": "Robots Versus Wrestlers!",
-      "description": "Season 5 • Highbrow Party",
+      "quote": "Every year we watch giant machines fight guys in tights.",
+      "description": "How I Met Your Mother • How I Met Your Mother • Highbrow Party",
       "correct": 2,
       "options": [
         {
           "title": "S5E10 • The Window",
-          "description": "Overall"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S5E12 • Girls Versus Suits",
-          "description": "Bar"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S5E22 • Robots Versus Wrestlers",
-          "description": "Annual tradition"
+          "description": "How I Met Your Mother • Season 5"
         }
       ]
     },
     {
       "quote": "Doppelgängers! We've seen four of five!",
-      "description": "Season 5 • Finale",
+      "description": "How I Met Your Mother • How I Met Your Mother • Finale",
       "correct": 0,
       "options": [
         {
           "title": "S5E24 • Doppelgangers",
-          "description": "Cab driver, wrestler, stripper, news"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S5E22 • Robots Versus Wrestlers",
-          "description": "Arena"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S6E01 • Big Days",
-          "description": "Bar"
+          "description": "How I Met Your Mother • Season 6"
         }
       ]
     },
     {
       "quote": "Subway Wars! Who gets there fastest?",
-      "description": "Season 6 • NYC Race",
+      "description": "How I Met Your Mother • How I Met Your Mother • NYC Race",
       "correct": 1,
       "options": [
         {
           "title": "S6E01 • Big Days",
-          "description": "Punchy"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E04 • Subway Wars",
-          "description": "Maury Povich"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E10 • Blitzgiving",
-          "description": "Turkey"
+          "description": "How I Met Your Mother • Season 6"
         }
       ]
     },
     {
       "quote": "Architect of Destruction! The Arcadian!",
-      "description": "Season 6 • Zoey",
+      "description": "How I Met Your Mother • How I Met Your Mother • Zoey",
       "correct": 2,
       "options": [
         {
           "title": "S6E04 • Subway Wars",
-          "description": "Subway"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E11 • The Mermaid Theory",
-          "description": "Boat"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E05 • Architect of Destruction",
-          "description": "GNB headquarters"
+          "description": "How I Met Your Mother • Season 6"
         }
       ]
     },
     {
-      "quote": "Natural History! Don't touch the whale!",
-      "description": "Season 6 • Museum",
+      "quote": "We're sneaking into the museum gala after hours.",
+      "description": "How I Met Your Mother • How I Met Your Mother • Museum",
       "correct": 0,
       "options": [
         {
           "title": "S6E08 • Natural History",
-          "description": "Zoey & the Captain"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E09 • Glitter",
-          "description": "Space Teens"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E13 • Bad News",
-          "description": "Countdown"
+          "description": "How I Met Your Mother • Season 6"
         }
       ]
     },
     {
       "quote": "Countdown from 50 to 1...",
-      "description": "Season 6 • Bad News",
+      "description": "How I Met Your Mother • How I Met Your Mother • Bad News",
       "correct": 1,
       "options": [
         {
           "title": "S6E08 • Natural History",
-          "description": "Museum"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E13 • Bad News",
-          "description": "Marshall's dad"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E14 • Last Words",
-          "description": "Funeral"
+          "description": "How I Met Your Mother • Season 6"
         }
       ]
     },
     {
       "quote": "You're a really good friend, Ted.",
-      "description": "Season 6 • Minnesota",
+      "description": "How I Met Your Mother • How I Met Your Mother • Minnesota",
       "correct": 2,
       "options": [
         {
           "title": "S6E13 • Bad News",
-          "description": "Cab"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E10 • Blitzgiving",
-          "description": "Blitz"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E14 • Last Words",
-          "description": "Pocket dial voicemail"
+          "description": "How I Met Your Mother • Season 6"
         }
       ]
     },
     {
       "quote": "Hopeless! Look at my dad!",
-      "description": "Season 6 • Legendaddy",
+      "description": "How I Met Your Mother • How I Met Your Mother • Legendaddy",
       "correct": 0,
       "options": [
         {
           "title": "S6E19 • Legendaddy",
-          "description": "Barney meets Jerome"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E13 • Bad News",
-          "description": "Hospital"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E24 • Challenge Accepted",
-          "description": "Arcadian"
+          "description": "How I Met Your Mother • Season 6"
         }
       ]
     },
     {
-      "quote": "The Exploding Meatball Sub!",
-      "description": "Season 6 • Vengeance",
+      "quote": "I've been waiting ten years for this marinara payback.",
+      "description": "How I Met Your Mother • How I Met Your Mother • Vengeance",
       "correct": 1,
       "options": [
         {
           "title": "S6E04 • Subway Wars",
-          "description": "Subway"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E20 • The Exploding Meatball Sub",
-          "description": "Barney's 10-year prank"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E24 • Challenge Accepted",
-          "description": "Demolition"
+          "description": "How I Met Your Mother • Season 6"
         }
       ]
     },
     {
-      "quote": "Challenge Accepted!",
-      "description": "Season 6 • Finale",
+      "quote": "Wait for it—I'm pushing the demolition button right now.",
+      "description": "How I Met Your Mother • How I Met Your Mother • Finale",
       "correct": 2,
       "options": [
         {
           "title": "S6E19 • Legendaddy",
-          "description": "Basketball hoop"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E20 • The Exploding Meatball Sub",
-          "description": "Sub"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S6E24 • Challenge Accepted",
-          "description": "Pressing the button"
+          "description": "How I Met Your Mother • Season 6"
         }
       ]
     },
     {
       "quote": "It's the Return of the Shirt!",
-      "description": "Season 1 • 6-Year-Old Shirt",
+      "description": "How I Met Your Mother • How I Met Your Mother • 6-Year-Old Shirt",
       "correct": 0,
       "options": [
         {
           "title": "S1E04 • Return of the Shirt",
-          "description": "Ted & Natalie"
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S1E05 • Okay Awesome",
-          "description": "Club"
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S1E06 • Slutty Pumpkin",
-          "description": "Rooftop"
+          "description": "How I Met Your Mother • Season 1"
         }
       ]
     },
     {
       "quote": "Bachelor party! Not at a strip club!",
-      "description": "Season 2 • Atlantic City",
+      "description": "How I Met Your Mother • How I Met Your Mother • Atlantic City",
       "correct": 2,
       "options": [
         {
           "title": "S2E14 • Monday Night Football",
-          "description": "Super Bowl"
+          "description": "How I Met Your Mother • Season 2"
         },
         {
           "title": "S2E17 • Arrivederci, Fiero",
-          "description": "Car"
+          "description": "How I Met Your Mother • Season 2"
         },
         {
           "title": "S2E19 • Bachelor Party",
-          "description": "Karate Kid"
+          "description": "How I Met Your Mother • Season 2"
         }
       ]
     },
     {
       "quote": "Two minutes! Ten dates in two minutes!",
-      "description": "Season 3 • Stella's Office",
+      "description": "How I Met Your Mother • How I Met Your Mother • Stella's Office",
       "correct": 1,
       "options": [
         {
           "title": "S3E01 • Wait for It",
-          "description": "Tattoo"
+          "description": "How I Met Your Mother • Season 3"
         },
         {
           "title": "S3E13 • Ten Sessions",
-          "description": "Two-minute date"
+          "description": "How I Met Your Mother • Season 3"
         },
         {
           "title": "S3E17 • The Goat",
-          "description": "30th birthday"
+          "description": "How I Met Your Mother • Season 3"
         }
       ]
     },
     {
       "quote": "Something New! One ticket to Farhampton.",
-      "description": "Season 8 • Finale",
+      "description": "How I Met Your Mother • How I Met Your Mother • Finale",
       "correct": 2,
       "options": [
         {
           "title": "S8E12 • The Final Page",
-          "description": "WWN"
+          "description": "How I Met Your Mother • Season 8"
         },
         {
           "title": "S8E20 • The Time Travelers",
-          "description": "Booth"
+          "description": "How I Met Your Mother • Season 8"
         },
         {
           "title": "S8E24 • Something New",
-          "description": "First reveal of the Mother"
+          "description": "How I Met Your Mother • Season 8"
         }
       ]
     },
     {
-      "quote": "Symphony of Illumination.",
-      "description": "Season 7 • Apartment Lights",
+      "quote": "I turned the whole apartment into a light show for you.",
+      "description": "How I Met Your Mother • How I Met Your Mother • Apartment Lights",
       "correct": 1,
       "options": [
         {
           "title": "S7E10 • Tick Tick Tick",
-          "description": "Boat"
+          "description": "How I Met Your Mother • Season 7"
         },
         {
           "title": "S7E12 • Symphony of Illumination",
-          "description": "Ted cheers up Robin"
+          "description": "How I Met Your Mother • Season 7"
         },
         {
           "title": "S7E17 • No Pressure",
-          "description": "Rain"
+          "description": "How I Met Your Mother • Season 7"
         }
       ]
     },
     {
       "quote": "Why is there a goat in our bathroom?",
-      "description": "Season 4 • Ted's 31st Birthday",
+      "description": "How I Met Your Mother • How I Met Your Mother • Ted's 31st Birthday",
       "correct": 0,
       "options": [
         {
           "title": "S4E24 • The Leap",
-          "description": "The goat finally attacks"
+          "description": "How I Met Your Mother • Season 4"
         },
         {
           "title": "S3E17 • The Goat",
-          "description": "30th birthday"
+          "description": "How I Met Your Mother • Season 3"
         },
         {
           "title": "S1E10 • The Pineapple Incident",
-          "description": "Pineapple"
+          "description": "How I Met Your Mother • Season 1"
         }
       ]
     },
     {
       "quote": "We're going to Philadelphia!",
-      "description": "Season 1 • Airport",
+      "description": "How I Met Your Mother • How I Met Your Mother • Airport",
       "correct": 2,
       "options": [
         {
           "title": "S1E01 • Pilot",
-          "description": "MacLaren's"
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S1E02 • Purple Giraffe",
-          "description": "Party"
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S1E03 • Sweet Taste of Liberty",
-          "description": "Licking the Liberty Bell"
+          "description": "How I Met Your Mother • Season 1"
         }
       ]
     },
     {
       "quote": "The Robin: the final play.",
-      "description": "Season 8 • WWN Rooftop",
+      "description": "How I Met Your Mother • How I Met Your Mother • WWN Rooftop",
       "correct": 1,
       "options": [
         {
           "title": "S5E08 • The Playbook",
-          "description": "Scuba"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S8E12 • The Final Page",
-          "description": "Barney proposes to Robin"
+          "description": "How I Met Your Mother • Season 8"
         },
         {
           "title": "S9E24 • Last Forever",
-          "description": "Finale"
+          "description": "How I Met Your Mother • Season 9"
         }
       ]
     },
     {
-      "quote": "How Your Mother Met Me.",
-      "description": "Season 9 • 200th Episode",
+      "quote": "I've been waiting eight years to hear the other side of that umbrella.",
+      "description": "How I Met Your Mother • How I Met Your Mother • 200th Episode",
       "correct": 2,
       "options": [
         {
           "title": "S9E01 • The Locket",
-          "description": "Locket"
+          "description": "How I Met Your Mother • Season 9"
         },
         {
           "title": "S9E11 • Bedtime Stories",
-          "description": "Bus"
+          "description": "How I Met Your Mother • Season 9"
         },
         {
           "title": "S9E16 • How Your Mother Met Me",
-          "description": "Tracy's 8-year journey"
+          "description": "How I Met Your Mother • Season 9"
         }
       ]
     },
     {
       "quote": "Two Beavers Are Better Than One!",
-      "description": "Season 6 • Space Teens",
+      "description": "How I Met Your Mother • How I Met Your Mother • Space Teens",
       "correct": 0,
       "options": [
         {
           "title": "S6E09 • Glitter",
-          "description": "Jessica Glitter & Robin"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S2E09 • Slap Bet",
-          "description": "Mall"
+          "description": "How I Met Your Mother • Season 2"
         },
         {
           "title": "S3E16 • Sandcastles in the Sand",
-          "description": "Beach"
+          "description": "How I Met Your Mother • Season 3"
         }
       ]
     },
     {
       "quote": "Crazy Eyes.",
-      "description": "Season 2 • Chloe at the Coffee Shop",
+      "description": "How I Met Your Mother • How I Met Your Mother • Chloe at the Coffee Shop",
       "correct": 1,
       "options": [
         {
           "title": "S3E05 • How I Met Everyone Else",
-          "description": "Hot/Crazy"
+          "description": "How I Met Your Mother • Season 3"
         },
         {
           "title": "S2E07 • Swarley",
-          "description": "Marshall's date Chloe"
+          "description": "How I Met Your Mother • Season 2"
         },
         {
           "title": "S1E10 • Pineapple Incident",
-          "description": "Pineapple"
+          "description": "How I Met Your Mother • Season 1"
         }
       ]
     },
     {
-      "quote": "Slapsgiving! A holiday I invented.",
-      "description": "Season 3 • Thanksgiving",
+      "quote": "I even wrote a song for the occasion on the piano.",
+      "description": "How I Met Your Mother • How I Met Your Mother • Thanksgiving",
       "correct": 1,
       "options": [
         {
           "title": "S2E09 • Slap Bet",
-          "description": "Mall"
+          "description": "How I Met Your Mother • Season 2"
         },
         {
           "title": "S3E09 • Slapsgiving",
-          "description": "Countdown clock"
+          "description": "How I Met Your Mother • Season 3"
         },
         {
           "title": "S9E14 • Slapsgiving 3",
-          "description": "Slappointment"
+          "description": "How I Met Your Mother • Season 9"
         }
       ]
     },
     {
       "quote": "Where did the pineapple come from?",
-      "description": "Season 1 • Blackout Mystery",
+      "description": "How I Met Your Mother • How I Met Your Mother • Blackout Mystery",
       "correct": 2,
       "options": [
         {
           "title": "S1E01 • Pilot",
-          "description": "French horn"
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S2E09 • Slap Bet",
-          "description": "Slap"
+          "description": "How I Met Your Mother • Season 2"
         },
         {
           "title": "S1E10 • The Pineapple Incident",
-          "description": "Ted wakes up with Trudy"
+          "description": "How I Met Your Mother • Season 1"
         }
       ]
     },
     {
       "quote": "P.S. I Love You — Robin Daggers!",
-      "description": "Season 8 • 90s Grunge",
+      "description": "How I Met Your Mother • How I Met Your Mother • 90s Grunge",
       "correct": 2,
       "options": [
         {
           "title": "S2E09 • Slap Bet",
-          "description": "Mall"
+          "description": "How I Met Your Mother • Season 2"
         },
         {
           "title": "S6E09 • Glitter",
-          "description": "Space Teens"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S8E15 • P.S. I Love You",
-          "description": "Underneath the Tunes"
+          "description": "How I Met Your Mother • Season 8"
         }
       ]
     },
     {
       "quote": "The Cockamouse!",
-      "description": "Season 1 • Apartment 4A",
+      "description": "How I Met Your Mother • How I Met Your Mother • Apartment 4A",
       "correct": 0,
       "options": [
         {
           "title": "S1E07 • Matchmaker",
-          "description": "Half cockroach, half mouse"
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S2E17 • Arrivederci, Fiero",
-          "description": "Fiero"
+          "description": "How I Met Your Mother • Season 2"
         },
         {
           "title": "S4E24 • The Leap",
-          "description": "Goat"
+          "description": "How I Met Your Mother • Season 4"
         }
       ]
     },
     {
       "quote": "The Lorenzo Von Matterhorn.",
-      "description": "Season 5 • Fake Wikipedia Pages",
+      "description": "How I Met Your Mother • How I Met Your Mother • Fake Wikipedia Pages",
       "correct": 0,
       "options": [
         {
           "title": "S5E08 • The Playbook",
-          "description": "Barney invents a billionaire"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S3E14 • The Bracket",
-          "description": "64-girl bracket"
+          "description": "How I Met Your Mother • Season 3"
         },
         {
           "title": "S4E24 • The Leap",
-          "description": "Rooftop jump"
+          "description": "How I Met Your Mother • Season 4"
         }
       ]
     },
     {
       "quote": "Weekend at Barney's.",
-      "description": "Season 8 • Controlling Dead Barney",
+      "description": "How I Met Your Mother • How I Met Your Mother • Controlling Dead Barney",
       "correct": 2,
       "options": [
         {
           "title": "S5E08 • The Playbook",
-          "description": "Fake billionaire"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S7E03 • Ducky Tie",
-          "description": "Teppanyaki"
+          "description": "How I Met Your Mother • Season 7"
         },
         {
           "title": "S8E18 • Weekend at Barney's",
-          "description": "Ted & Marshall's puppetry"
+          "description": "How I Met Your Mother • Season 8"
         }
       ]
     },
     {
       "quote": "The Lemon Law: five minutes to decide.",
-      "description": "Season 1 • First Date Rule",
+      "description": "How I Met Your Mother • How I Met Your Mother • First Date Rule",
       "correct": 2,
       "options": [
         {
           "title": "S5E08 • The Playbook",
-          "description": "He's Not Coming"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S3E01 • Wait for It",
-          "description": "Tattoo"
+          "description": "How I Met Your Mother • Season 3"
         },
         {
           "title": "S1E16 • Cupcake",
-          "description": "Wait—S1E17 Life Among the Gorillas / S1E11"
+          "description": "How I Met Your Mother • Season 1"
         }
       ]
     },
     {
       "quote": "Wait for it...",
-      "description": "Season 3 • Argentina",
+      "description": "How I Met Your Mother • How I Met Your Mother • Argentina",
       "correct": 0,
       "options": [
         {
           "title": "S3E01 • Wait for It",
-          "description": "Gael & the butterfly tattoo"
+          "description": "How I Met Your Mother • Season 3"
         },
         {
           "title": "S3E05 • How I Met Everyone Else",
-          "description": "Hot/Crazy"
+          "description": "How I Met Your Mother • Season 3"
         },
         {
           "title": "S3E11 • The Platinum Rule",
-          "description": "Stella"
+          "description": "How I Met Your Mother • Season 3"
         }
       ]
     },
     {
       "quote": "I'm having a miracle!",
-      "description": "Season 3 • Finale",
+      "description": "How I Met Your Mother • How I Met Your Mother • Finale",
       "correct": 0,
       "options": [
         {
           "title": "S3E20 • Miracles",
-          "description": "Ted's car crash"
+          "description": "How I Met Your Mother • Season 3"
         },
         {
           "title": "S3E17 • The Goat",
-          "description": "Goat"
+          "description": "How I Met Your Mother • Season 3"
         },
         {
           "title": "S3E19 • Everything Must Go",
-          "description": "Garage sale"
+          "description": "How I Met Your Mother • Season 3"
         }
       ]
     },
     {
       "quote": "La Vie En Rose on the ukulele.",
-      "description": "Season 9 • Balcony",
+      "description": "How I Met Your Mother • How I Met Your Mother • Balcony",
       "correct": 2,
       "options": [
         {
           "title": "S9E08 • The Lighthouse",
-          "description": "Lighthouse"
+          "description": "How I Met Your Mother • Season 9"
         },
         {
           "title": "S9E11 • Bedtime Stories",
-          "description": "Bus"
+          "description": "How I Met Your Mother • Season 9"
         },
         {
           "title": "S9E16 • How Your Mother Met Me",
-          "description": "Ted hears Tracy sing"
+          "description": "How I Met Your Mother • Season 9"
         }
       ]
     },
     {
       "quote": "Have you met Ted?",
-      "description": "Season 1 • First Episode",
+      "description": "How I Met Your Mother • How I Met Your Mother • First Episode",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • Pilot",
-          "description": "Barney's classic opener"
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S1E02 • Purple Giraffe",
-          "description": "Rooftop party"
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S1E03 • Sweet Taste of Liberty",
-          "description": "Philly"
+          "description": "How I Met Your Mother • Season 1"
         }
       ]
     },
     {
       "quote": "Nothing suits me like a suit!",
-      "description": "Season 5 • Musical Number",
+      "description": "How I Met Your Mother • How I Met Your Mother • Musical Number",
       "correct": 0,
       "options": [
         {
           "title": "S5E12 • Girls Versus Suits",
-          "description": "100th episode musical"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S2E09 • Slap Bet",
-          "description": "Mall"
+          "description": "How I Met Your Mother • Season 2"
         },
         {
           "title": "S7E10 • Tick Tick Tick",
-          "description": "Boat"
+          "description": "How I Met Your Mother • Season 7"
         }
       ]
     },
     {
       "quote": "Okay is lame. Be awesome!",
-      "description": "Season 1 • Nightclub",
+      "description": "How I Met Your Mother • How I Met Your Mother • Nightclub",
       "correct": 1,
       "options": [
         {
           "title": "S1E04 • Return of the Shirt",
-          "description": "Natalie"
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S1E05 • Okay Awesome",
-          "description": "Club Okay"
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S1E06 • Slutty Pumpkin",
-          "description": "Hanging Chad"
+          "description": "How I Met Your Mother • Season 1"
         }
       ]
     },
     {
-      "quote": "Gary Blauman! I hate that guy... wait, I love that guy!",
-      "description": "Season 9 • Wedding",
+      "quote": "He's the guy who stole four curly fries from my plate!",
+      "description": "How I Met Your Mother • How I Met Your Mother • Wedding",
       "correct": 0,
       "options": [
         {
           "title": "S9E21 • Gary Blauman",
-          "description": "Wedding seating chart"
+          "description": "How I Met Your Mother • Season 9"
         },
         {
           "title": "S9E16 • How Your Mother Met Me",
-          "description": "Bar"
+          "description": "How I Met Your Mother • Season 9"
         },
         {
           "title": "S9E24 • Last Forever",
-          "description": "Finale"
+          "description": "How I Met Your Mother • Season 9"
         }
       ]
     },
     {
-      "quote": "Do you still love me? No.",
-      "description": "Season 7 • Rooftop",
+      "quote": "Do you love me?",
+      "description": "How I Met Your Mother • How I Met Your Mother • Rooftop",
       "correct": 2,
       "options": [
         {
           "title": "S7E12 • Symphony of Illumination",
-          "description": "Christmas"
+          "description": "How I Met Your Mother • Season 7"
         },
         {
           "title": "S7E10 • Tick Tick Tick",
-          "description": "Bar"
+          "description": "How I Met Your Mother • Season 7"
         },
         {
           "title": "S7E17 • No Pressure",
-          "description": "Yellow umbrellas"
+          "description": "How I Met Your Mother • Season 7"
         }
       ]
     },
     {
       "quote": "The Yellow Umbrella.",
-      "description": "Season 3 • St. Patrick's Day",
+      "description": "How I Met Your Mother • How I Met Your Mother • St. Patrick's Day",
       "correct": 2,
       "options": [
         {
           "title": "S1E01 • Pilot",
-          "description": "Blue French horn"
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S5E12 • Girls Versus Suits",
-          "description": "Cindy's apartment"
+          "description": "How I Met Your Mother • Season 5"
         },
         {
           "title": "S3E12 • No Tomorrow",
-          "description": "Ted finds the umbrella"
+          "description": "How I Met Your Mother • Season 3"
         }
       ]
     },
     {
       "quote": "You're All Alone.",
-      "description": "Season 8 • Time Travelers",
+      "description": "How I Met Your Mother • How I Met Your Mother • Time Travelers",
       "correct": 1,
       "options": [
         {
           "title": "S6E13 • Bad News",
-          "description": "Countdown"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S8E20 • The Time Travelers",
-          "description": "20 years from now"
+          "description": "How I Met Your Mother • Season 8"
         },
         {
           "title": "S9E16 • How Your Mother Met Me",
-          "description": "Tracy"
+          "description": "How I Met Your Mother • Season 9"
         }
       ]
     },
     {
-      "quote": "Blitzgiving! Awww, man!",
-      "description": "Season 6 • The Blitz Curse",
+      "quote": "Whenever he leaves early, something amazing happens!",
+      "description": "How I Met Your Mother • How I Met Your Mother • The Blitz Curse",
       "correct": 1,
       "options": [
         {
           "title": "S3E09 • Slapsgiving",
-          "description": "Turkey"
+          "description": "How I Met Your Mother • Season 3"
         },
         {
           "title": "S6E10 • Blitzgiving",
-          "description": "Steve 'The Blitz' Henry"
+          "description": "How I Met Your Mother • Season 6"
         },
         {
           "title": "S5E09 • Slapsgiving 2",
-          "description": "Slap 4"
+          "description": "How I Met Your Mother • Season 5"
         }
       ]
     },
     {
       "quote": "Let's go to the mall, today!",
-      "description": "Season 2 • Robin Sparkles Debut",
+      "description": "How I Met Your Mother • How I Met Your Mother • Robin Sparkles Debut",
       "correct": 1,
       "options": [
         {
           "title": "S1E01 • Pilot",
-          "description": "MacLaren's"
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S2E09 • Slap Bet",
-          "description": "Canadian pop star reveal"
+          "description": "How I Met Your Mother • Season 2"
         },
         {
           "title": "S3E16 • Sandcastles in the Sand",
-          "description": "Sequel"
+          "description": "How I Met Your Mother • Season 3"
         }
       ]
     },
     {
-      "quote": "Bedtime Stories! Rhyming the whole episode!",
-      "description": "Season 9 • Bus",
+      "quote": "If I can't put Marvin to sleep, this bus ride will never end.",
+      "description": "How I Met Your Mother • How I Met Your Mother • Bus",
       "correct": 1,
       "options": [
         {
           "title": "S9E01 • The Locket",
-          "description": "Train"
+          "description": "How I Met Your Mother • Season 9"
         },
         {
           "title": "S9E11 • Bedtime Stories",
-          "description": "Marshall tells rhymes to Marvin"
+          "description": "How I Met Your Mother • Season 9"
         },
         {
           "title": "S9E14 • Slapsgiving 3",
-          "description": "Forest"
+          "description": "How I Met Your Mother • Season 9"
         }
       ]
     },
     {
       "quote": "I made it rain!",
-      "description": "Season 1 • Ted's Rain Dance",
+      "description": "How I Met Your Mother • How I Met Your Mother • Ted's Rain Dance",
       "correct": 2,
       "options": [
         {
           "title": "S1E18 • Nothing Good Happens After 2 A.M.",
-          "description": "2 A.M."
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S1E13 • Drumroll, Please",
-          "description": "Bakery"
+          "description": "How I Met Your Mother • Season 1"
         },
         {
           "title": "S1E22 • Come On",
-          "description": "Blue French horn"
+          "description": "How I Met Your Mother • Season 1"
         }
       ]
     },
     {
       "quote": "That's how I met your mother.",
-      "description": "Season 9 • Series Finale",
+      "description": "How I Met Your Mother • How I Met Your Mother • Series Finale",
       "correct": 2,
       "options": [
         {
           "title": "S9E16 • How Your Mother Met Me",
-          "description": "200th"
+          "description": "How I Met Your Mother • Season 9"
         },
         {
           "title": "S9E22 • The End of the Aisle",
-          "description": "Wedding"
+          "description": "How I Met Your Mother • Season 9"
         },
         {
           "title": "S9E24 • Last Forever",
-          "description": "Farhampton train platform"
+          "description": "How I Met Your Mother • Season 9"
         }
       ]
     },
     {
       "quote": "Bang, bang, bangity bang!",
-      "description": "Season 5 • Rabbit or Duck",
+      "description": "How I Met Your Mother • How I Met Your Mother • Rabbit or Duck",
       "correct": 2,
       "options": [
         {
           "title": "S2E09 • Slap Bet",
-          "description": "Mall"
+          "description": "How I Met Your Mother • Season 2"
         },
         {
           "title": "S3E09 • Slapsgiving",
-          "description": "Song"
+          "description": "How I Met Your Mother • Season 3"
         },
         {
           "title": "S5E15 • Rabbit or Duck",
-          "description": "Barney's phone"
+          "description": "How I Met Your Mother • Season 5"
         }
       ]
     },
     {
       "quote": "No spoilers! Sensory Deprivator 5000!",
-      "description": "Season 2 • Super Bowl",
+      "description": "How I Met Your Mother • How I Met Your Mother • Super Bowl",
       "correct": 1,
       "options": [
         {
           "title": "S2E07 • Swarley",
-          "description": "Coffee"
+          "description": "How I Met Your Mother • Season 2"
         },
         {
           "title": "S2E14 • Monday Night Football",
-          "description": "Recording the game"
+          "description": "How I Met Your Mother • Season 2"
         },
         {
           "title": "S2E17 • Arrivederci, Fiero",
-          "description": "Fiero"
+          "description": "How I Met Your Mother • Season 2"
         }
       ]
     }

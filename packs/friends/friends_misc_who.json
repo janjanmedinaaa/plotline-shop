@@ -16,15 +16,15 @@
       "options": [
         {
           "title": "Janice Litman",
-          "description": "Chandler's ex"
+          "description": "Chandler's nasal-voiced ex"
         },
         {
           "title": "Gunther",
-          "description": "Behind the counter"
+          "description": "Central Perk manager"
         },
         {
           "title": "Ursula Buffay",
-          "description": "Waitress"
+          "description": "Friends character"
         }
       ]
     },
@@ -35,15 +35,15 @@
       "options": [
         {
           "title": "Ross Geller",
-          "description": "Booth"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Gunther",
-          "description": "Secretly loves Rachel"
+          "description": "Central Perk manager"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Couch"
+          "description": "Aspiring actor & food lover"
         }
       ]
     },
@@ -54,15 +54,15 @@
       "options": [
         {
           "title": "Janice Litman",
-          "description": "Laughing"
+          "description": "Chandler's nasal-voiced ex"
         },
         {
           "title": "Gunther",
-          "description": "Hates Ross"
+          "description": "Central Perk manager"
         },
         {
           "title": "Mike Hannigan",
-          "description": "Piano"
+          "description": "Pianist & Phoebe's husband"
         }
       ]
     },
@@ -73,15 +73,15 @@
       "options": [
         {
           "title": "Gunther",
-          "description": "Coffee"
+          "description": "Central Perk manager"
         },
         {
           "title": "Richard Burke",
-          "description": "Cigar"
+          "description": "Ophthalmologist & family friend"
         },
         {
           "title": "Mr. Heckles",
-          "description": "Broom"
+          "description": "Grumpy downstairs neighbor"
         }
       ]
     },
@@ -92,15 +92,15 @@
       "options": [
         {
           "title": "Gunther",
-          "description": "Central Perk"
+          "description": "Central Perk manager"
         },
         {
           "title": "Janice",
-          "description": "Yemen"
+          "description": "Friends character"
         },
         {
           "title": "Mr. Heckles",
-          "description": "Always complaining"
+          "description": "Grumpy downstairs neighbor"
         }
       ]
     },
@@ -111,15 +111,15 @@
       "options": [
         {
           "title": "Phoebe Buffay",
-          "description": "Guitar"
+          "description": "Quirky masseuse & musician"
         },
         {
           "title": "Ross Geller",
-          "description": "Keyboard"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Mr. Heckles",
-          "description": "In his robe"
+          "description": "Grumpy downstairs neighbor"
         }
       ]
     },
@@ -130,15 +130,15 @@
       "options": [
         {
           "title": "Chandler Bing",
-          "description": "Door"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Richard Burke",
-          "description": "Tom Selleck"
+          "description": "Ophthalmologist & family friend"
         },
         {
           "title": "Pete Becker",
-          "description": "Ring"
+          "description": "Friends character"
         }
       ]
     },
@@ -149,15 +149,15 @@
       "options": [
         {
           "title": "Gunther",
-          "description": "Coffee"
+          "description": "Central Perk manager"
         },
         {
           "title": "Chandler Bing",
-          "description": "Laughing"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Mike Hannigan",
-          "description": "Paul Rudd"
+          "description": "Pianist & Phoebe's husband"
         }
       ]
     },
@@ -168,15 +168,15 @@
       "options": [
         {
           "title": "Mona",
-          "description": "What was wrong with Mona?"
+          "description": "Friends character"
         },
         {
           "title": "Emily Waltham",
-          "description": "London"
+          "description": "Friends character"
         },
         {
           "title": "Carol Willick",
-          "description": "Museum"
+          "description": "Friends character"
         }
       ]
     },
@@ -187,15 +187,15 @@
       "options": [
         {
           "title": "Gunther",
-          "description": "Confessing"
+          "description": "Central Perk manager"
         },
         {
           "title": "Ross Geller",
-          "description": "Terminal"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Mark Robinson",
-          "description": "Bloomingdale's"
+          "description": "Friends character"
         }
       ]
     },
@@ -206,15 +206,15 @@
       "options": [
         {
           "title": "Gunther",
-          "description": "Finally tells Rachel"
+          "description": "Central Perk manager"
         },
         {
           "title": "Ross Geller",
-          "description": "Cab"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Booth"
+          "description": "Aspiring actor & food lover"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "options": [
         {
           "title": "Janice",
-          "description": "Nail salon"
+          "description": "Friends character"
         },
         {
           "title": "Gunther",
-          "description": "Counter"
+          "description": "Central Perk manager"
         },
         {
           "title": "Emily Waltham",
-          "description": "To Ross"
+          "description": "Friends character"
         }
       ]
     },
     {
       "quote": "No more Falafel for you!",
-      "description": "Season 5 • Street",
+      "description": "Friends • Classic Scene",
       "correct": 1,
       "options": [
         {
           "title": "Joey Tribbiani",
-          "description": "Pizza"
+          "description": "Aspiring actor & food lover"
         },
         {
           "title": "Street Vendor",
-          "description": "Cart"
+          "description": "Friends character"
         },
         {
           "title": "Chandler Bing",
-          "description": "Walking"
+          "description": "Sarcastic statistical analyst"
         }
       ]
     },
@@ -263,15 +263,15 @@
       "options": [
         {
           "title": "Richard Burke",
-          "description": "Pool"
+          "description": "Ophthalmologist & family friend"
         },
         {
           "title": "Chandler Bing",
-          "description": "Duck"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Pete Becker",
-          "description": "Billionaire"
+          "description": "Friends character"
         }
       ]
     },
@@ -282,15 +282,15 @@
       "options": [
         {
           "title": "Joey Tribbiani",
-          "description": "Watching"
+          "description": "Aspiring actor & food lover"
         },
         {
           "title": "Ross Geller",
-          "description": "Wincing"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Pete Becker",
-          "description": "Jon Favreau"
+          "description": "Friends character"
         }
       ]
     },
@@ -301,15 +301,15 @@
       "options": [
         {
           "title": "Ross Geller",
-          "description": "Jumping out at Rachel & Phoebe"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Phoebe Buffay",
-          "description": "Laughing"
+          "description": "Quirky masseuse & musician"
         },
         {
           "title": "Rachel Green",
-          "description": "Unimpressed"
+          "description": "Fashion executive"
         }
       ]
     },
@@ -320,15 +320,15 @@
       "options": [
         {
           "title": "Ross Geller",
-          "description": "Finds out about Monica & Chandler"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Calm"
+          "description": "Aspiring actor & food lover"
         },
         {
           "title": "Rachel Green",
-          "description": "Surprised"
+          "description": "Fashion executive"
         }
       ]
     },
@@ -339,15 +339,15 @@
       "options": [
         {
           "title": "Ross Geller",
-          "description": "My boss ate it"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Chandler Bing",
-          "description": "Duck"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Monica Geller",
-          "description": "Made the sandwich"
+          "description": "Competitive perfectionist chef"
         }
       ]
     },
@@ -358,15 +358,15 @@
       "options": [
         {
           "title": "Phoebe Buffay",
-          "description": "Smelly Cat commercial"
+          "description": "Quirky masseuse & musician"
         },
         {
           "title": "Rachel Green",
-          "description": "Coffee"
+          "description": "Fashion executive"
         },
         {
           "title": "Monica Geller",
-          "description": "Kitchen"
+          "description": "Competitive perfectionist chef"
         }
       ]
     },
@@ -377,15 +377,15 @@
       "options": [
         {
           "title": "Phoebe Buffay",
-          "description": "Twin sister"
+          "description": "Quirky masseuse & musician"
         },
         {
           "title": "Ursula Buffay",
-          "description": "Waitress"
+          "description": "Friends character"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Dated Ursula"
+          "description": "Aspiring actor & food lover"
         }
       ]
     },
@@ -396,15 +396,15 @@
       "options": [
         {
           "title": "Ross Geller",
-          "description": "Watching"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Chandler Bing",
-          "description": "Guilty"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "About the jellyfish"
+          "description": "Aspiring actor & food lover"
         }
       ]
     },
@@ -415,15 +415,15 @@
       "options": [
         {
           "title": "Chandler Bing",
-          "description": "Teasing Ross"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Ross Geller",
-          "description": "Don't even joke"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Rachel Green",
-          "description": "Smiling"
+          "description": "Fashion executive"
         }
       ]
     },
@@ -434,15 +434,15 @@
       "options": [
         {
           "title": "Chandler Bing",
-          "description": "French fries"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Ross Geller",
-          "description": "Moist Maker"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Protecting his fries"
+          "description": "Aspiring actor & food lover"
         }
       ]
     },
@@ -453,15 +453,15 @@
       "options": [
         {
           "title": "Phoebe Buffay",
-          "description": "Admiring Brad Pitt's character"
+          "description": "Quirky masseuse & musician"
         },
         {
           "title": "Monica Geller",
-          "description": "Cooking"
+          "description": "Competitive perfectionist chef"
         },
         {
           "title": "Rachel Green",
-          "description": "Blushing"
+          "description": "Fashion executive"
         }
       ]
     },
@@ -472,15 +472,15 @@
       "options": [
         {
           "title": "Joey Tribbiani",
-          "description": "Japanese ad"
+          "description": "Aspiring actor & food lover"
         },
         {
           "title": "Ross Geller",
-          "description": "Tanning"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Chandler Bing",
-          "description": "Teasing"
+          "description": "Sarcastic statistical analyst"
         }
       ]
     },
@@ -491,15 +491,15 @@
       "options": [
         {
           "title": "Chandler Bing",
-          "description": "Wedding"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Richard Burke",
-          "description": "Restaurant"
+          "description": "Ophthalmologist & family friend"
         },
         {
           "title": "Pete Becker",
-          "description": "UFC"
+          "description": "Friends character"
         }
       ]
     },
@@ -510,15 +510,15 @@
       "options": [
         {
           "title": "Ross Geller",
-          "description": "High-pitched squeak"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Rachel Green",
-          "description": "Worried"
+          "description": "Fashion executive"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Eating"
+          "description": "Aspiring actor & food lover"
         }
       ]
     },
@@ -529,15 +529,15 @@
       "options": [
         {
           "title": "Ross Geller",
-          "description": "Loves food"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Chandler Bing",
-          "description": "Parents' divorce"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Turkey"
+          "description": "Aspiring actor & food lover"
         }
       ]
     },
@@ -548,15 +548,15 @@
       "options": [
         {
           "title": "Joey Tribbiani",
-          "description": "Eating an entire turkey"
+          "description": "Aspiring actor & food lover"
         },
         {
           "title": "Ross Geller",
-          "description": "Gravy"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Chandler Bing",
-          "description": "Maternity pants"
+          "description": "Sarcastic statistical analyst"
         }
       ]
     },
@@ -567,15 +567,15 @@
       "options": [
         {
           "title": "Joey Tribbiani",
-          "description": "Salmon skin roll"
+          "description": "Aspiring actor & food lover"
         },
         {
           "title": "Ross Geller",
-          "description": "A state of total awareness"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Chandler Bing",
-          "description": "Laughing"
+          "description": "Sarcastic statistical analyst"
         }
       ]
     },
@@ -586,15 +586,15 @@
       "options": [
         {
           "title": "Chandler Bing",
-          "description": "Santa"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Ross Geller",
-          "description": "Armadillo"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Rachel Green",
-          "description": "Drums"
+          "description": "Fashion executive"
         }
       ]
     },
@@ -605,15 +605,15 @@
       "options": [
         {
           "title": "Monica Geller",
-          "description": "Angry"
+          "description": "Competitive perfectionist chef"
         },
         {
           "title": "Chandler Bing",
-          "description": "Lock"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Stuck in the door"
+          "description": "Aspiring actor & food lover"
         }
       ]
     },
@@ -624,15 +624,15 @@
       "options": [
         {
           "title": "Phoebe Buffay",
-          "description": "Blunt exit"
+          "description": "Quirky masseuse & musician"
         },
         {
           "title": "Chandler Bing",
-          "description": "Nods"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Waves"
+          "description": "Aspiring actor & food lover"
         }
       ]
     },
@@ -643,15 +643,15 @@
       "options": [
         {
           "title": "Phoebe Buffay",
-          "description": "Cheering"
+          "description": "Quirky masseuse & musician"
         },
         {
           "title": "Rachel Green",
-          "description": "Panicking at the buzzer"
+          "description": "Fashion executive"
         },
         {
           "title": "Monica Geller",
-          "description": "Screaming"
+          "description": "Competitive perfectionist chef"
         }
       ]
     },
@@ -662,15 +662,15 @@
       "options": [
         {
           "title": "Chandler Bing",
-          "description": "Keys"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Rachel Green",
-          "description": "Packing for Paris"
+          "description": "Fashion executive"
         },
         {
           "title": "Phoebe Buffay",
-          "description": "Couch"
+          "description": "Quirky masseuse & musician"
         }
       ]
     },
@@ -681,15 +681,15 @@
       "options": [
         {
           "title": "Joey Tribbiani",
-          "description": "Logical solution"
+          "description": "Aspiring actor & food lover"
         },
         {
           "title": "Chandler Bing",
-          "description": "Paying for it"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Rachel Green",
-          "description": "Cheesecake"
+          "description": "Fashion executive"
         }
       ]
     },
@@ -700,15 +700,15 @@
       "options": [
         {
           "title": "Phoebe Buffay",
-          "description": "Secret roommate"
+          "description": "Quirky masseuse & musician"
         },
         {
           "title": "Rachel Green",
-          "description": "Looking for a place"
+          "description": "Fashion executive"
         },
         {
           "title": "Monica Geller",
-          "description": "Confused"
+          "description": "Competitive perfectionist chef"
         }
       ]
     },
@@ -719,15 +719,15 @@
       "options": [
         {
           "title": "Phoebe Buffay",
-          "description": "Stopping Rachel's flight"
+          "description": "Quirky masseuse & musician"
         },
         {
           "title": "Rachel Green",
-          "description": "Leaving"
+          "description": "Fashion executive"
         },
         {
           "title": "Ross Geller",
-          "description": "Running"
+          "description": "Paleontologist & professor"
         }
       ]
     },
@@ -738,15 +738,15 @@
       "options": [
         {
           "title": "Chandler Bing",
-          "description": "Vows"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Richard Burke",
-          "description": "Cigar"
+          "description": "Ophthalmologist & family friend"
         },
         {
           "title": "Ross Geller",
-          "description": "Best man"
+          "description": "Paleontologist & professor"
         }
       ]
     },
@@ -757,15 +757,15 @@
       "options": [
         {
           "title": "Rachel Green",
-          "description": "Waitress"
+          "description": "Fashion executive"
         },
         {
           "title": "Phoebe Buffay",
-          "description": "Acoustic guitar"
+          "description": "Quirky masseuse & musician"
         },
         {
           "title": "Monica Geller",
-          "description": "Clapping"
+          "description": "Competitive perfectionist chef"
         }
       ]
     },
@@ -776,15 +776,15 @@
       "options": [
         {
           "title": "Chandler Bing",
-          "description": "Self-aware"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Sandwich"
+          "description": "Aspiring actor & food lover"
         },
         {
           "title": "Ross Geller",
-          "description": "Divorce"
+          "description": "Paleontologist & professor"
         }
       ]
     },
@@ -795,15 +795,15 @@
       "options": [
         {
           "title": "Ross Geller",
-          "description": "Unagi"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Rachel Green",
-          "description": "Teasing Ross"
+          "description": "Fashion executive"
         },
         {
           "title": "Phoebe Buffay",
-          "description": "Smirking"
+          "description": "Quirky masseuse & musician"
         }
       ]
     },
@@ -814,15 +814,15 @@
       "options": [
         {
           "title": "Ross Geller",
-          "description": "Laughing"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Will Colbert",
-          "description": "Looking at Rachel"
+          "description": "Friends character"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Turkey"
+          "description": "Aspiring actor & food lover"
         }
       ]
     },
@@ -833,15 +833,15 @@
       "options": [
         {
           "title": "Chandler Bing",
-          "description": "After Rachel asks 'get some coffee?'"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Doorway"
+          "description": "Aspiring actor & food lover"
         },
         {
           "title": "Ross Geller",
-          "description": "Keys"
+          "description": "Paleontologist & professor"
         }
       ]
     },
@@ -852,34 +852,34 @@
       "options": [
         {
           "title": "Ross Geller",
-          "description": "Doing pushups"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Paul Stevens",
-          "description": "Bruce Willis"
+          "description": "Friends character"
         },
         {
           "title": "Chandler Bing",
-          "description": "Couch"
+          "description": "Sarcastic statistical analyst"
         }
       ]
     },
     {
       "quote": "My name is Regina Phalange.",
-      "description": "Everywhere • Phoebe's Alias",
+      "description": "Friends • Classic Scene",
       "correct": 0,
       "options": [
         {
           "title": "Phoebe Buffay",
-          "description": "Fake name"
+          "description": "Quirky masseuse & musician"
         },
         {
           "title": "Rachel Green",
-          "description": "Airport"
+          "description": "Fashion executive"
         },
         {
           "title": "Monica Geller",
-          "description": "Chef"
+          "description": "Competitive perfectionist chef"
         }
       ]
     },
@@ -890,15 +890,15 @@
       "options": [
         {
           "title": "Chandler Bing",
-          "description": "Proposal speech"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Ross Geller",
-          "description": "Airport"
+          "description": "Paleontologist & professor"
         },
         {
           "title": "Mike Hannigan",
-          "description": "Wedding"
+          "description": "Pianist & Phoebe's husband"
         }
       ]
     },
@@ -909,15 +909,15 @@
       "options": [
         {
           "title": "Monica Geller",
-          "description": "Cooking"
+          "description": "Competitive perfectionist chef"
         },
         {
           "title": "Chandler Bing",
-          "description": "Teasing"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Phoebe's maternity pants"
+          "description": "Aspiring actor & food lover"
         }
       ]
     },
@@ -928,15 +928,15 @@
       "options": [
         {
           "title": "Monica Geller",
-          "description": "Adoption agency calls"
+          "description": "Competitive perfectionist chef"
         },
         {
           "title": "Chandler Bing",
-          "description": "Hugging"
+          "description": "Sarcastic statistical analyst"
         },
         {
           "title": "Rachel Green",
-          "description": "Crying"
+          "description": "Fashion executive"
         }
       ]
     },
@@ -947,15 +947,15 @@
       "options": [
         {
           "title": "Joey Tribbiani",
-          "description": "Grandmother's phrase"
+          "description": "Aspiring actor & food lover"
         },
         {
           "title": "Monica Geller",
-          "description": "Chef"
+          "description": "Competitive perfectionist chef"
         },
         {
           "title": "Chandler Bing",
-          "description": "Duck"
+          "description": "Sarcastic statistical analyst"
         }
       ]
     }

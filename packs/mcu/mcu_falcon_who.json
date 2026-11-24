@@ -15,15 +15,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Retiring the shield"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Therapy session"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Isaiah Bradley",
-          "description": "Baltimore porch"
+          "description": "Forgotten super soldier"
         }
       ]
     },
@@ -34,15 +34,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Talking to John Walker"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Confronting Sam about the shield"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Sharon Carter",
-          "description": "Madripoor"
+          "description": "Former SHIELD agent"
         }
       ]
     },
@@ -53,15 +53,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "New York speech"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Steve Rogers",
-          "description": "Flashback"
+          "description": "Super Soldier & Avengers leader"
         },
         {
           "title": "John Walker",
-          "description": "Holding the bloodied shield"
+          "description": "Government-appointed Captain"
         }
       ]
     },
@@ -72,15 +72,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Addressing the senators"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Karli Morgenthau",
-          "description": "Flag Smashers"
+          "description": "Flag Smashers leader"
         },
         {
           "title": "Joaquin Torres",
-          "description": "Tunisia"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -91,15 +91,15 @@
       "options": [
         {
           "title": "John Walker",
-          "description": "Press tour"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Dr. Raynor's rules"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Helmut Zemo",
-          "description": "Prison cell"
+          "description": "Sokovian mastermind"
         }
       ]
     },
@@ -110,15 +110,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Louisiana boatyard"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Lemar Hoskins",
-          "description": "Locker room"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Isaiah Bradley",
-          "description": "Sharing his history"
+          "description": "Forgotten super soldier"
         }
       ]
     },
@@ -129,15 +129,15 @@
       "options": [
         {
           "title": "Ayo",
-          "description": "Confronting John Walker"
+          "description": "Dora Milaje warrior"
         },
         {
           "title": "Okoye",
-          "description": "Wakanda"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Sharon Carter",
-          "description": "Madripoor"
+          "description": "Former SHIELD agent"
         }
       ]
     },
@@ -148,15 +148,15 @@
       "options": [
         {
           "title": "John Walker",
-          "description": "Serum vial"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Helmut Zemo",
-          "description": "Explaining his mission"
+          "description": "Sokovian mastermind"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Wakanda flashback"
+          "description": "The Winter Soldier"
         }
       ]
     },
@@ -167,15 +167,15 @@
       "options": [
         {
           "title": "Helmut Zemo",
-          "description": "Madripoor bar"
+          "description": "Sokovian mastermind"
         },
         {
           "title": "Georges Batroc",
-          "description": "Helicopter"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Sharon Carter",
-          "description": "Revealing her identity"
+          "description": "Former SHIELD agent"
         }
       ]
     },
@@ -186,34 +186,34 @@
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Tossing the shield case"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Sam Wilson",
-          "description": "Training montage"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Sarah Wilson",
-          "description": "Dockyard"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
     {
-      "quote": "Who are you? I'm Sam.",
+      "quote": "Look, I'm Sam. I'm just trying to help.",
       "description": "Episode 1 • Tunisia",
       "correct": 0,
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Talking to Torres"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Therapy"
+          "description": "The Winter Soldier"
         },
         {
           "title": "John Walker",
-          "description": "Locker room"
+          "description": "Government-appointed Captain"
         }
       ]
     },
@@ -224,15 +224,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Highway"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Meeting John Walker"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Lemar Hoskins",
-          "description": "Truck"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -243,15 +243,15 @@
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Street"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Karli Morgenthau",
-          "description": "Camp"
+          "description": "Flag Smashers leader"
         },
         {
           "title": "Sam Wilson",
-          "description": "Talking to John Walker"
+          "description": "The Falcon & Avenger"
         }
       ]
     },
@@ -262,15 +262,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Louisiana"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Training"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Isaiah Bradley",
-          "description": "Porch"
+          "description": "Forgotten super soldier"
         }
       ]
     },
@@ -281,15 +281,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Airfield"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "John Walker",
-          "description": "After Lemar's death"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Latvia"
+          "description": "The Winter Soldier"
         }
       ]
     },
@@ -300,15 +300,15 @@
       "options": [
         {
           "title": "Helmut Zemo",
-          "description": "Bar"
+          "description": "Sokovian mastermind"
         },
         {
           "title": "Sharon Carter",
-          "description": "Gallery"
+          "description": "Former SHIELD agent"
         },
         {
           "title": "Sam Wilson",
-          "description": "Arguing with Zemo"
+          "description": "The Falcon & Avenger"
         }
       ]
     },
@@ -319,15 +319,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Undercover identity"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Bar"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Helmut Zemo",
-          "description": "Jet"
+          "description": "Sokovian mastermind"
         }
       ]
     },
@@ -338,15 +338,15 @@
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Street"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Sam Wilson",
-          "description": "Speaking to the Senator"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Isaiah Bradley",
-          "description": "Museum"
+          "description": "Forgotten super soldier"
         }
       ]
     },
@@ -357,15 +357,15 @@
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Dock"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Sarah Wilson",
-          "description": "Kitchen"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Isaiah Bradley",
-          "description": "Living room"
+          "description": "Forgotten super soldier"
         }
       ]
     },
@@ -376,15 +376,15 @@
       "options": [
         {
           "title": "Karli Morgenthau",
-          "description": "Flag Smashers motto"
+          "description": "Flag Smashers leader"
         },
         {
           "title": "John Walker",
-          "description": "Press"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Helmut Zemo",
-          "description": "Prison"
+          "description": "Sokovian mastermind"
         }
       ]
     },
@@ -395,15 +395,15 @@
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Truck"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Sam Wilson",
-          "description": "Final confrontation"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Sharon Carter",
-          "description": "Alley"
+          "description": "Former SHIELD agent"
         }
       ]
     },
@@ -414,15 +414,15 @@
       "options": [
         {
           "title": "John Walker",
-          "description": "Hearing"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Karli Morgenthau",
-          "description": "Camp"
+          "description": "Flag Smashers leader"
         },
         {
           "title": "Sam Wilson",
-          "description": "Trying to de-escalate"
+          "description": "The Falcon & Avenger"
         }
       ]
     },
@@ -433,15 +433,15 @@
       "options": [
         {
           "title": "Ayo",
-          "description": "Removing the Winter Soldier words"
+          "description": "Dora Milaje warrior"
         },
         {
           "title": "Okoye",
-          "description": "Wakanda"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Shuri",
-          "description": "Lab"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -452,15 +452,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Bar"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Sharon Carter",
-          "description": "Gallery"
+          "description": "Former SHIELD agent"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Street"
+          "description": "The Winter Soldier"
         }
       ]
     },
@@ -471,15 +471,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Boat"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Therapy"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Isaiah Bradley",
-          "description": "Porch"
+          "description": "Forgotten super soldier"
         }
       ]
     },
@@ -490,15 +490,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Putting on the wings"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "John Walker",
-          "description": "Shield"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Alley"
+          "description": "The Winter Soldier"
         }
       ]
     },
@@ -509,15 +509,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Jet"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Teasing Sam"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Torres",
-          "description": "Lab"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -528,15 +528,15 @@
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Street"
+          "description": "The Winter Soldier"
         },
         {
           "title": "John Walker",
-          "description": "Tent"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Sam Wilson",
-          "description": "Talking to Karli"
+          "description": "The Falcon & Avenger"
         }
       ]
     },
@@ -547,34 +547,34 @@
       "options": [
         {
           "title": "Kid in Baltimore",
-          "description": "Recognizing Sam"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Torres",
-          "description": "Tunisia"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Sarah Wilson",
-          "description": "Bank"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
     {
-      "quote": "It's Black Falcon? No, it's just Falcon.",
+      "quote": "It's just Falcon, kid.",
       "description": "Episode 2 • Street",
       "correct": 1,
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Alley"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Sam Wilson",
-          "description": "Correcting the kid"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "John Walker",
-          "description": "Jeep"
+          "description": "Government-appointed Captain"
         }
       ]
     },
@@ -585,15 +585,15 @@
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Hotel"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Helmut Zemo",
-          "description": "Street"
+          "description": "Sokovian mastermind"
         },
         {
           "title": "Sam Wilson",
-          "description": "To John Walker"
+          "description": "The Falcon & Avenger"
         }
       ]
     },
@@ -604,15 +604,15 @@
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Acting for Zemo"
+          "description": "The Winter Soldier"
         },
         {
           "title": "John Walker",
-          "description": "Hearing"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Isaiah Bradley",
-          "description": "Porch"
+          "description": "Forgotten super soldier"
         }
       ]
     },
@@ -623,15 +623,15 @@
       "options": [
         {
           "title": "Karli Morgenthau",
-          "description": "Camp"
+          "description": "Flag Smashers leader"
         },
         {
           "title": "John Walker",
-          "description": "Defending himself"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Helmut Zemo",
-          "description": "Memorial"
+          "description": "Sokovian mastermind"
         }
       ]
     },
@@ -642,15 +642,15 @@
       "options": [
         {
           "title": "Karli Morgenthau",
-          "description": "Tunnel"
+          "description": "Flag Smashers leader"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Therapy"
+          "description": "The Winter Soldier"
         },
         {
           "title": "John Walker",
-          "description": "To the Senators"
+          "description": "Government-appointed Captain"
         }
       ]
     },
@@ -661,15 +661,15 @@
       "options": [
         {
           "title": "Isaiah Bradley",
-          "description": "Seeing his statue"
+          "description": "Forgotten super soldier"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Dock"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Sarah Wilson",
-          "description": "Boat"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -680,15 +680,15 @@
       "options": [
         {
           "title": "John Walker",
-          "description": "Alley"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Bucky Barnes",
-          "description": "To Sam"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Torres",
-          "description": "Lab"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -699,15 +699,15 @@
       "options": [
         {
           "title": "Bucky Barnes",
-          "description": "Jet"
+          "description": "The Winter Soldier"
         },
         {
           "title": "John Walker",
-          "description": "Tent"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Sam Wilson",
-          "description": "Leaving old wings to Torres"
+          "description": "The Falcon & Avenger"
         }
       ]
     },
@@ -718,15 +718,15 @@
       "options": [
         {
           "title": "Helmut Zemo",
-          "description": "Jet"
+          "description": "Sokovian mastermind"
         },
         {
           "title": "Sharon Carter",
-          "description": "Madripoor"
+          "description": "Former SHIELD agent"
         },
         {
           "title": "Karli Morgenthau",
-          "description": "Camp"
+          "description": "Flag Smashers leader"
         }
       ]
     },
@@ -737,15 +737,15 @@
       "options": [
         {
           "title": "Sarah Wilson",
-          "description": "Boat"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Cookout"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Torres",
-          "description": "Phone"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -756,15 +756,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Bank"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Dock"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Sarah Wilson",
-          "description": "Talking about the family boat"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -775,15 +775,15 @@
       "options": [
         {
           "title": "Loan Officer",
-          "description": "Denying Sam's loan"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Senator",
-          "description": "Ceremony"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Dr. Raynor",
-          "description": "Office"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -794,15 +794,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Boat"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Making amends"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Dr. Raynor",
-          "description": "Office"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -813,15 +813,15 @@
       "options": [
         {
           "title": "John Walker",
-          "description": "Jeep"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Sarah Wilson",
-          "description": "Dock"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Confronting Sam"
+          "description": "The Winter Soldier"
         }
       ]
     },
@@ -832,15 +832,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "To Walker"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Karli Morgenthau",
-          "description": "Camp"
+          "description": "Flag Smashers leader"
         },
         {
           "title": "Ayo",
-          "description": "Apartment"
+          "description": "Dora Milaje warrior"
         }
       ]
     },
@@ -851,15 +851,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Street"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "John Walker",
-          "description": "Taking the serum"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Hotel"
+          "description": "The Winter Soldier"
         }
       ]
     },
@@ -870,15 +870,15 @@
       "options": [
         {
           "title": "Sarah Wilson",
-          "description": "Kitchen"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Sam Wilson",
-          "description": "Boat"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Helping with the boat"
+          "description": "The Winter Soldier"
         }
       ]
     },
@@ -889,15 +889,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Joking with Bucky"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Engine"
+          "description": "The Winter Soldier"
         },
         {
           "title": "Sarah Wilson",
-          "description": "Porch"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -908,15 +908,15 @@
       "options": [
         {
           "title": "John Walker",
-          "description": "Doorway"
+          "description": "Government-appointed Captain"
         },
         {
           "title": "Sam Wilson",
-          "description": "Speaking to Karli"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Zemo",
-          "description": "Alley"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -927,15 +927,15 @@
       "options": [
         {
           "title": "Senator",
-          "description": "Smithsonian"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Dr. Raynor",
-          "description": "Office"
+          "description": "Marvel Cinematic Universe character"
         },
         {
           "title": "Loan Officer",
-          "description": "Bank desk"
+          "description": "Marvel Cinematic Universe character"
         }
       ]
     },
@@ -946,15 +946,15 @@
       "options": [
         {
           "title": "Sam Wilson",
-          "description": "Landing in the new suit"
+          "description": "The Falcon & Avenger"
         },
         {
           "title": "Bucky Barnes",
-          "description": "Street"
+          "description": "The Winter Soldier"
         },
         {
           "title": "John Walker",
-          "description": "Truck"
+          "description": "Government-appointed Captain"
         }
       ]
     }
