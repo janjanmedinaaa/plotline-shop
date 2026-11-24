@@ -10,952 +10,952 @@
   "quote_count": 50,
   "questions": [
     {
-      "quote": "I'm a sexy cat!",
-      "description": "Spoken by Abed Nadir",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S5E02 • Introduction to Teaching",
-          "description": "Community • Season 5"
-        },
-        {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
-        },
-        {
-          "title": "S3E14 • Pillows and Blankets",
-          "description": "Community • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "Evil Troy and Evil Abed!",
-      "description": "Community • Darkest Timeline",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S3E14 • Pillows and Blankets",
-          "description": "Community • Season 3"
-        },
-        {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
-        },
-        {
-          "title": "S3E17 • Basic Lupine Urology",
-          "description": "Community • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "Who killed the yam?!",
-      "description": "Community • Biology",
+      "quote": "We're gonna be more happy,We're gonna finally be fine!",
+      "description": "Spoken by Britta Perry",
       "correct": 2,
       "options": [
         {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
+          "title": "Digital Estate Planning",
+          "description": "Community episode"
         },
         {
-          "title": "S3E14 • Pillows and Blankets",
-          "description": "Community • Season 3"
+          "title": "Emotional Consequences of Broadcast Television",
+          "description": "Community episode"
         },
         {
-          "title": "S3E17 • Basic Lupine Urology",
-          "description": "Community • Season 3"
+          "title": "Biology 101",
+          "description": "Community episode"
         }
       ]
     },
     {
-      "quote": "I'm the True Repairman!",
-      "description": "Community • AC Repair School",
+      "quote": "We're gonna stand holding hands in a brand new land,Far away from the borderline!",
+      "description": "Spoken by Shirley Bennett",
       "correct": 0,
       "options": [
         {
-          "title": "S3E22 • Introduction to Finality",
-          "description": "Community • Season 3"
+          "title": "Biology 101",
+          "description": "Community episode"
         },
         {
-          "title": "S3E14 • Pillows and Blankets",
-          "description": "Community • Season 3"
+          "title": "Repilot",
+          "description": "Community episode"
         },
         {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
+          "title": "Advanced Gay",
+          "description": "Community episode"
         }
       ]
     },
     {
-      "quote": "Welcome to the Dreamatorium!",
-      "description": "Spoken by Abed Nadir",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
-        },
-        {
-          "title": "S3E16 • Virtual Systems Analysis",
-          "description": "Community • Season 3"
-        },
-        {
-          "title": "S3E17 • Basic Lupine Urology",
-          "description": "Community • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "Here's your sperm.",
-      "description": "Community • Study Room",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S5E02 • Intro to Teaching",
-          "description": "Community • Season 5"
-        },
-        {
-          "title": "S5E05 • Geothermal Escapism",
-          "description": "Community • Season 5"
-        },
-        {
-          "title": "S5E04 • Cooperative Polygraphy",
-          "description": "Community • Season 5"
-        }
-      ]
-    },
-    {
-      "quote": "The floor is lava! Knock knock!",
-      "description": "Community • Campus",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S5E04 • Cooperative Polygraphy",
-          "description": "Community • Season 5"
-        },
-        {
-          "title": "S5E05 • Geothermal Escapism",
-          "description": "Community • Season 5"
-        },
-        {
-          "title": "S5E08 • App Development and Condiments",
-          "description": "Community • Season 5"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a 5! Bow before my MeowMeowBeenz!",
-      "description": "Community • Cafeteria",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S5E04 • Cooperative Polygraphy",
-          "description": "Community • Season 5"
-        },
-        {
-          "title": "S5E05 • Geothermal Escapism",
-          "description": "Community • Season 5"
-        },
-        {
-          "title": "S5E08 • App Development and Condiments",
-          "description": "Community • Season 5"
-        }
-      ]
-    },
-    {
-      "quote": "Knowing is half the battle!",
-      "description": "Community • Animated",
+      "quote": "They only ran six episodes. That's the great thing about British TV - they give you closure!",
+      "description": "Spoken by Britta Perry",
       "correct": 0,
       "options": [
         {
-          "title": "S5E11 • G.I. Jeff",
-          "description": "Community • Season 5"
+          "title": "Biology 101",
+          "description": "Community episode"
         },
         {
-          "title": "S5E08 • App Development",
-          "description": "Community • Season 5"
+          "title": "Foosball and Nocturnal Vigilantism",
+          "description": "Community episode"
         },
         {
-          "title": "S5E05 • Geothermal Escapism",
-          "description": "Community • Season 5"
+          "title": "Studies in Modern Movement",
+          "description": "Community episode"
         }
       ]
     },
     {
-      "quote": "Elroy! Encourage white people!",
-      "description": "Community • RV",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S6E01 • Ladders",
-          "description": "Community • Season 6"
-        },
-        {
-          "title": "S6E12 • Wedding Videography",
-          "description": "Community • Season 6"
-        },
-        {
-          "title": "S6E13 • Emotional Consequences of Broadcast Television",
-          "description": "Community • Season 6"
-        }
-      ]
-    },
-    {
-      "quote": "Now there's a man who knows how to marry his cousin!",
-      "description": "Community • Wedding",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S6E01 • Ladders",
-          "description": "Community • Season 6"
-        },
-        {
-          "title": "S6E12 • Wedding Videography",
-          "description": "Community • Season 6"
-        },
-        {
-          "title": "S6E13 • Series Finale",
-          "description": "Community • Season 6"
-        }
-      ]
-    },
-    {
-      "quote": "I'm Frankie Dart, and I'm here to save Greendale.",
-      "description": "Community • Premiere",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S6E01 • Ladders",
-          "description": "Community • Season 6"
-        },
-        {
-          "title": "S6E07 • Advanced Safety Features",
-          "description": "Community • Season 6"
-        },
-        {
-          "title": "S6E12 • Wedding Videography",
-          "description": "Community • Season 6"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a level 7 susceptible!",
-      "description": "Spoken by Dean Pelton",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S6E01 • Ladders",
-          "description": "Community • Season 6"
-        },
-        {
-          "title": "S6E07 • Advanced Safety Features",
-          "description": "Community • Season 6"
-        },
-        {
-          "title": "S6E13 • Series Finale",
-          "description": "Community • Season 6"
-        }
-      ]
-    },
-    {
-      "quote": "Cool. Cool cool cool... #AndAMovie.",
-      "description": "Community • Series Finale",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S6E01 • Ladders",
-          "description": "Community • Season 6"
-        },
-        {
-          "title": "S6E12 • Wedding Videography",
-          "description": "Community • Season 6"
-        },
-        {
-          "title": "S6E13 • Emotional Consequences of Broadcast Television",
-          "description": "Community • Season 6"
-        }
-      ]
-    },
-    {
-      "quote": "Who wants to see how high we can climb in the cafeteria?",
-      "description": "Community • Cafeteria",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S6E01 • Ladders",
-          "description": "Community • Season 6"
-        },
-        {
-          "title": "S5E05 • Geothermal Escapism",
-          "description": "Community • Season 5"
-        },
-        {
-          "title": "S3E14 • Pillows and Blankets",
-          "description": "Community • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "Greendale is on lockdown! Paintball!",
-      "description": "Community • Priority Registration",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S1E21 • Contemporary American Poultry",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S1E23 • Modern Warfare",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S2E23 • A Fistful of Paintballs",
-          "description": "Community • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "Dean-a-ling-a-ling!",
-      "description": "Community • Paintball",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S1E23 • Modern Warfare",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S2E14 • Advanced D&D",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna win that $100,000 for Greendale!",
-      "description": "Community • Paintball Finale",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S2E06 • Epidemiology",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E19 • Critical Film Studies",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E23 • A Fistful of Paintballs",
-          "description": "Community • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "The floor is lava!",
-      "description": "Community • Troy's Goodbye",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S5E05 • Geothermal Escapism",
-          "description": "Community • Season 5"
-        },
-        {
-          "title": "S1E23 • Modern Warfare",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S3E14 • Pillows and Blankets",
-          "description": "Community • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "This is a bottle episode!",
-      "description": "Community • Study Room",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S2E01 • Anthropology 101",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E08 • Cooperative Calligraphy",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E11 • Abed's Uncontrollable Christmas",
-          "description": "Community • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a community college student, not a loser!",
-      "description": "Community • Pilot",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S1E01 • Pilot",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S1E07 • Introduction to Statistics",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S1E21 • Contemporary American Poultry",
-          "description": "Community • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "Everyone in this room is a suspect!",
+      "quote": "Who the hell are you always texting?! Everyone you know is here!",
       "description": "Spoken by Annie Edison",
       "correct": 0,
       "options": [
         {
-          "title": "S2E08 • Cooperative Calligraphy",
-          "description": "Community • Season 2"
+          "title": "Competitive Ecology",
+          "description": "Community episode"
         },
         {
-          "title": "S3E17 • Basic Lupine Urology",
-          "description": "Community • Season 3"
+          "title": "Foosball and Nocturnal Vigilantism",
+          "description": "Community episode"
         },
         {
-          "title": "S5E04 • Cooperative Polygraphy",
-          "description": "Community • Season 5"
+          "title": "Wedding Videography",
+          "description": "Community episode"
         }
       ]
     },
     {
-      "quote": "Priority registration! Let the games begin!",
-      "description": "Community • Paintball",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S1E21 • Contemporary American Poultry",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S1E17 • Physical Education",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S1E23 • Modern Warfare",
-          "description": "Community • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna need you to stop making that face.",
-      "description": "Spoken by Jeff Winger",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S1E01 • Pilot",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S2E08 • Cooperative Calligraphy",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "My Dinner with Andre... at a fancy restaurant!",
-      "description": "Community • Pulp Fiction",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S2E14 • Advanced D&D",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E19 • Critical Film Studies",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E23 • A Fistful of Paintballs",
-          "description": "Community • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "Anthropology! Why is Betty White choking Jeff?",
-      "description": "Community • Premiere",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S2E01 • Anthropology 101",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E06 • Epidemiology",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E08 • Cooperative Calligraphy",
-          "description": "Community • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "Nobody leaves Study Room F until we find that purple pen!",
-      "description": "Community • Study Room F",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S1E21 • Contemporary American Poultry",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S2E06 • Epidemiology",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E08 • Cooperative Calligraphy",
-          "description": "Community • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "You're just a bad person with good hair.",
-      "description": "Spoken by Britta Perry",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S1E23 • Modern Warfare",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S2E01 • Anthropology 101",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S5E04 • Cooperative Polygraphy",
-          "description": "Community • Season 5"
-        }
-      ]
-    },
-    {
-      "quote": "Clearly you don't understand anything about defeating trolls.",
-      "description": "Community • Darkest Timeline",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
-        },
-        {
-          "title": "S1E23 • Modern Warfare",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S2E14 • Advanced Dungeons & Dragons",
-          "description": "Community • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "I'm playing pool in shorts? No, I'm playing naked!",
-      "description": "Community • Gym",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S1E01 • Pilot",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S1E17 • Physical Education",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S1E23 • Modern Warfare",
-          "description": "Community • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "Professor Professorson!",
-      "description": "Community • Night School",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S2E09 • Conspiracy Theories and Interior Design",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E01 • Anthropology 101",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E23 • A Fistful of Paintballs",
-          "description": "Community • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "Roll the twenty-sided die for initiative!",
-      "description": "Community • Study Room Table",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S1E23 • Modern Warfare",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S2E06 • Epidemiology",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E14 • Advanced Dungeons & Dragons",
-          "description": "Community • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "As far back as I can remember, I always wanted to be in a Mafia movie.",
-      "description": "Community • Chicken Fingers",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S1E21 • Contemporary American Poultry",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S1E23 • Modern Warfare",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S3E14 • Pillows and Blankets",
-          "description": "Community • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "Objection! We're doing Law & Order!",
-      "description": "Community • Biology Yam",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S2E11 • Uncontrollable Christmas",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S3E17 • Basic Lupine Urology",
-          "description": "Community • Season 3"
-        },
-        {
-          "title": "S5E04 • Cooperative Polygraphy",
-          "description": "Community • Season 5"
-        }
-      ]
-    },
-    {
-      "quote": "You're a wizard, Pierce!",
-      "description": "Community • D&D",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S2E14 • Advanced Dungeons & Dragons",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E11 • Uncontrollable Christmas",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E19 • Critical Film Studies",
-          "description": "Community • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "Taco meat from the army surplus store!",
-      "description": "Community • Halloween",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S2E01 • Anthropology 101",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E08 • Cooperative Calligraphy",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E06 • Epidemiology",
-          "description": "Community • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "We're a Mafia! Selling chicken fingers!",
-      "description": "Community • Cafeteria",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S1E07 • Introduction to Statistics",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S1E17 • Physical Education",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S1E21 • Contemporary American Poultry",
-          "description": "Community • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "This campus isn't big enough for two rival forts!",
-      "description": "Community • Documentary",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S2E23 • A Fistful of Paintballs",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
-        },
-        {
-          "title": "S3E14 • Pillows and Blankets",
-          "description": "Community • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "My whole brain is crying!",
-      "description": "Spoken by Troy Barnes",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S2E09 • Conspiracy Theories and Interior Design",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E08 • Cooperative Calligraphy",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S2E14 • Advanced D&D",
-          "description": "Community • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "This is definitely the darkest timeline.",
-      "description": "Spoken by Abed Nadir",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S2E11 • Abed's Uncontrollable Christmas",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S5E05 • Geothermal Escapism",
-          "description": "Community • Season 5"
-        },
-        {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna live forever or die trying!",
-      "description": "Spoken by Pierce Hawthorne",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S1E21 • Contemporary American Poultry",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S2E06 • Epidemiology",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "All hail the Fives! Fours are barely human!",
-      "description": "Community • App Dystopia",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S5E05 • Geothermal Escapism",
-          "description": "Community • Season 5"
-        },
-        {
-          "title": "S5E08 • App Development and Condiments",
-          "description": "Community • Season 5"
-        },
-        {
-          "title": "S5E04 • Cooperative Polygraphy",
-          "description": "Community • Season 5"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a dean of the people!",
-      "description": "Spoken by Dean Pelton",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S1E23 • Modern Warfare",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S6E01 • Ladders",
-          "description": "Community • Season 6"
-        },
-        {
-          "title": "S3E22 • Introduction to Finality",
-          "description": "Community • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "Wait... there are other timelines?",
-      "description": "Community • Rolling the Die",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
-        },
-        {
-          "title": "S2E23 • A Fistful of Paintballs",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S1E21 • Contemporary American Poultry",
-          "description": "Community • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "ABBA! Why is ABBA playing during a zombie outbreak?!",
-      "description": "Community • Halloween",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S1E23 • Modern Warfare",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S2E06 • Epidemiology",
-          "description": "Community • Season 2"
-        },
-        {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "Cool. Cool cool cool.",
-      "description": "Spoken by Abed Nadir",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S1E01 • Pilot",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S1E07 • Intro to Statistics",
-          "description": "Community • Season 1"
-        },
-        {
-          "title": "S1E21 • Contemporary American Poultry",
-          "description": "Community • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna go get my paintball gun.",
+      "quote": "Fine! Monday morning. Only let's make it interesting: the loser never gets to use this table again.",
       "description": "Spoken by Shirley Bennett",
       "correct": 2,
       "options": [
         {
-          "title": "S2E06 • Epidemiology",
-          "description": "Community • Season 2"
+          "title": "Basic Story",
+          "description": "Community episode"
         },
         {
-          "title": "S3E14 • Pillows and Blankets",
-          "description": "Community • Season 3"
+          "title": "Intro to Knots",
+          "description": "Community episode"
         },
         {
-          "title": "S1E23 • Modern Warfare",
-          "description": "Community • Season 1"
+          "title": "Foosball and Nocturnal Vigilantism",
+          "description": "Community episode"
         }
       ]
     },
     {
-      "quote": "I'm not a nerd! I'm a cool guy who happens to love Inspector Spacetime.",
-      "description": "Spoken by Troy Barnes",
+      "quote": "What the hell are regionals? They never stop talking about it.",
+      "description": "Spoken by Pierce Hawthorne",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Basic Email Security",
+          "description": "Community episode"
+        },
+        {
+          "title": "Analysis of Cork-Based Networking",
+          "description": "Community episode"
+        },
+        {
+          "title": "Regional Holiday Music",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, Jeff, thank God! They got Shirley; it's just you and me now! Jeff?",
+      "description": "Spoken by Britta Perry",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Regional Holiday Music",
+          "description": "Community episode"
+        },
+        {
+          "title": "Advanced Documentary Filmmaking",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic Lupine Urology",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "When's our culture gonna outgrow this wedding thing?",
+      "description": "Spoken by Britta Perry",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Urban Matrimony and the Sandwich Arts",
+          "description": "Community episode"
+        },
+        {
+          "title": "Intro to Recycled Cinema",
+          "description": "Community episode"
+        },
+        {
+          "title": "History 101",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Holy crap! Britta, you're really good at this!",
+      "description": "Spoken by Annie Edison",
       "correct": 1,
       "options": [
         {
-          "title": "S2E19 • Critical Film Studies",
-          "description": "Community • Season 2"
+          "title": "Biology 101",
+          "description": "Community episode"
         },
         {
-          "title": "S3E16 • Virtual Systems Analysis",
-          "description": "Community • Season 3"
+          "title": "Urban Matrimony and the Sandwich Arts",
+          "description": "Community episode"
         },
         {
-          "title": "S5E05 • Geothermal Escapism",
-          "description": "Community • Season 5"
+          "title": "Introduction to Teaching",
+          "description": "Community episode"
         }
       ]
     },
     {
-      "quote": "The thing some men call 'failure,' I call 'living—breakfast!' And I'm not leaving until I've cleaned out the buffet.",
+      "quote": "\"There's phones in the refridgerator!\" It's you.",
+      "description": "Spoken by Annie Edison",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Cooperative Polygraphy",
+          "description": "Community episode"
+        },
+        {
+          "title": "Origins of Vampire Mythology",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic Crisis Room Decorum",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "That's fine; it's fine! We just won't answer it.",
+      "description": "Spoken by Annie Edison",
+      "correct": 2,
+      "options": [
+        {
+          "title": "History 101",
+          "description": "Community episode"
+        },
+        {
+          "title": "Intro to Knots",
+          "description": "Community episode"
+        },
+        {
+          "title": "Origins of Vampire Mythology",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a millionaire, I'm an inventor, I'm a legend, and I had sex with Eartha Kitt!",
+      "description": "Spoken by Pierce Hawthorne",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Heroic Origins",
+          "description": "Community episode"
+        },
+        {
+          "title": "Curriculum Unavailable",
+          "description": "Community episode"
+        },
+        {
+          "title": "Horror Fiction in Seven Spooky Steps",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Shut up, Leonard; I know about your crooked wang!",
+      "description": "Spoken by Britta Perry",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Introduction to Finality",
+          "description": "Community episode"
+        },
+        {
+          "title": "Wedding Videography",
+          "description": "Community episode"
+        },
+        {
+          "title": "Modern Espionage",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "I withdraw my case. Why didn't you just do some inspirational speech about friendship? You're fired!",
+      "description": "Spoken by Pierce Hawthorne",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The First Chang Dynasty",
+          "description": "Community episode"
+        },
+        {
+          "title": "Introduction to Finality",
+          "description": "Community episode"
+        },
+        {
+          "title": "Herstory of Dance",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, don't use \"gay\" as a derogatory term! Booyah! Good person!",
+      "description": "Spoken by Pierce Hawthorne",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Intro to Recycled Cinema",
+          "description": "Community episode"
+        },
+        {
+          "title": "Herstory of Dance",
+          "description": "Community episode"
+        },
+        {
+          "title": "Introduction to Finality",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Showing up early, helping others, sending girls away? Could this be a whole new Jeff Winger?",
+      "description": "Spoken by Annie Edison",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Documentary Filmmaking: Redux",
+          "description": "Community episode"
+        },
+        {
+          "title": "History 101",
+          "description": "Community episode"
+        },
+        {
+          "title": "Advanced Advanced Dungeons & Dragons",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "So it's just decided? No vote or anything?",
+      "description": "Spoken by Pierce Hawthorne",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Remedial Chaos Theory",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic Sandwich",
+          "description": "Community episode"
+        },
+        {
+          "title": "Alternative History of the German Invasion",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Can I set you up with a date for the Sadie Hawkins Day dance?",
+      "description": "Spoken by Annie Edison",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Herstory of Dance",
+          "description": "Community episode"
+        },
+        {
+          "title": "The First Chang Dynasty",
+          "description": "Community episode"
+        },
+        {
+          "title": "Digital Estate Planning",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "That's international airspace. We're literally above the law! Jeff can marry any man he wants.",
+      "description": "Spoken by Pierce Hawthorne",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Emotional Consequences of Broadcast Television",
+          "description": "Community episode"
+        },
+        {
+          "title": "Intro to Recycled Cinema",
+          "description": "Community episode"
+        },
+        {
+          "title": "Intro to Felt Surrogacy",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Merry Christmas! I know we said no gifts, but I couldn't resist.",
+      "description": "Spoken by Shirley Bennett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The First Chang Dynasty",
+          "description": "Community episode"
+        },
+        {
+          "title": "Intro to Knots",
+          "description": "Community episode"
+        },
+        {
+          "title": "Modern Espionage",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Speaking of tomorrow, Troy and Britta, have you decided what you're gonna do for your one-year anniversary?",
+      "description": "Spoken by Shirley Bennett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Studies in Modern Movement",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic Human Anatomy",
+          "description": "Community episode"
+        },
+        {
+          "title": "Ladders",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "You guys are dating? Man. Somebody's sure is working her way around the table.",
       "description": "Spoken by Pierce Hawthorne",
       "correct": 0,
       "options": [
         {
-          "title": "S1E01 • Pilot",
-          "description": "Community • Season 1"
+          "title": "Basic Human Anatomy",
+          "description": "Community episode"
         },
         {
-          "title": "S1E07 • Introduction to Statistics",
-          "description": "Community • Season 1"
+          "title": "Documentary Filmmaking: Redux",
+          "description": "Community episode"
         },
         {
-          "title": "S1E23 • Modern Warfare",
-          "description": "Community • Season 1"
+          "title": "Cooperative Polygraphy",
+          "description": "Community episode"
         }
       ]
     },
     {
-      "quote": "Roxanne! No!",
-      "description": "Community • Apartment 303",
+      "quote": "After being rehired as a security guard after being fired for impersonating a teacher?",
+      "description": "Spoken by Shirley Bennett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "App Development and Condiments",
+          "description": "Community episode"
+        },
+        {
+          "title": "Advanced Safety Features",
+          "description": "Community episode"
+        },
+        {
+          "title": "Repilot",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "You're throwing away all your little movies. Why?",
+      "description": "Spoken by Shirley Bennett",
       "correct": 0,
       "options": [
         {
-          "title": "S3E04 • Remedial Chaos Theory",
-          "description": "Community • Season 3"
+          "title": "Introduction to Teaching",
+          "description": "Community episode"
         },
         {
-          "title": "S2E06 • Epidemiology",
-          "description": "Community • Season 2"
+          "title": "Course Listing Unavailable",
+          "description": "Community episode"
         },
         {
-          "title": "S3E14 • Pillows and Blankets",
-          "description": "Community • Season 3"
+          "title": "Contemporary Impressionists",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Guys, stop! The lava’s real to Abed! It’s not a game to him!",
+      "description": "Spoken by Troy Barnes",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Digital Estate Planning",
+          "description": "Community episode"
+        },
+        {
+          "title": "Analysis of Cork-Based Networking",
+          "description": "Community episode"
+        },
+        {
+          "title": "Geothermal Escapism",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "The midterm dance will need a visual theme. Like, 'Let's blow off steam,' and it's trains!",
+      "description": "Spoken by Annie Edison",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Analysis of Cork-Based Networking",
+          "description": "Community episode"
+        },
+        {
+          "title": "Grifting 101",
+          "description": "Community episode"
+        },
+        {
+          "title": "The First Chang Dynasty",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "And do I hear correctly that as a Five, you felt you could park in handicapped spots?",
+      "description": "Spoken by Britta Perry",
+      "correct": 0,
+      "options": [
+        {
+          "title": "App Development and Condiments",
+          "description": "Community episode"
+        },
+        {
+          "title": "Emotional Consequences of Broadcast Television",
+          "description": "Community episode"
+        },
+        {
+          "title": "Lawnmower Maintenance and Postnatal Care",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "No! No! Wait! No, don't go! Where are you going?! No...",
+      "description": "Spoken by Britta Perry",
+      "correct": 0,
+      "options": [
+        {
+          "title": "App Development and Condiments",
+          "description": "Community episode"
+        },
+        {
+          "title": "Paranormal Parentage",
+          "description": "Community episode"
+        },
+        {
+          "title": "Geography of Global Conflict",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "I've generated a few ideas involving social media that I think might do the trick!",
+      "description": "Spoken by Annie Edison",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Bondage and Beta Male Sexuality",
+          "description": "Community episode"
+        },
+        {
+          "title": "Herstory of Dance",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic Story",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Great! Thanks for making my joke accurate; now, it's hilarious.",
+      "description": "Spoken by Annie Edison",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Studies in Modern Movement",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic Story",
+          "description": "Community episode"
+        },
+        {
+          "title": "Regional Holiday Music",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "I'm thinking I'm gonna transfer to City College, but I'm knowing I'm gonna be a bartender. You?",
+      "description": "Spoken by Britta Perry",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Studies in Modern Movement",
+          "description": "Community episode"
+        },
+        {
+          "title": "Cooperative Polygraphy",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic Story",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "You know what? You guys can have my food and water.",
+      "description": "Spoken by Annie Edison",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Basic RV Repair and Palmistry",
+          "description": "Community episode"
+        },
+        {
+          "title": "Lawnmower Maintenance and Postnatal Care",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic Sandwich",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, after I was electrocuted, didn't you two say you were gonna get married?",
+      "description": "Spoken by Ian Duncan",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Paranormal Parentage",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic Sandwich",
+          "description": "Community episode"
+        },
+        {
+          "title": "Heroic Origins",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Doesn't \"electrocuted\" technically mean \"killed\"?",
+      "description": "Spoken by Britta Perry",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Basic Sandwich",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic Crisis Room Decorum",
+          "description": "Community episode"
+        },
+        {
+          "title": "Analysis of Cork-Based Networking",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Excuse me, ma'am. Is she above us or below us?",
+      "description": "Spoken by Britta Perry",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ladders",
+          "description": "Community episode"
+        },
+        {
+          "title": "Modern Espionage",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic Story",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Is this what you guys want? You wanna play Cops and Robbers with costumes?",
+      "description": "Spoken by Frankie Dart",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Modern Espionage",
+          "description": "Community episode"
+        },
+        {
+          "title": "Ladders",
+          "description": "Community episode"
+        },
+        {
+          "title": "Analysis of Cork-Based Networking",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "It finally comes out! \"Abed deserves better!\"",
+      "description": "Spoken by Britta Perry",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ladders",
+          "description": "Community episode"
+        },
+        {
+          "title": "Cooperative Escapism in Familial Relations",
+          "description": "Community episode"
+        },
+        {
+          "title": "Studies in Modern Movement",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "He deleted the serial number; Jeff, help me out here!",
+      "description": "Spoken by Frankie Dart",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Curriculum Unavailable",
+          "description": "Community episode"
+        },
+        {
+          "title": "Lawnmower Maintenance and Postnatal Care",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic RV Repair and Palmistry",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "How much do you think you're going to get paid if I have to find five grand in the budget?",
+      "description": "Spoken by Frankie Dart",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Lawnmower Maintenance and Postnatal Care",
+          "description": "Community episode"
+        },
+        {
+          "title": "Advanced Gay",
+          "description": "Community episode"
+        },
+        {
+          "title": "Regional Holiday Music",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh! Oh, it’s okay. I mean, it’s not okay, but… Aw, so stupid… Such a dummy…",
+      "description": "Spoken by Frankie Dart",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Bondage and Beta Male Sexuality",
+          "description": "Community episode"
+        },
+        {
+          "title": "Urban Matrimony and the Sandwich Arts",
+          "description": "Community episode"
+        },
+        {
+          "title": "Advanced Safety Features",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Insane. And what is your name - \"Exploitia\"?",
+      "description": "Spoken by Britta Perry",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Basic Crisis Room Decorum",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic RV Repair and Palmistry",
+          "description": "Community episode"
+        },
+        {
+          "title": "Intro to Recycled Cinema",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Scorpio Nine! I'm a pleasure droid! No, I'm an assassin?",
+      "description": "Spoken by Annie Edison",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Foosball and Nocturnal Vigilantism",
+          "description": "Community episode"
+        },
+        {
+          "title": "Intro to Recycled Cinema",
+          "description": "Community episode"
+        },
+        {
+          "title": "Origins of Vampire Mythology",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Get to the escape pods! And then we go! This way!",
+      "description": "Spoken by Annie Edison",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Paranormal Parentage",
+          "description": "Community episode"
+        },
+        {
+          "title": "Intro to Recycled Cinema",
+          "description": "Community episode"
+        },
+        {
+          "title": "Wedding Videography",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Jeff, do you really need us to say it? You were-",
+      "description": "Spoken by Annie Edison",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Basic Crisis Room Decorum",
+          "description": "Community episode"
+        },
+        {
+          "title": "Ladders",
+          "description": "Community episode"
+        },
+        {
+          "title": "Grifting 101",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Do you want flashy forward, or cherry and classic?",
+      "description": "Spoken by Annie Edison",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Wedding Videography",
+          "description": "Community episode"
+        },
+        {
+          "title": "Conventions of Space and Time",
+          "description": "Community episode"
+        },
+        {
+          "title": "Intro to Felt Surrogacy",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Chang, your last idea was to murder.",
+      "description": "Spoken by Annie Edison",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Alternative History of the German Invasion",
+          "description": "Community episode"
+        },
+        {
+          "title": "Intro to Recycled Cinema",
+          "description": "Community episode"
+        },
+        {
+          "title": "Analysis of Cork-Based Networking",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "I can't remember what regular air smells like.",
+      "description": "Spoken by Pierce Hawthorne",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ladders",
+          "description": "Community episode"
+        },
+        {
+          "title": "Origins of Vampire Mythology",
+          "description": "Community episode"
+        },
+        {
+          "title": "Geography of Global Conflict",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "Okay. Uh, that made me sound creepy... but-but here's the thing.",
+      "description": "Spoken by Jeff Winger",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Geography of Global Conflict",
+          "description": "Community episode"
+        },
+        {
+          "title": "Virtual Systems Analysis",
+          "description": "Community episode"
+        },
+        {
+          "title": "Emotional Consequences of Broadcast Television",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "But you win a simple game. The larger, symbolic victory will be ours.",
+      "description": "Spoken by Annie Edison",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Grifting 101",
+          "description": "Community episode"
+        },
+        {
+          "title": "Geography of Global Conflict",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic Story",
+          "description": "Community episode"
+        }
+      ]
+    },
+    {
+      "quote": "There's 6 sides to this die, and 7 of us. He devised a system by which he never has to get the pizza.",
+      "description": "Spoken by Abed Nadir",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Advanced Gay",
+          "description": "Community episode"
+        },
+        {
+          "title": "Remedial Chaos Theory",
+          "description": "Community episode"
+        },
+        {
+          "title": "Basic Intergluteal Numismatics",
+          "description": "Community episode"
         }
       ]
     }

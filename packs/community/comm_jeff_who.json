@@ -10,951 +10,951 @@
   "quote_count": 50,
   "questions": [
     {
-      "quote": "I don't have an ego. My Facebook photo is a landscape.",
-      "description": "Study Room • Speech",
+      "quote": "You're not alone on this case. Pierce, stop trying to coin the phrase \"streets ahead\".",
+      "description": "Community • Contemporary American Poultry",
       "correct": 0,
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Moist-towelette heir"
-        }
-      ]
-    },
-    {
-      "quote": "Greendale is a slam dunk!",
-      "description": "Campus • Commercial",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Dean Pelton",
-          "description": "Costume-loving Greendale Dean"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        }
-      ]
-    },
-    {
-      "quote": "You're not a bad person, Britta. You're just a buzzkill.",
-      "description": "Study Room • Banter",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
-        }
-      ]
-    },
-    {
-      "quote": "Tell me how this was not a bottle episode!",
-      "description": "Study Room • Pen",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Entrepreneur & protective mom"
-        }
-      ]
-    },
-    {
-      "quote": "We are definitely going to fail this final!",
-      "description": "Study Room • Finals",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
-        }
-      ]
-    },
-    {
-      "quote": "I practiced law for six years before they caught on.",
-      "description": "Study Room • Backstory",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Alan Connor",
           "description": "Community character"
         },
         {
-          "title": "Pierce Hawthorne",
-          "description": "Moist-towelette heir"
-        }
-      ]
-    },
-    {
-      "quote": "I thought you had a degree from Columbia! Now I have to get one from America.",
-      "description": "Pilot • Dean's Office",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
+          "title": "Annie Edison",
+          "description": "Community character"
         },
         {
-          "title": "Dean Pelton",
-          "description": "Costume-loving Greendale Dean"
-        },
-        {
-          "title": "Professor Duncan",
+          "title": "Abed Nadir",
           "description": "Community character"
         }
       ]
     },
     {
-      "quote": "You can't just make a speech and fix everything!",
-      "description": "Study Room • Calling Out Jeff",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
-        }
-      ]
-    },
-    {
-      "quote": "Watch me.",
-      "description": "Study Room • Standing Up",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
-        }
-      ]
-    },
-    {
-      "quote": "It's called 'being a grown-up', Annie!",
-      "description": "Study Room • Argument",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Entrepreneur & protective mom"
-        }
-      ]
-    },
-    {
-      "quote": "Stop doing the Disney face!",
-      "description": "Study Room • Annie's Eyes",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna bake some brownies!",
-      "description": "Study Room • Peacekeeping",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Entrepreneur & protective mom"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a level 7 susceptible!",
-      "description": "Season 6 • Honda",
+      "quote": "She confessed to protect her classmates, because you were threatening to flunk everyone!",
+      "description": "Community • Advanced Criminal Law",
       "correct": 1,
       "options": [
         {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
           "title": "Dean Pelton",
-          "description": "Costume-loving Greendale Dean"
+          "description": "Community character"
         },
         {
-          "title": "Frankie Dart",
-          "description": "Greendale consultant"
-        }
-      ]
-    },
-    {
-      "quote": "Someone's been eating my pies!",
-      "description": "Classic Scene",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
+          "title": "Jeff Winger",
+          "description": "Community character"
         },
         {
           "title": "Shirley Bennett",
-          "description": "Entrepreneur & protective mom"
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "We're the Greendale Seven!",
-      "description": "Campus • Rally",
+      "quote": "I'm saying, you're a football player. It's in your blood!",
+      "description": "Community • Football, Feminism and You",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, what are you doing? That was The Jeffersons, honky...",
+      "description": "Community • Home Economics",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "How are you so satisfied all the time, Abed? I mean, don't you ever want anything more out of life than cereal?",
+      "description": "Community • Home Economics",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Can I not be Kurt Russell in this scenario?",
+      "description": "Community • Home Economics",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "]Not paying attention] In a way, all of you are right... OK, what was I tuning out?",
+      "description": "Community • Environmental Science",
       "correct": 0,
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
         },
         {
           "title": "Pierce Hawthorne",
-          "description": "Moist-towelette heir"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "What's a 'diminutive'?",
-      "description": "Study Room • Vocabulary",
+      "quote": "Some mysteries solve themselves, don't they?",
+      "description": "Community • Politics of Human Sexuality",
       "correct": 2,
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
-        }
-      ]
-    },
-    {
-      "quote": "I have Changnesia!",
-      "description": "Season 4 • Kevin",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Dean Pelton",
-          "description": "Costume-loving Greendale Dean"
+          "description": "Community character"
         },
         {
           "title": "Ben Chang",
-          "description": "Unpredictable Greendale instructor"
+          "description": "Community character"
         },
         {
           "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        }
-      ]
-    },
-    {
-      "quote": "Greendale: You're already accepted!",
-      "description": "Campus • Slogan",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Dean Pelton",
-          "description": "Costume-loving Greendale Dean"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a cat! I'm a sexy cat!",
-      "description": "Acting Class • Nic Cage",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        }
-      ]
-    },
-    {
-      "quote": "Did someone say 'crazy person'?",
-      "description": "Study Room • Doorway",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Dean Pelton",
-          "description": "Costume-loving Greendale Dean"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Unpredictable Greendale instructor"
-        },
-        {
-          "title": "Leonard",
-          "description": "Elderly Greendale student"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna make a documentary about Greendale!",
-      "description": "Campus • Camera",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Dean Pelton",
-          "description": "Costume-loving Greendale Dean"
-        },
-        {
-          "title": "Chang",
           "description": "Community character"
         }
       ]
     },
     {
-      "quote": "Don't eat the crab dip! Yay-yay!",
-      "description": "Classic Scene",
+      "quote": "You keep a list of everyone based on how good-looking they are?",
+      "description": "Community • Interpretive Dance",
       "correct": 1,
       "options": [
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
         {
           "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Moist-towelette heir"
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "Buy my frozen pizza! Four stars!",
-      "description": "Classic Scene",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Garrett",
-          "description": "Community character"
-        },
-        {
-          "title": "Leonard Rodriguez",
-          "description": "Community character"
-        },
-        {
-          "title": "Star-Burns",
-          "description": "Sideburn-wearing student"
-        }
-      ]
-    },
-    {
-      "quote": "Shut up, Leonard! I know about your prescription socks!",
-      "description": "Classic Scene",
+      "quote": "Oh, for God's sake, what did I tell you guys?",
+      "description": "Community • Physical Education",
       "correct": 0,
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
+          "description": "Community character"
         },
         {
           "title": "Ben Chang",
-          "description": "Unpredictable Greendale instructor"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Moist-towelette heir"
-        }
-      ]
-    },
-    {
-      "quote": "I'm just Abed. I like movies.",
-      "description": "Study Room • Sherlock Joke",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
-        }
-      ]
-    },
-    {
-      "quote": "Cool. Cool cool cool.",
-      "description": "Study Room F • Talk Show",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Troy & Abed",
           "description": "Community character"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
-        }
-      ]
-    },
-    {
-      "quote": "I have to go to the bank today! What am I supposed to tell them, I had good news and bad news?!",
-      "description": "Study Room • Half-Man Half-Woman Costume",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Dean Pelton",
-          "description": "Costume-loving Greendale Dean"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Unpredictable Greendale instructor"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Moist-towelette heir"
-        }
-      ]
-    },
-    {
-      "quote": "I can excuse racism, but I draw the line at animal cruelty.",
-      "description": "Classic Scene",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
         },
         {
           "title": "Shirley Bennett",
-          "description": "Entrepreneur & protective mom"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "I'm gonna punch you in the heart!",
-      "description": "Study Room • Threat",
-      "correct": 1,
+      "quote": "Let's finish the unit; don't want to be late to lunch. \"Amor\" is \"to love\", right?",
+      "description": "Community • Contemporary American Poultry",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Face it. Why even take the exam? We're all gonna be retaking Spanish this fall.",
+      "description": "Community • English as a Second Language",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Permission to treat the witness as hostile?",
+      "description": "Community • English as a Second Language",
+      "correct": 0,
       "options": [
         {
           "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
         },
         {
           "title": "Shirley Bennett",
-          "description": "Entrepreneur & protective mom"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "Wait... that's 'saved' Garrett?",
-      "description": "Campus • Whispering",
-      "correct": 0,
+      "quote": "No! No! Everyone close their eyes! Do it! Close them! Abed, close!",
+      "description": "Community • English as a Second Language",
+      "correct": 2,
       "options": [
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
         {
           "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "Inspector Spacetime! Where are we? More importantly, WHEN are we?",
-      "description": "TV • Convention",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
-        }
-      ]
-    },
-    {
-      "quote": "Wait... you can't disappoint a picture!",
-      "description": "Season 2 • LeVar Burton",
+      "quote": "I'm sorry we can't all be as honorable as you and post Pierce quotes all day on Twitter!",
+      "description": "Community • Anthropology 101",
       "correct": 1,
       "options": [
         {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Moist-towelette heir"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a TV character! Look at the camera!",
-      "description": "Study Room • Documentary",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
+          "title": "Dean Pelton",
+          "description": "Community character"
         },
         {
           "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
+          "description": "Community character"
         },
         {
-          "title": "Pierce Hawthorne",
-          "description": "Moist-towelette heir"
+          "title": "Ben Chang",
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "I'm Batman.",
-      "description": "Season 1 • Halloween",
-      "correct": 0,
+      "quote": "That's my jacket! My jacket, you're stretching it! You're stretching it-!",
+      "description": "Community • Epidemiology",
+      "correct": 1,
       "options": [
         {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
+          "title": "Shirley Bennett",
+          "description": "Community character"
         },
         {
           "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "Have you met me?!",
-      "description": "Study Room F • Chang's Entrance",
+      "quote": "\"Bend and spread\"? Are the Thought Police going to make love to us?",
+      "description": "Community • Cooperative Calligraphy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "My latest theory? Maybe I'm a god. I've denied the signs for too long.",
+      "description": "Community • Conspiracy Theories and Interior Design",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Don't you dare intercut this with footage of me freaking out!",
+      "description": "Community • Intermediate Documentary Filmmaking",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Obviously they were practicing while the rest of us went on dates!",
+      "description": "Community • A Fistful of Paintballs",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Annie, stop! You're acting like a little schoolgirl, and not in a hot way!",
+      "description": "Community • Geography of Global Conflict",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "You see what happens when I leave you guys alone?",
+      "description": "Community • Remedial Chaos Theory",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Pierce, you really wanna be like this guy? He's wearing elephant bones on his head.",
+      "description": "Community • Advanced Gay",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Tempting, but then wouldn't I be playing Foosball, if so how would I not be a loud, weird knob?",
+      "description": "Community • Foosball and Nocturnal Vigilantism",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "And it's all thanks to you, Mr. Rad! I just hope we can repay you by making regionals!",
+      "description": "Community • Regional Holiday Music",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "What did he say? Did Mr. Rad kill the last Glee club?",
+      "description": "Community • Regional Holiday Music",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "We are so screwed. How are we gonna memorize all this?",
+      "description": "Community • Virtual Systems Analysis",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "'Cause they've never seen a man who's had sex before?",
+      "description": "Community • Conventions of Space and Time",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "What about car accidents, Tara Reid, or the Hindenburg?",
+      "description": "Community • Cooperative Escapism in Familial Relations",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Dave Matthews... oh, excuse me for being alive in the 90's and having two ears connected to a heart!",
+      "description": "Community • Basic Intergluteal Numismatics",
       "correct": 2,
       "options": [
         {
           "title": "Dean Pelton",
-          "description": "Costume-loving Greendale Dean"
+          "description": "Community character"
         },
         {
-          "title": "Pierce Hawthorne",
-          "description": "Moist-towelette heir"
+          "title": "Shirley Bennett",
+          "description": "Community character"
         },
         {
-          "title": "Ben Chang",
-          "description": "Unpredictable Greendale instructor"
+          "title": "Jeff Winger",
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "If I'm Batman, then you're...",
-      "description": "Study Room • Roleplay",
+      "quote": "Yes! Sanity. Yeah, I mean, it's over, but on the other hand, it's over.",
+      "description": "Community • Basic Story",
       "correct": 0,
       "options": [
         {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
-        },
-        {
-          "title": "Dean Pelton",
-          "description": "Costume-loving Greendale Dean"
-        }
-      ]
-    },
-    {
-      "quote": "I'll allow it.",
-      "description": "Spanish 101 • Chang's Class",
-      "correct": 2,
-      "options": [
-        {
           "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
+          "description": "Community character"
         },
         {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Unpredictable Greendale instructor"
-        }
-      ]
-    },
-    {
-      "quote": "GAY MARRIAGE!",
-      "description": "Cafeteria • Chainsaw",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Dean Pelton",
-          "description": "Costume-loving Greendale Dean"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Unpredictable Greendale instructor"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        }
-      ]
-    },
-    {
-      "quote": "Take care of Greendale, Jeff.",
-      "description": "Airport • Goodbye",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
+          "title": "Shirley Bennett",
+          "description": "Community character"
         },
         {
           "title": "Britta Perry",
-          "description": "Activist & psychology major"
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "This better not awaken anything in me.",
-      "description": "Office • Dalmatian Video",
+      "quote": "Exactly, and what are either of us gonna be leaving...with...?",
+      "description": "Community • Basic Story",
       "correct": 0,
       "options": [
         {
-          "title": "Dean Pelton",
-          "description": "Costume-loving Greendale Dean"
-        },
-        {
           "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
-        }
-      ]
-    },
-    {
-      "quote": "Me llamo T-Bone, la araña discoteca!",
-      "description": "Spanish 101 • Rap",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
+          "description": "Community character"
         },
         {
           "title": "Ben Chang",
-          "description": "Unpredictable Greendale instructor"
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "We're in a claymation Christmas!",
-      "description": "Study Room • Stop-Motion",
-      "correct": 0,
+      "quote": "Do you always have to correct people like that?",
+      "description": "Community • Basic Sandwich",
+      "correct": 2,
       "options": [
         {
           "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
+          "description": "Community character"
         },
         {
-          "title": "Professor Duncan",
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh no, grifters! I better watch my French fries unless... Counterfeit! Where'd you learn to do that?",
+      "description": "Community • Grifting 101",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "A ripoff? Hmm, what's another word for that?",
+      "description": "Community • Grifting 101",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Eh, whoa, whoa! Yeah, I need you to say it. Let me just get settled. Okay, go.",
+      "description": "Community • Grifting 101",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "For you, I’d break a light sweat.",
+      "description": "Community • Basic Genealogy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "I agree with brown Jamie Lee Curtis.",
+      "description": "Community • Asian Population Studies",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Pierce mistook me for the Dean today.",
+      "description": "Community • Documentary Filmmaking: Redux",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
           "description": "Community character"
         },
         {
           "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a security guard now!",
-      "description": "Season 3 • Campus",
-      "correct": 1,
-      "options": [
+          "description": "Community character"
+        },
         {
           "title": "Dean Pelton",
-          "description": "Costume-loving Greendale Dean"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Unpredictable Greendale instructor"
-        },
-        {
-          "title": "Leonard",
-          "description": "Elderly Greendale student"
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "My whole brain is crying!",
-      "description": "Season 2 • Conspiracy",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        }
-      ]
-    },
-    {
-      "quote": "You're a psych major! Diagnose me!",
-      "description": "Study Room • Challenge",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Former lawyer & study group leader"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        }
-      ]
-    },
-    {
-      "quote": "CRISIS ALERT!",
-      "description": "Campus • Running Through Hallway",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Magnitude",
-          "description": "One-man Greendale party"
-        },
-        {
-          "title": "Garrett Lambert",
-          "description": "Panicked Greendale student"
-        },
-        {
-          "title": "Star-Burns",
-          "description": "Sideburn-wearing student"
-        }
-      ]
-    },
-    {
-      "quote": "If I had no self-awareness, I think I'd know.",
-      "description": "Study Room F • Drama",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Britta Perry",
-          "description": "Activist & psychology major"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Entrepreneur & protective mom"
-        }
-      ]
-    },
-    {
-      "quote": "Welcome to the Dreamatorium!",
-      "description": "Apartment 303 • Cardboard Grid",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Pop-culture-obsessed filmmaker"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Overachieving perfectionist student"
-        }
-      ]
-    },
-    {
-      "quote": "The thing some men call 'failure,' I call 'living—breakfast!' And I'm not leaving until I've cleaned out the buffet.",
-      "description": "S1E01 • Pilot",
-      "correct": 0,
+      "quote": "Right. Just ask Chris Brown or China.",
+      "description": "Community • Basic Story",
+      "correct": 2,
       "options": [
         {
           "title": "Pierce Hawthorne",
-          "description": "Moist-towelette heir"
+          "description": "Community character"
         },
         {
-          "title": "Ben Chang",
-          "description": "Unpredictable Greendale instructor"
+          "title": "Abed Nadir",
+          "description": "Community character"
         },
         {
-          "title": "Troy Barnes",
-          "description": "Former high school quarterback"
+          "title": "Jeff Winger",
+          "description": "Community character"
         }
       ]
     },
     {
-      "quote": "I'm just hungry, okay?",
-      "description": "Halloween • Cafeteria",
+      "quote": "You saved my life and changed it forever.",
+      "description": "Community • Emotional Consequences of Broadcast Television",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "And now I have to get one from America. And it can't be an e-mail attachment.",
+      "description": "Community • Pilot",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "...no, no. He’s more like a puppy with a fish mouth.",
+      "description": "Community • Social Psychology",
       "correct": 0,
       "options": [
         {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
           "title": "Troy Barnes",
-          "description": "Former high school quarterback"
+          "description": "Community character"
         },
         {
-          "title": "Leonard",
-          "description": "Elderly Greendale student"
+          "title": "Annie Edison",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "We were talking about Britta’s boyfriend, Vaughn.",
+      "description": "Community • Social Psychology",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
         },
         {
-          "title": "Garrett",
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, maybe don’t show that. I don’t think we should--",
+      "description": "Community • Social Psychology",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Because you're a football player and your name begins with T. Your name. Begins. With T.",
+      "description": "Community • Football, Feminism and You",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Psh, yeah, you look like you would have to. I'm not surprised you said that.",
+      "description": "Community • Environmental Science",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Pierce, I'd like to commend you for letting that one go.",
+      "description": "Community • Comparative Religion",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "No no, its fine, it's fine. It's just little a nose bleed. I get 'em when it's dry and when my face gets kicked.",
+      "description": "Community • Investigative Journalism",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Annie's pretty young, we try not to sexualize her.",
+      "description": "Community • Investigative Journalism",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
           "description": "Community character"
         }
       ]

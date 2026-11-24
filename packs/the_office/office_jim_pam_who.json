@@ -10,952 +10,952 @@
   "quote_count": 50,
   "questions": [
     {
-      "quote": "One day, Michael came in complaining about a speed bump on the highway. I wonder who he ran over then.",
-      "description": "Office • Talking Head",
+      "quote": "You know what I think we should do? I think we should just save the goodbyes for tomorrow. At lunch.",
+      "description": "The Office • Goodbye, Michael",
       "correct": 0,
       "options": [
         {
           "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
-        },
-        {
-          "title": "Ryan Howard",
-          "description": "Temp turned corporate exec"
-        }
-      ]
-    },
-    {
-      "quote": "I'm just gonna put his stapler in Jell-O again.",
-      "description": "Pilot • Desk",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
-        },
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        }
-      ]
-    },
-    {
-      "quote": "Right now, this is just a job. If I advance any higher, this would be my career.",
-      "description": "Office • Talking Head",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
+          "description": "The Office character"
         },
         {
           "title": "Stanley Hudson",
-          "description": "Crossword-loving salesman"
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "Dunder Mifflin, this is Pam.",
-      "description": "Reception • Phone",
+      "quote": "Okay, which one of these looks more right?",
+      "description": "The Office • Welcome Party",
       "correct": 1,
       "options": [
         {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
           "title": "Pam Beesly",
-          "description": "Receptionist & artist"
+          "description": "The Office character"
         },
         {
           "title": "Erin Hannon",
-          "description": "Cheerful receptionist"
-        },
-        {
-          "title": "Angela Martin",
-          "description": "Head of Accounting & Party Planning"
+          "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "Plan A was marrying her a long, long time ago. Pretty much the day I met her.",
-      "description": "Season 6 • Boat",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        }
-      ]
-    },
-    {
-      "quote": "I bought those boat tickets the day I saw that YouTube video.",
-      "description": "Season 6 • Niagara",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
-        },
-        {
-          "title": "Andy Bernard",
-          "description": "Cornell grad & salesman"
-        }
-      ]
-    },
-    {
-      "quote": "Be careful! There's a lot of beauty in ordinary things.",
-      "description": "Series Finale • Talking Head",
+      "quote": "Like, he used to make dogs fight, or he actually fought dogs?",
+      "description": "The Office • The Whale",
       "correct": 1,
       "options": [
         {
           "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
+          "description": "The Office character"
         },
         {
           "title": "Pam Beesly",
-          "description": "Receptionist & artist"
+          "description": "The Office character"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Yes! That, that, that! We're definitely doing that. Are we all in agreement?",
+      "description": "The Office • Dwight Christmas",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
         },
         {
           "title": "Erin Hannon",
-          "description": "Cheerful receptionist"
+          "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "I'm not a mind reader, David.",
-      "description": "Office • Prank",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
-        }
-      ]
-    },
-    {
-      "quote": "Hats off to you for not seeing race.",
-      "description": "Desk • Asian Jim",
+      "quote": "Huh. How long would it take me if I drove 300 miles an hour?",
+      "description": "The Office • Suit Warehouse",
       "correct": 2,
       "options": [
         {
           "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
+          "description": "The Office character"
         },
         {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
+          "title": "Michael Scott",
+          "description": "The Office character"
         },
         {
-          "title": "Randall Park (Asian Jim)",
-          "description": "The Office (US) character"
+          "title": "Jim Halpert",
+          "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "I'm a little bit terrified of her.",
-      "description": "Office • Talking Head",
+      "quote": "Did you send Dwight on a quest for the Holy Grail?",
+      "description": "The Office • Customer Loyalty",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "You could've just called that an alliance too, right?",
+      "description": "The Office • Junior Salesman",
       "correct": 0,
       "options": [
         {
           "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
+          "description": "The Office character"
         },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "That is quite the rapsheet, Prison Mike.",
+      "description": "The Office • The Convict",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, you are in prison. But mmhmm.",
+      "description": "The Office • The Convict",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, just so I understand it: in your wildest fantasy, you are in hell, and you are co-running a bed and breakfast with the devil.",
+      "description": "The Office • The Job",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "OK. Dwight, I'm sorry, because I have always been your biggest flan.",
+      "description": "The Office • Pilot",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Moms primarily. Yup. Soccer moms, single moms, Nascar moms, any type of mom, really.",
+      "description": "The Office • Hot Girl",
+      "correct": 2,
+      "options": [
         {
           "title": "Kevin Malone",
-          "description": "Chili-loving accountant"
-        },
-        {
-          "title": "Oscar Martinez",
-          "description": "Detail-oriented accountant"
-        }
-      ]
-    },
-    {
-      "quote": "No, no, I'm totally happy for you!",
-      "description": "Reception • Desk",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
-        },
-        {
-          "title": "Kelly Kapoor",
-          "description": "Customer Service rep"
-        }
-      ]
-    },
-    {
-      "quote": "I'm sorry, what was the question?",
-      "description": "Season 3 • Talking Head",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
-        },
-        {
-          "title": "Karen Filippelli",
-          "description": "The Office (US) character"
-        }
-      ]
-    },
-    {
-      "quote": "It's a yes!",
-      "description": "Season 3 • Conference Room",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
-        },
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna get a teapot!",
-      "description": "Season 2 • Secret Santa",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Phyllis Vance",
-          "description": "Dunder Mifflin saleswoman"
-        }
-      ]
-    },
-    {
-      "quote": "I wish there was a way to know you're in the good old days before you've actually left them.",
-      "description": "Series Finale • Talking Head",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
+          "description": "The Office character"
         },
         {
           "title": "Andy Bernard",
-          "description": "Cornell grad & salesman"
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "Wait... you're the best man?!",
-      "description": "Season 9 • Barn",
+      "quote": "My roommate wants to meet everybody. Because I'm pretty sure he thinks I'm making Dwight up. He is very real.",
+      "description": "The Office • Email Surveillance",
       "correct": 1,
       "options": [
         {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
+          "title": "Erin Hannon",
+          "description": "The Office character"
         },
         {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
+          "title": "Jim Halpert",
+          "description": "The Office character"
         },
         {
           "title": "Angela Martin",
-          "description": "Head of Accounting & Party Planning"
+          "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "Sorry I annoyed you with my friendship!",
-      "description": "Office • Punching the Wall",
+      "quote": "Oh, just you know&mdash;politics, literature...",
+      "description": "The Office • The Secret",
       "correct": 0,
       "options": [
-        {
-          "title": "Andy Bernard",
-          "description": "Cornell grad & salesman"
-        },
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        },
         {
           "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        }
-      ]
-    },
-    {
-      "quote": "Dinkin flicka.",
-      "description": "Warehouse • Teaching Michael Slang",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Darryl Philbin",
-          "description": "Warehouse foreman"
-        },
-        {
-          "title": "Stanley Hudson",
-          "description": "Crossword-loving salesman"
-        },
-        {
-          "title": "Andy Bernard",
-          "description": "Cornell grad & salesman"
-        }
-      ]
-    },
-    {
-      "quote": "B-O-B-O-D-D-Y. What does the first B stand for?",
-      "description": "Classic Scene",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Creed Bratton",
-          "description": "Mysterious Quality Assurance rep"
+          "description": "The Office character"
         },
         {
           "title": "Kevin Malone",
-          "description": "Chili-loving accountant"
-        },
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a Dunder Mifflin man!",
-      "description": "Season 9 • Warehouse",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Creed Bratton",
-          "description": "Mysterious Quality Assurance rep"
-        },
-        {
-          "title": "Stanley Hudson",
-          "description": "Crossword-loving salesman"
-        },
-        {
-          "title": "Kevin Malone",
-          "description": "Chili-loving accountant"
-        }
-      ]
-    },
-    {
-      "quote": "If I'm dead, you guys have been dead for weeks.",
-      "description": "Conference Room • CPR",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        },
-        {
-          "title": "Stanley Hudson",
-          "description": "Crossword-loving salesman"
-        },
-        {
-          "title": "David Wallace",
-          "description": "Dunder Mifflin CFO"
-        }
-      ]
-    },
-    {
-      "quote": "Ryan started the fire!",
-      "description": "Parking Lot • Singing",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Kelly Kapoor",
-          "description": "Customer Service rep"
-        },
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        }
-      ]
-    },
-    {
-      "quote": "There's a lot of beauty in ordinary things. Isn't that kind of the point?",
-      "description": "Series Finale • Closing Line",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
+          "description": "The Office character"
         },
         {
           "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
+          "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "Save Bandit!",
-      "description": "Season 5 • Fire Drill",
-      "correct": 2,
+      "quote": "And I didn't tell anyone, 'cause I'm not really sure how I feel about it.",
+      "description": "The Office • Conflict Resolution",
+      "correct": 0,
       "options": [
         {
-          "title": "Kevin Malone",
-          "description": "Chili-loving accountant"
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
         },
         {
           "title": "Oscar Martinez",
-          "description": "Detail-oriented accountant"
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Come on. I don't want to do that. I want to be more than that.",
+      "description": "The Office • Casino Night",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, well, that still leaves a 30% chance that I'll attack you from the front.",
+      "description": "The Office • Traveling Salesmen",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
         },
         {
           "title": "Angela Martin",
-          "description": "Head of Accounting & Party Planning"
+          "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "Whenever I'm about to do something, I think, 'Would an idiot do that?'",
-      "description": "Office • Talking Head",
+      "quote": "I miss Dwight. Congratulations, universe. You win.",
+      "description": "The Office • The Return",
       "correct": 0,
-      "options": [
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        },
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Kevin Malone",
-          "description": "Chili-loving accountant"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna punch that wall!",
-      "description": "Office • Phone in Ceiling",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Andy Bernard",
-          "description": "Cornell grad & salesman"
-        },
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        },
-        {
-          "title": "Toby Flenderson",
-          "description": "Mild-mannered HR rep"
-        }
-      ]
-    },
-    {
-      "quote": "I'm Prison Mike! And the worst thing about prison was the Dementors!",
-      "description": "Conference Room • Convict Day",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Stanley Hudson",
-          "description": "Crossword-loving salesman"
-        }
-      ]
-    },
-    {
-      "quote": "Before I do anything, I ask myself: would an idiot do that? And if they would, I do not do that thing.",
-      "description": "Office • Talking Head",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        },
-        {
-          "title": "Creed Bratton",
-          "description": "Mysterious Quality Assurance rep"
-        },
-        {
-          "title": "Ryan Howard",
-          "description": "Temp turned corporate exec"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna go get a drink. A very stiff drink.",
-      "description": "Conference Room • Corporate",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jan Levinson",
-          "description": "Corporate VP"
-        },
-        {
-          "title": "David Wallace",
-          "description": "Dunder Mifflin CFO"
-        },
-        {
-          "title": "Toby Flenderson",
-          "description": "Mild-mannered HR rep"
-        }
-      ]
-    },
-    {
-      "quote": "You're hardly my first!",
-      "description": "Condo • Dinner Party",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jan Levinson",
-          "description": "Corporate VP"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        }
-      ]
-    },
-    {
-      "quote": "MICHAEL!",
-      "description": "Desk • Running to Office",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        },
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
-        }
-      ]
-    },
-    {
-      "quote": "The Dundies! How can I explain it? Awards are like a child...",
-      "description": "Chili's • Host",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Deangelo Vickers",
-          "description": "The Office (US) character"
-        },
-        {
-          "title": "Andy Bernard",
-          "description": "Cornell grad & salesman"
-        }
-      ]
-    },
-    {
-      "quote": "Just pretend like we're talking until the cops leave.",
-      "description": "S7E25 • Search Committee",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        },
-        {
-          "title": "Creed Bratton",
-          "description": "Mysterious Quality Assurance rep"
-        },
-        {
-          "title": "Toby Flenderson",
-          "description": "Mild-mannered HR rep"
-        }
-      ]
-    },
-    {
-      "quote": "Boom! Roasted!",
-      "description": "Classic Scene",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Stanley Hudson",
-          "description": "Crossword-loving salesman"
-        },
-        {
-          "title": "Oscar Martinez",
-          "description": "Detail-oriented accountant"
-        }
-      ]
-    },
-    {
-      "quote": "Don't ever, for any reason, do anything to anyone, for any reason ever...",
-      "description": "Classic Scene",
-      "correct": 2,
-      "options": [
-        {
-          "title": "David Wallace",
-          "description": "Dunder Mifflin CFO"
-        },
-        {
-          "title": "Jan Levinson",
-          "description": "Corporate VP"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        }
-      ]
-    },
-    {
-      "quote": "I'm Jo Bennett, and I don't like liars.",
-      "description": "Office • Sabre",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jan Levinson",
-          "description": "Corporate VP"
-        },
-        {
-          "title": "Jo Bennett",
-          "description": "The Office (US) character"
-        },
-        {
-          "title": "Nellie Bertram",
-          "description": "The Office (US) character"
-        }
-      ]
-    },
-    {
-      "quote": "Baler? I hardly know her!",
-      "description": "Warehouse • Safety",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Darryl Philbin",
-          "description": "Warehouse foreman"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        }
-      ]
-    },
-    {
-      "quote": "You don't even know what a write-off is!",
-      "description": "Classic Scene",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Darryl Philbin",
-          "description": "Warehouse foreman"
-        },
-        {
-          "title": "Roy Anderson",
-          "description": "The Office (US) character"
-        },
-        {
-          "title": "Lonny",
-          "description": "The Office (US) character"
-        }
-      ]
-    },
-    {
-      "quote": "I can't believe you came.",
-      "description": "Season 9 • Wedding",
-      "correct": 1,
       "options": [
         {
           "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        }
-      ]
-    },
-    {
-      "quote": "I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive...",
-      "description": "Office • Pretzel Day",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Kevin Malone",
-          "description": "Chili-loving accountant"
-        },
-        {
-          "title": "Stanley Hudson",
-          "description": "Crossword-loving salesman"
-        },
-        {
-          "title": "Oscar Martinez",
-          "description": "Detail-oriented accountant"
-        }
-      ]
-    },
-    {
-      "quote": "This is going to hurt like a motherf—",
-      "description": "Conference Room • Goodbye",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
-        }
-      ]
-    },
-    {
-      "quote": "I'm the fucking Lizard King.",
-      "description": "Classic Scene",
-      "correct": 1,
-      "options": [
-        {
-          "title": "David Wallace",
-          "description": "Dunder Mifflin CFO"
-        },
-        {
-          "title": "Robert California",
-          "description": "Enigmatic CEO"
-        },
-        {
-          "title": "Andy Bernard",
-          "description": "Cornell grad & salesman"
-        }
-      ]
-    },
-    {
-      "quote": "I talk a lot, so I've learned to just tune myself out.",
-      "description": "S7E17 • Threat Level Midnight",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Kelly Kapoor",
-          "description": "Customer Service rep"
-        },
-        {
-          "title": "Ryan Howard",
-          "description": "Temp turned corporate exec"
-        }
-      ]
-    },
-    {
-      "quote": "Whitest Sneakers Award!",
-      "description": "Chili's • Trophy",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "Receptionist & artist"
-        },
-        {
-          "title": "Roy Anderson",
-          "description": "The Office (US) character"
-        }
-      ]
-    },
-    {
-      "quote": "I just want to lie on the beach and eat hot dogs.",
-      "description": "S3E23 • Beach Games",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Kevin Malone",
-          "description": "Chili-loving accountant"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Holly Flax",
-          "description": "Quirky HR representative"
-        }
-      ]
-    },
-    {
-      "quote": "Question: Which bear is best?",
-      "description": "Desk • Cold Open",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        },
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Stanley",
-          "description": "The Office (US) character"
-        }
-      ]
-    },
-    {
-      "quote": "In the parking lot today, there was a circus!",
-      "description": "Office • Talking Head",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Andy Bernard",
-          "description": "Cornell grad & salesman"
+          "description": "The Office character"
         },
         {
           "title": "Erin Hannon",
-          "description": "Cheerful receptionist"
+          "description": "The Office character"
         },
         {
-          "title": "Holly Flax",
-          "description": "Quirky HR representative"
+          "title": "Andy Bernard",
+          "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "Hardcore parkour!",
-      "description": "Warehouse • Jumping on Boxes",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jim Halpert",
-          "description": "Prank-loving paper salesman"
-        },
-        {
-          "title": "Michael, Dwight & Andy",
-          "description": "The Office (US) character"
-        },
-        {
-          "title": "Stanley Hudson",
-          "description": "Crossword-loving salesman"
-        }
-      ]
-    },
-    {
-      "quote": "So I can lower it.",
-      "description": "Office • Talking Head",
+      "quote": "Andy, Dwight says welcome back and he could use a hug.",
+      "description": "The Office • Safety Training",
       "correct": 0,
       "options": [
         {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
           "title": "Dwight Schrute",
-          "description": "Beet farmer & top salesman"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
-        },
-        {
-          "title": "Oscar",
-          "description": "The Office (US) character"
+          "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.",
-      "description": "S6E22 • Secretary's Day",
+      "quote": "Dwight says that he actually doesn't know one single fact about bear attacks.",
+      "description": "The Office • Safety Training",
       "correct": 1,
       "options": [
         {
-          "title": "Jan Levinson",
-          "description": "Corporate VP"
+          "title": "Stanley Hudson",
+          "description": "The Office character"
         },
         {
-          "title": "Michael Scott",
-          "description": "Dunder Mifflin Regional Manager"
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "That was the moment that you knew you liked me.",
+      "description": "The Office • Launch Party",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Michael wasn't invited. Apparently they already knew everything they needed to know about him.",
+      "description": "The Office • Survivor Man",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Erin Hannon",
+          "description": "The Office character"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
         },
         {
           "title": "Pam Beesly",
-          "description": "Receptionist & artist"
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "The three words I would describe you as is aggressive, hostile and definitely difficult.",
+      "description": "The Office • Customer Survey",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "You have to fire the salesman that treated me so terribly.",
+      "description": "The Office • Customer Survey",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "You should probably just meander back there; take a look. See if he's... See if he's back.",
+      "description": "The Office • Frame Toby",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Happy holidays, Dwight. But do not open it till Christmas.",
+      "description": "The Office • Moroccan Christmas",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Five minutes actually. I am a black belt in gift wrapping.",
+      "description": "The Office • Moroccan Christmas",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "I think it'll take you a little bit longer than that.",
+      "description": "The Office • Moroccan Christmas",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, okay, okay. Why don't we just put this to a vote, and then we'll be done with it.",
+      "description": "The Office • Prince Family Paper",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah. When you're a kid, you assume your parents are soulmates. My kids are going to be right about that.",
+      "description": "The Office • Stress Relief",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "I had just woken up. I didn't look cute. That's how I knew he meant it.",
+      "description": "The Office • Cafe Disco",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Michael, we only told our parents last week.",
+      "description": "The Office • Gossip",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "You're right. We should have realized that you are an equal part in this.",
+      "description": "The Office • Gossip",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "I have the lowest sales record of anyone here.",
+      "description": "The Office • Double Date",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "I have the worst attitude of any person here.",
+      "description": "The Office • Double Date",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Bill Bourbon was my uncle. I would have never hurt him any more than I'd hurt a June bug.",
+      "description": "The Office • Murder",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "I'm having contractions, but they're irregular and far apart. So I'm not really in labor, I'm near labor.",
+      "description": "The Office • The Delivery",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, we're slow-playing it because of our stupid HMO.",
+      "description": "The Office • The Delivery",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "If we check in after midnight, I get an extra day to recuperate surrounded by doctors.",
+      "description": "The Office • The Delivery",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Nothing happened. We went on a couple of dates. He never called me again.",
+      "description": "The Office • The Sting",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "That's fizzling. I mean, someone has to start the fizzle.",
+      "description": "The Office • The Sting",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, someone's coming alright. The only man who would care: Michael Scarn.",
+      "description": "The Office • Threat Level Midnight",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Hi. I was just coming out to see what you were doing and to maybe stop you.",
+      "description": "The Office • Garage Sale",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Michael, you've had two ideas today. And one of them was great. And the other one was terrible.",
+      "description": "The Office • Garage Sale",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "So I've been meaning to tell you, I wanna take you out for lunch. For your last day.",
+      "description": "The Office • Goodbye, Michael",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Absolutely not. It's just that sometimes...goodbyes are a bitch.",
+      "description": "The Office • Goodbye, Michael",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "So this is my life. Until I win the lottery. Or Pam finally writes that series of young adult books.",
+      "description": "The Office • The Inner Circle",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "There's gotta be a better way to do this. This is literally how they built the pyramids.",
+      "description": "The Office • Lotto",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Oscar thinks that having a dog is just like having a baby.",
+      "description": "The Office • After Hours",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, great. \"Glad they didn't mix up your tonsillectomy with a moustachectomy.\" Oh, that's not good.",
+      "description": "The Office • Welcome Party",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
         }
       ]
     }

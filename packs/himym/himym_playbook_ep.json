@@ -10,952 +10,952 @@
   "quote_count": 50,
   "questions": [
     {
-      "quote": "The Scuba Diver.",
-      "description": "How I Met Your Mother • Barney's Masterpiece",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S5E08 • The Playbook",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S1E01 • Pilot",
-          "description": "How I Met Your Mother • Season 1"
-        },
-        {
-          "title": "S2E09 • Slap Bet",
-          "description": "How I Met Your Mother • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "The Lorenzo Von Matterhorn.",
-      "description": "How I Met Your Mother • Fake Wikipedia Pages",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S5E08 • The Playbook",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S3E14 • The Bracket",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S4E24 • The Leap",
-          "description": "How I Met Your Mother • Season 4"
-        }
-      ]
-    },
-    {
-      "quote": "Works two out of three times, guaranteed.",
-      "description": "How I Met Your Mother • Mitch's Move",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S5E08 • The Playbook",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S4E09 • The Naked Man",
-          "description": "How I Met Your Mother • Season 4"
-        },
-        {
-          "title": "S2E14 • Monday Night Football",
-          "description": "How I Met Your Mother • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "The Lemon Law: five minutes to decide.",
-      "description": "How I Met Your Mother • First Date Rule",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S5E08 • The Playbook",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S3E01 • Wait for It",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S1E16 • Cupcake",
-          "description": "How I Met Your Mother • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "The Bro Code: Article 1, Bros before hos.",
-      "description": "How I Met Your Mother • Barney's Sacred Text",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S3E17 • The Goat",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S2E09 • Slap Bet",
-          "description": "How I Met Your Mother • Season 2"
-        },
-        {
-          "title": "S6E13 • Bad News",
-          "description": "How I Met Your Mother • Season 6"
-        }
-      ]
-    },
-    {
-      "quote": "Let's go to the mall, today!",
-      "description": "How I Met Your Mother • Robin Sparkles Debut",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S1E01 • Pilot",
-          "description": "How I Met Your Mother • Season 1"
-        },
-        {
-          "title": "S2E09 • Slap Bet",
-          "description": "How I Met Your Mother • Season 2"
-        },
-        {
-          "title": "S3E16 • Sandcastles in the Sand",
-          "description": "How I Met Your Mother • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "If I win, you have to wear my tie for a whole year.",
-      "description": "How I Met Your Mother • Shinjitsu Teppanyaki",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S2E09 • Slap Bet",
-          "description": "How I Met Your Mother • Season 2"
-        },
-        {
-          "title": "S5E08 • The Playbook",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S7E03 • Ducky Tie",
-          "description": "How I Met Your Mother • Season 7"
-        }
-      ]
-    },
-    {
-      "quote": "Hot/Crazy Scale.",
-      "description": "How I Met Your Mother • Barney's Graph",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S3E05 • How I Met Everyone Else",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S4E01 • Do I Know You?",
-          "description": "How I Met Your Mother • Season 4"
-        },
-        {
-          "title": "S1E10 • Pineapple Incident",
-          "description": "How I Met Your Mother • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "Cheerleader Effect.",
-      "description": "How I Met Your Mother • Group Illusion",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S3E05 • How I Met Everyone Else",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S4E07 • Not a Father's Day",
-          "description": "How I Met Your Mother • Season 4"
-        },
-        {
-          "title": "S6E01 • Big Days",
-          "description": "How I Met Your Mother • Season 6"
-        }
-      ]
-    },
-    {
-      "quote": "Platinum Rule: never date anyone you see regularly.",
-      "description": "How I Met Your Mother • Eight Steps",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S1E01 • Pilot",
-          "description": "How I Met Your Mother • Season 1"
-        },
-        {
-          "title": "S5E12 • Girls Versus Suits",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S3E11 • The Platinum Rule",
-          "description": "How I Met Your Mother • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "Nothing suits me like a suit!",
-      "description": "How I Met Your Mother • Musical Number",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S5E12 • Girls Versus Suits",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S2E09 • Slap Bet",
-          "description": "How I Met Your Mother • Season 2"
-        },
-        {
-          "title": "S7E10 • Tick Tick Tick",
-          "description": "How I Met Your Mother • Season 7"
-        }
-      ]
-    },
-    {
-      "quote": "The Robin: the final play.",
-      "description": "How I Met Your Mother • WWN Rooftop",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S5E08 • The Playbook",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S8E12 • The Final Page",
-          "description": "How I Met Your Mother • Season 8"
-        },
-        {
-          "title": "S9E24 • Last Forever",
-          "description": "How I Met Your Mother • Season 9"
-        }
-      ]
-    },
-    {
-      "quote": "Weekend at Barney's.",
-      "description": "How I Met Your Mother • Controlling Dead Barney",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S5E08 • The Playbook",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S7E03 • Ducky Tie",
-          "description": "How I Met Your Mother • Season 7"
-        },
-        {
-          "title": "S8E18 • Weekend at Barney's",
-          "description": "How I Met Your Mother • Season 8"
-        }
-      ]
-    },
-    {
-      "quote": "The Mermaid Theory.",
-      "description": "How I Met Your Mother • Manatee to Mermaid",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S6E11 • The Mermaid Theory",
-          "description": "How I Met Your Mother • Season 6"
-        },
-        {
-          "title": "S4E09 • The Naked Man",
-          "description": "How I Met Your Mother • Season 4"
-        },
-        {
-          "title": "S2E09 • Slap Bet",
-          "description": "How I Met Your Mother • Season 2"
-        }
-      ]
-    },
-    {
-      "quote": "Crazy Eyes.",
-      "description": "How I Met Your Mother • Chloe at the Coffee Shop",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S3E05 • How I Met Everyone Else",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S2E07 • Swarley",
-          "description": "How I Met Your Mother • Season 2"
-        },
-        {
-          "title": "S1E10 • Pineapple Incident",
-          "description": "How I Met Your Mother • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "She's not a morning person, Ted, she's a night owl.",
-      "description": "How I Met Your Mother • Classroom",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S5E03 • Robin 101",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S5E08 • The Playbook",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S5E12 • Girls Versus Suits",
-          "description": "How I Met Your Mother • Season 5"
-        }
-      ]
-    },
-    {
-      "quote": "Jesus waited three days, and he came back!",
-      "description": "How I Met Your Mother • Texting",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S4E05 • Shelter Island",
-          "description": "How I Met Your Mother • Season 4"
-        },
-        {
-          "title": "S4E21 • The Three Days Rule",
-          "description": "How I Met Your Mother • Season 4"
-        },
-        {
-          "title": "S4E24 • The Leap",
-          "description": "How I Met Your Mother • Season 4"
-        }
-      ]
-    },
-    {
-      "quote": "You just got slapped!",
-      "description": "How I Met Your Mother • Slap Bet Commissioner",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S2E09 • Slap Bet",
-          "description": "How I Met Your Mother • Season 2"
-        },
-        {
-          "title": "S3E09 • Slapsgiving",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S5E09 • Slapsgiving 2",
-          "description": "How I Met Your Mother • Season 5"
-        }
-      ]
-    },
-    {
-      "quote": "The Ashtray! The Captain's Boats!",
-      "description": "How I Met Your Mother • Gallery",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S8E05 • The Autumn of Breakups",
-          "description": "How I Met Your Mother • Season 8"
-        },
-        {
-          "title": "S8E17 • The Ashtray",
-          "description": "How I Met Your Mother • Season 8"
-        },
-        {
-          "title": "S8E20 • The Time Travelers",
-          "description": "How I Met Your Mother • Season 8"
-        }
-      ]
-    },
-    {
-      "quote": "That's how I met your mother.",
-      "description": "How I Met Your Mother • Series Finale",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S9E16 • How Your Mother Met Me",
-          "description": "How I Met Your Mother • Season 9"
-        },
-        {
-          "title": "S9E22 • The End of the Aisle",
-          "description": "How I Met Your Mother • Season 9"
-        },
-        {
-          "title": "S9E24 • Last Forever",
-          "description": "How I Met Your Mother • Season 9"
-        }
-      ]
-    },
-    {
-      "quote": "We're going to Philadelphia!",
-      "description": "How I Met Your Mother • Airport",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S1E01 • Pilot",
-          "description": "How I Met Your Mother • Season 1"
-        },
-        {
-          "title": "S1E02 • Purple Giraffe",
-          "description": "How I Met Your Mother • Season 1"
-        },
-        {
-          "title": "S1E03 • Sweet Taste of Liberty",
-          "description": "How I Met Your Mother • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "Every couple in the group is falling apart this fall.",
-      "description": "How I Met Your Mother • Victoria & Nick",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S8E05 • The Autumn of Breakups",
-          "description": "How I Met Your Mother • Season 8"
-        },
-        {
-          "title": "S8E12 • The Final Page",
-          "description": "How I Met Your Mother • Season 8"
-        },
-        {
-          "title": "S8E20 • The Time Travelers",
-          "description": "How I Met Your Mother • Season 8"
-        }
-      ]
-    },
-    {
-      "quote": "I've been waiting ten years for this marinara payback.",
-      "description": "How I Met Your Mother • Vengeance",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S6E04 • Subway Wars",
-          "description": "How I Met Your Mother • Season 6"
-        },
-        {
-          "title": "S6E20 • The Exploding Meatball Sub",
-          "description": "How I Met Your Mother • Season 6"
-        },
-        {
-          "title": "S6E24 • Challenge Accepted",
-          "description": "How I Met Your Mother • Season 6"
-        }
-      ]
-    },
-    {
-      "quote": "Waiting for the Slutty Pumpkin.",
-      "description": "How I Met Your Mother • Halloween",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S1E04 • Return of the Shirt",
-          "description": "How I Met Your Mother • Season 1"
-        },
-        {
-          "title": "S1E05 • Okay Awesome",
-          "description": "How I Met Your Mother • Season 1"
-        },
-        {
-          "title": "S1E06 • Slutty Pumpkin",
-          "description": "How I Met Your Mother • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "Every year we watch giant machines fight guys in tights.",
-      "description": "How I Met Your Mother • Highbrow Party",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S5E10 • The Window",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S5E12 • Girls Versus Suits",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S5E22 • Robots Versus Wrestlers",
-          "description": "How I Met Your Mother • Season 5"
-        }
-      ]
-    },
-    {
-      "quote": "I don't belong here, Ted. I shouldn't have come.",
-      "description": "How I Met Your Mother • Wedding",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S4E05 • Shelter Island",
-          "description": "How I Met Your Mother • Season 4"
-        },
-        {
-          "title": "S4E01 • Do I Know You?",
-          "description": "How I Met Your Mother • Season 4"
-        },
-        {
-          "title": "S4E09 • The Naked Man",
-          "description": "How I Met Your Mother • Season 4"
-        }
-      ]
-    },
-    {
-      "quote": "Bang, bang, bangity bang!",
-      "description": "How I Met Your Mother • Rabbit or Duck",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S2E09 • Slap Bet",
-          "description": "How I Met Your Mother • Season 2"
-        },
-        {
-          "title": "S3E09 • Slapsgiving",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S5E15 • Rabbit or Duck",
-          "description": "How I Met Your Mother • Season 5"
-        }
-      ]
-    },
-    {
-      "quote": "Why is there a goat in our bathroom?",
-      "description": "How I Met Your Mother • Ted's 31st Birthday",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S4E24 • The Leap",
-          "description": "How I Met Your Mother • Season 4"
-        },
-        {
-          "title": "S3E17 • The Goat",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S1E10 • The Pineapple Incident",
-          "description": "How I Met Your Mother • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "Two Beavers Are Better Than One!",
-      "description": "How I Met Your Mother • Space Teens",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S6E09 • Glitter",
-          "description": "How I Met Your Mother • Season 6"
-        },
-        {
-          "title": "S2E09 • Slap Bet",
-          "description": "How I Met Your Mother • Season 2"
-        },
-        {
-          "title": "S3E16 • Sandcastles in the Sand",
-          "description": "How I Met Your Mother • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "The future is scary, but you can't just run back to the past because it's familiar.",
-      "description": "Spoken by Robin Scherbatsky",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S7E10 • Tick Tick Tick",
-          "description": "How I Met Your Mother • Season 7"
-        },
-        {
-          "title": "S7E12 • Symphony of Illumination",
-          "description": "How I Met Your Mother • Season 7"
-        },
-        {
-          "title": "S7E17 • No Pressure",
-          "description": "How I Met Your Mother • Season 7"
-        }
-      ]
-    },
-    {
-      "quote": "The Bracket! Sixty-four women.",
-      "description": "How I Met Your Mother • MacLaren's",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S3E05 • How I Met Everyone Else",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S3E13 • Ten Sessions",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S3E14 • The Bracket",
-          "description": "How I Met Your Mother • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "I'm having a miracle!",
-      "description": "How I Met Your Mother • Finale",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S3E20 • Miracles",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S3E17 • The Goat",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S3E19 • Everything Must Go",
-          "description": "How I Met Your Mother • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "Wait for it...",
-      "description": "How I Met Your Mother • Argentina",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S3E01 • Wait for It",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S3E05 • How I Met Everyone Else",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S3E11 • The Platinum Rule",
-          "description": "How I Met Your Mother • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "Two minutes! Ten dates in two minutes!",
-      "description": "How I Met Your Mother • Stella's Office",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S3E01 • Wait for It",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S3E13 • Ten Sessions",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S3E17 • The Goat",
-          "description": "How I Met Your Mother • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "This isn't just a race—it's about who owns New York!",
-      "description": "How I Met Your Mother • NYC Race",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S6E01 • Big Days",
-          "description": "How I Met Your Mother • Season 6"
-        },
-        {
-          "title": "S6E04 • Subway Wars",
-          "description": "How I Met Your Mother • Season 6"
-        },
-        {
-          "title": "S6E10 • Blitzgiving",
-          "description": "How I Met Your Mother • Season 6"
-        }
-      ]
-    },
-    {
-      "quote": "I even wrote a song for the occasion on the piano.",
-      "description": "How I Met Your Mother • Thanksgiving",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S2E09 • Slap Bet",
-          "description": "How I Met Your Mother • Season 2"
-        },
-        {
-          "title": "S3E09 • Slapsgiving",
-          "description": "How I Met Your Mother • Season 3"
-        },
-        {
-          "title": "S9E14 • Slapsgiving 3",
-          "description": "How I Met Your Mother • Season 9"
-        }
-      ]
-    },
-    {
-      "quote": "Sometimes our best decisions are the ones that don't make any sense at all.",
-      "description": "How I Met Your Mother • Finale",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S4E09 • The Naked Man",
-          "description": "How I Met Your Mother • Season 4"
-        },
-        {
-          "title": "S4E21 • The Three Days Rule",
-          "description": "How I Met Your Mother • Season 4"
-        },
-        {
-          "title": "S4E24 • The Leap",
-          "description": "How I Met Your Mother • Season 4"
-        }
-      ]
-    },
-    {
-      "quote": "I made it rain!",
-      "description": "How I Met Your Mother • Ted's Rain Dance",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S1E18 • Nothing Good Happens After 2 A.M.",
-          "description": "How I Met Your Mother • Season 1"
-        },
-        {
-          "title": "S1E13 • Drumroll, Please",
-          "description": "How I Met Your Mother • Season 1"
-        },
-        {
-          "title": "S1E22 • Come On",
-          "description": "How I Met Your Mother • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "I would walk 500 miles!",
-      "description": "How I Met Your Mother • Marshall's Fiero",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S1E07 • Matchmaker",
-          "description": "How I Met Your Mother • Season 1"
-        },
-        {
-          "title": "S2E17 • Arrivederci, Fiero",
-          "description": "How I Met Your Mother • Season 2"
-        },
-        {
-          "title": "S5E03 • Robin 101",
-          "description": "How I Met Your Mother • Season 5"
-        }
-      ]
-    },
-    {
-      "quote": "The window is open! Take your shot right now!",
-      "description": "How I Met Your Mother • Maggie Wilks",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S5E03 • Robin 101",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S5E10 • The Window",
-          "description": "How I Met Your Mother • Season 5"
-        },
-        {
-          "title": "S5E15 • Rabbit or Duck",
-          "description": "How I Met Your Mother • Season 5"
-        }
-      ]
-    },
-    {
-      "quote": "High six!",
-      "description": "How I Met Your Mother • MacLaren's",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S7E01 • The Best Man",
-          "description": "How I Met Your Mother • Season 7"
-        },
-        {
-          "title": "S7E10 • Tick Tick Tick",
-          "description": "How I Met Your Mother • Season 7"
-        },
-        {
-          "title": "S8E12 • The Final Page",
-          "description": "How I Met Your Mother • Season 8"
-        }
-      ]
-    },
-    {
-      "quote": "Nothing good happens after 2 A.M.",
-      "description": "Spoken by Ted Mosby",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S1E18 • Nothing Good Happens After 2 A.M.",
-          "description": "How I Met Your Mother • Season 1"
-        },
-        {
-          "title": "S1E12 • The Wedding",
-          "description": "How I Met Your Mother • Season 1"
-        },
-        {
-          "title": "S1E22 • Come On",
-          "description": "How I Met Your Mother • Season 1"
-        }
-      ]
-    },
-    {
-      "quote": "If you're not scared, you're not taking a chance, and if you're not taking a chance, then what the hell are you doing?",
-      "description": "Spoken by Ted Mosby",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S2E17 • Arrivederci, Fiero",
-          "description": "How I Met Your Mother • Season 2"
-        },
-        {
-          "title": "S4E24 • The Leap",
-          "description": "How I Met Your Mother • Season 4"
-        },
-        {
-          "title": "S3E19 • Everything Must Go",
-          "description": "How I Met Your Mother • Season 3"
-        }
-      ]
-    },
-    {
-      "quote": "If I can't put Marvin to sleep, this bus ride will never end.",
-      "description": "How I Met Your Mother • Bus",
-      "correct": 1,
-      "options": [
-        {
-          "title": "S9E01 • The Locket",
-          "description": "How I Met Your Mother • Season 9"
-        },
-        {
-          "title": "S9E11 • Bedtime Stories",
-          "description": "How I Met Your Mother • Season 9"
-        },
-        {
-          "title": "S9E14 • Slapsgiving 3",
-          "description": "How I Met Your Mother • Season 9"
-        }
-      ]
-    },
-    {
-      "quote": "Wait for it—I'm pushing the demolition button right now.",
-      "description": "How I Met Your Mother • Finale",
-      "correct": 2,
-      "options": [
-        {
-          "title": "S6E19 • Legendaddy",
-          "description": "How I Met Your Mother • Season 6"
-        },
-        {
-          "title": "S6E20 • The Exploding Meatball Sub",
-          "description": "How I Met Your Mother • Season 6"
-        },
-        {
-          "title": "S6E24 • Challenge Accepted",
-          "description": "How I Met Your Mother • Season 6"
-        }
-      ]
-    },
-    {
-      "quote": "I buried it in Central Park years ago, and now I need it back.",
-      "description": "How I Met Your Mother • Farhampton",
-      "correct": 0,
-      "options": [
-        {
-          "title": "S9E01 • The Locket",
-          "description": "How I Met Your Mother • Season 9"
-        },
-        {
-          "title": "S9E08 • The Lighthouse",
-          "description": "How I Met Your Mother • Season 9"
-        },
-        {
-          "title": "S9E16 • How Your Mother Met Me",
-          "description": "How I Met Your Mother • Season 9"
-        }
-      ]
-    },
-    {
-      "quote": "Have you met Ted?",
+      "quote": "I'm actually in a top-secret government space program, called Secret NASA, or...SNASA.",
       "description": "Spoken by Barney Stinson",
       "correct": 0,
       "options": [
         {
-          "title": "S1E01 • Pilot",
-          "description": "How I Met Your Mother • Season 1"
+          "title": "The Playbook",
+          "description": "How I Met Your Mother episode"
         },
         {
-          "title": "S1E02 • Purple Giraffe",
-          "description": "How I Met Your Mother • Season 1"
+          "title": "The Perfect Cocktail",
+          "description": "How I Met Your Mother episode"
         },
         {
-          "title": "S1E03 • Sweet Taste of Liberty",
-          "description": "How I Met Your Mother • Season 1"
+          "title": "Game Night",
+          "description": "How I Met Your Mother episode"
         }
       ]
     },
     {
-      "quote": "You're tearing down a landmark just to build a bank!",
-      "description": "How I Met Your Mother • Zoey",
-      "correct": 2,
+      "quote": "Well, not the moon you're familiar with, though I've been to﻿ the... Smoon.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
       "options": [
         {
-          "title": "S6E04 • Subway Wars",
-          "description": "How I Met Your Mother • Season 6"
+          "title": "Murtaugh",
+          "description": "How I Met Your Mother episode"
         },
         {
-          "title": "S6E11 • The Mermaid Theory",
-          "description": "How I Met Your Mother • Season 6"
+          "title": "The Playbook",
+          "description": "How I Met Your Mother episode"
         },
         {
-          "title": "S6E05 • Architect of Destruction",
-          "description": "How I Met Your Mother • Season 6"
+          "title": "Matchmaker",
+          "description": "How I Met Your Mother episode"
         }
       ]
     },
     {
-      "quote": "Something New! One ticket to Farhampton.",
-      "description": "How I Met Your Mother • Finale",
-      "correct": 2,
+      "quote": "Oh, I once pulled the Soul Man. There was this beautiful girl who only dated black guys-",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
       "options": [
         {
-          "title": "S8E12 • The Final Page",
-          "description": "How I Met Your Mother • Season 8"
+          "title": "Jenkins",
+          "description": "How I Met Your Mother episode"
         },
         {
-          "title": "S8E20 • The Time Travelers",
-          "description": "How I Met Your Mother • Season 8"
+          "title": "The Naked Truth",
+          "description": "How I Met Your Mother episode"
         },
         {
-          "title": "S8E24 • Something New",
-          "description": "How I Met Your Mother • Season 8"
+          "title": "The Pre-Nup",
+          "description": "How I Met Your Mother episode"
         }
       ]
     },
     {
-      "quote": "You're a really good friend, Ted.",
-      "description": "How I Met Your Mother • Minnesota",
+      "quote": "And now to seal this sacred vow, the two ladies will kiss.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Broath",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Tailgate",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Mom and Dad",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Correct! Circle gets the square!",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Lobster Crawl",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Playbook",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Matchmaker",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "And now the gentlemen! I was going to say \"And now the gentlemen bump fists.\" How long you been holding back that one?",
+      "description": "Spoken by Barney Stinson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Broath",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Tick, Tick, Tick...",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Canning Randy",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Robin I swear, nothing happened.",
+      "description": "Spoken by Barney Stinson",
       "correct": 2,
       "options": [
         {
-          "title": "S6E13 • Bad News",
-          "description": "How I Met Your Mother • Season 6"
+          "title": "The Burning Beekeeper",
+          "description": "How I Met Your Mother episode"
         },
         {
-          "title": "S6E10 • Blitzgiving",
-          "description": "How I Met Your Mother • Season 6"
+          "title": "Shelter Island",
+          "description": "How I Met Your Mother episode"
         },
         {
-          "title": "S6E14 • Last Words",
-          "description": "How I Met Your Mother • Season 6"
+          "title": "The Bro Mitzvah",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Wear a wrinkled suit and not give a damn about what you hair looked like?",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Hopeless",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Robots Versus Wrestlers",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Perfect Cocktail",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's the only court where you show up, then get served!",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Milk",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Twelve Horny Women",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Landmarks",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "You...you're 29?! You still have one good year left -",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Band or DJ?",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Best Burger in New York",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Field Trip",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "I want Scotch...American Scotch, from Scotland! Just get that swill away from me! Why are you doing this to me?",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spoiler Alert",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Slutty Pumpkin Returns",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Challenge Accepted",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's what we both want. Why else are we rushing to tell them what we did - on a boat? That is a terrible idea.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Poker Game",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Tick, Tick, Tick...",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Playbook",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Come on Robin, it's my penis we're talkin' about! You've seen her, she's magnificent!",
+      "description": "Spoken by Barney Stinson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Burning Beekeeper",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Splitsville",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "We're Not From Here",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "I took the Drunk Train. I got stuck out here, oh God I'm so hung over... Oh God, Lily, not wearing a bra!!!",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Last Time in New York",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Nothing Good Happens After 2 A.M.",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "No Pressure",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's mine. Did you have to replace the luggage too?",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Big Days",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Home Wreckers",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Part II",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Turn it over. Robin Scherbatsky, will you marry me?",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Slutty Pumpkin Returns",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Perfect Week",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Part II",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Nice, high-five No, NO!!!! Retraction Five!",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Shelter Island",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Purple Giraffe",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Ring Up!",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "I want to win. What am I doing? In less than 20 minutes, Robin and I could be-",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Bro Mitzvah",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Wedding Bride",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Platonish",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "You’re moving to Chicago? Is that even a real place? It’s a style of pizza. Ted, you can’t live in pizza.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Bass Player Wanted",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Of Course",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Slutty Pumpkin Returns",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "When I think about going for anything more than that, I look at my life and who I am. I'm too far gone. I'm broken.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Hopeless",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Purple Giraffe",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Desperation Day",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Of course not. Because now you're saying \"nipple\", and it's a hundred. Step into my web.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Trilogy Time",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Slutty Pumpkin",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Return of the Shirt",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh yeah, I bet even Cro-Magnons used to give cave hookers an extra fish for putting out.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "No Questions Asked",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Mary the Paralegal",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Slap Bet",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Mmm, normally a prerequisite for the women I bring home, but pass.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Belly Full of Turkey",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "I'm Not That Guy",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "World's Greatest Couple",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "It was a memorable safari. I can't wait to show you the slides",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Part I",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Murtaugh",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Aldrin Justice",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "So trust me, you want to postpone knowing anything about each other for as long as possible.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Lighthouse",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Slap Bet",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Ring Up!",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "OK, then, like, how... like getting your chest waxed.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Single Stamina",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Coming Back",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Perfect Week",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "I don't kiss your mother with my mouth. Yet...",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Come On",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Sorry, Bro",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "How Lily Stole Christmas",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Suits are full of joy. They're the sartorial equivalent of a baby's smile.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Broken Code",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Slapsgiving 3: Slappointment in Slapmarra",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Monday Night Football",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "If Ted hadn't been a jerk and given it back.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Old King Clancy",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Definitions",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Moving Day",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not telling you how many pages my list has. I'm not crass.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Not A Father's Day",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Something Borrowed",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Slutty Pumpkin",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's all gonna return to masticate you in the glutials. Support my hypothesis, Ted.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mom and Dad",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Last Cigarette Ever",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "We're Not From Here",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Got it. Lance Hardwood, Sex Architect starring Ted Mosby.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Hopeless",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "I'm Not That Guy",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Desperation Day",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "You'll notice I'm in the credits. I did some location scouting.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Mosbius Designs",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "I'm Not That Guy",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Drumroll, Please",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Single, recently single, recently divorced, lesbian who will let me watch.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ring Up!",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Bracket",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Noretta",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Excuse me. I've seen \"Let's Go to the Mall\" about a thousand times, and, you, sir, are not in it.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Bro Mitzvah",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Sandcastles In The Sand",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "As Fast As She Can",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "If I can land just one of these girls, I'll have Party School Bingo.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Slapsgiving",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Three Days of Snow",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Swarley",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "You are now, because I explained it to you.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Leap",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Perfect Week",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Architect of Destruction",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "And Robin's more than awesome. She's awe-some-more. She's even awe-quite-a-lot.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Girls Versus Suits",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Definitions",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Stinson Missile Crisis",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Ted, that girl had no intention of ever hooking up with you.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Possimpible",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Cleaning House",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Sexless Innkeeper",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Mint on the pillow, Ted, and don't charge for WiFi, it seems greedy.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Best Burger in New York",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Sexless Innkeeper",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Mosbius Designs",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Well, now, I am the best at relationships. Even better than you and Lily.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Pineapple Incident",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Leap",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Bagpipes",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Stop that, I'm serious. Ask me for anything.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Sexless Innkeeper",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Of Course",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Okay Awesome",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "She's not going on this superdate, Robin. You are.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Of Course",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Milk",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Tick, Tick, Tick...",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "I always look drop dead, stone-cold amazing...unlike Marshall, who just looks dead, stoned, and cold.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Say Cheese",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Come On",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Stinson Missile Crisis",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "A lie is just a great story that someone ruined with the truth.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Zoo or False",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Wedding Bride",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Of Course",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Okay wait. How about this we share her. I'll take her until she's forty and you can have her after that.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Pilot",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Miracles",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Twin Beds",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "You're right. I'm gonna go to the bathroom and then skid out.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Slapsgiving 3: Slappointment in Slapmarra",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Landmarks",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Twin Beds",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Of course, of course. Sundress, by the way.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Big Days",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Bachelor Party",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Spoiler Alert",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah. The first three barely mention the intricacies of intergalactic trade law.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sweet Taste of Liberty",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Architect of Destruction",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Life Among the Gorillas",
+          "description": "How I Met Your Mother episode"
+        }
+      ]
+    },
+    {
+      "quote": "Axl's really matured as a songwriter, Ted.",
+      "description": "Spoken by Barney Stinson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Architect of Destruction",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "The Exploding Meatball Sub",
+          "description": "How I Met Your Mother episode"
+        },
+        {
+          "title": "Say Cheese",
+          "description": "How I Met Your Mother episode"
         }
       ]
     }

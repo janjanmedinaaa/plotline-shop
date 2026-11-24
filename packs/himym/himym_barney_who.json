@@ -10,952 +10,952 @@
   "quote_count": 50,
   "questions": [
     {
-      "quote": "Suit up!",
-      "description": "Classic Scene",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        }
-      ]
-    },
-    {
-      "quote": "It's gonna be legen—wait for it—dary!",
-      "description": "Season 1 • Night Out in NYC",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        }
-      ]
-    },
-    {
-      "quote": "Challenge accepted!",
-      "description": "MacLaren's Pub • Dare Accepted",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        }
-      ]
-    },
-    {
-      "quote": "Have you met Ted?",
-      "description": "MacLaren's Bar • Wingman Move",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        }
-      ]
-    },
-    {
-      "quote": "Nothing good happens after 2 A.M.",
-      "description": "Season 1 • Late Night Lesson",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        }
-      ]
-    },
-    {
-      "quote": "You son of a beetch!",
-      "description": "Classic Scene",
+      "quote": "Is she hot? Because then I can cross \"harp player\" off my list.",
+      "description": "How I Met Your Mother • Something Borrowed",
       "correct": 2,
       "options": [
         {
           "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        }
-      ]
-    },
-    {
-      "quote": "Lawyered!",
-      "description": "Apartment 4A • Winning an Argument",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        }
-      ]
-    },
-    {
-      "quote": "Nobody asked you, Patrice!",
-      "description": "World Wide News • Office Rant",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        }
-      ]
-    },
-    {
-      "quote": "True story.",
-      "description": "MacLaren's Booth • Tall Tale",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        }
-      ]
-    },
-    {
-      "quote": "Pulling. Them. Off.",
-      "description": "Apartment 4A • Red Cowboy Boots",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        }
-      ]
-    },
-    {
-      "quote": "Where's the poop, Robin?",
-      "description": "Classic Scene",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        }
-      ]
-    },
-    {
-      "quote": "I'm awesome. Ask anyone.",
-      "description": "Season 2 • Laser Tag",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        }
-      ]
-    },
-    {
-      "quote": "Boats! Boats! Boats!",
-      "description": "Classic Scene",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        },
-        {
-          "title": "Becky",
-          "description": "Morning show co-host"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        }
-      ]
-    },
-    {
-      "quote": "Swarley!",
-      "description": "Coffee Shop • Wrong Cup Name",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        }
-      ]
-    },
-    {
-      "quote": "Major Pleasure!",
-      "description": "MacLaren's • Military Rank Joke",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        }
-      ]
-    },
-    {
-      "quote": "Whatever you do in this life, it's not legendary unless your friends are there to see it.",
-      "description": "Classic Scene",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        }
-      ]
-    },
-    {
-      "quote": "You're dead to me.",
-      "description": "Apartment 4A • The Look",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        }
-      ]
-    },
-    {
-      "quote": "You're my best friend, Marshall.",
-      "description": "Apartment 4A • Couch",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        }
-      ]
-    },
-    {
-      "quote": "Gouda!",
-      "description": "Classic Scene",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        }
-      ]
-    },
-    {
-      "quote": "Lilypad and Marshmallow.",
-      "description": "Apartment 4A • Couple Nicknames",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna eat a sandwich.",
-      "description": "College • Wesleyan Dorm",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        }
-      ]
-    },
-    {
-      "quote": "No, I'm Ted's best friend!",
-      "description": "Apartment 4A • Argument",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Carl",
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Ranjit",
-          "description": "Neighborhood limo driver"
-        }
-      ]
-    },
-    {
-      "quote": "We're gonna be okay.",
-      "description": "Season 8 • Porch",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
           "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Ranjit",
-          "description": "Neighborhood limo driver"
-        }
-      ]
-    },
-    {
-      "quote": "Let's go to the mall!",
-      "description": "1990s Music Video • Canada",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        },
-        {
-          "title": "Jessica Glitter",
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        }
-      ]
-    },
-    {
-      "quote": "That's a huge mistake!",
-      "description": "Season 2 • San Francisco",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        }
-      ]
-    },
-    {
-      "quote": "Thank you, Linus.",
-      "description": "Season 9 • Farhampton Bar",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        }
-      ]
-    },
-    {
-      "quote": "Love doesn't make sense. You can't logic your way into or out of it.",
-      "description": "Season 9 • Beach",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
           "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        }
-      ]
-    },
-    {
-      "quote": "But um...",
-      "description": "Morning Show • Drinking Game",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        },
-        {
-          "title": "Becky",
-          "description": "Morning show co-host"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        }
-      ]
-    },
-    {
-      "quote": "Wait, I'm the Blitz?",
-      "description": "Apartment 4A • Thanksgiving",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Steve Henry",
           "description": "How I Met Your Mother character"
         }
       ]
     },
     {
-      "quote": "Hello!",
-      "description": "Limousine • Whenever the Gang Needs a Ride",
-      "correct": 2,
+      "quote": "Are you saying you don't want to be bros anymore?",
+      "description": "How I Met Your Mother • The Goat",
+      "correct": 0,
       "options": [
         {
           "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
+          "description": "How I Met Your Mother character"
         },
         {
-          "title": "Carl the Bartender",
-          "description": "MacLaren's Pub bartender"
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
         },
         {
-          "title": "Ranjit",
-          "description": "Neighborhood limo driver"
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
         }
       ]
     },
     {
-      "quote": "No-can-dosville, babydoll!",
-      "description": "Movie Theater • Jed Mosely",
+      "quote": "The future! And I can prove it! In exactly four seconds, the woman at that booth is going to slap that man.",
+      "description": "How I Met Your Mother • Intervention",
       "correct": 1,
       "options": [
         {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Jed Mosely",
+          "title": "Robin Scherbatsky",
           "description": "How I Met Your Mother character"
         },
         {
           "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        }
-      ]
-    },
-    {
-      "quote": "Actually, it's pronounced 'encyclopaedia'.",
-      "description": "Season 5 • Dinner Party",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a Minnesota Viking!",
-      "description": "Season 4 • Little Minnesota",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        }
-      ]
-    },
-    {
-      "quote": "Look around, Ted. You're all alone.",
-      "description": "Season 8 • MacLaren's",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        }
-      ]
-    },
-    {
-      "quote": "Chameleon.",
-      "description": "Season 6 • Zoo or False",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        }
-      ]
-    },
-    {
-      "quote": "Sometimes even if you know how something's gonna end, that doesn't mean you can't enjoy the ride.",
-      "description": "Season 2 • Closing",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a big fan of the Olive Theory.",
-      "description": "Season 1 • MacLaren's",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        }
-      ]
-    },
-    {
-      "quote": "I'm not a morning person.",
-      "description": "Metro News 1 • 4 A.M. Shift",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        }
-      ]
-    },
-    {
-      "quote": "The future is scary, but you can't just run back to the past because it's familiar.",
-      "description": "S7E17 • No Pressure",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        }
-      ]
-    },
-    {
-      "quote": "Make adjustments, go get it energized!",
-      "description": "MacLaren's • Motivational",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        }
-      ]
-    },
-    {
-      "quote": "Gouda? Don't sleep on the gouda.",
-      "description": "Season 5 • Cheese Party",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        }
-      ]
-    },
-    {
-      "quote": "I think I'm in love with you.",
-      "description": "Season 1 • First Date",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        }
-      ]
-    },
-    {
-      "quote": "You're the love of my life. Everything I have and everything I am is yours.",
-      "description": "Season 9 • Altar",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        }
-      ]
-    },
-    {
-      "quote": "Look, you can't design your life like a building. It doesn't work that way. You just have to live it, and it'll design itself.",
-      "description": "S4E24 • The Leap",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "Kindergarten teacher & artist"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna win you back!",
-      "description": "Season 2 • Apartment",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        }
-      ]
-    },
-    {
-      "quote": "I'm not ready for this.",
-      "description": "Season 6 • Outside MacLaren's",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        }
-      ]
-    },
-    {
-      "quote": "You see, kids, right from the moment I met your mom I knew: I have to love this woman as much as I can.",
-      "description": "S9E24 • Last Forever",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
-        }
-      ]
-    },
-    {
-      "quote": "I love a Scotch that's old enough to order its own Scotch.",
-      "description": "S4E03 • I Heart NJ",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Robin Scherbatsky",
-          "description": "Canadian news anchor"
-        },
-        {
-          "title": "Victoria",
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Tracy McConnell",
-          "description": "Bass player with yellow umbrella"
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
         }
       ]
     },
     {
-      "quote": "If you're not scared, you're not taking a chance, and if you're not taking a chance, then what the hell are you doing?",
-      "description": "S4E24 • The Leap",
-      "correct": 2,
+      "quote": "Te-ed, no! You never break up a girl fight! NEVER!!",
+      "description": "How I Met Your Mother • Intervention",
+      "correct": 1,
       "options": [
         {
-          "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
         },
         {
           "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
+          "description": "How I Met Your Mother character"
         },
         {
           "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
+          "description": "How I Met Your Mother character"
         }
       ]
     },
     {
-      "quote": "Whenever I'm sad, I stop being sad and be awesome instead. True story.",
-      "description": "S2E01 • Where Were We?",
+      "quote": "It was legen&mdash;wait for it&mdash;ds of the Fall! Legends of the Fall! It was OK.",
+      "description": "How I Met Your Mother • The Rough Patch",
       "correct": 2,
       "options": [
         {
           "title": "Ted Mosby",
-          "description": "Architect & hopeless romantic"
+          "description": "How I Met Your Mother character"
         },
         {
           "title": "Marshall Eriksen",
-          "description": "Columbia Law grad from Minnesota"
+          "description": "How I Met Your Mother character"
         },
         {
           "title": "Barney Stinson",
-          "description": "Suit-wearing Playbook author"
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah. That moment when you find out that one detail about a person that is going to be a deal-breaker.",
+      "description": "How I Met Your Mother • Slap Bet",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Good. That way I can cross two things off my list.",
+      "description": "How I Met Your Mother • Something Borrowed",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah. And I broke it. I'm sorry. But, Ted, seriously, this suite at the Bellagio...",
+      "description": "How I Met Your Mother • The Goat",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "And right by St. Valentine's side was his best bro, St. Desperatius, there to pick off insecure bridesmaids.",
+      "description": "How I Met Your Mother • Desperation Day",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, that's it bro, we're turning off our phones for one hour.",
+      "description": "How I Met Your Mother • Good Crazy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "If any of those mammals go rogue, our wedding's gonna be Legendary.",
+      "description": "How I Met Your Mother • The Locket",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "I've got you. I don't have to wait for it anymore.",
+      "description": "How I Met Your Mother • The Locket",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "He left the Cavs three years ago, bro, give it up, move on.",
+      "description": "How I Met Your Mother • Bedtime Stories",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "We're all connected in Gaia's great tapestry of... (clears throat) No. We don't. Bro.",
+      "description": "How I Met Your Mother • Unpause",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Damn! ...You wanna get a soft pretzel?",
+      "description": "How I Met Your Mother • Zip, Zip, Zip",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Enough to take this slap for me?",
+      "description": "How I Met Your Mother • Slapsgiving 3: Slappointment in Slapmarra",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Do you ever go behind the rope and touch it?",
+      "description": "How I Met Your Mother • Sweet Taste of Liberty",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Do you ever like, stick your head inside it?",
+      "description": "How I Met Your Mother • Sweet Taste of Liberty",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Did the horizontal, ten-legged, interspecies cha-cha?",
+      "description": "How I Met Your Mother • Matchmaker",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, so? Hey! That's my private personal business!",
+      "description": "How I Met Your Mother • Belly Full of Turkey",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "I was unfairly punished because the wall belonged to the judge's church!",
+      "description": "How I Met Your Mother • Belly Full of Turkey",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "I peed in an alley which happened to have a church which I did not see because I was drunk!",
+      "description": "How I Met Your Mother • Belly Full of Turkey",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Then why, when we said \"Hey, Moby\" did you come over here?",
+      "description": "How I Met Your Mother • The Limo",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "B-plus?!? Marshall, after I've gone though my eight weeks of physical therapy, I'm going to get you that A!",
+      "description": "How I Met Your Mother • Aldrin Justice",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Is it sick to find maturity and experience sexy?",
+      "description": "How I Met Your Mother • How Lily Stole Christmas",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh yes, Robin, I just love \"newdart\"...”nude art\". \"Nude art\"!",
+      "description": "How I Met Your Mother • Columns",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "What does this mean? Marshall? No... NOOOOOOOOO!",
+      "description": "How I Met Your Mother • Wait For It",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, check it out. We're in the last 20 seconds of Marshall's countdown to nothing!",
+      "description": "How I Met Your Mother • Slapsgiving",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "How does it feel, Marshall? To sit there impotently, your large, flaccid hand just dangling in the wind?",
+      "description": "How I Met Your Mother • Slapsgiving",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "No, actually, it's this guy I know who lives in something called the mirror. What up?",
+      "description": "How I Met Your Mother • Sandcastles In The Sand",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Guess who nailed the chick from Metro News One last night?",
+      "description": "How I Met Your Mother • The Goat",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Weird meat, funny music, side of rice. Why are we splitting hairs?",
+      "description": "How I Met Your Mother • The Best Burger in New York",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Ted, I have to tell you the truth. I’m in love with tacos. What are you doing?",
+      "description": "How I Met Your Mother • Benefits",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, Eriksen, please sir, can I have some more...pants?",
+      "description": "How I Met Your Mother • Sorry, Bro",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Whoa whoa, settle down. Let's just settle down! I have one question: What do these bad boys feel like in bed?",
+      "description": "How I Met Your Mother • The Front Porch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, but Ted, remember that that was your answer, because... the suit is Robin. I know! Right?",
+      "description": "How I Met Your Mother • The Leap",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "I'll tell you what the big deal is. You know how I have always been best at being single?",
+      "description": "How I Met Your Mother • Bagpipes",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Drop the act, baby doll, daddy needs a- Wait, whaaat?",
+      "description": "How I Met Your Mother • Girls Versus Suits",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Just for the record, having a baby? Huge mistake. Now show me what you've got.",
+      "description": "How I Met Your Mother • Doppelgangers",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "I'm sorry, I'll let you work... But first, a riddle. What piece of women's attire, most stokes a man's desire?",
+      "description": "How I Met Your Mother • Big Days",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Correct! What lightweight outfit, pink or white, makes the front of my slacks abnormally tight?",
+      "description": "How I Met Your Mother • Big Days",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Who's gonna represent you? Dibs-on-Marshall's-my-lawyer!",
+      "description": "How I Met Your Mother • Big Days",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "I don't wanna do anything. Don't tell anyone about this, okay?",
+      "description": "How I Met Your Mother • Natural History",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, for what it's worth, I'm not easily shocked...unless you dump water on me, 'cause I'm ... what is it?",
+      "description": "How I Met Your Mother • A Change of Heart",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "You're lame, okay? You're just some lame, suburban dad.",
+      "description": "How I Met Your Mother • Legendaddy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Because if you were gonna be some lame, suburban dad, why couldn't you have been that for me?!",
+      "description": "How I Met Your Mother • Legendaddy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Thank you Marshall. Marshall, can I ask for one final favor, my friend?",
+      "description": "How I Met Your Mother • The Exploding Meatball Sub",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "No, Was wasn't where Where was. Was was where Wrong was, right?",
+      "description": "How I Met Your Mother • Hopeless",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Hey there, Darling … how you doing? … is this your sister? … Beautiful!",
+      "description": "How I Met Your Mother • The Perfect Cocktail",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Do you know what I had to go through to get you that job?",
+      "description": "How I Met Your Mother • The Perfect Cocktail",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
         }
       ]
     }

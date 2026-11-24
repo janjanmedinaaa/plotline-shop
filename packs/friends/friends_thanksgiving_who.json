@@ -10,952 +10,952 @@
   "quote_count": 50,
   "questions": [
     {
-      "quote": "The Geller Cup!",
-      "description": "Season 3 • Football Field",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        }
-      ]
-    },
-    {
-      "quote": "I'm a little bit country!",
-      "description": "Season 3 • Touch Football",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Quirky masseuse & musician"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        }
-      ]
-    },
-    {
-      "quote": "I got a turkey on my head!",
-      "description": "Season 5 • Flashback",
+      "quote": "So, is everyone else working on Christmas Eve, too?",
+      "description": "Friends • The One with Christmas in Tulsa",
       "correct": 2,
       "options": [
         {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        },
-        {
           "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "You're so great, I love you!",
-      "description": "Season 5 • Turkey Head",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        }
-      ]
-    },
-    {
-      "quote": "More turkey, Mr. Chandler?",
-      "description": "Season 5 • 1992",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "I hate Thanksgiving!",
-      "description": "Every Thanksgiving • Couch",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "I'm curvy and I like it!",
-      "description": "Season 7 • Turkey Pants",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "Wait, you're not gonna eat the whole turkey?",
-      "description": "Season 8 • Dining Table",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        }
-      ]
-    },
-    {
-      "quote": "I'm in the 'I Hate Rachel' club!",
-      "description": "Season 8 • Living Room",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Will Colbert",
-          "description": "Friends character"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        }
-      ]
-    },
-    {
-      "quote": "My two greatest enemies: Rachel Green and complex carbohydrates.",
-      "description": "Season 8 • Thanksgiving",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Will Colbert",
           "description": "Friends character"
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "We're late! The floating heads!",
-      "description": "Season 10 • Hallway Door",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "CONGRATULATIONS!",
-      "description": "Season 10 • Phone Call",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        }
-      ]
-    },
-    {
-      "quote": "I'm the Holiday Armadillo!",
-      "description": "Season 7 • Living Room",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "My favorite part was when Superman flew all the Jews out of Egypt.",
-      "description": "Season 7 • Living Room",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "Happy Hanukkah, Ben!",
-      "description": "Season 7 • Apartment",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        }
-      ]
-    },
-    {
-      "quote": "I too am a neat guy.",
-      "description": "Season 6 • Mirror",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Paul Stevens",
           "description": "Friends character"
         },
         {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna be a dinosaur!",
-      "description": "Season 1 • Museum",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Ben Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "Paper! Snow! A ghost!",
-      "description": "Season 6 • Pyramid Game Show",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        }
-      ]
-    },
-    {
-      "quote": "I'm fine! I'm totally fine!",
-      "description": "Season 10 • Making Fajitas",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "Something is wrong with the left phalange!",
-      "description": "Season 10 • Plane",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Quirky masseuse & musician"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna buy you a giant boat!",
-      "description": "Season 3 • Mansion",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Richard Burke",
-          "description": "Ophthalmologist & family friend"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Pete Becker",
+          "title": "Monica Geller",
           "description": "Friends character"
         }
       ]
     },
     {
-      "quote": "I'm a neat guy.",
-      "description": "Season 6 • Elizabeth's Dad",
-      "correct": 0,
+      "quote": "Who's Wendy? That sounds like a girl's name.",
+      "description": "Friends • The One with Christmas in Tulsa",
+      "correct": 2,
       "options": [
         {
           "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Paul Stevens",
           "description": "Friends character"
         },
         {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        }
-      ]
-    },
-    {
-      "quote": "It's a moo point. It's like a cow's opinion.",
-      "description": "Season 7 • Central Perk",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        }
-      ]
-    },
-    {
-      "quote": "Could I BE wearing any more clothes?",
-      "description": "Classic Scene",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        }
-      ]
-    },
-    {
-      "quote": "It's not my fault! I'm a twin!",
-      "description": "Season 6 • Ursula",
-      "correct": 0,
-      "options": [
-        {
           "title": "Phoebe Buffay",
-          "description": "Quirky masseuse & musician"
-        },
-        {
-          "title": "Ursula Buffay",
           "description": "Friends character"
         },
         {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "The fridge broke, so I had to eat everything.",
-      "description": "Apartment 19 • Kitchen",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        }
-      ]
-    },
-    {
-      "quote": "You're making too much noise.",
-      "description": "Apartment Below • Broomstick",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Gunther",
-          "description": "Central Perk manager"
-        },
-        {
-          "title": "Janice",
-          "description": "Friends character"
-        },
-        {
-          "title": "Mr. Heckles",
-          "description": "Grumpy downstairs neighbor"
-        }
-      ]
-    },
-    {
-      "quote": "Wait, where?",
-      "description": "Season 10 • Last Line",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        }
-      ]
-    },
-    {
-      "quote": "They're not coming on, man! And the lotion and the powder have made a paste!",
-      "description": "Season 5 • Bathroom",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        }
-      ]
-    },
-    {
-      "quote": "I'm not great at the advice. Can I interest you in a sarcastic comment?",
-      "description": "Central Perk • Couch",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
           "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        }
-      ]
-    },
-    {
-      "quote": "Princess Consuela Banana-Hammock.",
-      "description": "Season 10 • Name Change",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Quirky masseuse & musician"
-        },
-        {
-          "title": "Mike Hannigan",
-          "description": "Pianist & Phoebe's husband"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        }
-      ]
-    },
-    {
-      "quote": "I'm Crap Bag.",
-      "description": "Season 10 • Central Perk",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Gunther",
-          "description": "Central Perk manager"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Mike Hannigan",
-          "description": "Pianist & Phoebe's husband"
-        }
-      ]
-    },
-    {
-      "quote": "I wish I could, but I don't want to.",
-      "description": "Season 1 • Central Perk",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Quirky masseuse & musician"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "Ichiban! Lipstick for men!",
-      "description": "Season 10 • Commercial",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        }
-      ]
-    },
-    {
-      "quote": "Hi, I'm Chandler. I make jokes when I'm uncomfortable.",
-      "description": "Central Perk • Awkward Silence",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        }
-      ]
-    },
-    {
-      "quote": "Look at me! I'm Chandler! Could I BE wearing any more clothes?",
-      "description": "Apartment 20 • Lunges",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        }
-      ]
-    },
-    {
-      "quote": "He's a transponster!",
-      "description": "Season 4 • Quiz",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Quirky masseuse & musician"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        }
-      ]
-    },
-    {
-      "quote": "There's a reason why girls don't do this!",
-      "description": "Season 6 • Proposal",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        }
-      ]
-    },
-    {
-      "quote": "They don't know that we know they know we know!",
-      "description": "Season 5 • Ugly Naked Guy's",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Quirky masseuse & musician"
-        }
-      ]
-    },
-    {
-      "quote": "Rachel, would you like to go to dinner with me?",
-      "description": "Central Perk • Counter",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Gunther",
-          "description": "Central Perk manager"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "Did you confuse it with your own turkey sandwich with a Moist Maker?",
-      "description": "Season 5 • Dr. Ledbetter's Office",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Quirky masseuse & musician"
-        }
-      ]
-    },
-    {
-      "quote": "I'm gonna miss you guys.",
-      "description": "Season 10 • Empty Apartment",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Quirky masseuse & musician"
-        }
-      ]
-    },
-    {
-      "quote": "Rachel, I love you. That's all.",
-      "description": "Season 10 • Central Perk",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Gunther",
-          "description": "Central Perk manager"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        }
-      ]
-    },
-    {
-      "quote": "I'm wonderfully weird!",
-      "description": "Season 9 • Mike's Parents",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Quirky masseuse & musician"
-        }
-      ]
-    },
-    {
-      "quote": "You're a wonderful mother.",
-      "description": "Season 8 • Hospital",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Paleontologist & professor"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        }
-      ]
-    },
-    {
-      "quote": "You're a shoe! You're a shoe! You're a shoe!",
-      "description": "Season 1 • Phone Call",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Quirky masseuse & musician"
-        }
-      ]
-    },
-    {
-      "quote": "See? He's her lobster.",
-      "description": "S2E14 • The One with the Prom Video",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Quirky masseuse & musician"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
-        }
-      ]
-    },
-    {
-      "quote": "Well, maybe I don't need your money. Wait, wait, I said maybe!",
-      "description": "S1E01 • The One Where Monica Gets a Roommate",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Fashion executive"
-        }
-      ]
-    },
-    {
-      "quote": "Welcome to my world!",
-      "description": "Season 4 • London",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Janice",
-          "description": "Friends character"
-        },
-        {
-          "title": "Gunther",
-          "description": "Central Perk manager"
-        },
-        {
-          "title": "Emily Waltham",
           "description": "Friends character"
         }
       ]
     },
     {
-      "quote": "Welcome to the real world. It sucks. You're gonna love it.",
-      "description": "Friends • Classic Scene",
+      "quote": "You're alone in the same room as the second prettiest girl in Oklahoma?",
+      "description": "Friends • The One with Christmas in Tulsa",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "We don't feel we can host Thanksgiving this year.",
+      "description": "Friends • The One with the Late Thanksgiving",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Don't you put words in people's mouths. You put turkey in people's mouths.",
+      "description": "Friends • The One with the Late Thanksgiving",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Ah, well, the, uh, Pennsylvania Dutch come from Pennsylvania.",
+      "description": "Friends • The One with the Football",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh. I should be thankful for the wonderful fall we've been having.",
+      "description": "Friends • The One with All the Thanksgivings",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, sorry doesn't bring back the little piggy that cried all the way home.",
+      "description": "Friends • The One with All the Thanksgivings",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "She's putting words in your mouth!",
+      "description": "Friends • The One with the Late Thanksgiving",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Did your dad ever dress up as Santa?",
+      "description": "Friends • The One with the Holiday Armadillo",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah... sure... I'm... devastated, obviously!... Did you think the neighborhood was homey?",
+      "description": "Friends • The One Where Chandler Gets Caught",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Do you guys have to go to the new house right away or do you have some time?",
+      "description": "Friends • Part 2",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, you only had a year! We only hung out every night!",
+      "description": "Friends • The One Where Ross Finds Out",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "There was one Italian guy! Do you have a point?!",
+      "description": "Friends • The One Where Ross Finds Out",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "So are you just going to put away feelings or whatever the hell it was you felt for me?!",
+      "description": "Friends • The One Where Ross Finds Out",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Sorry! I feel bad about all that sleep you'll miss wishing you were with me!",
+      "description": "Friends • The One with the Jellyfish",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, no, no, no, don't worry about me \"falling asleep.\" I STILL HAVE YOUR LETTER!",
+      "description": "Friends • The One with the Jellyfish",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "And, hey, just so you know — it's not that common, it doesn't happen to every guy, and it is a big deal!",
+      "description": "Friends • The One with the Jellyfish",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "I've always wanted to go to this culinary fair in Jersey!",
+      "description": "Friends • The One with the Kips",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh he's nice. He's nice! Y'know, you always stick up for the people we fog!",
+      "description": "Friends • The One with the Yeti",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Do you really think the best reason to get married is because you're sorry?",
+      "description": "Friends • The One with the Girl Who Hits Joey",
       "correct": 1,
       "options": [
         {
           "title": "Joey Tribbiani",
-          "description": "Aspiring actor & food lover"
+          "description": "Friends character"
         },
         {
           "title": "Monica Geller",
-          "description": "Competitive perfectionist chef"
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Wow! You certainly think a lot of yourself.",
+      "description": "Friends • The One with the Cop",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Yes you did. You look happy and sick-- you smoked!",
+      "description": "Friends • The One Where Rachel Smokes",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
         },
         {
           "title": "Chandler Bing",
-          "description": "Sarcastic statistical analyst"
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "No! Half of the taste is in the smell! You're sucking up all the taste units!",
+      "description": "Friends • The One with the Ride-Along",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Before or after you were shot by your own troops?",
+      "description": "Friends • The One with the Ride-Along",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "And I'm sorry your wife is gay. I guess women ain't that great either, huh?",
+      "description": "Friends • Part 2",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah. Yeah, but it was a really, really long time ago! Does she still feel bad?",
+      "description": "Friends • The One with the Nap Partners",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "No. I was told the name of the movie would not appear on the bill!",
+      "description": "Friends • The One with the Red Sweater",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "No! No! No! You cannot do this to us again!",
+      "description": "Friends • The One Where Rachel Tells...",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "I thought he'd love it! His favorite book was The Velveteen Rabbit.",
+      "description": "Friends • The One with the Halloween Party",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, right, that's when they had that big rodeo at Plymouth Rock!",
+      "description": "Friends • The One with the Rumor",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah! Don't you remember? I had to leave the room the other day when you had that roast chicken?",
+      "description": "Friends • The One with the Rumor",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "It just doesn't seem worth it to make an entire turkey for just three people, okay? It's a lot of work!",
+      "description": "Friends • The One with the Rumor",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "All right. Go left, go left, go right, go right!",
+      "description": "Friends • The One Where Joey Dates Rachel",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Tsk, it's not kicking right now, although we would love to see you do that again!",
+      "description": "Friends • The One with the Secret Closet",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Did you know that something really boring happened to someone really ugly in the middle ages?",
+      "description": "Friends • The One with the Birthing Video",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Honey, we are so meant to be. Look, we both have copies of the Annie soundtrack!",
+      "description": "Friends • The One with The Tea Leaves",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "If only there was something in your head to control the things you say!",
+      "description": "Friends • The One with Joey's Interview",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "What's the final head count on my baby shower?",
+      "description": "Friends • The One with the Baby Shower",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "What? You mean they're not coming to a social event where there's no men and no booze? That's shocking!",
+      "description": "Friends • The One with the Baby Shower",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, look! Acting for Beginners! Want to feel good about yourself?",
+      "description": "Friends • The One with the Cooking Class",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "I can't believe this is taking so long. How're you doing?",
+      "description": "Friends • Part 2",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Mon, what am I gonna do? It's been hours and it won't stop crying.",
+      "description": "Friends • The One Where Emma Cries",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "I can't believe it, she's asleep. I got her to go to sleep. I have actual magical powers!",
+      "description": "Friends • The One Where Emma Cries",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, well, well. It must be five in Tulsa because it's \"sex o'clock\" in NYC!",
+      "description": "Friends • The One with the Sharks",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Honey? Why am I watching a bunch of sharks swimming around?",
+      "description": "Friends • The One with the Sharks",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, is, is this not the good part? Do you want me to fast-forward to something... toothier?",
+      "description": "Friends • The One with the Sharks",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, no! What if she jumps out of the basinet!",
+      "description": "Friends • The One with Phoebe's Birthday Dinner",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Is the window open? Because if the window's open, a bird could fly in there and —",
+      "description": "Friends • The One with Phoebe's Birthday Dinner",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Nothing else works, this girl is all about the ass!",
+      "description": "Friends • The One with Ross's Inappropriate Song",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
         }
       ]
     }
