@@ -1,0 +1,298 @@
+{
+  "id": "jaa_catchphrases_ep",
+  "title": "Jake & Amir: Catchphrases",
+  "description": "Match the iconic Jake & Amir catchphrase to its episode.",
+  "category": "series",
+  "group": "Jake and Amir",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Dinner tonight?",
+      "description": "Office • Classic",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dinner Tonight",
+          "description": "Original recurring bit"
+        },
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Scroll",
+          "description": "Top 10"
+        }
+      ]
+    },
+    {
+      "quote": "Taupe! That's so taupe!",
+      "description": "Office • Rating",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dinner Tonight",
+          "description": "Booth"
+        },
+        {
+          "title": "Dope",
+          "description": "Amir invents 'taupe'"
+        },
+        {
+          "title": "Ass",
+          "description": "Insult"
+        }
+      ]
+    },
+    {
+      "quote": "Excuse you! Absolutely excuse you!",
+      "description": "Office • Defensive",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dope",
+          "description": "Taupe"
+        },
+        {
+          "title": "Beefing",
+          "description": "Soy"
+        },
+        {
+          "title": "Excuse You",
+          "description": "Amir's defense"
+        }
+      ]
+    },
+    {
+      "quote": "Todah! Todah!",
+      "description": "Office • Hebrew",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Todah",
+          "description": "Amir says thank you"
+        },
+        {
+          "title": "Namaste",
+          "description": "Zen"
+        },
+        {
+          "title": "Go Bills",
+          "description": "Sports"
+        }
+      ]
+    },
+    {
+      "quote": "Go Bills!",
+      "description": "Office • Sports",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Todah",
+          "description": "Thank you"
+        },
+        {
+          "title": "Go Bills",
+          "description": "Random Buffalo Bills cheer"
+        },
+        {
+          "title": "Karate",
+          "description": "Belt"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a golden god!",
+      "description": "Office • Ego",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Todah",
+          "description": "Desk"
+        },
+        {
+          "title": "Go Bills",
+          "description": "Football"
+        },
+        {
+          "title": "Golden God",
+          "description": "Amir's speech"
+        }
+      ]
+    },
+    {
+      "quote": "A-weird!",
+      "description": "Office • Weird",
+      "correct": 0,
+      "options": [
+        {
+          "title": "A-Weird",
+          "description": "Amir's adjective"
+        },
+        {
+          "title": "Ass",
+          "description": "Word"
+        },
+        {
+          "title": "Cool",
+          "description": "Shades"
+        }
+      ]
+    },
+    {
+      "quote": "Bad vest!",
+      "description": "Office • Fashion",
+      "correct": 1,
+      "options": [
+        {
+          "title": "A-Weird",
+          "description": "Desk"
+        },
+        {
+          "title": "Vest",
+          "description": "Jake's vest"
+        },
+        {
+          "title": "Fedora",
+          "description": "Hat"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a pimp and a cool!",
+      "description": "Office • Fedora",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Vest",
+          "description": "Shirt"
+        },
+        {
+          "title": "Dope",
+          "description": "Taupe"
+        },
+        {
+          "title": "Fedora",
+          "description": "Insecure Jake"
+        }
+      ]
+    },
+    {
+      "quote": "I'm beefing!",
+      "description": "Office • Crying",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Beefing",
+          "description": "Tears of soy"
+        },
+        {
+          "title": "Nuggets",
+          "description": "Pocket"
+        },
+        {
+          "title": "Scroll",
+          "description": "Paper"
+        }
+      ]
+    },
+    {
+      "quote": "One almond!",
+      "description": "Office • Snack",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Nuggets",
+          "description": "Chicken"
+        },
+        {
+          "title": "One Almond",
+          "description": "Walnut"
+        },
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        }
+      ]
+    },
+    {
+      "quote": "Penis Anthony Doubligné!",
+      "description": "Office • Doobs",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Scroll",
+          "description": "List"
+        },
+        {
+          "title": "Doobs",
+          "description": "Thomas Middleditch"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the Milk Man!",
+      "description": "Office • Ben Schwartz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk delivery"
+        },
+        {
+          "title": "Doobs",
+          "description": "Actor"
+        },
+        {
+          "title": "Tinder",
+          "description": "App"
+        }
+      ]
+    },
+    {
+      "quote": "Namaste.",
+      "description": "Office • Fake Calm",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Excuse You",
+          "description": "Yelling"
+        },
+        {
+          "title": "Namaste",
+          "description": "After screaming"
+        },
+        {
+          "title": "Todah",
+          "description": "Thank you"
+        }
+      ]
+    },
+    {
+      "quote": "You're a coward and a fool!",
+      "description": "Office • Argument",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dope",
+          "description": "Taupe"
+        },
+        {
+          "title": "Vest",
+          "description": "Clothes"
+        },
+        {
+          "title": "Coward and a Fool",
+          "description": "Amir's insult"
+        }
+      ]
+    }
+  ]
+}

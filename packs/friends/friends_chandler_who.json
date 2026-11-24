@@ -1,0 +1,298 @@
+{
+  "id": "friends_chandler_who",
+  "title": "Friends: Could I BE Any Funnier?",
+  "description": "Chandler Bing & Central Perk's sharpest sarcasm.",
+  "category": "series",
+  "group": "Friends",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Could I BE wearing any more clothes?",
+      "description": "Season 3 • Joey's Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Wearing all of Chandler's clothes"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Hid Joey's underwear"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Getting ready"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not great at the advice. Can I interest you in a sarcastic comment?",
+      "description": "Central Perk • Couch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Classic Chandler"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Dinosaur lecture"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Cleaning"
+        }
+      ]
+    },
+    {
+      "quote": "Hi, I'm Chandler. I make jokes when I'm uncomfortable.",
+      "description": "Central Perk • Awkward Silence",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Self-aware"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Sandwich"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Divorce"
+        }
+      ]
+    },
+    {
+      "quote": "Pivot! Pivot! PIVOT!",
+      "description": "Season 5 • Stairwell",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Shut up!"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Moving the couch"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Holding the sketch"
+        }
+      ]
+    },
+    {
+      "quote": "Shut up! Shut up! SHUT UP!",
+      "description": "Season 5 • Stairwell",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Yelling back at Ross"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Kitchen"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Guitar"
+        }
+      ]
+    },
+    {
+      "quote": "We were on a break!",
+      "description": "Season 3 • Apartment 20",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Hiding"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Defending himself to Rachel"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Behind the door"
+        }
+      ]
+    },
+    {
+      "quote": "How you doin'?",
+      "description": "Central Perk • Classic Pickup Line",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Tries it and fails"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Fails too"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Signature line"
+        }
+      ]
+    },
+    {
+      "quote": "Joey doesn't share food!",
+      "description": "Season 10 • Restaurant",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "French fries"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Moist Maker"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Protecting his fries"
+        }
+      ]
+    },
+    {
+      "quote": "Smelly cat, smelly cat, what are they feeding you?",
+      "description": "Central Perk • Stage",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Waitress"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Acoustic guitar"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Clapping"
+        }
+      ]
+    },
+    {
+      "quote": "Oh. My. God.",
+      "description": "Everywhere • Janice's Entrance",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Kitchen"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Shopping"
+        },
+        {
+          "title": "Janice Litman",
+          "description": "Machine-gun laugh"
+        }
+      ]
+    },
+    {
+      "quote": "I KNOW!",
+      "description": "Apartment 20 • Monica's Catchphrase",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Living room"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "High-pitched"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Massage"
+        }
+      ]
+    },
+    {
+      "quote": "They don't know that we know they know we know!",
+      "description": "Season 5 • Ugly Naked Guy's",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Bathroom"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Confused"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Explaining the messers"
+        }
+      ]
+    },
+    {
+      "quote": "It's a moo point. It's like a cow's opinion.",
+      "description": "Season 7 • Central Perk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "It doesn't matter—it's moo"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Stunned"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Speechless"
+        }
+      ]
+    },
+    {
+      "quote": "Unagi.",
+      "description": "Season 6 • Martial Arts",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Salmon skin roll"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "A state of total awareness"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "My sandwich?! MY SANDWICH?!",
+      "description": "Season 5 • Museum",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Meatball sub"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "The Moist Maker"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Break room"
+        }
+      ]
+    }
+  ]
+}

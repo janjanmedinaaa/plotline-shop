@@ -1,0 +1,298 @@
+{
+  "id": "jaa_office_who",
+  "title": "Jake & Amir: Office Chaos",
+  "description": "Pranks, firing threats, and desk disasters.",
+  "category": "series",
+  "group": "Jake and Amir",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Why is there a raccoon in your drawer?",
+      "description": "Office • Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Opening drawer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "He's my accountant!"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Running"
+        }
+      ]
+    },
+    {
+      "quote": "I'm doing taxes! With crayons!",
+      "description": "Office • April",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Staring"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CPA"
+        },
+        {
+          "title": "Ricky",
+          "description": "Auditing"
+        }
+      ]
+    },
+    {
+      "quote": "You haven't done any work since 2009!",
+      "description": "Office • Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Checking Amir's screen"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "I'm busy!"
+        },
+        {
+          "title": "Streeter",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "I'm writing a screenplay! It's called 'The Vest'!",
+      "description": "Office • Typing",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Stop"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Oscar bait"
+        },
+        {
+          "title": "Doobs",
+          "description": "Auditioning"
+        }
+      ]
+    },
+    {
+      "quote": "That's HR! Run!",
+      "description": "Office • Hallway",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Sitting"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Panicking"
+        },
+        {
+          "title": "Murph",
+          "description": "Calling HR"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna sue you!",
+      "description": "Office • Argument",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "For what?"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Emotional distress"
+        },
+        {
+          "title": "Pat",
+          "description": "Working"
+        }
+      ]
+    },
+    {
+      "quote": "You're sitting in my chair!",
+      "description": "Office • Morning",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Arriving"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "I'm you today!"
+        },
+        {
+          "title": "Streeter",
+          "description": "Watching"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna buy the company!",
+      "description": "Office • Payday",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "With $12?"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Thirteen!"
+        },
+        {
+          "title": "Ricky",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "Stop printing out memes!",
+      "description": "Office • Printer",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Out of toner"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "They're for my wall!"
+        },
+        {
+          "title": "Sarah",
+          "description": "Waiting"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a whistleblower!",
+      "description": "Office • Standing on Chair",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Sit down"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Blowing an actual whistle"
+        },
+        {
+          "title": "Murph",
+          "description": "Taking the whistle"
+        }
+      ]
+    },
+    {
+      "quote": "You broke the coffee machine!",
+      "description": "Kitchen • Morning",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Blaming Amir"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "I put soup in it!"
+        },
+        {
+          "title": "Pat",
+          "description": "Crying"
+        }
+      ]
+    },
+    {
+      "quote": "It's called 'efficiency'!",
+      "description": "Kitchen • Soup",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "No it's not"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Hot soup!"
+        },
+        {
+          "title": "Streeter",
+          "description": "Leaving"
+        }
+      ]
+    },
+    {
+      "quote": "I'm taking a sick day! At work!",
+      "description": "Office • Sleeping Bag",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Go home"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Under his desk"
+        },
+        {
+          "title": "Ricky",
+          "description": "Walking by"
+        }
+      ]
+    },
+    {
+      "quote": "You're a nightmare.",
+      "description": "Office • Every Day",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Sighing"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "A good nightmare?"
+        },
+        {
+          "title": "Dan",
+          "description": "Nodding"
+        }
+      ]
+    },
+    {
+      "quote": "Let's go home.",
+      "description": "Office • 5:00 PM",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Packing up"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "See you at dinner!"
+        },
+        {
+          "title": "Pat",
+          "description": "Running out"
+        }
+      ]
+    }
+  ]
+}

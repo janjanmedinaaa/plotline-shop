@@ -1,0 +1,298 @@
+{
+  "id": "friends_misc_who",
+  "title": "Friends: Supporting Cast",
+  "description": "Janice, Gunther, Richard, Mike, and Central Perk.",
+  "category": "series",
+  "group": "Friends",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Oh. My. God.",
+      "description": "Central Perk • Every Appearance",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Janice Litman",
+          "description": "Chandler's ex"
+        },
+        {
+          "title": "Gunther",
+          "description": "Behind the counter"
+        },
+        {
+          "title": "Ursula Buffay",
+          "description": "Waitress"
+        }
+      ]
+    },
+    {
+      "quote": "Rachel, would you like to go to dinner with me?",
+      "description": "Central Perk • Counter",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Booth"
+        },
+        {
+          "title": "Gunther",
+          "description": "Secretly loves Rachel"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Couch"
+        }
+      ]
+    },
+    {
+      "quote": "I thought you were Chandler!",
+      "description": "Central Perk • Couch",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Janice Litman",
+          "description": "Laughing"
+        },
+        {
+          "title": "Gunther",
+          "description": "Hates Ross"
+        },
+        {
+          "title": "Mike Hannigan",
+          "description": "Piano"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a huge fan of your work, Joey.",
+      "description": "Days of Our Lives • Set",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Gunther",
+          "description": "Coffee"
+        },
+        {
+          "title": "Richard Burke",
+          "description": "Cigar"
+        },
+        {
+          "title": "Mr. Heckles",
+          "description": "Broom"
+        }
+      ]
+    },
+    {
+      "quote": "You're making too much noise.",
+      "description": "Apartment Below • Broomstick",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Gunther",
+          "description": "Central Perk"
+        },
+        {
+          "title": "Janice",
+          "description": "Yemen"
+        },
+        {
+          "title": "Mr. Heckles",
+          "description": "Always complaining"
+        }
+      ]
+    },
+    {
+      "quote": "I could play the oboe.",
+      "description": "Apartment 20 • Broomstick",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Guitar"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Keyboard"
+        },
+        {
+          "title": "Mr. Heckles",
+          "description": "In his robe"
+        }
+      ]
+    },
+    {
+      "quote": "I love you, Monica. Always have.",
+      "description": "Season 6 • Restaurant",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Door"
+        },
+        {
+          "title": "Richard Burke",
+          "description": "Tom Selleck"
+        },
+        {
+          "title": "Pete Becker",
+          "description": "Ring"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Crap Bag.",
+      "description": "Season 10 • Central Perk",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Gunther",
+          "description": "Coffee"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Laughing"
+        },
+        {
+          "title": "Mike Hannigan",
+          "description": "Paul Rudd"
+        }
+      ]
+    },
+    {
+      "quote": "You're a terrible friend, Ross.",
+      "description": "Season 8 • Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Mona",
+          "description": "What was wrong with Mona?"
+        },
+        {
+          "title": "Emily Waltham",
+          "description": "London"
+        },
+        {
+          "title": "Carol Willick",
+          "description": "Museum"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not gonna let you go to Paris, Rachel.",
+      "description": "Season 10 • Airport",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Gunther",
+          "description": "Confessing"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Terminal"
+        },
+        {
+          "title": "Mark Robinson",
+          "description": "Bloomingdale's"
+        }
+      ]
+    },
+    {
+      "quote": "Rachel, I love you. That's all.",
+      "description": "Season 10 • Central Perk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Gunther",
+          "description": "Finally tells Rachel"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Cab"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Booth"
+        }
+      ]
+    },
+    {
+      "quote": "Welcome to my world!",
+      "description": "Season 4 • London",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Janice",
+          "description": "Nail salon"
+        },
+        {
+          "title": "Gunther",
+          "description": "Counter"
+        },
+        {
+          "title": "Emily Waltham",
+          "description": "To Ross"
+        }
+      ]
+    },
+    {
+      "quote": "No more Falafel for you!",
+      "description": "Season 5 • Street",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Pizza"
+        },
+        {
+          "title": "Street Vendor",
+          "description": "Cart"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Walking"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna buy you a giant boat!",
+      "description": "Season 3 • Mansion",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Richard Burke",
+          "description": "Pool"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Duck"
+        },
+        {
+          "title": "Pete Becker",
+          "description": "Billionaire"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna be the Ultimate Fighting Champion!",
+      "description": "Season 3 • Arena",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Watching"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Wincing"
+        },
+        {
+          "title": "Pete Becker",
+          "description": "Jon Favreau"
+        }
+      ]
+    }
+  ]
+}

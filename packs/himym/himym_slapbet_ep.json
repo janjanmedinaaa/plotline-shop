@@ -1,0 +1,298 @@
+{
+  "id": "himym_slapbet_ep",
+  "title": "HIMYM: Slap Bet & Lore",
+  "description": "Pinpoint the episode for HIMYM's best running gags.",
+  "category": "series",
+  "group": "How I Met Your Mother",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "You just got slapped!",
+      "description": "Season 2 • Slap Bet Commissioner",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "First slap & Robin Sparkles"
+        },
+        {
+          "title": "S3E09 • Slapsgiving",
+          "description": "Turkey slap"
+        },
+        {
+          "title": "S5E09 • Slapsgiving 2",
+          "description": "Revenge"
+        }
+      ]
+    },
+    {
+      "quote": "Slapsgiving! A holiday I invented.",
+      "description": "Season 3 • Thanksgiving",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Mall"
+        },
+        {
+          "title": "S3E09 • Slapsgiving",
+          "description": "Countdown clock"
+        },
+        {
+          "title": "S9E14 • Slapsgiving 3",
+          "description": "Slappointment"
+        }
+      ]
+    },
+    {
+      "quote": "Where did the pineapple come from?",
+      "description": "Season 1 • Blackout Mystery",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "French horn"
+        },
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Slap"
+        },
+        {
+          "title": "S1E10 • The Pineapple Incident",
+          "description": "Ted wakes up with Trudy"
+        }
+      ]
+    },
+    {
+      "quote": "Two Beavers Are Better Than One!",
+      "description": "Season 6 • Space Teens",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S6E09 • Glitter",
+          "description": "Jessica Glitter & Robin"
+        },
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Mall"
+        },
+        {
+          "title": "S3E16 • Sandcastles in the Sand",
+          "description": "Beach"
+        }
+      ]
+    },
+    {
+      "quote": "Sandcastles in the sand...",
+      "description": "Season 3 • Robin's Second Single",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Mall"
+        },
+        {
+          "title": "S3E16 • Sandcastles in the Sand",
+          "description": "Simon & Robin"
+        },
+        {
+          "title": "S8E15 • P.S. I Love You",
+          "description": "Robin Daggers"
+        }
+      ]
+    },
+    {
+      "quote": "P.S. I Love You — Robin Daggers!",
+      "description": "Season 8 • 90s Grunge",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Mall"
+        },
+        {
+          "title": "S6E09 • Glitter",
+          "description": "Space Teens"
+        },
+        {
+          "title": "S8E15 • P.S. I Love You",
+          "description": "Underneath the Tunes"
+        }
+      ]
+    },
+    {
+      "quote": "The Cockamouse!",
+      "description": "Season 1 • Apartment 4A",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E07 • Matchmaker",
+          "description": "Half cockroach, half mouse"
+        },
+        {
+          "title": "S2E17 • Arrivederci, Fiero",
+          "description": "Fiero"
+        },
+        {
+          "title": "S4E24 • The Leap",
+          "description": "Goat"
+        }
+      ]
+    },
+    {
+      "quote": "I would walk 500 miles!",
+      "description": "Season 2 • Marshall's Fiero",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E07 • Matchmaker",
+          "description": "Cockamouse"
+        },
+        {
+          "title": "S2E17 • Arrivederci, Fiero",
+          "description": "Stuck cassette tape"
+        },
+        {
+          "title": "S5E03 • Robin 101",
+          "description": "Classroom"
+        }
+      ]
+    },
+    {
+      "quote": "Murder Train!",
+      "description": "Season 3 • Adoption Promo",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E17 • Arrivederci, Fiero",
+          "description": "Road trip"
+        },
+        {
+          "title": "S4E24 • The Leap",
+          "description": "Goat"
+        },
+        {
+          "title": "S3E19 • Everything Must Go",
+          "description": "The Foreskins' song"
+        }
+      ]
+    },
+    {
+      "quote": "Why is there a goat in our bathroom?",
+      "description": "Season 4 • Ted's 31st Birthday",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S4E24 • The Leap",
+          "description": "The goat finally attacks"
+        },
+        {
+          "title": "S3E17 • The Goat",
+          "description": "30th birthday"
+        },
+        {
+          "title": "S1E10 • The Pineapple Incident",
+          "description": "Pineapple"
+        }
+      ]
+    },
+    {
+      "quote": "Blitzgiving! Awww, man!",
+      "description": "Season 6 • The Blitz Curse",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E09 • Slapsgiving",
+          "description": "Turkey"
+        },
+        {
+          "title": "S6E10 • Blitzgiving",
+          "description": "Steve 'The Blitz' Henry"
+        },
+        {
+          "title": "S5E09 • Slapsgiving 2",
+          "description": "Slap 4"
+        }
+      ]
+    },
+    {
+      "quote": "Bang, bang, bangity bang!",
+      "description": "Season 5 • Rabbit or Duck",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Mall"
+        },
+        {
+          "title": "S3E09 • Slapsgiving",
+          "description": "Song"
+        },
+        {
+          "title": "S5E15 • Rabbit or Duck",
+          "description": "Barney's phone"
+        }
+      ]
+    },
+    {
+      "quote": "Puzzles! Why is it called Puzzles?",
+      "description": "Season 4 • Ted & Barney's Bar",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S4E13 • Three Days of Snow",
+          "description": "That's the puzzle!"
+        },
+        {
+          "title": "S1E01 • Pilot",
+          "description": "MacLaren's"
+        },
+        {
+          "title": "S7E12 • Symphony of Illumination",
+          "description": "Lights"
+        }
+      ]
+    },
+    {
+      "quote": "You're All Alone.",
+      "description": "Season 8 • Time Travelers",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E13 • Bad News",
+          "description": "Countdown"
+        },
+        {
+          "title": "S8E20 • The Time Travelers",
+          "description": "20 years from now"
+        },
+        {
+          "title": "S9E16 • How Your Mother Met Me",
+          "description": "Tracy"
+        }
+      ]
+    },
+    {
+      "quote": "The Yellow Umbrella.",
+      "description": "Season 3 • St. Patrick's Day",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Blue French horn"
+        },
+        {
+          "title": "S5E12 • Girls Versus Suits",
+          "description": "Cindy's apartment"
+        },
+        {
+          "title": "S3E12 • No Tomorrow",
+          "description": "Ted finds the umbrella"
+        }
+      ]
+    }
+  ]
+}

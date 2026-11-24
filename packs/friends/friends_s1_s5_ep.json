@@ -1,0 +1,298 @@
+{
+  "id": "friends_s1_s5_ep",
+  "title": "Friends: Seasons 1–5",
+  "description": "Identify the Season 1–5 episode from each quote.",
+  "category": "series",
+  "group": "Friends",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 170,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "I'm not gonna be a shoe!",
+      "description": "Season 1 • Coffee Shop",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • The One Where Monica Gets a Roommate",
+          "description": "Rachel cuts her credit cards"
+        },
+        {
+          "title": "S1E07 • The One with the Blackout",
+          "description": "Vestibule"
+        },
+        {
+          "title": "S1E18 • The One with All the Poker",
+          "description": "Poker"
+        }
+      ]
+    },
+    {
+      "quote": "Your collective dating record reads like a who's who of human crap.",
+      "description": "Season 1 • Poker Night",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Couch"
+        },
+        {
+          "title": "S1E18 • The One with All the Poker",
+          "description": "Guys vs. Girls"
+        },
+        {
+          "title": "S2E07 • The One Where Ross Finds Out",
+          "description": "Cat"
+        }
+      ]
+    },
+    {
+      "quote": "You're over me? When were you... under me?",
+      "description": "Season 2 • Central Perk",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E01 • The One with Ross's New Girlfriend",
+          "description": "Julie"
+        },
+        {
+          "title": "S2E14 • The One with the Prom Video",
+          "description": "Video"
+        },
+        {
+          "title": "S2E07 • The One Where Ross Finds Out",
+          "description": "Drunk voicemail"
+        }
+      ]
+    },
+    {
+      "quote": "A giant poking device!",
+      "description": "Season 3 • Apartment 20",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E08 • The One with the Giant Poking Device",
+          "description": "Checking on Ugly Naked Guy"
+        },
+        {
+          "title": "S3E02 • The One Where No One's Ready",
+          "description": "Hummus"
+        },
+        {
+          "title": "S3E15 • The One Where Ross and Rachel Take a Break",
+          "description": "Copy place"
+        }
+      ]
+    },
+    {
+      "quote": "Look at me, I'm Chandlerrr!",
+      "description": "Season 3 • Bedroom",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E08 • The One with the Giant Poking Device",
+          "description": "Chopsticks"
+        },
+        {
+          "title": "S3E02 • The One Where No One's Ready",
+          "description": "Joey wears Chandler's clothes"
+        },
+        {
+          "title": "S3E15 • The One Where Ross and Rachel Take a Break",
+          "description": "Ski trip"
+        }
+      ]
+    },
+    {
+      "quote": "It's 18 pages... FRONT AND BACK!",
+      "description": "Season 4 • Beach House",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E15 • Take a Break",
+          "description": "Break"
+        },
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Quiz"
+        },
+        {
+          "title": "S4E01 • The One with the Jellyfish",
+          "description": "Rachel's letter"
+        }
+      ]
+    },
+    {
+      "quote": "You fell asleep?!",
+      "description": "Season 4 • Bedroom",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Rooster"
+        },
+        {
+          "title": "S4E24 • Ross's Wedding",
+          "description": "London"
+        },
+        {
+          "title": "S4E01 • The One with the Jellyfish",
+          "description": "5:30 in the morning"
+        }
+      ]
+    },
+    {
+      "quote": "In London?!",
+      "description": "Season 5 • Reception",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E01 • The One After Ross Says Rachel",
+          "description": "Joey realizes"
+        },
+        {
+          "title": "S4E24 • The One with Ross's Wedding",
+          "description": "Altar"
+        },
+        {
+          "title": "S5E14 • Everybody Finds Out",
+          "description": "Window"
+        }
+      ]
+    },
+    {
+      "quote": "Wait... you had a turkey on your head!",
+      "description": "Season 5 • Flashback Thanksgiving",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E01 • After Ross Says Rachel",
+          "description": "Hotel"
+        },
+        {
+          "title": "S5E08 • The One with All the Thanksgivings",
+          "description": "Monica dances with a turkey"
+        },
+        {
+          "title": "S6E09 • Ross Got High",
+          "description": "Trifle"
+        }
+      ]
+    },
+    {
+      "quote": "You ate my sandwich?!",
+      "description": "Season 5 • Museum",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E08 • All the Thanksgivings",
+          "description": "1992"
+        },
+        {
+          "title": "S5E14 • Everybody Finds Out",
+          "description": "Balcony"
+        },
+        {
+          "title": "S5E09 • The One with Ross's Sandwich",
+          "description": "The Moist Maker"
+        }
+      ]
+    },
+    {
+      "quote": "Red Ross!",
+      "description": "Season 5 • Rugby",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E09 • The One with Ross's Sandwich",
+          "description": "Anger management"
+        },
+        {
+          "title": "S4E15 • The One with All the Rugby",
+          "description": "Red Ross"
+        },
+        {
+          "title": "S5E16 • The One with the Cop",
+          "description": "Couch"
+        }
+      ]
+    },
+    {
+      "quote": "I'm going to Yemen! 15 Yemen Road, Yemen!",
+      "description": "Season 4 • Airport",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Apartment"
+        },
+        {
+          "title": "S4E15 • The One with All the Rugby",
+          "description": "Chandler escaping Janice"
+        },
+        {
+          "title": "S4E24 • Ross's Wedding",
+          "description": "London"
+        }
+      ]
+    },
+    {
+      "quote": "Paper! Snow! A ghost!",
+      "description": "Season 6 • Game Show",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E16 • The One with the Cop",
+          "description": "Couch"
+        },
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Quiz"
+        },
+        {
+          "title": "S6E11 • The One with the Apothecary Table",
+          "description": "Pottery Barn—actually S6E18/S6"
+        }
+      ]
+    },
+    {
+      "quote": "Why is it inside out?!",
+      "description": "Season 5 • Cat",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E21 • The One with the Ball",
+          "description": "Rachel's hairless cat"
+        },
+        {
+          "title": "S5E14 • Everybody Finds Out",
+          "description": "Balcony"
+        },
+        {
+          "title": "S5E09 • Ross's Sandwich",
+          "description": "Break room"
+        }
+      ]
+    },
+    {
+      "quote": "That's not a cat!",
+      "description": "Season 5 • Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E21 • The One with the Ball",
+          "description": "Mrs. Whiskerson"
+        },
+        {
+          "title": "S4E01 • The Jellyfish",
+          "description": "Beach"
+        },
+        {
+          "title": "S3E08 • Giant Poking Device",
+          "description": "Window"
+        }
+      ]
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "category": "series",
   "tag": "Who said it?",
   "answer_type": "character",
-  "price": 0,
+  "price": 160,
   "quote_count": 50,
   "questions": [
     {
@@ -958,5 +958,6 @@
         }
       ]
     }
-  ]
+  ],
+  "group": "MCU"
 }

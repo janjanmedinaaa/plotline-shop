@@ -1,0 +1,298 @@
+{
+  "id": "comm_best_who",
+  "title": "Community: Greendale's Greatest",
+  "description": "Best all-around quotes from across all 6 seasons.",
+  "category": "series",
+  "group": "Community",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "I can excuse racism, but I draw the line at animal cruelty.",
+      "description": "Study Room • Shirley & Britta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Animal rights"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "You can excuse racism?!"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Shocked"
+        }
+      ]
+    },
+    {
+      "quote": "You can excuse racism?!",
+      "description": "Study Room • Reaction",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Annie Edison",
+          "description": "Quiet"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Calling out Britta"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Drinking"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a pizza burn on the roof of the world's mouth!",
+      "description": "Study Room • Britta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Self-roast"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Opposite of Batman"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Nods"
+        }
+      ]
+    },
+    {
+      "quote": "What's a 'diminutive'?",
+      "description": "Study Room • Vocabulary",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Dictionary"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Explaining"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Asking"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna punch you in the heart!",
+      "description": "Study Room • Threat",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Calm"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Sweet voice"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Protesting"
+        }
+      ]
+    },
+    {
+      "quote": "Don't preach to me about romance, Annie! I had a three-way in a hot air balloon!",
+      "description": "Study Room • Pierce",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "TMI"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Whoa"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Bragging"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a Spanish teacher! Not a therapist!",
+      "description": "Classroom • Chang",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ian Duncan",
+          "description": "Psych"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Yelling"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Office"
+        }
+      ]
+    },
+    {
+      "quote": "Greendale: You're already accepted!",
+      "description": "Campus • Slogan",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "School motto"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Sighing"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Camera"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a nerd! I'm a cool guy!",
+      "description": "Study Room • Troy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Cool"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Suit"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "In denial"
+        }
+      ]
+    },
+    {
+      "quote": "E Pluribus Anus.",
+      "description": "Flag • Greendale Seal",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Proud of the flag"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "It's a butt!"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Designed it"
+        }
+      ]
+    },
+    {
+      "quote": "I know it's a butt! I put a star in the middle!",
+      "description": "Study Room • Flag",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Pointing"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Defending her design"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "We're gonna be fine. Because we're a family.",
+      "description": "Study Room • Finale",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Hugging"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Cool"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Group hug"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna miss this place.",
+      "description": "Airport • Season 6",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Moving to LA"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Staying at Greendale"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "FBI internship"
+        }
+      ]
+    },
+    {
+      "quote": "Take care of Greendale, Jeff.",
+      "description": "Airport • Goodbye",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Camera"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Before FBI"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Bar"
+        }
+      ]
+    },
+    {
+      "quote": "See you in the movie.",
+      "description": "Campus • Meta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Winking"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Drinking"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Waving"
+        }
+      ]
+    }
+  ]
+}

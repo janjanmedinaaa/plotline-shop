@@ -1,0 +1,298 @@
+{
+  "id": "jaa_episodes_ep",
+  "title": "Jake & Amir: Iconic Episodes",
+  "description": "Match the quote to the classic Jake and Amir episode.",
+  "category": "series",
+  "group": "Jake and Amir",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "I'm the Milk Man! I've got milk!",
+      "description": "Guest Star • Ben Schwartz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Ben Schwartz as the Milk Man"
+        },
+        {
+          "title": "Scroll",
+          "description": "Top 10 Scroll"
+        },
+        {
+          "title": "vest",
+          "description": "Corduroy Pant"
+        }
+      ]
+    },
+    {
+      "quote": "Doobs! Penis Anthony Doubligné!",
+      "description": "Guest Star • Thomas Middleditch",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Doobs",
+          "description": "Amir's childhood nemesis"
+        },
+        {
+          "title": "Cheryl",
+          "description": "Date"
+        }
+      ]
+    },
+    {
+      "quote": "Top 10 Fish to Fry! By Amir Valerie Blumenfeld!",
+      "description": "Office Desk • Scroll",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Doobs",
+          "description": "Huddy"
+        },
+        {
+          "title": "Scroll",
+          "description": "Amir's giant paper scroll"
+        }
+      ]
+    },
+    {
+      "quote": "I'm beefing! Look at me, I'm beefing!",
+      "description": "Office • Crying",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Beefing",
+          "description": "Weeping tears of soy"
+        },
+        {
+          "title": "Scroll",
+          "description": "Top 10"
+        },
+        {
+          "title": "Tinder",
+          "description": "Dating app"
+        }
+      ]
+    },
+    {
+      "quote": "A sleeveless shirt for this piece of dirt makes the sweeties go squirt!",
+      "description": "Office • Outfit",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Beefing",
+          "description": "Crying"
+        },
+        {
+          "title": "Fashion",
+          "description": "Amir's vest/shirt"
+        },
+        {
+          "title": "Nuggets",
+          "description": "Chicken"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a pimp and a cool!",
+      "description": "Office • Sunglasses",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Doobs",
+          "description": "Actor"
+        },
+        {
+          "title": "Cool",
+          "description": "Amir's fake confidence"
+        }
+      ]
+    },
+    {
+      "quote": "Chicken nuggets! In my pocket!",
+      "description": "Office • Lunch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Nuggets",
+          "description": "Amir's pocket nuggets"
+        },
+        {
+          "title": "Scroll",
+          "description": "Paper"
+        },
+        {
+          "title": "Poker",
+          "description": "Card game"
+        }
+      ]
+    },
+    {
+      "quote": "We're beefing!",
+      "description": "Office • Both Crying",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Nuggets",
+          "description": "Pocket"
+        },
+        {
+          "title": "Cheryl",
+          "description": "Jake & Amir cry together"
+        },
+        {
+          "title": "Doobs",
+          "description": "Set"
+        }
+      ]
+    },
+    {
+      "quote": "I got a Tinder! Swipe right!",
+      "description": "Office • Dating App",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Scroll",
+          "description": "List"
+        },
+        {
+          "title": "Fashion",
+          "description": "Vest"
+        },
+        {
+          "title": "Tinder",
+          "description": "Amir's profile"
+        }
+      ]
+    },
+    {
+      "quote": "Ass!",
+      "description": "Office • Insult",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ass",
+          "description": "Stop saying 'ass'!"
+        },
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Doobs",
+          "description": "Huddy"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna buy a fedora!",
+      "description": "Office • Insecure Jake",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Scroll",
+          "description": "List"
+        },
+        {
+          "title": "Fedora",
+          "description": "Jake's hat"
+        },
+        {
+          "title": "Nuggets",
+          "description": "Food"
+        }
+      ]
+    },
+    {
+      "quote": "One almond! How much do you think it's worth?",
+      "description": "Office • Snack",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Fedora",
+          "description": "Hat"
+        },
+        {
+          "title": "Tinder",
+          "description": "App"
+        },
+        {
+          "title": "One Almond",
+          "description": "Amir's walnut/almond obsession"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a golden god, and you're a troll named Rod!",
+      "description": "Office • Standing on Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Golden God",
+          "description": "Amir's rant"
+        },
+        {
+          "title": "One Almond",
+          "description": "Walnut"
+        },
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        }
+      ]
+    },
+    {
+      "quote": "It's called 'Karate'!",
+      "description": "Office • Fight",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Golden God",
+          "description": "Desk"
+        },
+        {
+          "title": "Karate",
+          "description": "Amir's black belt"
+        },
+        {
+          "title": "Doobs",
+          "description": "Actor"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a bit of a martyr!",
+      "description": "Office • Sacrifice",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Karate",
+          "description": "Belt"
+        },
+        {
+          "title": "Fedora",
+          "description": "Hat"
+        },
+        {
+          "title": "Martyr",
+          "description": "Amir's fake heroism"
+        }
+      ]
+    }
+  ]
+}

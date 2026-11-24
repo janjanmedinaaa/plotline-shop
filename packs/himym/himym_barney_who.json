@@ -1,0 +1,298 @@
+{
+  "id": "himym_barney_who",
+  "title": "HIMYM: Legend...ary!",
+  "description": "Classic Barney Stinson & gang quips from MacLaren's.",
+  "category": "series",
+  "group": "How I Met Your Mother",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Suit up!",
+      "description": "MacLaren's Booth • Barney's Golden Rule",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Always in a suit"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Architecture professor"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Lawyer"
+        }
+      ]
+    },
+    {
+      "quote": "It's gonna be legen—wait for it—dary!",
+      "description": "Season 1 • Night Out in NYC",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Catchphrase king"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Metro News 1"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Kindergarten teacher"
+        }
+      ]
+    },
+    {
+      "quote": "Challenge accepted!",
+      "description": "MacLaren's Pub • Dare Accepted",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Never backs down"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Slap Bet champion"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Hopeless romantic"
+        }
+      ]
+    },
+    {
+      "quote": "Have you met Ted?",
+      "description": "MacLaren's Bar • Wingman Move",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Classic wingman opener"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Best friend"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Matchmaker"
+        }
+      ]
+    },
+    {
+      "quote": "Nothing good happens after 2 A.M.",
+      "description": "Season 1 • Late Night Lesson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Goliath National Bank"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Narrating to his kids"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Law school"
+        }
+      ]
+    },
+    {
+      "quote": "You son of a beetch!",
+      "description": "Apartment 4A • Lily's Catchphrase",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Canadian reporter"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Playbook author"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Kindergarten teacher"
+        }
+      ]
+    },
+    {
+      "quote": "Lawyered!",
+      "description": "Apartment 4A • Winning an Argument",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "GNB executive"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Columbia Law grad"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Architect"
+        }
+      ]
+    },
+    {
+      "quote": "Nobody asked you, Patrice!",
+      "description": "World Wide News • Office Rant",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Lily Aldrin",
+          "description": "Art consultant"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Laser tag"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "News anchor"
+        }
+      ]
+    },
+    {
+      "quote": "True story.",
+      "description": "MacLaren's Booth • Tall Tale",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "83% of the time"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Red cowboy boots"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Bigfoot believer"
+        }
+      ]
+    },
+    {
+      "quote": "Pulling. Them. Off.",
+      "description": "Apartment 4A • Red Cowboy Boots",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Suit tailor"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "GCWOK approved"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Minnesota"
+        }
+      ]
+    },
+    {
+      "quote": "Where's the poop, Robin?",
+      "description": "MacLaren's • Lily's Lie Detector",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Professor"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Magician"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Best friend interrogation"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a hero. Wait—yes I am.",
+      "description": "Season 2 • Laser Tag",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Barnacle"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Big Fudge"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Mosbius Designs"
+        }
+      ]
+    },
+    {
+      "quote": "Boats! Boats! Boats!",
+      "description": "TV Commercial • Becky's Ad",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "News 1"
+        },
+        {
+          "title": "Becky",
+          "description": "Morning show co-host"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Art gallery"
+        }
+      ]
+    },
+    {
+      "quote": "Swarley!",
+      "description": "Coffee Shop • Wrong Cup Name",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Hates the nickname"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Calls him Swarley"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Laughs along"
+        }
+      ]
+    },
+    {
+      "quote": "Major Pleasure!",
+      "description": "MacLaren's • Military Rank Joke",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Lily Aldrin",
+          "description": "Salutes"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Ignores it"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Saluting Ted"
+        }
+      ]
+    }
+  ]
+}

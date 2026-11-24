@@ -1,0 +1,298 @@
+{
+  "id": "comm_dean_who",
+  "title": "Community: Dean & Chang",
+  "description": "Dean Pelton's outfits, puns, and Señor Chang's madness.",
+  "category": "series",
+  "group": "Community",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "I have to go to the bank today! What am I supposed to tell them, I had good news and bad news?!",
+      "description": "Study Room • Half-Man Half-Woman Costume",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Duali-dean of Man"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Keytar"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Mansion"
+        }
+      ]
+    },
+    {
+      "quote": "Well, I'm a peanut bar and I'm here to say, your checks will arrive on another day!",
+      "description": "Study Room • Payday Rap",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Rap breakdown"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Beatboxing"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Filming"
+        }
+      ]
+    },
+    {
+      "quote": "GAY MARRIAGE!",
+      "description": "Cafeteria • Chainsaw",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Costume"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Pilates & chainsaw"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Ducking"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a Spanish genius! El Tigre Chino!",
+      "description": "Spanish 101 • Classroom",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Office"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Keytar solo"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Cheating"
+        }
+      ]
+    },
+    {
+      "quote": "I have Changnesia!",
+      "description": "Season 4 • Kevin",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Believing him"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Fake amnesia"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Not buying it"
+        }
+      ]
+    },
+    {
+      "quote": "Did someone say 'crazy person'?",
+      "description": "Study Room • Doorway",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Puns"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Ventilation shaft"
+        },
+        {
+          "title": "Leonard",
+          "description": "Pool"
+        }
+      ]
+    },
+    {
+      "quote": "This better not awaken anything in me.",
+      "description": "Office • Dalmatian Video",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Dalmatian obsession"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Walking away"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "Dean-dong!",
+      "description": "Study Room • Entrance",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Every entrance"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Hallway"
+        },
+        {
+          "title": "Star-Burns",
+          "description": "Top hat"
+        }
+      ]
+    },
+    {
+      "quote": "Frankly, my dear, I don't give a dean!",
+      "description": "Study Room • Puns",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Constant 'dean' puns"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Rolling eyes"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Groaning"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not openly anything, and gay doesn't begin to cover it.",
+      "description": "Greendale • Interview",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "To the school board"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Security"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Board"
+        }
+      ]
+    },
+    {
+      "quote": "Fire can't go through doors, stupid! It's not a ghost!",
+      "description": "Study Room • Debate",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Ghosts can't go through doors!"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Arguing with Pierce"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Taking notes"
+        }
+      ]
+    },
+    {
+      "quote": "Ghosts can't go through doors, stupid! It's not fire!",
+      "description": "Study Room • Debate",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Opposite of Chang"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Fire"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Analyzing"
+        }
+      ]
+    },
+    {
+      "quote": "I am Señor Chang! And I'm so ill!",
+      "description": "Spanish 101 • Rap",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Payday"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Intro song"
+        },
+        {
+          "title": "Magnitude",
+          "description": "Pop pop"
+        }
+      ]
+    },
+    {
+      "quote": "Even his shadow! Look at his shadow!",
+      "description": "Campus • Jeff's Aviators",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Fainting over Jeff"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Blushing"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Shaking head"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a security guard now!",
+      "description": "Season 3 • Campus",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Hiring"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Changlorious Bastards"
+        },
+        {
+          "title": "Leonard",
+          "description": "Pool"
+        }
+      ]
+    }
+  ]
+}

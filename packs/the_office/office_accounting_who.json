@@ -1,0 +1,298 @@
+{
+  "id": "office_accounting_who",
+  "title": "The Office: Accounting & Annex",
+  "description": "Kevin, Angela, Oscar, Stanley, Kelly, Ryan, and Creed.",
+  "category": "series",
+  "group": "The Office (US)",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Why waste time say lot word when few word do trick?",
+      "description": "Bullpen • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "Sea World / See world"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Crossword"
+        },
+        {
+          "title": "Creed Bratton",
+          "description": "Mung beans"
+        }
+      ]
+    },
+    {
+      "quote": "I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive...",
+      "description": "Office • Pretzel Day",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "Chili"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "364 days till the next Pretzel Day"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "Spreadsheet"
+        }
+      ]
+    },
+    {
+      "quote": "Did I stutter?!",
+      "description": "Conference Room • Meeting",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Shocked"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Putting Michael in his place"
+        },
+        {
+          "title": "Toby Flenderson",
+          "description": "Quiet"
+        }
+      ]
+    },
+    {
+      "quote": "I don't care what they say about me. I just want to eat.",
+      "description": "Break Room • Cake",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "Simple man"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "Disgusted"
+        },
+        {
+          "title": "Phyllis Vance",
+          "description": "Popcarn"
+        }
+      ]
+    },
+    {
+      "quote": "Save Bandit!",
+      "description": "Season 5 • Fire Drill",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "Vending machine"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "In the ceiling"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "Throwing her cat"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not offended by homosexuality. In the '60s, I made love to many, many women.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Creed Bratton",
+          "description": "Often outdoors, in the mud and the rain"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Conference room"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Ignoring"
+        }
+      ]
+    },
+    {
+      "quote": "B-O-B-O-D-D-Y. What does the first B stand for?",
+      "description": "Conference Room • Creed as Manager",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Creed Bratton",
+          "description": "Biznus!"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "I like it!"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Writing it down"
+        }
+      ]
+    },
+    {
+      "quote": "First of all, how dare you?",
+      "description": "Annex • Talking Head",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ryan Howard",
+          "description": "WUPHF"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "Fashion & gossip"
+        },
+        {
+          "title": "Toby Flenderson",
+          "description": "Sighing"
+        }
+      ]
+    },
+    {
+      "quote": "I have a lot of questions. Number one: how dare you?",
+      "description": "Conference Room • Kelly",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Angela Martin",
+          "description": "Cats"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "To Ryan"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "Ryan started the fire!",
+      "description": "Parking Lot • Singing",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Cheering"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "Dancing"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "About the cheesy pita"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the Scranton Strangler—wait, no, I'm not.",
+      "description": "Office • Creed",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Creed Bratton",
+          "description": "Halloween blood on shirt"
+        },
+        {
+          "title": "Toby Flenderson",
+          "description": "Jury duty"
+        },
+        {
+          "title": "Gabe Lewis",
+          "description": "Skeleton man"
+        }
+      ]
+    },
+    {
+      "quote": "I'm taking a mental health day.",
+      "description": "Office • Couch",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "Chili"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Sleeping"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "Actually..."
+        }
+      ]
+    },
+    {
+      "quote": "Actually...",
+      "description": "Office • Correcting Everyone",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Angela Martin",
+          "description": "Party Planning"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "Math"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The 'Actually' guy"
+        }
+      ]
+    },
+    {
+      "quote": "You're a presentation tool!",
+      "description": "Office • Ryan",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Kelly Kapoor",
+          "description": "Yelling"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "WUPHF.com"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Proud"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a million-dollar idea!",
+      "description": "Conference Room • WUPHF",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Investing"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "Pitching WUPHF"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "No"
+        }
+      ]
+    }
+  ]
+}

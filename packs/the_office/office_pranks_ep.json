@@ -1,0 +1,298 @@
+{
+  "id": "office_pranks_ep",
+  "title": "The Office: Cold Opens & Pranks",
+  "description": "Identify the episode for the best Office cold opens & pranks.",
+  "category": "series",
+  "group": "The Office (US)",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Why are there nickels in my phone?!",
+      "description": "Season 2 • Jim's Prank",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E21 • Conflict Resolution",
+          "description": "Toby's complaint files"
+        },
+        {
+          "title": "S3E20 • Product Recall",
+          "description": "Bears"
+        },
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Fire"
+        }
+      ]
+    },
+    {
+      "quote": "My stapler is in Jell-O!",
+      "description": "Season 1 • Pilot",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E21 • Conflict Resolution",
+          "description": "Nickels"
+        },
+        {
+          "title": "S1E01 • Pilot",
+          "description": "First prank"
+        },
+        {
+          "title": "S3E01 • Gay Witch Hunt",
+          "description": "Gaydar"
+        }
+      ]
+    },
+    {
+      "quote": "Bears. Beets. Battlestar Galactica.",
+      "description": "Season 3 • Cold Open",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Jell-O"
+        },
+        {
+          "title": "S2E21 • Conflict Resolution",
+          "description": "Files"
+        },
+        {
+          "title": "S3E20 • Product Recall",
+          "description": "Jim impersonates Dwight"
+        }
+      ]
+    },
+    {
+      "quote": "Today, smoking is gonna save lives.",
+      "description": "Season 5 • Fire Drill",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Door handles heated"
+        },
+        {
+          "title": "S3E19 • Safety Training",
+          "description": "Roof"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Candles"
+        }
+      ]
+    },
+    {
+      "quote": "Parkour! Parkour!",
+      "description": "Season 6 • Cold Open",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Fire"
+        },
+        {
+          "title": "S6E01 • Gossip",
+          "description": "Jumping on warehouse boxes"
+        },
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "Lip dub"
+        }
+      ]
+    },
+    {
+      "quote": "Nobody but me! Lip dub!",
+      "description": "Season 7 • Cold Open",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E01 • Gossip",
+          "description": "Parkour"
+        },
+        {
+          "title": "S5E26 • Casual Friday",
+          "description": "Chili"
+        },
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "The entire office dances"
+        }
+      ]
+    },
+    {
+      "quote": "Kevin's Famous Chili.",
+      "description": "Season 5 • Cold Open",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E26 • Casual Friday",
+          "description": "Undercooked onions"
+        },
+        {
+          "title": "S6E01 • Gossip",
+          "description": "Parkour"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Osso buco"
+        }
+      ]
+    },
+    {
+      "quote": "Future Dwight: Do not drink the coffee. It's poisoned.",
+      "description": "Season 3 • Fax",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E21 • Conflict Resolution",
+          "description": "Nickels"
+        },
+        {
+          "title": "S3E07 • Branch Closing",
+          "description": "Jim faxes Dwight from the future"
+        },
+        {
+          "title": "S4E09 • Local Ad",
+          "description": "Commercial"
+        }
+      ]
+    },
+    {
+      "quote": "I bought a gaydar from Sharper Image!",
+      "description": "Season 3 • Desk",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E07 • Branch Closing",
+          "description": "Fax"
+        },
+        {
+          "title": "S2E21 • Conflict Resolution",
+          "description": "Files"
+        },
+        {
+          "title": "S3E01 • Gay Witch Hunt",
+          "description": "Jim's prank"
+        }
+      ]
+    },
+    {
+      "quote": "My desk is wrapped in Christmas paper!",
+      "description": "Season 5 • Mega-Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E11 • Moroccan Christmas",
+          "description": "Wrapping paper desk collapses"
+        },
+        {
+          "title": "S3E10 • A Benihana Christmas",
+          "description": "Bike"
+        },
+        {
+          "title": "S6E13 • Secret Santa",
+          "description": "Phyllis"
+        }
+      ]
+    },
+    {
+      "quote": "Look at me, I'm Asian Jim!",
+      "description": "Season 9 • Cold Open",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S8E14 • Special Project",
+          "description": "Florida"
+        },
+        {
+          "title": "S9E03 • Andy's Ancestry",
+          "description": "Randall Park"
+        },
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "Lip dub"
+        }
+      ]
+    },
+    {
+      "quote": "Murder in Savannah! There has been a murder!",
+      "description": "Season 6 • Board Game",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "CPR"
+        },
+        {
+          "title": "S6E01 • Gossip",
+          "description": "Parkour"
+        },
+        {
+          "title": "S6E10 • Murder",
+          "description": "I do declare!"
+        }
+      ]
+    },
+    {
+      "quote": "I do declare!",
+      "description": "Season 6 • Conference Room",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Wedding"
+        },
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "Dance"
+        },
+        {
+          "title": "S6E10 • Murder",
+          "description": "Michael's Southern accent"
+        }
+      ]
+    },
+    {
+      "quote": "We're doing a lip dub!",
+      "description": "Season 7 • Premiere",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "Human nature"
+        },
+        {
+          "title": "S6E01 • Gossip",
+          "description": "Parkour"
+        },
+        {
+          "title": "S5E26 • Casual Friday",
+          "description": "Chili"
+        }
+      ]
+    },
+    {
+      "quote": "Dwight's snowball fight!",
+      "description": "Season 7 • Christmas",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E11 • Moroccan Christmas",
+          "description": "Desk"
+        },
+        {
+          "title": "S7E11 • Classy Christmas",
+          "description": "Snowman army"
+        },
+        {
+          "title": "S8E10 • Christmas Wishes",
+          "description": "Andy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "comm_s1_s2_ep",
+  "title": "Community: Seasons 1–2",
+  "description": "Match the Season 1–2 quote to the exact episode.",
+  "category": "series",
+  "group": "Community",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 170,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "I'm a community college student, not a loser!",
+      "description": "Season 1 • Pilot",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Forming the study group"
+        },
+        {
+          "title": "S1E07 • Introduction to Statistics",
+          "description": "Halloween"
+        },
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Chicken"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Batman. And I'm saving you.",
+      "description": "Season 1 • Halloween",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Study room"
+        },
+        {
+          "title": "S1E07 • Introduction to Statistics",
+          "description": "Abed as Batman"
+        },
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Paintball"
+        }
+      ]
+    },
+    {
+      "quote": "We're a Mafia! Selling chicken fingers!",
+      "description": "Season 1 • Cafeteria",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E07 • Introduction to Statistics",
+          "description": "Party"
+        },
+        {
+          "title": "S1E17 • Physical Education",
+          "description": "Pool"
+        },
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Goodfellas parody"
+        }
+      ]
+    },
+    {
+      "quote": "I'm playing pool in shorts? No, I'm playing naked!",
+      "description": "Season 1 • Gym",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Football"
+        },
+        {
+          "title": "S1E17 • Physical Education",
+          "description": "Jeff vs. Coach Bogner"
+        },
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Paintball"
+        }
+      ]
+    },
+    {
+      "quote": "Priority registration! Let the games begin!",
+      "description": "Season 1 • Paintball",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Chicken"
+        },
+        {
+          "title": "S1E17 • Physical Education",
+          "description": "Pool"
+        },
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "First paintball"
+        }
+      ]
+    },
+    {
+      "quote": "Anthropology! Why is Betty White choking Jeff?",
+      "description": "Season 2 • Premiere",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E01 • Anthropology 101",
+          "description": "Respect!"
+        },
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Zombies"
+        },
+        {
+          "title": "S2E08 • Cooperative Calligraphy",
+          "description": "Pen"
+        }
+      ]
+    },
+    {
+      "quote": "This is a bottle episode!",
+      "description": "Season 2 • Study Room",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E01 • Anthropology 101",
+          "description": "Classroom"
+        },
+        {
+          "title": "S2E08 • Cooperative Calligraphy",
+          "description": "Annie's pen"
+        },
+        {
+          "title": "S2E11 • Abed's Uncontrollable Christmas",
+          "description": "Claymation"
+        }
+      ]
+    },
+    {
+      "quote": "Taco meat from the army surplus store!",
+      "description": "Season 2 • Halloween",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E01 • Anthropology 101",
+          "description": "Betty White"
+        },
+        {
+          "title": "S2E08 • Cooperative Calligraphy",
+          "description": "Puppy"
+        },
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Zombie outbreak"
+        }
+      ]
+    },
+    {
+      "quote": "You're a wizard, Pierce!",
+      "description": "Season 2 • D&D",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E14 • Advanced Dungeons & Dragons",
+          "description": "Fat Neil's game"
+        },
+        {
+          "title": "S2E11 • Uncontrollable Christmas",
+          "description": "Winter Wonderland"
+        },
+        {
+          "title": "S2E19 • Critical Film Studies",
+          "description": "My Dinner with Andre"
+        }
+      ]
+    },
+    {
+      "quote": "My Dinner with Andre... at a fancy restaurant!",
+      "description": "Season 2 • Pulp Fiction",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E14 • Advanced D&D",
+          "description": "Dice"
+        },
+        {
+          "title": "S2E19 • Critical Film Studies",
+          "description": "Abed's birthday"
+        },
+        {
+          "title": "S2E23 • A Fistful of Paintballs",
+          "description": "Western"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna win that $100,000 for Greendale!",
+      "description": "Season 2 • Paintball Finale",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Zombies"
+        },
+        {
+          "title": "S2E19 • Critical Film Studies",
+          "description": "Diner"
+        },
+        {
+          "title": "S2E23 • A Fistful of Paintballs",
+          "description": "City College invasion"
+        }
+      ]
+    },
+    {
+      "quote": "My whole brain is crying!",
+      "description": "Season 2 • Conspiracy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E09 • Conspiracy Theories and Interior Design",
+          "description": "Professor Professorson"
+        },
+        {
+          "title": "S2E08 • Cooperative Calligraphy",
+          "description": "Pen"
+        },
+        {
+          "title": "S2E14 • Advanced D&D",
+          "description": "Dice"
+        }
+      ]
+    },
+    {
+      "quote": "Professor Professorson!",
+      "description": "Season 2 • Night School",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E09 • Conspiracy Theories and Interior Design",
+          "description": "Blanket fort & fake gunfight"
+        },
+        {
+          "title": "S2E01 • Anthropology 101",
+          "description": "Class"
+        },
+        {
+          "title": "S2E23 • A Fistful of Paintballs",
+          "description": "Ice cream"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a level 5 laser lotus!",
+      "description": "Season 1 • Pierce's Religion",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Desk"
+        },
+        {
+          "title": "S1E14 • Interpretive Dance",
+          "description": "Wait—S1/S2"
+        },
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Paintball"
+        }
+      ]
+    },
+    {
+      "quote": "You're streets behind!",
+      "description": "Season 1 • Study Room",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Table"
+        },
+        {
+          "title": "S1E07 • Intro to Statistics",
+          "description": "Party"
+        },
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Pierce"
+        }
+      ]
+    }
+  ]
+}

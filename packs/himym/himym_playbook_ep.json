@@ -1,0 +1,298 @@
+{
+  "id": "himym_playbook_ep",
+  "title": "HIMYM: The Playbook",
+  "description": "Match Barney's wildest schemes to the exact episode.",
+  "category": "series",
+  "group": "How I Met Your Mother",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "The Scuba Diver.",
+      "description": "Season 5 • Barney's Masterpiece",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "Barney's book of scams"
+        },
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Blue French horn"
+        },
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Robin Sparkles"
+        }
+      ]
+    },
+    {
+      "quote": "The Lorenzo Von Matterhorn.",
+      "description": "Season 5 • Fake Wikipedia Pages",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "Barney invents a billionaire"
+        },
+        {
+          "title": "S3E14 • The Bracket",
+          "description": "64-girl bracket"
+        },
+        {
+          "title": "S4E24 • The Leap",
+          "description": "Rooftop jump"
+        }
+      ]
+    },
+    {
+      "quote": "The Naked Man: works two out of three times.",
+      "description": "Season 4 • Mitch's Move",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "Scuba Diver"
+        },
+        {
+          "title": "S4E09 • The Naked Man",
+          "description": "Mitch's guaranteed move"
+        },
+        {
+          "title": "S2E14 • Monday Night Football",
+          "description": "Sensory Deprivator"
+        }
+      ]
+    },
+    {
+      "quote": "The Lemon Law: five minutes to decide.",
+      "description": "Season 1 • First Date Rule",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "He's Not Coming"
+        },
+        {
+          "title": "S3E01 • Wait for It",
+          "description": "Tattoo"
+        },
+        {
+          "title": "S1E16 • Cupcake",
+          "description": "Wait—S1E17 Life Among the Gorillas / S1E11"
+        }
+      ]
+    },
+    {
+      "quote": "The Bro Code: Article 1, Bros before hos.",
+      "description": "Season 3 • Barney's Sacred Text",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E17 • The Goat",
+          "description": "Barney & Ted's fallout"
+        },
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Mall video"
+        },
+        {
+          "title": "S6E13 • Bad News",
+          "description": "Countdown"
+        }
+      ]
+    },
+    {
+      "quote": "Let's go to the mall, today!",
+      "description": "Season 2 • Robin Sparkles Debut",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "MacLaren's"
+        },
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Canadian pop star reveal"
+        },
+        {
+          "title": "S3E16 • Sandcastles in the Sand",
+          "description": "Sequel"
+        }
+      ]
+    },
+    {
+      "quote": "Ducky Tie! One year of wearing it.",
+      "description": "Season 7 • Shinjitsu Teppanyaki",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "5 slaps"
+        },
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "Scuba"
+        },
+        {
+          "title": "S7E03 • Ducky Tie",
+          "description": "Barney's bet with Marshall"
+        }
+      ]
+    },
+    {
+      "quote": "Hot/Crazy Scale.",
+      "description": "Season 3 • Barney's Graph",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E05 • How I Met Everyone Else",
+          "description": "Blah-Blah"
+        },
+        {
+          "title": "S4E01 • Do I Know You?",
+          "description": "Proposal"
+        },
+        {
+          "title": "S1E10 • Pineapple Incident",
+          "description": "Trudy"
+        }
+      ]
+    },
+    {
+      "quote": "Cheerleader Effect.",
+      "description": "Season 4 • Group Illusion",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E05 • How I Met Everyone Else",
+          "description": "Crazy eyes"
+        },
+        {
+          "title": "S4E07 • Not a Father's Day",
+          "description": "Sock puppets"
+        },
+        {
+          "title": "S6E01 • Big Days",
+          "description": "Cindy"
+        }
+      ]
+    },
+    {
+      "quote": "Platinum Rule: never date anyone you see regularly.",
+      "description": "Season 3 • Eight Steps",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Olive theory"
+        },
+        {
+          "title": "S5E12 • Girls Versus Suits",
+          "description": "Suit song"
+        },
+        {
+          "title": "S3E11 • The Platinum Rule",
+          "description": "Ted & Stella"
+        }
+      ]
+    },
+    {
+      "quote": "Nothing suits me like a suit!",
+      "description": "Season 5 • Musical Number",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E12 • Girls Versus Suits",
+          "description": "100th episode musical"
+        },
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Mall"
+        },
+        {
+          "title": "S7E10 • Tick Tick Tick",
+          "description": "Boat"
+        }
+      ]
+    },
+    {
+      "quote": "The Robin: the final play.",
+      "description": "Season 8 • WWN Rooftop",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "Scuba"
+        },
+        {
+          "title": "S8E12 • The Final Page",
+          "description": "Barney proposes to Robin"
+        },
+        {
+          "title": "S9E24 • Last Forever",
+          "description": "Finale"
+        }
+      ]
+    },
+    {
+      "quote": "Weekend at Barney's.",
+      "description": "Season 8 • Controlling Dead Barney",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "Fake billionaire"
+        },
+        {
+          "title": "S7E03 • Ducky Tie",
+          "description": "Teppanyaki"
+        },
+        {
+          "title": "S8E18 • Weekend at Barney's",
+          "description": "Ted & Marshall's puppetry"
+        }
+      ]
+    },
+    {
+      "quote": "The Mermaid Theory.",
+      "description": "Season 6 • Manatee to Mermaid",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S6E11 • The Mermaid Theory",
+          "description": "Marshall & Robin hang out"
+        },
+        {
+          "title": "S4E09 • The Naked Man",
+          "description": "Couch"
+        },
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Slap 1"
+        }
+      ]
+    },
+    {
+      "quote": "Crazy Eyes.",
+      "description": "Season 2 • Chloe at the Coffee Shop",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E05 • How I Met Everyone Else",
+          "description": "Hot/Crazy"
+        },
+        {
+          "title": "S2E07 • Swarley",
+          "description": "Marshall's date Chloe"
+        },
+        {
+          "title": "S1E10 • Pineapple Incident",
+          "description": "Pineapple"
+        }
+      ]
+    }
+  ]
+}

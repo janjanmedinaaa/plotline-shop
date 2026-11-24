@@ -1,0 +1,298 @@
+{
+  "id": "himym_ted_who",
+  "title": "HIMYM: Mosby Moments",
+  "description": "Architecture, red boots, and Ted's romantic speeches.",
+  "category": "series",
+  "group": "How I Met Your Mother",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "I think I'm in love with you.",
+      "description": "Season 1 • First Date",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Steals the blue French horn"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "MacLaren's"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Wesleyan"
+        }
+      ]
+    },
+    {
+      "quote": "Kids, I'm going to tell you an incredible story.",
+      "description": "Pilot • 2030 Study",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Future Ted narrating"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Judge"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Uncle Barney"
+        }
+      ]
+    },
+    {
+      "quote": "Classic Schmosby!",
+      "description": "Season 5 • Punchy's Greeting",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "College"
+        },
+        {
+          "title": "Punchy",
+          "description": "High school friend"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Booth"
+        }
+      ]
+    },
+    {
+      "quote": "Actually, it's pronounced 'encyclopaedia'.",
+      "description": "Season 5 • Dinner Party",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Pretentious correction"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Laughs"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Eye roll"
+        }
+      ]
+    },
+    {
+      "quote": "Chameleon.",
+      "description": "Season 6 • Zoo or False",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Mugged by a monkey"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Pronouncing 'chameleon'"
+        }
+      ]
+    },
+    {
+      "quote": "Bowl.",
+      "description": "Season 5 • Saying a Word Too Many Times",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Semantic satiation"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Skee-ball"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Bowling"
+        }
+      ]
+    },
+    {
+      "quote": "You can't just skip ahead to where you think your life should be.",
+      "description": "Season 8 • Farhampton",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "To Robin"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Rooftop confession"
+        },
+        {
+          "title": "Tracy McConnell",
+          "description": "Train station"
+        }
+      ]
+    },
+    {
+      "quote": "If you have chemistry, you only need one other thing: timing.",
+      "description": "Season 7 • Snowing Outside",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Umbrella"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Timing's a bitch"
+        }
+      ]
+    },
+    {
+      "quote": "I would have stolen you a whole orchestra.",
+      "description": "Season 9 • Farhampton Inn",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Blue French horn callback"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Wedding"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Road trip"
+        }
+      ]
+    },
+    {
+      "quote": "Thank you, Linus.",
+      "description": "Season 9 • Farhampton Bar",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Lobby"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Kennedy Package"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Suite"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a big fan of the Olive Theory.",
+      "description": "Season 1 • MacLaren's",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Explaining Marshall & Lily"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Olives"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "First date"
+        }
+      ]
+    },
+    {
+      "quote": "Gouda!",
+      "description": "Season 5 • Marshall's Cheese Party",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Wine"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Proud of his gouda"
+        }
+      ]
+    },
+    {
+      "quote": "It's just... eventually.",
+      "description": "Season 6 • 45 Days Speech",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Wishing for 45 extra days"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Minnesota"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "MacLaren's"
+        }
+      ]
+    },
+    {
+      "quote": "Hi. One ticket to Farhampton, please.",
+      "description": "Season 8 • Train Station",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Airport"
+        },
+        {
+          "title": "Tracy McConnell",
+          "description": "The Mother with the yellow umbrella"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Rome"
+        }
+      ]
+    },
+    {
+      "quote": "What's in the box?!",
+      "description": "Season 3 • Pineapple",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Dorm"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Gazing at a mystery"
+        }
+      ]
+    }
+  ]
+}

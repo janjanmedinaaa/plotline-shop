@@ -1,0 +1,298 @@
+{
+  "id": "friends_s6_s10_ep",
+  "title": "Friends: Seasons 6–10",
+  "description": "Identify the Season 6–10 episode from each quote.",
+  "category": "series",
+  "group": "Friends",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 170,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "That's a lot of information to get in thirty seconds.",
+      "description": "Season 6 • Thanksgiving",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S6E09 • The One Where Ross Got High",
+          "description": "Judy Geller's reaction"
+        },
+        {
+          "title": "S6E17 • The One with Unagi",
+          "description": "Karate"
+        },
+        {
+          "title": "S7E14 • The One Where They All Turn Thirty",
+          "description": "30th"
+        }
+      ]
+    },
+    {
+      "quote": "I wasn't supposed to put beef in the trifle!",
+      "description": "Season 6 • Apartment 20",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S6E09 • The One Where Ross Got High",
+          "description": "Pages stuck together"
+        },
+        {
+          "title": "S7E08 • Chandler Doesn't Like Dogs",
+          "description": "Dog"
+        },
+        {
+          "title": "S8E09 • The Rumor",
+          "description": "Brad Pitt"
+        }
+      ]
+    },
+    {
+      "quote": "Salmon skin roll.",
+      "description": "Season 6 • Central Perk",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E09 • Ross Got High",
+          "description": "Trifle"
+        },
+        {
+          "title": "S6E17 • The One with Unagi",
+          "description": "Rachel & Phoebe mock Ross"
+        },
+        {
+          "title": "S7E10 • Holiday Armadillo",
+          "description": "Hanukkah"
+        }
+      ]
+    },
+    {
+      "quote": "My best friend and my sister!",
+      "description": "Season 5/6 • Apartment",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E09 • Ross Got High",
+          "description": "Living room"
+        },
+        {
+          "title": "S6E25 • The Proposal",
+          "description": "Candles"
+        },
+        {
+          "title": "S5E14 • The One Where Everybody Finds Out",
+          "description": "Ross sees them"
+        }
+      ]
+    },
+    {
+      "quote": "You're gonna be a great dad.",
+      "description": "Season 7 • Holiday Armadillo",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S7E10 • The One with the Holiday Armadillo",
+          "description": "Hanukkah with Ben"
+        },
+        {
+          "title": "S7E14 • They All Turn Thirty",
+          "description": "Car"
+        },
+        {
+          "title": "S7E24 • Monica and Chandler's Wedding",
+          "description": "Altar"
+        }
+      ]
+    },
+    {
+      "quote": "Why God, why?! We had a deal!",
+      "description": "Season 7 • 30th Birthday",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S7E10 • Holiday Armadillo",
+          "description": "Armadillo"
+        },
+        {
+          "title": "S7E14 • The One Where They All Turn Thirty",
+          "description": "Joey cries at 30"
+        },
+        {
+          "title": "S8E09 • The Rumor",
+          "description": "High school"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the founder of the 'I Hate Rachel Green' club!",
+      "description": "Season 8 • Thanksgiving",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S7E24 • Wedding",
+          "description": "Reception"
+        },
+        {
+          "title": "S8E04 • The One with the Videotape",
+          "description": "Mount Tibidabo"
+        },
+        {
+          "title": "S8E09 • The One with the Rumor",
+          "description": "Will Colbert"
+        }
+      ]
+    },
+    {
+      "quote": "Years ago, when I was backpacking across Western Europe...",
+      "description": "Season 8 • Mount Tibidabo",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S8E04 • The One with the Videotape",
+          "description": "Ken Adams story"
+        },
+        {
+          "title": "S8E09 • The Rumor",
+          "description": "Thanksgiving"
+        },
+        {
+          "title": "S8E24 • Rachel Has a Baby",
+          "description": "Hospital"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Ken Adams!",
+      "description": "Season 8 • Living Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S8E04 • The One with the Videotape",
+          "description": "Joey's magic story"
+        },
+        {
+          "title": "S9E02 • Emma Cries",
+          "description": "Nursery"
+        },
+        {
+          "title": "S10E02 • Ross Is Fine",
+          "description": "Fajitas"
+        }
+      ]
+    },
+    {
+      "quote": "I'm fine! My fajitas!",
+      "description": "Season 10 • Ross's Apartment",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S9E24 • Barbados",
+          "description": "Conference"
+        },
+        {
+          "title": "S10E02 • The One Where Ross Is Fine",
+          "description": "Double date"
+        },
+        {
+          "title": "S10E03 • Ross's Tan",
+          "description": "Spray tan"
+        }
+      ]
+    },
+    {
+      "quote": "I'm an eight!",
+      "description": "Season 10 • Tanning Salon",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S10E02 • Ross Is Fine",
+          "description": "Margaritas"
+        },
+        {
+          "title": "S10E08 • Late Thanksgiving",
+          "description": "Door"
+        },
+        {
+          "title": "S10E03 • The One with Ross's Tan",
+          "description": "Four twos"
+        }
+      ]
+    },
+    {
+      "quote": "Veto!",
+      "description": "Season 9 • Baby Names",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S9E05 • Phoebe's Birthday Dinner",
+          "description": "Wait—S8/S9"
+        },
+        {
+          "title": "S10E13 • Joey Speaks French",
+          "description": "Audition"
+        },
+        {
+          "title": "S10E17 • The Last One",
+          "description": "Airport"
+        }
+      ]
+    },
+    {
+      "quote": "Je m'appelle Claude.",
+      "description": "Season 10 • Theater",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S10E03 • Ross's Tan",
+          "description": "Salon"
+        },
+        {
+          "title": "S10E13 • The One Where Joey Speaks French",
+          "description": "Phoebe's lesson"
+        },
+        {
+          "title": "S10E17 • The Last One",
+          "description": "Moving"
+        }
+      ]
+    },
+    {
+      "quote": "Shall we get some coffee? Sure. Where?",
+      "description": "Season 10 • Empty Apartment",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S10E08 • Late Thanksgiving",
+          "description": "Hallway"
+        },
+        {
+          "title": "S10E13 • Joey Speaks French",
+          "description": "Central Perk"
+        },
+        {
+          "title": "S10E17 • The Last One",
+          "description": "Chandler's final joke"
+        }
+      ]
+    },
+    {
+      "quote": "I got off the plane.",
+      "description": "Season 10 • Ross's Apartment",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S10E02 • Ross Is Fine",
+          "description": "Kitchen"
+        },
+        {
+          "title": "S10E13 • Joey Speaks French",
+          "description": "Living room"
+        },
+        {
+          "title": "S10E17 • The Last One",
+          "description": "Final reunion"
+        }
+      ]
+    }
+  ]
+}

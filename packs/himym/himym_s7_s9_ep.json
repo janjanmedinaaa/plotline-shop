@@ -1,0 +1,298 @@
+{
+  "id": "himym_s7_s9_ep",
+  "title": "HIMYM: Final Seasons",
+  "description": "Guess the Season 7–9 episode for each memorable quote.",
+  "category": "series",
+  "group": "How I Met Your Mother",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 170,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Tick, tick, tick... a second that never ends.",
+      "description": "Season 7 • Cruise Ship",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S7E10 • Tick Tick Tick",
+          "description": "Barney & Robin's pact"
+        },
+        {
+          "title": "S7E03 • Ducky Tie",
+          "description": "Teppanyaki"
+        },
+        {
+          "title": "S7E12 • Symphony of Illumination",
+          "description": "Lights"
+        }
+      ]
+    },
+    {
+      "quote": "Symphony of Illumination.",
+      "description": "Season 7 • Apartment Lights",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S7E10 • Tick Tick Tick",
+          "description": "Boat"
+        },
+        {
+          "title": "S7E12 • Symphony of Illumination",
+          "description": "Ted cheers up Robin"
+        },
+        {
+          "title": "S7E17 • No Pressure",
+          "description": "Rain"
+        }
+      ]
+    },
+    {
+      "quote": "Do you still love me? No.",
+      "description": "Season 7 • Rooftop",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S7E12 • Symphony of Illumination",
+          "description": "Christmas"
+        },
+        {
+          "title": "S7E10 • Tick Tick Tick",
+          "description": "Bar"
+        },
+        {
+          "title": "S7E17 • No Pressure",
+          "description": "Yellow umbrellas"
+        }
+      ]
+    },
+    {
+      "quote": "The Autumn of Breakups.",
+      "description": "Season 8 • Victoria & Nick",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S8E05 • The Autumn of Breakups",
+          "description": "Ted & Victoria"
+        },
+        {
+          "title": "S8E12 • The Final Page",
+          "description": "Proposal"
+        },
+        {
+          "title": "S8E20 • The Time Travelers",
+          "description": "Booth"
+        }
+      ]
+    },
+    {
+      "quote": "The Ashtray! The Captain's Boats!",
+      "description": "Season 8 • Gallery",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S8E05 • The Autumn of Breakups",
+          "description": "Apartment"
+        },
+        {
+          "title": "S8E17 • The Ashtray",
+          "description": "Lily's art consultant job"
+        },
+        {
+          "title": "S8E20 • The Time Travelers",
+          "description": "20 years"
+        }
+      ]
+    },
+    {
+      "quote": "Something New! One ticket to Farhampton.",
+      "description": "Season 8 • Finale",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S8E12 • The Final Page",
+          "description": "WWN"
+        },
+        {
+          "title": "S8E20 • The Time Travelers",
+          "description": "Booth"
+        },
+        {
+          "title": "S8E24 • Something New",
+          "description": "First reveal of the Mother"
+        }
+      ]
+    },
+    {
+      "quote": "The Locket! Where is the locket?",
+      "description": "Season 9 • Farhampton",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S9E01 • The Locket",
+          "description": "Heading to the wedding"
+        },
+        {
+          "title": "S9E08 • The Lighthouse",
+          "description": "Proposal"
+        },
+        {
+          "title": "S9E16 • How Your Mother Met Me",
+          "description": "Yellow umbrella"
+        }
+      ]
+    },
+    {
+      "quote": "Bedtime Stories! Rhyming the whole episode!",
+      "description": "Season 9 • Bus",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S9E01 • The Locket",
+          "description": "Train"
+        },
+        {
+          "title": "S9E11 • Bedtime Stories",
+          "description": "Marshall tells rhymes to Marvin"
+        },
+        {
+          "title": "S9E14 • Slapsgiving 3",
+          "description": "Forest"
+        }
+      ]
+    },
+    {
+      "quote": "How Your Mother Met Me.",
+      "description": "Season 9 • 200th Episode",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S9E01 • The Locket",
+          "description": "Locket"
+        },
+        {
+          "title": "S9E11 • Bedtime Stories",
+          "description": "Bus"
+        },
+        {
+          "title": "S9E16 • How Your Mother Met Me",
+          "description": "Tracy's 8-year journey"
+        }
+      ]
+    },
+    {
+      "quote": "La Vie En Rose on the ukulele.",
+      "description": "Season 9 • Balcony",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S9E08 • The Lighthouse",
+          "description": "Lighthouse"
+        },
+        {
+          "title": "S9E11 • Bedtime Stories",
+          "description": "Bus"
+        },
+        {
+          "title": "S9E16 • How Your Mother Met Me",
+          "description": "Ted hears Tracy sing"
+        }
+      ]
+    },
+    {
+      "quote": "Gary Blauman! I hate that guy... wait, I love that guy!",
+      "description": "Season 9 • Wedding",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S9E21 • Gary Blauman",
+          "description": "Wedding seating chart"
+        },
+        {
+          "title": "S9E16 • How Your Mother Met Me",
+          "description": "Bar"
+        },
+        {
+          "title": "S9E24 • Last Forever",
+          "description": "Finale"
+        }
+      ]
+    },
+    {
+      "quote": "The End of the Aisle.",
+      "description": "Season 9 • Barney & Robin's Wedding",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S9E21 • Gary Blauman",
+          "description": "Cocktail hour"
+        },
+        {
+          "title": "S9E22 • The End of the Aisle",
+          "description": "Ring Bear"
+        },
+        {
+          "title": "S9E24 • Last Forever",
+          "description": "Station"
+        }
+      ]
+    },
+    {
+      "quote": "Ring Bear—not Ring Bearer!",
+      "description": "Season 9 • Ceremony",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S9E01 • The Locket",
+          "description": "Limo"
+        },
+        {
+          "title": "S9E22 • The End of the Aisle",
+          "description": "Trevor the bear"
+        },
+        {
+          "title": "S9E24 • Last Forever",
+          "description": "Booth"
+        }
+      ]
+    },
+    {
+      "quote": "That's how I met your mother.",
+      "description": "Season 9 • Series Finale",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S9E16 • How Your Mother Met Me",
+          "description": "200th"
+        },
+        {
+          "title": "S9E22 • The End of the Aisle",
+          "description": "Wedding"
+        },
+        {
+          "title": "S9E24 • Last Forever",
+          "description": "Farhampton train platform"
+        }
+      ]
+    },
+    {
+      "quote": "High six!",
+      "description": "Season 7 • MacLaren's",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S7E01 • The Best Man",
+          "description": "Wedding flashforward"
+        },
+        {
+          "title": "S7E10 • Tick Tick Tick",
+          "description": "Cruise"
+        },
+        {
+          "title": "S8E12 • The Final Page",
+          "description": "WWN"
+        }
+      ]
+    }
+  ]
+}

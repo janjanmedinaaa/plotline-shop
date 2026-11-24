@@ -1,0 +1,298 @@
+{
+  "id": "office_classic_ep",
+  "title": "The Office: Iconic Episodes",
+  "description": "Match the quote to the unforgettable Office episode.",
+  "category": "series",
+  "group": "The Office (US)",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Today, smoking is gonna save lives.",
+      "description": "Season 5 • Fire Drill",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Dwight's fire drill"
+        },
+        {
+          "title": "S2E01 • The Dundies",
+          "description": "Chili's"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Candles"
+        }
+      ]
+    },
+    {
+      "quote": "SAVE BANDIT!",
+      "description": "Season 5 • Ceiling Cat",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Angela throws Bandit"
+        },
+        {
+          "title": "S3E20 • Safety Training",
+          "description": "Trampoline"
+        },
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "Snip, snap! Snip, snap! Snip, snap!",
+      "description": "Season 4 • Condos",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "CPR"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Michael & Jan's fight"
+        },
+        {
+          "title": "S2E12 • The Injury",
+          "description": "Foreman Grill"
+        }
+      ]
+    },
+    {
+      "quote": "You took me by the hand... made me a man...",
+      "description": "Season 4 • Hunter's CD",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E01 • The Dundies",
+          "description": "Chili's"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "That One Night"
+        },
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Song"
+        }
+      ]
+    },
+    {
+      "quote": "I burned my foot on a George Foreman Grill!",
+      "description": "Season 2 • Morning",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Plasma TV"
+        },
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Fire"
+        },
+        {
+          "title": "S2E12 • The Injury",
+          "description": "Dwight's concussion"
+        }
+      ]
+    },
+    {
+      "quote": "Bears. Beets. Battlestar Galactica.",
+      "description": "Season 3 • Cold Open",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E20 • Product Recall",
+          "description": "Jim dresses as Dwight"
+        },
+        {
+          "title": "S2E01 • The Dundies",
+          "description": "Awards"
+        },
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "CPR"
+        }
+      ]
+    },
+    {
+      "quote": "Identity theft is not a joke, Jim!",
+      "description": "Season 3 • Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E20 • Product Recall",
+          "description": "Millions of families suffer!"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Wine"
+        },
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Boat"
+        }
+      ]
+    },
+    {
+      "quote": "The worst thing about prison was the Dementors!",
+      "description": "Season 3 • Conference Room",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E20 • Product Recall",
+          "description": "Watermark"
+        },
+        {
+          "title": "S3E09 • The Convict",
+          "description": "Prison Mike"
+        },
+        {
+          "title": "S2E12 • The Injury",
+          "description": "Crutches"
+        }
+      ]
+    },
+    {
+      "quote": "I feel God in this Chili's tonight.",
+      "description": "Season 2 • Chili's",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E09 • The Convict",
+          "description": "Prison"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Dinner"
+        },
+        {
+          "title": "S2E01 • The Dundies",
+          "description": "Pam's speech"
+        }
+      ]
+    },
+    {
+      "quote": "Did I stutter?!",
+      "description": "Season 4 • Conference Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S4E16 • Did I Stutter?",
+          "description": "Stanley snaps at Michael"
+        },
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Heart attack"
+        },
+        {
+          "title": "S2E12 • The Injury",
+          "description": "MRI"
+        }
+      ]
+    },
+    {
+      "quote": "Dwight, you ignorant slut!",
+      "description": "Season 3 • Roof",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Fire"
+        },
+        {
+          "title": "S3E19 • Safety Training",
+          "description": "Depression skit"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "TV"
+        }
+      ]
+    },
+    {
+      "quote": "The secret is to undercook the onions.",
+      "description": "Season 5 • Cold Open",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E16 • Did I Stutter?",
+          "description": "Meeting"
+        },
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Hotel"
+        },
+        {
+          "title": "S5E26 • Casual Friday",
+          "description": "Kevin's Famous Chili"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna make it! No, I'm not!",
+      "description": "Season 5 • Carpet",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "CPR"
+        },
+        {
+          "title": "S3E19 • Safety Training",
+          "description": "Bouncy castle"
+        },
+        {
+          "title": "S5E26 • Casual Friday",
+          "description": "Kevin spills the chili"
+        }
+      ]
+    },
+    {
+      "quote": "They're lithium!",
+      "description": "Season 6 • Classroom",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S6E12 • Scott's Tots",
+          "description": "Laptop batteries"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Plasma TV"
+        },
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Airport"
+        }
+      ]
+    },
+    {
+      "quote": "9,986,000 minutes!",
+      "description": "Season 7 • Conference Room",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E12 • Scott's Tots",
+          "description": "School"
+        },
+        {
+          "title": "S7E21 • Michael's Last Dundies",
+          "description": "Office song for Michael"
+        },
+        {
+          "title": "S9E23 • Finale",
+          "description": "Wedding"
+        }
+      ]
+    }
+  ]
+}

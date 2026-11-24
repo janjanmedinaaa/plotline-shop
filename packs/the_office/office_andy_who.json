@@ -1,0 +1,298 @@
+{
+  "id": "office_andy_who",
+  "title": "The Office: Andy, Holly & Erin",
+  "description": "Cornell, Nard Dog, Holly Flax, and Erin Hannon.",
+  "category": "series",
+  "group": "The Office (US)",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "I went to Cornell. Ever heard of it?",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "Here Comes Treble"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "Business school"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Stamford"
+        }
+      ]
+    },
+    {
+      "quote": "Ri-dit-dit-di-do!",
+      "description": "Office • Signature Phrase",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "Nard Dog"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "Reception"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "Sorry I annoyed you with my friendship!",
+      "description": "Office • Punching the Wall",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "Anger issues"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Desk"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Hiding phone in ceiling"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the Nard Dog!",
+      "description": "Office • Tattoo",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "Butt tattoo"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "Laughing"
+        },
+        {
+          "title": "Darryl Philbin",
+          "description": "Warehouse"
+        }
+      ]
+    },
+    {
+      "quote": "In the parking lot today, there was a circus!",
+      "description": "Office • Talking Head",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "A cappella"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "Weird childhood"
+        },
+        {
+          "title": "Holly Flax",
+          "description": "Nashua"
+        }
+      ]
+    },
+    {
+      "quote": "Disposable cameras are fun, although it does seem wasteful.",
+      "description": "Office • Talking Head",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pam Beesly",
+          "description": "Art"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "Throws camera in trash"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "Selfies"
+        }
+      ]
+    },
+    {
+      "quote": "Wait... you think he's retarded?!",
+      "description": "Season 5 • Kevin & Holly",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "Vending machine"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Laughing"
+        },
+        {
+          "title": "Holly Flax",
+          "description": "Thinking Kevin is mentally challenged"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a button! I'm a cute little button!",
+      "description": "Office • Talking Head",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Erin Hannon",
+          "description": "Candy"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Reception"
+        },
+        {
+          "title": "Holly Flax",
+          "description": "Goofing around with Michael"
+        }
+      ]
+    },
+    {
+      "quote": "Dinkin flicka.",
+      "description": "Warehouse • Teaching Michael Slang",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Darryl Philbin",
+          "description": "Fleece it out"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Crossword"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "Guitar"
+        }
+      ]
+    },
+    {
+      "quote": "Bippity boppity, give me the zoppity.",
+      "description": "Warehouse • Learning Slang",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Darryl Philbin",
+          "description": "Shaking head"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Repeating Darryl's fake slang"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Watching"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna punch that wall!",
+      "description": "Office • Phone in Ceiling",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "Rockin' Robin"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Ducking"
+        },
+        {
+          "title": "Toby Flenderson",
+          "description": "Calling anger management"
+        }
+      ]
+    },
+    {
+      "quote": "Broccoli Rob is Broccoli Rob. Andy Bernard is the Boner Champ.",
+      "description": "Office • Cornell",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "A cappella glory days"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Staring"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "Sighing"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Erin! And I'm boiled Gatorade!",
+      "description": "Office • Kitchen",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Holly Flax",
+          "description": "Tea"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "Making hot tea for Robert"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "Disgusted"
+        }
+      ]
+    },
+    {
+      "quote": "Will you marry me? In Yoda's voice!",
+      "description": "Office • Annex",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "Ring"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Beets"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Proposing to Holly"
+        }
+      ]
+    },
+    {
+      "quote": "Marry me, will you? Yes, I will!",
+      "description": "Office • Sprinklers",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Erin Hannon",
+          "description": "Watching"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Crying"
+        },
+        {
+          "title": "Holly Flax",
+          "description": "Saying yes to Michael"
+        }
+      ]
+    }
+  ]
+}

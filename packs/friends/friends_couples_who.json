@@ -1,0 +1,298 @@
+{
+  "id": "friends_couples_who",
+  "title": "Friends: Couples & Romance",
+  "description": "Monica & Chandler, Ross & Rachel, and iconic vows.",
+  "category": "series",
+  "group": "Friends",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "I thought you'd be... happier.",
+      "description": "Season 6 • Candlelit Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Proposing to Monica"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Opening the door"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "London"
+        }
+      ]
+    },
+    {
+      "quote": "There's a reason why girls don't do this!",
+      "description": "Season 6 • Proposal",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Crying"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Trying to propose first"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Hallway"
+        }
+      ]
+    },
+    {
+      "quote": "You make me happier than I ever thought I could be.",
+      "description": "Season 6 • Apartment 20",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Proposal speech"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Airport"
+        },
+        {
+          "title": "Mike Hannigan",
+          "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not gonna let you go.",
+      "description": "Season 10 • Airport",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Hallway"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Chasing Rachel"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Cab"
+        }
+      ]
+    },
+    {
+      "quote": "Unless we're on a break!",
+      "description": "Season 10 • Ross's Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Teasing Ross"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Don't even joke"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Smiling"
+        }
+      ]
+    },
+    {
+      "quote": "I'm wonderfully weird!",
+      "description": "Season 9 • Mike's Parents",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Kitchen"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Paris"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "To Mike"
+        }
+      ]
+    },
+    {
+      "quote": "You're my lobster.",
+      "description": "Central Perk • Forever",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Vows"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "To Rachel"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "To a sandwich"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna marry you, Monica!",
+      "description": "Season 7 • Altar",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Wedding"
+        },
+        {
+          "title": "Richard Burke",
+          "description": "Restaurant"
+        },
+        {
+          "title": "Pete Becker",
+          "description": "UFC"
+        }
+      ]
+    },
+    {
+      "quote": "If I have to, I'll pee on anyone!",
+      "description": "Season 4 • Beach",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Jellyfish"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Stung"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Stepped up"
+        }
+      ]
+    },
+    {
+      "quote": "That's right, I stepped up!",
+      "description": "Season 4 • Beach",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Watching"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Guilty"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "About the jellyfish"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna miss you guys.",
+      "description": "Season 10 • Empty Apartment",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Keys"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Packing for Paris"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Couch"
+        }
+      ]
+    },
+    {
+      "quote": "Wait, where?",
+      "description": "Season 10 • Last Line",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "After Rachel asks 'get some coffee?'"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Doorway"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Keys"
+        }
+      ]
+    },
+    {
+      "quote": "I love you, Monica.",
+      "description": "Season 7 • Wedding",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Vows"
+        },
+        {
+          "title": "Richard Burke",
+          "description": "Cigar"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Best man"
+        }
+      ]
+    },
+    {
+      "quote": "I'm sorry, I just really wanted to see you.",
+      "description": "Season 2 • Central Perk Rain",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Umbrella"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "After the list"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Rain"
+        }
+      ]
+    },
+    {
+      "quote": "You're a wonderful mother.",
+      "description": "Season 8 • Hospital",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Emma"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Twins"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "To Rachel"
+        }
+      ]
+    }
+  ]
+}

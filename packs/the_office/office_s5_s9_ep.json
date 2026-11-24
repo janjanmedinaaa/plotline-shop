@@ -1,0 +1,298 @@
+{
+  "id": "office_s5_s9_ep",
+  "title": "The Office: Seasons 5–9",
+  "description": "Match the Season 5–9 quote to the exact episode.",
+  "category": "series",
+  "group": "The Office (US)",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 170,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Well, well, well, how the turntables...",
+      "description": "Season 5 • Michael Scott Paper Company",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E25 • Broke",
+          "description": "Negotiating buyout with David Wallace"
+        },
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "CPR"
+        },
+        {
+          "title": "S5E26 • Casual Friday",
+          "description": "Chili"
+        }
+      ]
+    },
+    {
+      "quote": "Our balls are in your court.",
+      "description": "Season 5 • Conference Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E25 • Broke",
+          "description": "Michael, Pam & Ryan"
+        },
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Fire"
+        },
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Hotel"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not gonna let you down, Pam. Wait—I ripped my veil!",
+      "description": "Season 6 • Niagara",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E25 • Broke",
+          "description": "Van"
+        },
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Jim cuts his tie"
+        },
+        {
+          "title": "S6E12 • Scott's Tots",
+          "description": "School"
+        }
+      ]
+    },
+    {
+      "quote": "Hey Mr. Scott, what you gonna do? Make our dreams come true!",
+      "description": "Season 6 • High School",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Dance"
+        },
+        {
+          "title": "S6E10 • Murder",
+          "description": "Board game"
+        },
+        {
+          "title": "S6E12 • Scott's Tots",
+          "description": "10 years later"
+        }
+      ]
+    },
+    {
+      "quote": "Goodbye, Michael. See you tomorrow for lunch!",
+      "description": "Season 7 • Airport",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Pam catches Michael at the gate"
+        },
+        {
+          "title": "S7E21 • Michael's Last Dundies",
+          "description": "Song"
+        },
+        {
+          "title": "S8E01 • The List",
+          "description": "Robert California"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the fucking Lizard King.",
+      "description": "Season 8 • Phone",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Office"
+        },
+        {
+          "title": "S8E23 • Turf War",
+          "description": "Robert California to Andy"
+        },
+        {
+          "title": "S9E23 • Finale",
+          "description": "Bar"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna be the Regional Manager!",
+      "description": "Season 8 • Conference Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S8E01 • The List",
+          "description": "Andy Bernard steps up"
+        },
+        {
+          "title": "S8E23 • Turf War",
+          "description": "Syracuse"
+        },
+        {
+          "title": "S9E03 • Andy's Ancestry",
+          "description": "Family"
+        }
+      ]
+    },
+    {
+      "quote": "Belsnickel is here! Impish or admirable?",
+      "description": "Season 9 • Christmas",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S9E03 • Andy's Ancestry",
+          "description": "Asian Jim"
+        },
+        {
+          "title": "S9E09 • Dwight Christmas",
+          "description": "Pennsylvania Dutch"
+        },
+        {
+          "title": "S9E23 • Finale",
+          "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna marry Angela!",
+      "description": "Season 9 • Car",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S9E09 • Dwight Christmas",
+          "description": "Punch"
+        },
+        {
+          "title": "S9E03 • Andy's Ancestry",
+          "description": "Boat"
+        },
+        {
+          "title": "S9E21 • A.A.R.M.",
+          "description": "Dwight's megaphones"
+        }
+      ]
+    },
+    {
+      "quote": "Michael, you came! That's what she said.",
+      "description": "Season 9 • Series Finale",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S9E23 • Finale",
+          "description": "Michael is Dwight's best man"
+        },
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Airport"
+        },
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "I feel like all my kids grew up and then they married each other.",
+      "description": "Season 9 • Series Finale",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S9E23 • Finale",
+          "description": "Michael's talking head"
+        },
+        {
+          "title": "S7E21 • Michael's Last Dundies",
+          "description": "Chili's"
+        },
+        {
+          "title": "S8E23 • Turf War",
+          "description": "Office"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna frame that teapot note!",
+      "description": "Season 9 • Promo",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Boat"
+        },
+        {
+          "title": "S9E21 • A.A.R.M.",
+          "description": "Jim shows Pam the DVD"
+        },
+        {
+          "title": "S9E23 • Finale",
+          "description": "Warehouse"
+        }
+      ]
+    },
+    {
+      "quote": "Sabre! Dunder Mifflin is a part of Sabre!",
+      "description": "Season 6 • Song",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Dance"
+        },
+        {
+          "title": "S6E12 • Scott's Tots",
+          "description": "School"
+        },
+        {
+          "title": "S6E15 • Sabre",
+          "description": "Christian Slater video"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Gabe! Look at my costume!",
+      "description": "Season 7 • Halloween",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S7E06 • Costume Contest",
+          "description": "Gabe as Lady Gaga"
+        },
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "Spanking"
+        },
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Packing"
+        }
+      ]
+    },
+    {
+      "quote": "You're the best boss I ever had.",
+      "description": "Season 7 • Office",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S7E06 • Costume Contest",
+          "description": "Coupon book"
+        },
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Jim's farewell"
+        },
+        {
+          "title": "S9E23 • Finale",
+          "description": "Wedding"
+        }
+      ]
+    }
+  ]
+}

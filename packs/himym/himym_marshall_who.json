@@ -1,0 +1,298 @@
+{
+  "id": "himym_marshall_who",
+  "title": "HIMYM: Big Fudge & Lilypad",
+  "description": "Marshall, Lily, and the sweetest (and weirdest) lines.",
+  "category": "series",
+  "group": "How I Met Your Mother",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "You can't just say 'I'm Big Fudge'!",
+      "description": "MacLaren's • Nickname",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Supreme Court bound"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Architect"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        }
+      ]
+    },
+    {
+      "quote": "Lilypad and Marshmallow.",
+      "description": "Apartment 4A • Couple Nicknames",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Third wheel"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Aldrin Justice"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Metro News 1"
+        }
+      ]
+    },
+    {
+      "quote": "Aldrin Justice!",
+      "description": "Ted's Office • Stealing Druthers' Baseball",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Law school"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Teaching Hammond Druthers a lesson"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "GNB"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not ready for this.",
+      "description": "Season 6 • Outside MacLaren's",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "After hearing about his dad"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Cab"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Street"
+        }
+      ]
+    },
+    {
+      "quote": "That's a huge mistake!",
+      "description": "Season 2 • San Francisco",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Apartment"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Breakup"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Art fellowship regret"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna eat a sandwich.",
+      "description": "College • Wesleyan Dorm",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Future Ted's euphemism"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Never eats sandwiches"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Newsroom"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a Minnesota Viking!",
+      "description": "Season 4 • Little Minnesota",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Gary Blauman's bar"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Cleveland"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "New York"
+        }
+      ]
+    },
+    {
+      "quote": "Pause!",
+      "description": "Season 5 • Unpause Argument",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Couch"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Fighting with Marshall"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Booth"
+        }
+      ]
+    },
+    {
+      "quote": "You're dead to me.",
+      "description": "Apartment 4A • The Look",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Laser tag"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Dead-to-me stare"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Hockey"
+        }
+      ]
+    },
+    {
+      "quote": "Gouda? Don't sleep on the gouda.",
+      "description": "Season 5 • Cheese Party",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Overly proud host"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Wine"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "MacLaren's"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a judge!",
+      "description": "Season 9 • Farhampton",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Accepts judgeship"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Rome"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Chicago"
+        }
+      ]
+    },
+    {
+      "quote": "Where's my Skee-Ball?",
+      "description": "Season 6 • Dave & Buster's",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Big Fudge"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Arcade"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Booth"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a teacher, not a babysitter!",
+      "description": "Classroom • Kindergarten",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "News"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Aldrin Justice"
+        },
+        {
+          "title": "Tracy McConnell",
+          "description": "Bass"
+        }
+      ]
+    },
+    {
+      "quote": "What's your favorite kind of bear?",
+      "description": "Season 7 • Quiz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Loves trivia"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Playbook"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Architecture"
+        }
+      ]
+    },
+    {
+      "quote": "Sometimes even if you know how something's gonna end, that doesn't mean you can't enjoy the ride.",
+      "description": "Season 2 • Closing",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Wedding"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Art"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Narrating"
+        }
+      ]
+    }
+  ]
+}

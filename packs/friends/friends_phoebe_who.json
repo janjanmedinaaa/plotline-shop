@@ -1,0 +1,298 @@
+{
+  "id": "friends_phoebe_who",
+  "title": "Friends: Phoebe & Regina Phalange",
+  "description": "Princess Consuela Banana-Hammock & Central Perk songs.",
+  "category": "series",
+  "group": "Friends",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "My name is Regina Phalange.",
+      "description": "Everywhere • Phoebe's Alias",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Fake name"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Airport"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Chef"
+        }
+      ]
+    },
+    {
+      "quote": "Princess Consuela Banana-Hammock.",
+      "description": "Season 10 • Name Change",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Married Mike"
+        },
+        {
+          "title": "Mike Hannigan",
+          "description": "Crap Bag"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "Crap Bag. First name Crap, last name Bag.",
+      "description": "Season 10 • Central Perk",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Princess Consuela"
+        },
+        {
+          "title": "Mike Hannigan",
+          "description": "If you need help remembering, think of a bag of crap"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Impressed"
+        }
+      ]
+    },
+    {
+      "quote": "This plane doesn't even have a phalange!",
+      "description": "Season 10 • Plane to Paris",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Stopping Rachel's flight"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Leaving"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Running"
+        }
+      ]
+    },
+    {
+      "quote": "I wish I could, but I don't want to.",
+      "description": "Season 1 • Central Perk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Honest excuse"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Sarcastic"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Sleeping"
+        }
+      ]
+    },
+    {
+      "quote": "Something is wrong with the left phalange!",
+      "description": "Season 10 • Plane",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Phone call"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Seat"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Terminal"
+        }
+      ]
+    },
+    {
+      "quote": "Come on, Will, just take off your shirt and tell us!",
+      "description": "Season 8 • Thanksgiving",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Admiring Brad Pitt's character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Cooking"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Blushing"
+        }
+      ]
+    },
+    {
+      "quote": "It's not my fault! I'm a twin!",
+      "description": "Season 6 • Ursula",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Twin sister"
+        },
+        {
+          "title": "Ursula Buffay",
+          "description": "Waitress"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Dated Ursula"
+        }
+      ]
+    },
+    {
+      "quote": "Denise! I talk about her all the time! DENISE!",
+      "description": "Season 6 • Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Secret roommate"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Looking for a place"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "He's a transponster!",
+      "description": "Season 4 • Quiz",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Cheering"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Panicking at the buzzer"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Screaming"
+        }
+      ]
+    },
+    {
+      "quote": "I'm curvy, and I like it!",
+      "description": "Season 7 • Apartment",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Massage"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Cooking"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Eating"
+        }
+      ]
+    },
+    {
+      "quote": "Little black curly hair!",
+      "description": "Central Perk • Open Mic",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Original song"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Keyboard"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Clapping"
+        }
+      ]
+    },
+    {
+      "quote": "Jingle bitch screwed me over!",
+      "description": "Season 2 • Central Perk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Smelly Cat commercial"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Coffee"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Kitchen"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna go, because I don't want to be here.",
+      "description": "Central Perk • Couch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Blunt exit"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Nods"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Waves"
+        }
+      ]
+    },
+    {
+      "quote": "That's brand new information!",
+      "description": "Season 8 • Apartment 20",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Pretending she didn't know"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Pregnancy test"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Holding the stick"
+        }
+      ]
+    }
+  ]
+}

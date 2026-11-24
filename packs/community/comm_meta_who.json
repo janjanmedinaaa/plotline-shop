@@ -1,0 +1,298 @@
+{
+  "id": "comm_meta_who",
+  "title": "Community: Meta & Pop Culture",
+  "description": "Abed's fourth-wall breaks and Greendale parodies.",
+  "category": "series",
+  "group": "Community",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "I remember when this show was about a community college.",
+      "description": "Study Room • Meta Joke",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Breaking the fourth wall"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "What?"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Huh?"
+        }
+      ]
+    },
+    {
+      "quote": "We're doing a bottle episode!",
+      "description": "Study Room • Locking Doors",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Calling the trope"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "My pen!"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Groaning"
+        }
+      ]
+    },
+    {
+      "quote": "I'm only doing this because it's a flashback episode!",
+      "description": "Campus • Clip Show",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Paradigms of Human Memory"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Monkey"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Speech"
+        }
+      ]
+    },
+    {
+      "quote": "This is the darkest timeline.",
+      "description": "Apartment 303 • Fire",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Naming the timeline"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Troll doll"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Gun"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna go watch 'Inspector Spacetime'!",
+      "description": "Apartment 303 • Couch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Doctor Who parody"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Grabbing popcorn"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Studying"
+        }
+      ]
+    },
+    {
+      "quote": "Six seasons and a movie!",
+      "description": "Campus • Rallying Cry",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "About The Cape—and Community"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Three weeks"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Protesting"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a TV character! Look at the camera!",
+      "description": "Study Room • Documentary",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Staring into the lens"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Stop Jim-ing the camera"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Waving"
+        }
+      ]
+    },
+    {
+      "quote": "Don't Jim the camera like that.",
+      "description": "Study Room • Mockumentary",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "To Jeff/Annie"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Looking at camera"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Smiling"
+        }
+      ]
+    },
+    {
+      "quote": "We're in a claymation Christmas!",
+      "description": "Study Room • Stop-Motion",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Seeing everyone in clay"
+        },
+        {
+          "title": "Professor Duncan",
+          "description": "Therapy"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Ballerina"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a high-functioning sociopath—no, wait, I'm just Abed.",
+      "description": "Study Room • Sherlock Joke",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Analyzing everyone"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Stop"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Psychology major"
+        }
+      ]
+    },
+    {
+      "quote": "You're a psych major! Diagnose me!",
+      "description": "Study Room • Challenge",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Trying to diagnose"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Mocking Britta"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Already did"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna make a documentary about Greendale!",
+      "description": "Campus • Camera",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Filming everyone"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Posing"
+        },
+        {
+          "title": "Chang",
+          "description": "Photobombing"
+        }
+      ]
+    },
+    {
+      "quote": "This is a 'My Dinner with Andre' homage!",
+      "description": "Restaurant • Birthday",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Explaining to Jeff"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "I thought we were just having dinner"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Pulp Fiction"
+        }
+      ]
+    },
+    {
+      "quote": "You're the worst!",
+      "description": "Study Room • Everyone to Britta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "I'm not the worst!"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "You're the opposite of Batman"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "AT&T of people"
+        }
+      ]
+    },
+    {
+      "quote": "You're the AT&T of people!",
+      "description": "Study Room • Insult",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Pizza burn"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Roasting Britta"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Laughing"
+        }
+      ]
+    }
+  ]
+}

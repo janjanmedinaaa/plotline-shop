@@ -1,0 +1,298 @@
+{
+  "id": "friends_joey_who",
+  "title": "Friends: Joey & Food",
+  "description": "Joey Tribbiani's greatest food, acting, and roommate lines.",
+  "category": "series",
+  "group": "Friends",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Joey doesn't share food!",
+      "description": "Restaurant • Fries",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Serious about fries"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Duck & Chick"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Sandwich"
+        }
+      ]
+    },
+    {
+      "quote": "Look at me! I'm Chandler! Could I BE wearing any more clothes?",
+      "description": "Apartment 20 • Lunges",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Doing lunges"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Waiting"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "The fridge broke, so I had to eat everything.",
+      "description": "Apartment 19 • Kitchen",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Logical solution"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Paying for it"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Cheesecake"
+        }
+      ]
+    },
+    {
+      "quote": "Here come the meat sweats.",
+      "description": "Season 8 • Thanksgiving",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Eating an entire turkey"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Gravy"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Maternity pants"
+        }
+      ]
+    },
+    {
+      "quote": "Maternity pants! Those are my Thanksgiving pants!",
+      "description": "Season 8 • Living Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Stretchy waistband"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Watching football"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Cooking"
+        }
+      ]
+    },
+    {
+      "quote": "Ichiban! Lipstick for men!",
+      "description": "Season 10 • Commercial",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Japanese ad"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Tanning"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Teasing"
+        }
+      ]
+    },
+    {
+      "quote": "Je m'appelle Claude.",
+      "description": "Season 10 • French Audition",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Speaking gibberish"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Teaching him French"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "Va fa napoli!",
+      "description": "Apartment 20 • Italian",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Grandmother's phrase"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Chef"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Duck"
+        }
+      ]
+    },
+    {
+      "quote": "Paper! Snow! A ghost!",
+      "description": "Season 6 • Pyramid Game Show",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Guessing 'things that are white'"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Frustrated"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Watching"
+        }
+      ]
+    },
+    {
+      "quote": "You're a shoe! You're a shoe! You're a shoe!",
+      "description": "Season 1 • Phone Call",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Closet"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Telling her dad off"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Central Perk"
+        }
+      ]
+    },
+    {
+      "quote": "No uterus, no opinion!",
+      "description": "Season 8 • Hospital",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Kitchen"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "To Ross during labor"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Hallway"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna go get a spoon.",
+      "description": "Season 7 • Hallway Floor",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Eating floor cheesecake"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Guilty"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Stolen cheesecake"
+        }
+      ]
+    },
+    {
+      "quote": "What's not to like? Custard, good. Jam, good. Meat, GOOD!",
+      "description": "Season 6 • Apartment 20",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Loved the trifle"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Tastes like feet!"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Hid his plate"
+        }
+      ]
+    },
+    {
+      "quote": "It tastes like feet!",
+      "description": "Season 6 • Balcony",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Seconds"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Napkin"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "About Rachel's trifle"
+        }
+      ]
+    },
+    {
+      "quote": "Dr. Drake Ramoray.",
+      "description": "Days of Our Lives • Set",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Neurosurgeon"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Twin"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Paleontologist"
+        }
+      ]
+    }
+  ]
+}

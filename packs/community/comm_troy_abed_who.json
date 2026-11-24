@@ -1,0 +1,298 @@
+{
+  "id": "comm_troy_abed_who",
+  "title": "Community: Troy & Abed",
+  "description": "Dreamatorium, Blanket Fort, and best friend antics.",
+  "category": "series",
+  "group": "Community",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Donde esta la biblioteca?",
+      "description": "Spanish 101 • Rap",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Troy & Abed",
+          "description": "Spanish rap"
+        },
+        {
+          "title": "Jeff & Britta",
+          "description": "Arguing"
+        },
+        {
+          "title": "Pierce & Shirley",
+          "description": "Listening"
+        }
+      ]
+    },
+    {
+      "quote": "Me llamo T-Bone, la araña discoteca!",
+      "description": "Spanish 101 • Rap",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Beatboxing"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Rapping"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Dancing"
+        }
+      ]
+    },
+    {
+      "quote": "I didn't just masturbate in the study room. I masturbated everywhere!",
+      "description": "Season 1 • Confession",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Blank"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Out-of-context quote"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "Wait... you can't disappoint a picture!",
+      "description": "Season 2 • LeVar Burton",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Camera"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Crying in the bathroom"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Gift"
+        }
+      ]
+    },
+    {
+      "quote": "Set phasers to 'love me'!",
+      "description": "Season 2 • Bathroom",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Star Trek"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Singing Reading Rainbow"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Hallway"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Batman.",
+      "description": "Season 1 • Halloween",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Saving Jeff & Pierce"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Eddie Murphy"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Cowboy"
+        }
+      ]
+    },
+    {
+      "quote": "If I'm Batman, then you're...",
+      "description": "Study Room • Roleplay",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "To Troy"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Spider-Man"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Catwoman"
+        }
+      ]
+    },
+    {
+      "quote": "Welcome to the Dreamatorium!",
+      "description": "Apartment 303 • Cardboard Grid",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Imagination room"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Inspector Spacetime"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Cleaning"
+        }
+      ]
+    },
+    {
+      "quote": "Inspector Spacetime! Where are we? More importantly, WHEN are we?",
+      "description": "TV • Convention",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Quoting the show"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Constable Reggie"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Bored"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna go get a drink... of water!",
+      "description": "Study Room • Nervous",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Calm"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Panicking"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Notes"
+        }
+      ]
+    },
+    {
+      "quote": "My whole brain is crying!",
+      "description": "Season 2 • Conspiracy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Calm"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Overwhelmed by twists"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Shooting blank"
+        }
+      ]
+    },
+    {
+      "quote": "Annie's pretty young, we try not to sexualize her.",
+      "description": "Study Room • Jeff & Troy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Troy Barnes",
+          "description": "Nodding"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Observing"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "To Buddy"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a cat! I'm a sexy cat!",
+      "description": "Acting Class • Nic Cage",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Acting breakdown"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Clapping"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Scared"
+        }
+      ]
+    },
+    {
+      "quote": "It's not a meteor, it's a cookie wand!",
+      "description": "Season 1 • Dorm",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Cookie"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Misunderstanding"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Magic"
+        }
+      ]
+    },
+    {
+      "quote": "Troy and Abed are in mourning!",
+      "description": "Season 3 • Funeral",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Troy & Abed",
+          "description": "Thought 'mourning' meant 'morning'"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Scolding them"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Facepalm"
+        }
+      ]
+    }
+  ]
+}

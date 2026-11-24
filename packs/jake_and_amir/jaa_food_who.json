@@ -1,0 +1,298 @@
+{
+  "id": "jaa_food_who",
+  "title": "Jake & Amir: Weird Food",
+  "description": "Nuggets, mayo, almonds, and Amir's terrible diet.",
+  "category": "series",
+  "group": "Jake and Amir",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "I found these nuggets in my pocket from Tuesday!",
+      "description": "Office • Snack",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Pocket nuggets"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Throw them away"
+        },
+        {
+          "title": "Streeter",
+          "description": "Eating"
+        }
+      ]
+    },
+    {
+      "quote": "It's not mayo, it's aioli!",
+      "description": "Office • Jar",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "With a spoon"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "That's Hellmann's"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Gagging"
+        }
+      ]
+    },
+    {
+      "quote": "One almond! Just one!",
+      "description": "Office • Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Holding a walnut"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "That's a walnut"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Milk"
+        }
+      ]
+    },
+    {
+      "quote": "I'm eating a cockmeat sandwich!",
+      "description": "Office • Lunch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Shocking Jake"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Please stop"
+        },
+        {
+          "title": "Murph",
+          "description": "Walking away"
+        }
+      ]
+    },
+    {
+      "quote": "Do you want a bite of my hot dog?",
+      "description": "Office • No Bun",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Bare hot dog"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "No"
+        },
+        {
+          "title": "Dan",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "I'm drinking milk from a bag!",
+      "description": "Office • Milk Man",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Cup"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Milk Man"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Staring"
+        }
+      ]
+    },
+    {
+      "quote": "Eggs! I love eggs! Twelve eggs!",
+      "description": "Office • Rick Fox",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Chicken"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Confused"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Egg fan"
+        }
+      ]
+    },
+    {
+      "quote": "Why are you eating raw cookie dough with your hands?",
+      "description": "Office • Desk",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Delicious"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Disgusted"
+        },
+        {
+          "title": "Sarah",
+          "description": "Watching"
+        }
+      ]
+    },
+    {
+      "quote": "It's a protein shake! Made of cheese!",
+      "description": "Office • Blender",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Gym bro"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "No it's not"
+        },
+        {
+          "title": "Murph",
+          "description": "Weights"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna order twelve pizzas.",
+      "description": "Office • Dinner",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Dinner tonight?"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Don't"
+        },
+        {
+          "title": "Streeter",
+          "description": "Slices"
+        }
+      ]
+    },
+    {
+      "quote": "You're eating paper!",
+      "description": "Office • Scroll",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Fiber!"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Watching Amir eat the scroll"
+        },
+        {
+          "title": "Pat",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "I'm thirsty! Give me a Capri Sun!",
+      "description": "Office • Break Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Poking the pouch"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Desk"
+        },
+        {
+          "title": "Ben",
+          "description": "Milk"
+        }
+      ]
+    },
+    {
+      "quote": "That's a rotten banana!",
+      "description": "Office • Trash",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Banana bread!"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Gross"
+        },
+        {
+          "title": "Dan",
+          "description": "Trash"
+        }
+      ]
+    },
+    {
+      "quote": "I'm on a juice cleanse! Only gravy!",
+      "description": "Office • Diet",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Healthy"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "That's not juice"
+        },
+        {
+          "title": "Murph",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "Dinner tonight? My treat—you pay!",
+      "description": "Office • Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Classic scam"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "No"
+        },
+        {
+          "title": "Pat",
+          "description": "Leaving"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "jaa_ben_who",
+  "title": "Jake & Amir: Guest Stars",
+  "description": "Ben Schwartz, Doobs, Murph, and CollegeHumor cast.",
+  "category": "series",
+  "group": "Jake and Amir",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "I'm the Milk Man! Give me a glass!",
+      "description": "Office • Ben Schwartz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "As the Milk Man"
+        },
+        {
+          "title": "Thomas Middleditch",
+          "description": "Doobs"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Drinking"
+        }
+      ]
+    },
+    {
+      "quote": "Hello, Amir! Remember me? Penis Anthony Doubligné!",
+      "description": "Office • Thomas Middleditch",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Sulu Candles"
+        },
+        {
+          "title": "Thomas Middleditch",
+          "description": "As Doobs"
+        },
+        {
+          "title": "Murph",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Cherry Dude!",
+      "description": "Office • Ben Schwartz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Dating advice"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Confused"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Listening"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Carrot Slat!",
+      "description": "Office • Ben Schwartz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Another weird alias"
+        },
+        {
+          "title": "Thomas Middleditch",
+          "description": "Doobs"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "Amir, I'm gonna kick your ass!",
+      "description": "Office • Murph",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Sitting"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Hiding"
+        },
+        {
+          "title": "Brian Murphy (Murph)",
+          "description": "Enforcer"
+        }
+      ]
+    },
+    {
+      "quote": "Hey! Leave Amir alone—actually, no, hit him.",
+      "description": "Office • Streeter",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Watching"
+        },
+        {
+          "title": "Streeter Seidell",
+          "description": "Prank war"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Rick Fox! And I love eggs!",
+      "description": "Office • NBA Guest",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Milk"
+        },
+        {
+          "title": "Thomas Middleditch",
+          "description": "Actor"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Egg obsession"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Hoodie Allen! And I'm here to rap!",
+      "description": "Office • Guest",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Singing"
+        },
+        {
+          "title": "Hoodie Allen",
+          "description": "Music guest"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Beatboxing"
+        }
+      ]
+    },
+    {
+      "quote": "Amir, you're fired.",
+      "description": "Office • CEO",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Finally!"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Desk"
+        },
+        {
+          "title": "Ricky Van Veen",
+          "description": "Boss"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna eat your lunch, Jake.",
+      "description": "Office • Pat",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Always"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Revenge"
+        },
+        {
+          "title": "Murph",
+          "description": "Gym"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Sulu Candles!",
+      "description": "Office • Ben Schwartz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Crazy alias"
+        },
+        {
+          "title": "Thomas Middleditch",
+          "description": "Doobs"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Done"
+        }
+      ]
+    },
+    {
+      "quote": "You're a horrible actor, Doobs!",
+      "description": "Office • Argument",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Thomas Middleditch",
+          "description": "Offended"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Insulting Doobs"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Referee"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a bit of a movie star myself.",
+      "description": "Office • Doobs",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Thomas Middleditch",
+          "description": "Doobs bragging"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Milk"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Basketball"
+        }
+      ]
+    },
+    {
+      "quote": "Let's do a prank!",
+      "description": "Office • Prank War",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Ruining it"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "No"
+        },
+        {
+          "title": "Streeter Seidell",
+          "description": "Prank master"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Amir's dad, and I'm moving!",
+      "description": "Phone • Tiny Spindle Legs",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Listening"
+        },
+        {
+          "title": "Amir's Dad",
+          "description": "Abandoning Amir"
+        },
+        {
+          "title": "Murph",
+          "description": "Laughing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "office_dundies_who",
+  "title": "The Office: Dundies & Finale",
+  "description": "Award speeches, farewells, and series finale moments.",
+  "category": "series",
+  "group": "The Office (US)",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "The Dundies! How can I explain it? Awards are like a child...",
+      "description": "Chili's • Host",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Hosting the Dundies"
+        },
+        {
+          "title": "Deangelo Vickers",
+          "description": "Co-host"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "Singing"
+        }
+      ]
+    },
+    {
+      "quote": "Bushiest Beaver Award!",
+      "description": "Chili's • Trophy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Misspelled for Phyllis"
+        },
+        {
+          "title": "Phyllis Vance",
+          "description": "Wait, it says Bushiest..."
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "Whitest Sneakers Award!",
+      "description": "Chili's • Trophy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Presenting"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Drunk speech"
+        },
+        {
+          "title": "Roy Anderson",
+          "description": "Leaving"
+        }
+      ]
+    },
+    {
+      "quote": "Spicy Curry Award!",
+      "description": "Chili's • Trophy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "To Kelly"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "Offended"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "Hottest in the Office"
+        }
+      ]
+    },
+    {
+      "quote": "Hottest in the Office!",
+      "description": "Chili's • Trophy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Presenting to Ryan"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "Jealous"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "Embarrassed"
+        }
+      ]
+    },
+    {
+      "quote": "This is going to hurt like a motherf—",
+      "description": "Conference Room • Goodbye",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Final talking head"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Tearing up"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Airport"
+        }
+      ]
+    },
+    {
+      "quote": "9,986,000 minutes! We actually sat down and did the math.",
+      "description": "Conference Room • Song",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Surprised"
+        },
+        {
+          "title": "The Office Cast",
+          "description": "Singing Seasons of Love"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Harmony"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna miss you, Michael.",
+      "description": "Office • Desk",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Recommendation letter"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Airport"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Tomorrow at lunch"
+        }
+      ]
+    },
+    {
+      "quote": "Wait... you're the best man?!",
+      "description": "Season 9 • Barn",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Guten Pranken"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Seeing Michael"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "Smiling"
+        }
+      ]
+    },
+    {
+      "quote": "I can't believe you came.",
+      "description": "Season 9 • Wedding",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Smiling"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "To Michael"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "That's what she said"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a Dunder Mifflin man!",
+      "description": "Season 9 • Warehouse",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Creed Bratton",
+          "description": "Arrested"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Florida"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "Bar"
+        }
+      ]
+    },
+    {
+      "quote": "It's Halloween. That is really, really good timing.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Creed Bratton",
+          "description": "Covered in blood"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Pumpkin head"
+        },
+        {
+          "title": "Gabe Lewis",
+          "description": "Skeleton"
+        }
+      ]
+    },
+    {
+      "quote": "I'm happy for you, Dwight.",
+      "description": "Wedding • Barn",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Tears"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Bestisch Mensch"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Smiling"
+        }
+      ]
+    },
+    {
+      "quote": "There's a lot of beauty in ordinary things. Isn't that kind of the point?",
+      "description": "Series Finale • Closing Line",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Walking out"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Photos"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Final line of the series"
+        }
+      ]
+    },
+    {
+      "quote": "That's what she said.",
+      "description": "Season 9 • Final Joke",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Smiling"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "At Dwight's wedding"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Winking"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "office_jim_pam_who",
+  "title": "The Office: Jim & Pam",
+  "description": "Pranks, reception, teapots, and Niagara Falls.",
+  "category": "series",
+  "group": "The Office (US)",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "One day, Michael came in complaining about a speed bump on the highway. I wonder who he ran over then.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Deadpan"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Laughing"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "Watching"
+        }
+      ]
+    },
+    {
+      "quote": "I'm just gonna put his stapler in Jell-O again.",
+      "description": "Pilot • Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Classic prank"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Helping"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "MICHAEL!"
+        }
+      ]
+    },
+    {
+      "quote": "Right now, this is just a job. If I advance any higher, this would be my career.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Early seasons"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Ambitious"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Pretzel Day"
+        }
+      ]
+    },
+    {
+      "quote": "Dunder Mifflin, this is Pam.",
+      "description": "Reception • Phone",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pam Beesly",
+          "description": "Answering phones"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "Later receptionist"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "Accounting"
+        }
+      ]
+    },
+    {
+      "quote": "Plan A was marrying her a long, long time ago. Pretty much the day I met her.",
+      "description": "Season 6 • Boat",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Niagara Falls"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Crying happy tears"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Best man"
+        }
+      ]
+    },
+    {
+      "quote": "I bought those boat tickets the day I saw that YouTube video.",
+      "description": "Season 6 • Niagara",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Backup plan"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Veil ripped"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "Singing"
+        }
+      ]
+    },
+    {
+      "quote": "Be careful! There's a lot of beauty in ordinary things.",
+      "description": "Series Finale • Talking Head",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Paper"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Isn't that kind of the point?"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "Smiling"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a mind reader, David.",
+      "description": "Office • Prank",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Asian Jim"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "You're not Jim!"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Kissing Asian Jim"
+        }
+      ]
+    },
+    {
+      "quote": "Hats off to you for not seeing race.",
+      "description": "Desk • Asian Jim",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Confused"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Smiling"
+        },
+        {
+          "title": "Randall Park (Asian Jim)",
+          "description": "Classic cold open"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a little bit terrified of her.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "About Angela"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "Cookies"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "Tax"
+        }
+      ]
+    },
+    {
+      "quote": "Wait... you're engaged? Again?",
+      "description": "Reception • Desk",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Asking Pam"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Roy"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "Ryan"
+        }
+      ]
+    },
+    {
+      "quote": "I'm sorry, what was the question?",
+      "description": "Season 3 • Talking Head",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Stamford"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "When Jim asks her to dinner"
+        },
+        {
+          "title": "Karen Filippelli",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "It's a yes!",
+      "description": "Season 3 • Conference Room",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Meeting"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Smiling with tears"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna get a teapot!",
+      "description": "Season 2 • Secret Santa",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Gift for Pam"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "iPod"
+        },
+        {
+          "title": "Phyllis Vance",
+          "description": "Oven mitt"
+        }
+      ]
+    },
+    {
+      "quote": "I wish there was a way to know you're in the good old days before you've actually left them.",
+      "description": "Series Finale • Talking Head",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Austin"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Art"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "Final quote"
+        }
+      ]
+    }
+  ]
+}

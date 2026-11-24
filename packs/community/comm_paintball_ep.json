@@ -1,0 +1,298 @@
+{
+  "id": "comm_paintball_ep",
+  "title": "Community: Concept Episodes",
+  "description": "Paintball, Pillowtown, Timeline, and Dungeons & Dragons.",
+  "category": "series",
+  "group": "Community",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Troy and Abed in the morning... NIGHTS!",
+      "description": "Season 3 • Darkest Timeline",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Seven timelines"
+        },
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Paintball"
+        },
+        {
+          "title": "S2E14 • Advanced Dungeons & Dragons",
+          "description": "Neil"
+        }
+      ]
+    },
+    {
+      "quote": "Wait... there are other timelines?",
+      "description": "Season 3 • Rolling the Die",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Pizza delivery"
+        },
+        {
+          "title": "S2E23 • A Fistful of Paintballs",
+          "description": "Western"
+        },
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Chicken fingers"
+        }
+      ]
+    },
+    {
+      "quote": "Roxanne! No!",
+      "description": "Season 3 • Apartment 303",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Jeff stops the song"
+        },
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Zombies"
+        },
+        {
+          "title": "S3E14 • Pillows and Blankets",
+          "description": "Fort"
+        }
+      ]
+    },
+    {
+      "quote": "Greendale is on lockdown! Paintball!",
+      "description": "Season 1 • Priority Registration",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Mafia"
+        },
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "First paintball war"
+        },
+        {
+          "title": "S2E23 • A Fistful of Paintballs",
+          "description": "Second paintball"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Hector the Well-Endowed!",
+      "description": "Season 2 • Study Room Table",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Paintball"
+        },
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Halloween"
+        },
+        {
+          "title": "S2E14 • Advanced Dungeons & Dragons",
+          "description": "Troy's character"
+        }
+      ]
+    },
+    {
+      "quote": "As far back as I can remember, I always wanted to be in a Mafia movie.",
+      "description": "Season 1 • Chicken Fingers",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Abed runs the cafeteria"
+        },
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Jeff wakes up"
+        },
+        {
+          "title": "S3E14 • Pillows and Blankets",
+          "description": "Ken Burns"
+        }
+      ]
+    },
+    {
+      "quote": "ABBA! Why is ABBA playing during a zombie outbreak?!",
+      "description": "Season 2 • Halloween",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Taco meat?"
+        },
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Dean's playlist"
+        },
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Pizza"
+        }
+      ]
+    },
+    {
+      "quote": "Blanketsburg vs. Pillowtown!",
+      "description": "Season 3 • Documentary",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E23 • A Fistful of Paintballs",
+          "description": "Western"
+        },
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Die"
+        },
+        {
+          "title": "S3E14 • Pillows and Blankets",
+          "description": "Civil war"
+        }
+      ]
+    },
+    {
+      "quote": "Cool. Cool cool cool... wait, I'm in a claymation world!",
+      "description": "Season 2 • Christmas",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E11 • Abed's Uncontrollable Christmas",
+          "description": "Stop-motion"
+        },
+        {
+          "title": "S3E17 • Basic Lupine Urology",
+          "description": "Law & Order"
+        },
+        {
+          "title": "S5E04 • Cooperative Polygraphy",
+          "description": "Lie detector"
+        }
+      ]
+    },
+    {
+      "quote": "Objection! We're doing Law & Order!",
+      "description": "Season 3 • Biology Yam",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E11 • Uncontrollable Christmas",
+          "description": "Snowman"
+        },
+        {
+          "title": "S3E17 • Basic Lupine Urology",
+          "description": "The yam murder"
+        },
+        {
+          "title": "S5E04 • Cooperative Polygraphy",
+          "description": "Sperm"
+        }
+      ]
+    },
+    {
+      "quote": "Here's your sperm.",
+      "description": "Season 5 • Pierce's Will",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Timeline"
+        },
+        {
+          "title": "S3E17 • Basic Lupine Urology",
+          "description": "Court"
+        },
+        {
+          "title": "S5E04 • Cooperative Polygraphy",
+          "description": "Walton Goggins"
+        }
+      ]
+    },
+    {
+      "quote": "The floor is lava!",
+      "description": "Season 5 • Troy's Goodbye",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E05 • Geothermal Escapism",
+          "description": "Troy leaves on the Childish Tycoon"
+        },
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Paintball"
+        },
+        {
+          "title": "S3E14 • Pillows and Blankets",
+          "description": "Pillows"
+        }
+      ]
+    },
+    {
+      "quote": "We're gonna win the MeowMeowBeenz!",
+      "description": "Season 5 • App Dystopia",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E05 • Geothermal Escapism",
+          "description": "Lava"
+        },
+        {
+          "title": "S5E08 • App Development and Condiments",
+          "description": "5s vs 1s"
+        },
+        {
+          "title": "S5E04 • Cooperative Polygraphy",
+          "description": "Will"
+        }
+      ]
+    },
+    {
+      "quote": "It's a bottle episode! Annie lost her pen!",
+      "description": "Season 2 • Study Room F",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Chicken"
+        },
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Zombies"
+        },
+        {
+          "title": "S2E08 • Cooperative Calligraphy",
+          "description": "Annie's purple pen"
+        }
+      ]
+    },
+    {
+      "quote": "Dean-a-ling-a-ling!",
+      "description": "Season 1 • Paintball",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E23 • Modern Warfare",
+          "description": "Dean's announcement"
+        },
+        {
+          "title": "S2E14 • Advanced D&D",
+          "description": "Elf"
+        },
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Pizza"
+        }
+      ]
+    }
+  ]
+}

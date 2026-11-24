@@ -1,0 +1,298 @@
+{
+  "id": "friends_thanksgiving_who",
+  "title": "Friends: Thanksgiving & Holiday",
+  "description": "Thanksgiving disasters, football, and the Geller Cup.",
+  "category": "series",
+  "group": "Friends",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "The Geller Cup!",
+      "description": "Season 3 • Football Field",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Troll doll on a 2x4"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Cheater"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Watching"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a little bit country!",
+      "description": "Season 3 • Touch Football",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Running"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Flashing"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Long"
+        }
+      ]
+    },
+    {
+      "quote": "I got a turkey on my head!",
+      "description": "Season 5 • Flashback",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "1992"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Laughing"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "1992 Thanksgiving"
+        }
+      ]
+    },
+    {
+      "quote": "You're so great, I love you!",
+      "description": "Season 5 • Turkey Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "First time saying I love you to Monica"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Fez & sunglasses"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Couch"
+        }
+      ]
+    },
+    {
+      "quote": "More turkey, Mr. Chandler?",
+      "description": "Season 5 • 1992",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Kitchen"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Hates Thanksgiving"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Eating"
+        }
+      ]
+    },
+    {
+      "quote": "I hate Thanksgiving!",
+      "description": "Every Thanksgiving • Couch",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Loves food"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Parents' divorce"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Turkey"
+        }
+      ]
+    },
+    {
+      "quote": "I'm curvy and I like it!",
+      "description": "Season 7 • Turkey Pants",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Cooking"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Teasing"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Phoebe's maternity pants"
+        }
+      ]
+    },
+    {
+      "quote": "Wait, you're not gonna eat the whole turkey?",
+      "description": "Season 8 • Dining Table",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Amazed at Joey"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Pregnant"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Carving"
+        }
+      ]
+    },
+    {
+      "quote": "I'm in the 'I Hate Rachel' club!",
+      "description": "Season 8 • Living Room",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Co-founder"
+        },
+        {
+          "title": "Will Colbert",
+          "description": "Brad Pitt guest star"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Eating"
+        }
+      ]
+    },
+    {
+      "quote": "My two greatest enemies: Rachel Green and complex carbohydrates.",
+      "description": "Season 8 • Thanksgiving",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Laughing"
+        },
+        {
+          "title": "Will Colbert",
+          "description": "Looking at Rachel"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Turkey"
+        }
+      ]
+    },
+    {
+      "quote": "We're late! The floating heads!",
+      "description": "Season 10 • Hallway Door",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Angry"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Lock"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Stuck in the door"
+        }
+      ]
+    },
+    {
+      "quote": "CONGRATULATIONS!",
+      "description": "Season 10 • Phone Call",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Adoption agency calls"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Hugging"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Crying"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the Holiday Armadillo!",
+      "description": "Season 7 • Living Room",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Santa"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Weird turtle man"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Superman"
+        }
+      ]
+    },
+    {
+      "quote": "My favorite part was when Superman flew all the Jews out of Egypt.",
+      "description": "Season 7 • Living Room",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "No!"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Santa"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "In Superman suit"
+        }
+      ]
+    },
+    {
+      "quote": "Happy Hanukkah, Ben!",
+      "description": "Season 7 • Apartment",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Santa"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Armadillo"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Drums"
+        }
+      ]
+    }
+  ]
+}

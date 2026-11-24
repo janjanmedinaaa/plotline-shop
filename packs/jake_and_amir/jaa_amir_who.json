@@ -1,0 +1,298 @@
+{
+  "id": "jaa_amir_who",
+  "title": "Jake & Amir: Classic Amir",
+  "description": "Absurd, unhinged lines from CollegeHumor's Jake and Amir.",
+  "category": "series",
+  "group": "Jake and Amir",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Dinner tonight?",
+      "description": "Office Desk • Classic Opener",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Asking Jake"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Annoyed"
+        },
+        {
+          "title": "Streeter Seidell",
+          "description": "Nearby"
+        }
+      ]
+    },
+    {
+      "quote": "I'm beefing!",
+      "description": "Office Desk • Tears of Soy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Weeping"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Stop saying beefing"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Quiet"
+        }
+      ]
+    },
+    {
+      "quote": "Taupe.",
+      "description": "Office Desk • Rating Everything",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Dope / Taupe"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Is that good?"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Cherry Dude"
+        }
+      ]
+    },
+    {
+      "quote": "Excuse you! Absolutely excuse you!",
+      "description": "Office • Defensive",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Shouting"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Normal voice"
+        },
+        {
+          "title": "Dan Gurewitch",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "You're a coward and a fool!",
+      "description": "Office • Argument",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Overreacting"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Sighing"
+        },
+        {
+          "title": "Murph",
+          "description": "Gym"
+        }
+      ]
+    },
+    {
+      "quote": "Bad vest! No, it's jeans!",
+      "description": "Office • Outfit Critique",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Wearing a vest"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Calling out Amir's vest"
+        },
+        {
+          "title": "Ricky Van Veen",
+          "description": "CEO"
+        }
+      ]
+    },
+    {
+      "quote": "That's a bad tweet.",
+      "description": "Office • Social Media",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Reading aloud"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Cringing"
+        },
+        {
+          "title": "Sarah Schneider",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "How is that fair?!",
+      "description": "Office • Every Episode",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Complaining"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Explaining"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Ignoring"
+        }
+      ]
+    },
+    {
+      "quote": "I'm more than good, I'm devastated!",
+      "description": "Office Desk • Drama",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Contradicting himself"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Confused"
+        },
+        {
+          "title": "Murph",
+          "description": "Walking by"
+        }
+      ]
+    },
+    {
+      "quote": "Go bills!",
+      "description": "Office • Random Cheer",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Buffalo Bills"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Not even football season"
+        },
+        {
+          "title": "Streeter",
+          "description": "Eating"
+        }
+      ]
+    },
+    {
+      "quote": "Todah!",
+      "description": "Office • Thank You",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Hebrew 'thank you'"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Don't say todah"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Milk Man"
+        }
+      ]
+    },
+    {
+      "quote": "Namaste.",
+      "description": "Office • Fake Zen",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "After screaming"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Still mad"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Working"
+        }
+      ]
+    },
+    {
+      "quote": "You gotta learn how to be funny, man.",
+      "description": "Office • Comedy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Laughing"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "To Amir"
+        },
+        {
+          "title": "Thomas Middleditch",
+          "description": "Doobs"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a golden god!",
+      "description": "Office • Ego",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Standing on desk"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Sit down"
+        },
+        {
+          "title": "Murph",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "A-weird!",
+      "description": "Office • Adjective",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Weirding out"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "That's not a word"
+        },
+        {
+          "title": "Dan",
+          "description": "Desk"
+        }
+      ]
+    }
+  ]
+}

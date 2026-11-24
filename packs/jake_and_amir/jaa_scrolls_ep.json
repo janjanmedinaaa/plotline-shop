@@ -1,0 +1,298 @@
+{
+  "id": "jaa_scrolls_ep",
+  "title": "Jake & Amir: Scrolls & Lists",
+  "description": "Amir's Top 10 lists, scrolls, and weird obsessions.",
+  "category": "series",
+  "group": "Jake and Amir",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Number 10: A salmon named Ben!",
+      "description": "Scroll • Top 10 Fish",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Top 10 Fish to Fry",
+          "description": "Amir's scroll"
+        },
+        {
+          "title": "Top 10 Scroll",
+          "description": "Names"
+        },
+        {
+          "title": "One Almond",
+          "description": "Walnut"
+        }
+      ]
+    },
+    {
+      "quote": "Number 1: A bad amount of money!",
+      "description": "Office • Scroll",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Top 10 Fish to Fry",
+          "description": "Fish"
+        },
+        {
+          "title": "Top 10 Things to Buy",
+          "description": "Amir's budget"
+        },
+        {
+          "title": "Tinder",
+          "description": "Swipe"
+        }
+      ]
+    },
+    {
+      "quote": "Number 8: A plate of hot spum!",
+      "description": "Office • Gross List",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Nuggets",
+          "description": "Pocket"
+        },
+        {
+          "title": "Top 10 Foods",
+          "description": "Amir's menu"
+        }
+      ]
+    },
+    {
+      "quote": "Number 5: Just a little bit of salt!",
+      "description": "Office • Scroll",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Top 10 Sandwich Toppings",
+          "description": "Salt"
+        },
+        {
+          "title": "One Almond",
+          "description": "Almond"
+        },
+        {
+          "title": "Beer",
+          "description": "Drink"
+        }
+      ]
+    },
+    {
+      "quote": "Number 1: Go to a bar and yell 'I'm rich!'",
+      "description": "Office • Scroll",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Tinder",
+          "description": "Dating"
+        },
+        {
+          "title": "Top 10 Ways to Meet Girls",
+          "description": "Amir's guide"
+        },
+        {
+          "title": "Fedora",
+          "description": "Hat"
+        }
+      ]
+    },
+    {
+      "quote": "How many almonds would you say is the perfect amount?",
+      "description": "Office • Walnut",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Nuggets",
+          "description": "Chicken"
+        },
+        {
+          "title": "Scroll",
+          "description": "List"
+        },
+        {
+          "title": "One Almond",
+          "description": "One almond!"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna buy a walnut! It's the same thing!",
+      "description": "Office • Desk",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Top 10 Foods",
+          "description": "Menu"
+        },
+        {
+          "title": "Milk Man",
+          "description": "Glass"
+        },
+        {
+          "title": "One Almond",
+          "description": "Amir's obsession"
+        }
+      ]
+    },
+    {
+      "quote": "A-a-a-a-almond!",
+      "description": "Office • Chanting",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Scroll",
+          "description": "Paper"
+        },
+        {
+          "title": "Beefing",
+          "description": "Crying"
+        },
+        {
+          "title": "One Almond",
+          "description": "Desk chant"
+        }
+      ]
+    },
+    {
+      "quote": "Number 4: A baby Bjorn for my cat!",
+      "description": "Office • Scroll",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Top 10 Baby Names",
+          "description": "Cats"
+        },
+        {
+          "title": "Pigeon",
+          "description": "Bird"
+        },
+        {
+          "title": "Tinder",
+          "description": "Profile"
+        }
+      ]
+    },
+    {
+      "quote": "Number 2: A pair of jeans that fits!",
+      "description": "Office • Scroll",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Fashion",
+          "description": "Vest"
+        },
+        {
+          "title": "Top 10 Outfits",
+          "description": "Jeans"
+        },
+        {
+          "title": "Fedora",
+          "description": "Hat"
+        }
+      ]
+    },
+    {
+      "quote": "I wrote it on a scroll so you know it's legit!",
+      "description": "Office • Unrolling Paper",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Scroll",
+          "description": "Every Top 10 episode"
+        },
+        {
+          "title": "Milk Man",
+          "description": "Bottle"
+        },
+        {
+          "title": "Doobs",
+          "description": "Script"
+        }
+      ]
+    },
+    {
+      "quote": "Number 9: A hot dog with no bun!",
+      "description": "Office • Scroll",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Nuggets",
+          "description": "Pocket"
+        },
+        {
+          "title": "One Almond",
+          "description": "Nut"
+        },
+        {
+          "title": "Top 10 BBQ Foods",
+          "description": "Grill"
+        }
+      ]
+    },
+    {
+      "quote": "Number 3: Just yell 'Taupe!' at strangers.",
+      "description": "Office • Scroll",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Beefing",
+          "description": "Soy"
+        },
+        {
+          "title": "Top 10 Compliments",
+          "description": "Dope/Taupe"
+        },
+        {
+          "title": "Cool",
+          "description": "Shades"
+        }
+      ]
+    },
+    {
+      "quote": "Number 6: A glass of warm milk.",
+      "description": "Office • Scroll",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Ben Schwartz"
+        },
+        {
+          "title": "Top 10 Drinks",
+          "description": "List"
+        },
+        {
+          "title": "Beer",
+          "description": "Pub"
+        }
+      ]
+    },
+    {
+      "quote": "Number 1: A hug from Jake!",
+      "description": "Office • Sweet Ending",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Beefing",
+          "description": "Tears"
+        },
+        {
+          "title": "Cheryl",
+          "description": "Date"
+        },
+        {
+          "title": "Top 10 Birthday Wishes",
+          "description": "Amir's wish"
+        }
+      ]
+    }
+  ]
+}

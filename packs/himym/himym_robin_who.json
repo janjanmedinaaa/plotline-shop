@@ -1,0 +1,298 @@
+{
+  "id": "himym_robin_who",
+  "title": "HIMYM: Robin & Friends",
+  "description": "Robin Sparkles, Patrice, Ranjit, and MacLaren's regulars.",
+  "category": "series",
+  "group": "How I Met Your Mother",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Hello!",
+      "description": "Limousine • Whenever the Gang Needs a Ride",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        },
+        {
+          "title": "Carl the Bartender",
+          "description": "MacLaren's"
+        },
+        {
+          "title": "Ranjit",
+          "description": "Bangladeshi limo driver"
+        }
+      ]
+    },
+    {
+      "quote": "But um...",
+      "description": "Morning Show • Drinking Game",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Metro News 1"
+        },
+        {
+          "title": "Becky",
+          "description": "Boats!"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Watching TV"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Canadian, sorry.",
+      "description": "MacLaren's • Apologizing",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Vancouver native"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Ohio"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Minnesota"
+        }
+      ]
+    },
+    {
+      "quote": "Let's go to the mall!",
+      "description": "1990s Music Video • Canada",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "As Robin Sparkles"
+        },
+        {
+          "title": "Jessica Glitter",
+          "description": "Space Teens"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Singing along"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a vampire!",
+      "description": "MacLaren's • Carl's Joke",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Booth"
+        },
+        {
+          "title": "Carl the Bartender",
+          "description": "Never closes"
+        },
+        {
+          "title": "Ranjit",
+          "description": "Limo"
+        }
+      ]
+    },
+    {
+      "quote": "Boats! Boats! Boats!",
+      "description": "TV Ad • Harbor",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Anchor"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Teacher"
+        },
+        {
+          "title": "Becky",
+          "description": "Commercial star"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna bake you cookies, Robin!",
+      "description": "WWN • Patrice",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Lily Aldrin",
+          "description": "Art"
+        },
+        {
+          "title": "Patrice",
+          "description": "Robin's sweet coworker"
+        },
+        {
+          "title": "Stella Zinman",
+          "description": "Dermatologist"
+        }
+      ]
+    },
+    {
+      "quote": "Wait, I'm the Blitz?",
+      "description": "Apartment 4A • Thanksgiving",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Turkey"
+        },
+        {
+          "title": "Steve Henry",
+          "description": "Always misses the cool stuff"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a huge fan of your work, Ted.",
+      "description": "College • Architecture",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "GNB"
+        },
+        {
+          "title": "Stuart",
+          "description": "Wedding guest"
+        },
+        {
+          "title": "Ranjit",
+          "description": "Limo"
+        }
+      ]
+    },
+    {
+      "quote": "You're a wonderful man, Ted Mosby.",
+      "description": "Season 8 • Train Station",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Park"
+        },
+        {
+          "title": "Victoria",
+          "description": "Bakery"
+        },
+        {
+          "title": "Tracy McConnell",
+          "description": "The Mother"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a morning person.",
+      "description": "Metro News 1 • 4 A.M. Shift",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "4 A.M. news"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Professor"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        }
+      ]
+    },
+    {
+      "quote": "Pulling up!",
+      "description": "Street • Town Car",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Fiero"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Cab"
+        },
+        {
+          "title": "Ranjit",
+          "description": "Always on call"
+        }
+      ]
+    },
+    {
+      "quote": "It's called 'The Wedding Bride'!",
+      "description": "Movie Theater • Jed Mosely",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Hates the movie"
+        },
+        {
+          "title": "Tony Grafanello",
+          "description": "Wrote the screenplay"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Loves it"
+        }
+      ]
+    },
+    {
+      "quote": "No-can-dosville, babydoll!",
+      "description": "Movie Theater • Jed Mosely",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Laughing"
+        },
+        {
+          "title": "Jed Mosely",
+          "description": "Ted's movie counterpart"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Quoting it"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a bass player.",
+      "description": "Season 9 • Farhampton",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "French horn"
+        },
+        {
+          "title": "Tracy McConnell",
+          "description": "Super-Economix"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "friends_ross_who",
+  "title": "Friends: Ross's Meltdowns",
+  "description": "Tanning beds, leather pants, fajitas, and divorces.",
+  "category": "series",
+  "group": "Friends",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Mississippi-lessly?!",
+      "description": "Season 10 • Spray Tan Salon",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Counted '1 Mississippi'"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Laughing at the tan"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Counting"
+        }
+      ]
+    },
+    {
+      "quote": "They're not coming on, man! And the lotion and the powder have made a paste!",
+      "description": "Season 5 • Bathroom",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Leather pants disaster"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "On the phone"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Living room"
+        }
+      ]
+    },
+    {
+      "quote": "I'm fine! I'm totally fine!",
+      "description": "Season 10 • Making Fajitas",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "High-pitched squeak"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Worried"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Eating"
+        }
+      ]
+    },
+    {
+      "quote": "Get off my sister!",
+      "description": "Season 5 • Apartment 19",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Finds out about Monica & Chandler"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Calm"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Surprised"
+        }
+      ]
+    },
+    {
+      "quote": "You threw my sandwich away?!",
+      "description": "Season 5 • Museum",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "My boss ate it"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Duck"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Made the sandwich"
+        }
+      ]
+    },
+    {
+      "quote": "Did you confuse it with your own turkey sandwich with a Moist Maker?",
+      "description": "Season 5 • Dr. Ledbetter's Office",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "On sabbatical"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Hungry"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Veggie"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the Holiday Armadillo!",
+      "description": "Season 7 • Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Teaching Ben about Hanukkah"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Santa"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Superman"
+        }
+      ]
+    },
+    {
+      "quote": "Three divorces! Three divorces!",
+      "description": "Season 6 • Central Perk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "The Divorce Force"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Las Vegas"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Counting"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna be a dinosaur!",
+      "description": "Season 1 • Museum",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Paleontologist"
+        },
+        {
+          "title": "Ben Geller",
+          "description": "Playing"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Audition"
+        }
+      ]
+    },
+    {
+      "quote": "DANGER! DANGER!",
+      "description": "Season 6 • Unagi Prank",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Jumping out at Rachel & Phoebe"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Laughing"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Unimpressed"
+        }
+      ]
+    },
+    {
+      "quote": "Ah, salmon skin roll.",
+      "description": "Season 6 • Central Perk",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Unagi"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Teasing Ross"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Smirking"
+        }
+      ]
+    },
+    {
+      "quote": "Why is your family Scottish? Why is your family ROSS?!",
+      "description": "Season 7 • Bagpipes",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Playing bagpipes"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Covering ears"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Screaming over the pipes"
+        }
+      ]
+    },
+    {
+      "quote": "EEEEE! EEEEE!",
+      "description": "Season 7 • Playing Bagpipes",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Playing"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Singing along with the pipes"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Holding back laughter"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a neat guy.",
+      "description": "Season 6 • Elizabeth's Dad",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Doing pushups"
+        },
+        {
+          "title": "Paul Stevens",
+          "description": "Bruce Willis"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Couch"
+        }
+      ]
+    },
+    {
+      "quote": "I too am a neat guy.",
+      "description": "Season 6 • Mirror",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Door"
+        },
+        {
+          "title": "Paul Stevens",
+          "description": "Pep talk in mirror"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "TV"
+        }
+      ]
+    }
+  ]
+}

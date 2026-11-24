@@ -1,0 +1,298 @@
+{
+  "id": "office_michael_who",
+  "title": "The Office: Michael Scott",
+  "description": "That's what she said, Prison Mike, and Dunder Mifflin's boss.",
+  "category": "series",
+  "group": "The Office (US)",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "That's what she said!",
+      "description": "Dunder Mifflin • Every Meeting",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Regional Manager"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Assistant TO the Regional Manager"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Camera look"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Prison Mike! And the worst thing about prison was the Dementors!",
+      "description": "Conference Room • Convict Day",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Purple bandana"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Holding back laughter"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Crossword"
+        }
+      ]
+    },
+    {
+      "quote": "NO! GOD! NO, GOD, PLEASE, NO! NO! NOOOO!",
+      "description": "Annex • Toby Returns",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Seeing Toby Flenderson"
+        },
+        {
+          "title": "Toby Flenderson",
+          "description": "HR"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Watching"
+        }
+      ]
+    },
+    {
+      "quote": "I declare BANKRUPTCY!",
+      "description": "Bullpen • Standing Up",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "You can't just say it"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "Accounting"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "M&Ms"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not superstitious, but I am a little stitious.",
+      "description": "Parking Lot • Fun Run",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Rabies awareness"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Running"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Reception"
+        }
+      ]
+    },
+    {
+      "quote": "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Philosophy"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Nodding"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "Temp"
+        }
+      ]
+    },
+    {
+      "quote": "Sometimes I'll start a sentence, and I don't even know where it's going.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Improv"
+        },
+        {
+          "title": "David Wallace",
+          "description": "CFO"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Smiling"
+        }
+      ]
+    },
+    {
+      "quote": "Parkour! Parkour!",
+      "description": "Warehouse • Jumping on Boxes",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Watching"
+        },
+        {
+          "title": "Michael, Dwight & Andy",
+          "description": "Jumping into boxes"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Ignoring"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Date Mike. Nice to meet me.",
+      "description": "Bar • Pool Table",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Backward kangol hat"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Cringing"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "Boom! Roasted!",
+      "description": "Warehouse • Roast of Michael Scott",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Roasting the whole office"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Laughing"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "Smiling"
+        }
+      ]
+    },
+    {
+      "quote": "You miss 100% of the shots you don't take. — Wayne Gretzky — Michael Scott.",
+      "description": "Conference Room • Whiteboard",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Crediting himself"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Drawing"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Saluting"
+        }
+      ]
+    },
+    {
+      "quote": "It's Britney, bitch.",
+      "description": "Parking Lot • Lady Gaga Song",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "In his Sebring"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Staring"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Walking"
+        }
+      ]
+    },
+    {
+      "quote": "I love inside jokes. I'd love to be a part of one someday.",
+      "description": "Parking Lot • Stamford Merger",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Jealous of Jim & Josh"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Quiet"
+        },
+        {
+          "title": "Karen Filippelli",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "Why are you the way that you are?",
+      "description": "Conference Room • To Toby",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Hating Toby"
+        },
+        {
+          "title": "Toby Flenderson",
+          "description": "Sighing"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "Gossiping"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Michael Scarn! Threat Level Midnight!",
+      "description": "Conference Room • Movie Screening",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Secret agent"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Samuel L. Chang"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Goldenface"
+        }
+      ]
+    }
+  ]
+}

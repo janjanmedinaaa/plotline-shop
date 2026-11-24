@@ -1,0 +1,298 @@
+{
+  "id": "comm_s3_s6_ep",
+  "title": "Community: Seasons 3–6",
+  "description": "Match the Season 3–6 quote to the exact episode.",
+  "category": "series",
+  "group": "Community",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 170,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "I'm a sexy cat!",
+      "description": "Season 3/5 • Nic Cage",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E02 • Introduction to Teaching",
+          "description": "Abed's Nic Cage class"
+        },
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Timeline"
+        },
+        {
+          "title": "S3E14 • Pillows and Blankets",
+          "description": "Fort"
+        }
+      ]
+    },
+    {
+      "quote": "Evil Troy and Evil Abed!",
+      "description": "Season 3 • Darkest Timeline",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E14 • Pillows and Blankets",
+          "description": "Blanket"
+        },
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Felt goatees"
+        },
+        {
+          "title": "S3E17 • Basic Lupine Urology",
+          "description": "Yam"
+        }
+      ]
+    },
+    {
+      "quote": "Who killed the yam?!",
+      "description": "Season 3 • Biology",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Dice"
+        },
+        {
+          "title": "S3E14 • Pillows and Blankets",
+          "description": "War"
+        },
+        {
+          "title": "S3E17 • Basic Lupine Urology",
+          "description": "Law & Order parody"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the True Repairman!",
+      "description": "Season 3 • AC Repair School",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E22 • Introduction to Finality",
+          "description": "Sun Chamber duel"
+        },
+        {
+          "title": "S3E14 • Pillows and Blankets",
+          "description": "War"
+        },
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Pizza"
+        }
+      ]
+    },
+    {
+      "quote": "Welcome to the Dreamatorium!",
+      "description": "Season 3 • Apartment 303",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E04 • Remedial Chaos Theory",
+          "description": "Hallway"
+        },
+        {
+          "title": "S3E16 • Virtual Systems Analysis",
+          "description": "Annie & Abed"
+        },
+        {
+          "title": "S3E17 • Basic Lupine Urology",
+          "description": "Lab"
+        }
+      ]
+    },
+    {
+      "quote": "Here's your sperm.",
+      "description": "Season 5 • Study Room",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E02 • Intro to Teaching",
+          "description": "Class"
+        },
+        {
+          "title": "S5E05 • Geothermal Escapism",
+          "description": "Lava"
+        },
+        {
+          "title": "S5E04 • Cooperative Polygraphy",
+          "description": "Pierce's bequeathals"
+        }
+      ]
+    },
+    {
+      "quote": "The floor is lava! Knock knock!",
+      "description": "Season 5 • Campus",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E04 • Cooperative Polygraphy",
+          "description": "Will"
+        },
+        {
+          "title": "S5E05 • Geothermal Escapism",
+          "description": "Clone Troy"
+        },
+        {
+          "title": "S5E08 • App Development and Condiments",
+          "description": "Beenz"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a 5! Bow before my MeowMeowBeenz!",
+      "description": "Season 5 • Cafeteria",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E04 • Cooperative Polygraphy",
+          "description": "Polygraph"
+        },
+        {
+          "title": "S5E05 • Geothermal Escapism",
+          "description": "Chair"
+        },
+        {
+          "title": "S5E08 • App Development and Condiments",
+          "description": "Shirley & Jeff"
+        }
+      ]
+    },
+    {
+      "quote": "It's a GI Joe cartoon! Yo Joe!",
+      "description": "Season 5 • Animated",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E11 • G.I. Jeff",
+          "description": "Jeff's 40th birthday"
+        },
+        {
+          "title": "S5E08 • App Development",
+          "description": "Beenz"
+        },
+        {
+          "title": "S5E05 • Geothermal Escapism",
+          "description": "Lava"
+        }
+      ]
+    },
+    {
+      "quote": "Elroy! Encourage white people!",
+      "description": "Season 6 • RV",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E01 • Ladders",
+          "description": "Frankie arrives"
+        },
+        {
+          "title": "S6E12 • Wedding Videography",
+          "description": "Garrett's wedding"
+        },
+        {
+          "title": "S6E13 • Emotional Consequences of Broadcast Television",
+          "description": "Finale"
+        }
+      ]
+    },
+    {
+      "quote": "Now there's a man who knows how to marry his cousin!",
+      "description": "Season 6 • Wedding",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E01 • Ladders",
+          "description": "Bar"
+        },
+        {
+          "title": "S6E12 • Wedding Videography",
+          "description": "Elroy's addiction to encouraging white people"
+        },
+        {
+          "title": "S6E13 • Series Finale",
+          "description": "Bar"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Frankie Dart, and I'm here to save Greendale.",
+      "description": "Season 6 • Premiere",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S6E01 • Ladders",
+          "description": "Speakeasy"
+        },
+        {
+          "title": "S6E07 • Advanced Safety Features",
+          "description": "Honda"
+        },
+        {
+          "title": "S6E12 • Wedding Videography",
+          "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a level 7 susceptible!",
+      "description": "Season 6 • Honda CR-V",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E01 • Ladders",
+          "description": "Ladders class"
+        },
+        {
+          "title": "S6E07 • Advanced Safety Features",
+          "description": "Subway & Honda"
+        },
+        {
+          "title": "S6E13 • Series Finale",
+          "description": "Pitching Season 7"
+        }
+      ]
+    },
+    {
+      "quote": "Cool. Cool cool cool... #AndAMovie.",
+      "description": "Season 6 • Series Finale",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E01 • Ladders",
+          "description": "Bar"
+        },
+        {
+          "title": "S6E12 • Wedding Videography",
+          "description": "Toast"
+        },
+        {
+          "title": "S6E13 • Emotional Consequences of Broadcast Television",
+          "description": "Airport hug"
+        }
+      ]
+    },
+    {
+      "quote": "Ladders! Welcome to Ladders!",
+      "description": "Season 6 • Cafeteria",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S6E01 • Ladders",
+          "description": "Greendale's most dangerous class"
+        },
+        {
+          "title": "S5E05 • Geothermal Escapism",
+          "description": "Lava"
+        },
+        {
+          "title": "S3E14 • Pillows and Blankets",
+          "description": "Fort"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "himym_s1_s3_ep",
+  "title": "HIMYM: Early Seasons",
+  "description": "Guess the Season 1–3 episode for each memorable quote.",
+  "category": "series",
+  "group": "How I Met Your Mother",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 170,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Have you met Ted?",
+      "description": "Season 1 • First Episode",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Barney's classic opener"
+        },
+        {
+          "title": "S1E02 • Purple Giraffe",
+          "description": "Rooftop party"
+        },
+        {
+          "title": "S1E03 • Sweet Taste of Liberty",
+          "description": "Philly"
+        }
+      ]
+    },
+    {
+      "quote": "We're going to Philadelphia!",
+      "description": "Season 1 • Airport",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "MacLaren's"
+        },
+        {
+          "title": "S1E02 • Purple Giraffe",
+          "description": "Party"
+        },
+        {
+          "title": "S1E03 • Sweet Taste of Liberty",
+          "description": "Licking the Liberty Bell"
+        }
+      ]
+    },
+    {
+      "quote": "It's the Return of the Shirt!",
+      "description": "Season 1 • 6-Year-Old Shirt",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E04 • Return of the Shirt",
+          "description": "Ted & Natalie"
+        },
+        {
+          "title": "S1E05 • Okay Awesome",
+          "description": "Club"
+        },
+        {
+          "title": "S1E06 • Slutty Pumpkin",
+          "description": "Rooftop"
+        }
+      ]
+    },
+    {
+      "quote": "Okay is lame. Be awesome!",
+      "description": "Season 1 • Nightclub",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E04 • Return of the Shirt",
+          "description": "Natalie"
+        },
+        {
+          "title": "S1E05 • Okay Awesome",
+          "description": "Club Okay"
+        },
+        {
+          "title": "S1E06 • Slutty Pumpkin",
+          "description": "Hanging Chad"
+        }
+      ]
+    },
+    {
+      "quote": "Waiting for the Slutty Pumpkin.",
+      "description": "Season 1 • Halloween",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E04 • Return of the Shirt",
+          "description": "Shirt"
+        },
+        {
+          "title": "S1E05 • Okay Awesome",
+          "description": "Club"
+        },
+        {
+          "title": "S1E06 • Slutty Pumpkin",
+          "description": "Ted on the roof"
+        }
+      ]
+    },
+    {
+      "quote": "Nothing good happens after 2 A.M.",
+      "description": "Season 1 • Victoria & Robin",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E18 • Nothing Good Happens After 2 A.M.",
+          "description": "Ted's late night"
+        },
+        {
+          "title": "S1E12 • The Wedding",
+          "description": "Claudia & Stuart"
+        },
+        {
+          "title": "S1E22 • Come On",
+          "description": "Rain dance"
+        }
+      ]
+    },
+    {
+      "quote": "I made it rain!",
+      "description": "Season 1 • Ted's Rain Dance",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E18 • Nothing Good Happens After 2 A.M.",
+          "description": "2 A.M."
+        },
+        {
+          "title": "S1E13 • Drumroll, Please",
+          "description": "Bakery"
+        },
+        {
+          "title": "S1E22 • Come On",
+          "description": "Blue French horn"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Swarley!",
+      "description": "Season 2 • Coffee Shop",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E07 • Swarley",
+          "description": "Chloe & Crazy Eyes"
+        },
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Mall"
+        },
+        {
+          "title": "S2E14 • Monday Night Football",
+          "description": "Super Bowl"
+        }
+      ]
+    },
+    {
+      "quote": "No spoilers! Sensory Deprivator 5000!",
+      "description": "Season 2 • Super Bowl",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E07 • Swarley",
+          "description": "Coffee"
+        },
+        {
+          "title": "S2E14 • Monday Night Football",
+          "description": "Recording the game"
+        },
+        {
+          "title": "S2E17 • Arrivederci, Fiero",
+          "description": "Fiero"
+        }
+      ]
+    },
+    {
+      "quote": "Bachelor party! Not at a strip club!",
+      "description": "Season 2 • Atlantic City",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E14 • Monday Night Football",
+          "description": "Super Bowl"
+        },
+        {
+          "title": "S2E17 • Arrivederci, Fiero",
+          "description": "Car"
+        },
+        {
+          "title": "S2E19 • Bachelor Party",
+          "description": "Karate Kid"
+        }
+      ]
+    },
+    {
+      "quote": "Wait for it...",
+      "description": "Season 3 • Argentina",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E01 • Wait for It",
+          "description": "Gael & the butterfly tattoo"
+        },
+        {
+          "title": "S3E05 • How I Met Everyone Else",
+          "description": "Hot/Crazy"
+        },
+        {
+          "title": "S3E11 • The Platinum Rule",
+          "description": "Stella"
+        }
+      ]
+    },
+    {
+      "quote": "Two minutes! Ten dates in two minutes!",
+      "description": "Season 3 • Stella's Office",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E01 • Wait for It",
+          "description": "Tattoo"
+        },
+        {
+          "title": "S3E13 • Ten Sessions",
+          "description": "Two-minute date"
+        },
+        {
+          "title": "S3E17 • The Goat",
+          "description": "30th birthday"
+        }
+      ]
+    },
+    {
+      "quote": "The Bracket! Sixty-four women.",
+      "description": "Season 3 • MacLaren's",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E05 • How I Met Everyone Else",
+          "description": "Chart"
+        },
+        {
+          "title": "S3E13 • Ten Sessions",
+          "description": "Stella"
+        },
+        {
+          "title": "S3E14 • The Bracket",
+          "description": "Finding Barney's saboteur"
+        }
+      ]
+    },
+    {
+      "quote": "I'm having a miracle!",
+      "description": "Season 3 • Finale",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E20 • Miracles",
+          "description": "Ted's car crash"
+        },
+        {
+          "title": "S3E17 • The Goat",
+          "description": "Goat"
+        },
+        {
+          "title": "S3E19 • Everything Must Go",
+          "description": "Garage sale"
+        }
+      ]
+    },
+    {
+      "quote": "You're a good guy, Ted.",
+      "description": "Season 1 • Bakery",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Booth"
+        },
+        {
+          "title": "S1E13 • Drumroll, Please",
+          "description": "Victoria"
+        },
+        {
+          "title": "S1E22 • Come On",
+          "description": "Rain"
+        }
+      ]
+    }
+  ]
+}

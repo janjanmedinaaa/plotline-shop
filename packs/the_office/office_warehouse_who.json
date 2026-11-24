@@ -1,0 +1,298 @@
+{
+  "id": "office_warehouse_who",
+  "title": "The Office: Warehouse & Corporate",
+  "description": "Darryl, Jan, David Wallace, Robert California, and Holly.",
+  "category": "series",
+  "group": "The Office (US)",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "You don't even know what a write-off is!",
+      "description": "Warehouse • Darryl",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Darryl Philbin",
+          "description": "Foreman"
+        },
+        {
+          "title": "Roy Anderson",
+          "description": "Truck"
+        },
+        {
+          "title": "Lonny",
+          "description": "Forklift"
+        }
+      ]
+    },
+    {
+      "quote": "Baler? I hardly know her!",
+      "description": "Warehouse • Safety",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Darryl Philbin",
+          "description": "Don't touch it"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Dammit, Michael!"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "Dammit, Michael! Pay attention!",
+      "description": "Warehouse • Baler",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Darryl Philbin",
+          "description": "Yelling"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Sorry"
+        },
+        {
+          "title": "Lonny",
+          "description": "Forklift"
+        }
+      ]
+    },
+    {
+      "quote": "Suck It! Take out your Suck It and you suck it!",
+      "description": "Hot Tub • David Wallace",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Weirded out"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Interested"
+        },
+        {
+          "title": "David Wallace",
+          "description": "Invention"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the fucking Lizard King.",
+      "description": "Phone • Robert California",
+      "correct": 1,
+      "options": [
+        {
+          "title": "David Wallace",
+          "description": "Buying back Dunder Mifflin"
+        },
+        {
+          "title": "Robert California",
+          "description": "You don't even know my real name"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "Listening"
+        }
+      ]
+    },
+    {
+      "quote": "Everything is sex.",
+      "description": "Conference Room • Metaphor",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "That's what she said"
+        },
+        {
+          "title": "Robert California",
+          "description": "Nature vs. sexual metaphor"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "Taking notes"
+        }
+      ]
+    },
+    {
+      "quote": "Don't ever, for any reason, do anything to anyone, for any reason ever...",
+      "description": "Corporate • Michael",
+      "correct": 2,
+      "options": [
+        {
+          "title": "David Wallace",
+          "description": "Listening"
+        },
+        {
+          "title": "Jan Levinson",
+          "description": "Sighing"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Philosophy"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Serenity by Jan!",
+      "description": "Condo • Candles",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jan Levinson",
+          "description": "Candle business"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Smelling"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Cringing"
+        }
+      ]
+    },
+    {
+      "quote": "You're hardly my first!",
+      "description": "Condo • Dinner Party",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jan Levinson",
+          "description": "About Hunter"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "THAT'S WHAT SHE SAID!"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Ducking"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna go get a drink. A very stiff drink.",
+      "description": "Conference Room • Corporate",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jan Levinson",
+          "description": "Wine"
+        },
+        {
+          "title": "David Wallace",
+          "description": "After talking to Michael"
+        },
+        {
+          "title": "Toby Flenderson",
+          "description": "Annex"
+        }
+      ]
+    },
+    {
+      "quote": "We're going to Chili's! Awesome Blossom!",
+      "description": "Chili's • Client Meeting",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jan Levinson",
+          "description": "Surprised"
+        },
+        {
+          "title": "Christian",
+          "description": "Tim Meadows"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Closing the sale"
+        }
+      ]
+    },
+    {
+      "quote": "I want my baby back, baby back, baby back...",
+      "description": "Chili's • Singing",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jan Levinson",
+          "description": "Joined in"
+        },
+        {
+          "title": "Christian",
+          "description": "Singing"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Chili's ribs"
+        }
+      ]
+    },
+    {
+      "quote": "I'm moving upstairs to Corporate!",
+      "description": "Season 7 • Interview",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Darryl Philbin",
+          "description": "New office"
+        },
+        {
+          "title": "Roy Anderson",
+          "description": "Gravel company"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "Boat"
+        }
+      ]
+    },
+    {
+      "quote": "You're a good guy, Halpert.",
+      "description": "Office • Packing",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Darryl Philbin",
+          "description": "Moving to Austin"
+        },
+        {
+          "title": "David Wallace",
+          "description": "Phone"
+        },
+        {
+          "title": "Robert California",
+          "description": "Leaving"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Jo Bennett, and I don't like liars.",
+      "description": "Office • Sabre",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jan Levinson",
+          "description": "New York"
+        },
+        {
+          "title": "Jo Bennett",
+          "description": "Kathy Bates"
+        },
+        {
+          "title": "Nellie Bertram",
+          "description": "Florida"
+        }
+      ]
+    }
+  ]
+}

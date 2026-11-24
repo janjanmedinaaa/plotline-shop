@@ -1,0 +1,298 @@
+{
+  "id": "himym_s4_s6_ep",
+  "title": "HIMYM: Middle Seasons",
+  "description": "Guess the Season 4–6 episode for each memorable quote.",
+  "category": "series",
+  "group": "How I Met Your Mother",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 170,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "She left me at the altar.",
+      "description": "Season 4 • Wedding",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S4E05 • Shelter Island",
+          "description": "Stella leaves Ted"
+        },
+        {
+          "title": "S4E01 • Do I Know You?",
+          "description": "Proposal"
+        },
+        {
+          "title": "S4E09 • The Naked Man",
+          "description": "Couch"
+        }
+      ]
+    },
+    {
+      "quote": "The Three Days Rule! Wait three days!",
+      "description": "Season 4 • Texting",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S4E05 • Shelter Island",
+          "description": "Wedding"
+        },
+        {
+          "title": "S4E21 • The Three Days Rule",
+          "description": "Holli"
+        },
+        {
+          "title": "S4E24 • The Leap",
+          "description": "Rooftop"
+        }
+      ]
+    },
+    {
+      "quote": "Jump! To the other roof!",
+      "description": "Season 4 • Finale",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E09 • The Naked Man",
+          "description": "Apartment"
+        },
+        {
+          "title": "S4E21 • The Three Days Rule",
+          "description": "Booth"
+        },
+        {
+          "title": "S4E24 • The Leap",
+          "description": "Leaping to the next year"
+        }
+      ]
+    },
+    {
+      "quote": "Robin 101: a class taught by Barney.",
+      "description": "Season 5 • Classroom",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E03 • Robin 101",
+          "description": "Ted takes notes on Robin"
+        },
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "Scuba"
+        },
+        {
+          "title": "S5E12 • Girls Versus Suits",
+          "description": "Musical"
+        }
+      ]
+    },
+    {
+      "quote": "The Window is open!",
+      "description": "Season 5 • Maggie Wilks",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E03 • Robin 101",
+          "description": "Class"
+        },
+        {
+          "title": "S5E10 • The Window",
+          "description": "Girl next door"
+        },
+        {
+          "title": "S5E15 • Rabbit or Duck",
+          "description": "Phone"
+        }
+      ]
+    },
+    {
+      "quote": "Robots Versus Wrestlers!",
+      "description": "Season 5 • Highbrow Party",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E10 • The Window",
+          "description": "Overall"
+        },
+        {
+          "title": "S5E12 • Girls Versus Suits",
+          "description": "Bar"
+        },
+        {
+          "title": "S5E22 • Robots Versus Wrestlers",
+          "description": "Annual tradition"
+        }
+      ]
+    },
+    {
+      "quote": "Doppelgängers! We've seen four of five!",
+      "description": "Season 5 • Finale",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E24 • Doppelgangers",
+          "description": "Cab driver, wrestler, stripper, news"
+        },
+        {
+          "title": "S5E22 • Robots Versus Wrestlers",
+          "description": "Arena"
+        },
+        {
+          "title": "S6E01 • Big Days",
+          "description": "Bar"
+        }
+      ]
+    },
+    {
+      "quote": "Subway Wars! Who gets there fastest?",
+      "description": "Season 6 • NYC Race",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E01 • Big Days",
+          "description": "Punchy"
+        },
+        {
+          "title": "S6E04 • Subway Wars",
+          "description": "Maury Povich"
+        },
+        {
+          "title": "S6E10 • Blitzgiving",
+          "description": "Turkey"
+        }
+      ]
+    },
+    {
+      "quote": "Architect of Destruction! The Arcadian!",
+      "description": "Season 6 • Zoey",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E04 • Subway Wars",
+          "description": "Subway"
+        },
+        {
+          "title": "S6E11 • The Mermaid Theory",
+          "description": "Boat"
+        },
+        {
+          "title": "S6E05 • Architect of Destruction",
+          "description": "GNB headquarters"
+        }
+      ]
+    },
+    {
+      "quote": "Natural History! Don't touch the whale!",
+      "description": "Season 6 • Museum",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S6E08 • Natural History",
+          "description": "Zoey & the Captain"
+        },
+        {
+          "title": "S6E09 • Glitter",
+          "description": "Space Teens"
+        },
+        {
+          "title": "S6E13 • Bad News",
+          "description": "Countdown"
+        }
+      ]
+    },
+    {
+      "quote": "Countdown from 50 to 1...",
+      "description": "Season 6 • Bad News",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E08 • Natural History",
+          "description": "Museum"
+        },
+        {
+          "title": "S6E13 • Bad News",
+          "description": "Marshall's dad"
+        },
+        {
+          "title": "S6E14 • Last Words",
+          "description": "Funeral"
+        }
+      ]
+    },
+    {
+      "quote": "You're a really good friend, Ted.",
+      "description": "Season 6 • Minnesota",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E13 • Bad News",
+          "description": "Cab"
+        },
+        {
+          "title": "S6E10 • Blitzgiving",
+          "description": "Blitz"
+        },
+        {
+          "title": "S6E14 • Last Words",
+          "description": "Pocket dial voicemail"
+        }
+      ]
+    },
+    {
+      "quote": "Hopeless! Look at my dad!",
+      "description": "Season 6 • Legendaddy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S6E19 • Legendaddy",
+          "description": "Barney meets Jerome"
+        },
+        {
+          "title": "S6E13 • Bad News",
+          "description": "Hospital"
+        },
+        {
+          "title": "S6E24 • Challenge Accepted",
+          "description": "Arcadian"
+        }
+      ]
+    },
+    {
+      "quote": "The Exploding Meatball Sub!",
+      "description": "Season 6 • Vengeance",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E04 • Subway Wars",
+          "description": "Subway"
+        },
+        {
+          "title": "S6E20 • The Exploding Meatball Sub",
+          "description": "Barney's 10-year prank"
+        },
+        {
+          "title": "S6E24 • Challenge Accepted",
+          "description": "Demolition"
+        }
+      ]
+    },
+    {
+      "quote": "Challenge Accepted!",
+      "description": "Season 6 • Finale",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E19 • Legendaddy",
+          "description": "Basketball hoop"
+        },
+        {
+          "title": "S6E20 • The Exploding Meatball Sub",
+          "description": "Sub"
+        },
+        {
+          "title": "S6E24 • Challenge Accepted",
+          "description": "Pressing the button"
+        }
+      ]
+    }
+  ]
+}

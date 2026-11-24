@@ -1,0 +1,298 @@
+{
+  "id": "friends_classic_ep",
+  "title": "Friends: Iconic Episodes",
+  "description": "Match each legendary Friends quote to its episode.",
+  "category": "series",
+  "group": "Friends",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Could I BE wearing any more clothes?",
+      "description": "Season 3 • Getting Ready",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E02 • The One Where No One's Ready",
+          "description": "Ross's museum benefit"
+        },
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Quiz"
+        },
+        {
+          "title": "S5E14 • The One Where Everybody Finds Out",
+          "description": "Secret"
+        }
+      ]
+    },
+    {
+      "quote": "What is Chandler Bing's job?!",
+      "description": "Season 4 • Lightning Round",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E02 • The One Where No One's Ready",
+          "description": "Chair fight"
+        },
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Transponster!"
+        },
+        {
+          "title": "S5E16 • The One with the Cop",
+          "description": "Pivot"
+        }
+      ]
+    },
+    {
+      "quote": "That's not even a word!",
+      "description": "Season 4 • Apartment Bet",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E14 • The One with the Prom Video",
+          "description": "Lobster"
+        },
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Rachel yells 'Transponster!'"
+        },
+        {
+          "title": "S6E09 • The One Where Ross Got High",
+          "description": "Trifle"
+        }
+      ]
+    },
+    {
+      "quote": "He's her lobster!",
+      "description": "Season 2 • Prom Video",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E14 • The One with the Prom Video",
+          "description": "Phoebe's lobster theory"
+        },
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Wedding dress"
+        },
+        {
+          "title": "S3E15 • The One Where Ross and Rachel Take a Break",
+          "description": "Break"
+        }
+      ]
+    },
+    {
+      "quote": "I, Ross, take thee Rachel...",
+      "description": "Season 4 • London Altar",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Quiz"
+        },
+        {
+          "title": "S5E01 • The One After Ross Says Rachel",
+          "description": "Reception"
+        },
+        {
+          "title": "S4E24 • The One with Ross's Wedding",
+          "description": "Wrong name at the altar"
+        }
+      ]
+    },
+    {
+      "quote": "Custard, good. Jam, good. Meat, GOOD!",
+      "description": "Season 6 • Thanksgiving",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S6E09 • The One Where Ross Got High",
+          "description": "Rachel's English trifle"
+        },
+        {
+          "title": "S5E08 • The One with All the Thanksgivings",
+          "description": "Turkey head"
+        },
+        {
+          "title": "S10E08 • The One with the Late Thanksgiving",
+          "description": "Floating heads"
+        }
+      ]
+    },
+    {
+      "quote": "Pivot! Pivot! PIVOT!",
+      "description": "Season 5 • Stairwell",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E14 • The One Where Everybody Finds Out",
+          "description": "Balcony"
+        },
+        {
+          "title": "S5E16 • The One with the Cop",
+          "description": "Ross buys a new couch"
+        },
+        {
+          "title": "S6E17 • The One with Unagi",
+          "description": "Karate"
+        }
+      ]
+    },
+    {
+      "quote": "They don't know that we know they know we know!",
+      "description": "Season 5 • Window",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E14 • The One Where Everybody Finds Out",
+          "description": "Monica & Chandler's secret"
+        },
+        {
+          "title": "S5E16 • The One with the Cop",
+          "description": "Couch"
+        },
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Bet"
+        }
+      ]
+    },
+    {
+      "quote": "Seven! Seven! Seven!",
+      "description": "Season 4 • Living Room",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Quiz"
+        },
+        {
+          "title": "S5E08 • The One with All the Thanksgivings",
+          "description": "1987"
+        },
+        {
+          "title": "S4E11 • The One with Phoebe's Uterus",
+          "description": "Monica's diagram"
+        }
+      ]
+    },
+    {
+      "quote": "I got off the plane.",
+      "description": "Season 10 • Series Finale",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S9E24 • The One in Barbados",
+          "description": "Ping pong"
+        },
+        {
+          "title": "S10E17 • The Last One",
+          "description": "Rachel returns to Ross"
+        },
+        {
+          "title": "S8E24 • The One Where Rachel Has a Baby",
+          "description": "Hospital"
+        }
+      ]
+    },
+    {
+      "quote": "Welcome to the real world. It sucks. You're gonna love it.",
+      "description": "Season 1 • Pilot",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • The One Where Monica Gets a Roommate",
+          "description": "Monica to Rachel"
+        },
+        {
+          "title": "S1E07 • The One with the Blackout",
+          "description": "Vestibule"
+        },
+        {
+          "title": "S2E07 • The One Where Ross Finds Out",
+          "description": "Cat"
+        }
+      ]
+    },
+    {
+      "quote": "I'm trapped in an ATM vestibule with Jill Goodacre!",
+      "description": "Season 1 • Blackout",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Central Perk"
+        },
+        {
+          "title": "S1E07 • The One with the Blackout",
+          "description": "Chandler's whisper"
+        },
+        {
+          "title": "S2E14 • The One with the Prom Video",
+          "description": "Bracelet"
+        }
+      ]
+    },
+    {
+      "quote": "My eyes! My eyes!",
+      "description": "Season 5 • Ugly Naked Guy's",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E14 • The One Where Everybody Finds Out",
+          "description": "Phoebe sees Monica & Chandler"
+        },
+        {
+          "title": "S5E08 • The One with All the Thanksgivings",
+          "description": "Turkey"
+        },
+        {
+          "title": "S6E09 • The One Where Ross Got High",
+          "description": "Trifle"
+        }
+      ]
+    },
+    {
+      "quote": "I'm fine! Totally fine!",
+      "description": "Season 10 • Fajitas",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E16 • The One with the Cop",
+          "description": "Couch"
+        },
+        {
+          "title": "S6E17 • The One with Unagi",
+          "description": "Salmon"
+        },
+        {
+          "title": "S10E02 • The One Where Ross Is Fine",
+          "description": "Ross's squeaky voice"
+        }
+      ]
+    },
+    {
+      "quote": "See? He's her lobster!",
+      "description": "Season 2 • Apartment 20",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E14 • The One with the Prom Video",
+          "description": "Ross & Rachel kiss"
+        },
+        {
+          "title": "S3E02 • The One Where No One's Ready",
+          "description": "Dress"
+        },
+        {
+          "title": "S10E17 • The Last One",
+          "description": "Keys"
+        }
+      ]
+    }
+  ]
+}

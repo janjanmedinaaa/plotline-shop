@@ -1,0 +1,298 @@
+{
+  "id": "office_dwight_who",
+  "title": "The Office: Dwight Schrute",
+  "description": "Beets, bears, Schrute Farms, and volunteer sheriffing.",
+  "category": "series",
+  "group": "The Office (US)",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 15,
+  "questions": [
+    {
+      "quote": "Fact: Bears eat beets.",
+      "description": "Desk • Cold Open",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Dressed as Dwight"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Confused"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "Identity theft is not a joke, Jim! Millions of families suffer every year!",
+      "description": "Desk • Cold Open",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Outraged"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Bobblehead"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "MICHAEL!",
+      "description": "Desk • Running to Office",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Yelling for Michael"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Also yells MICHAEL!"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Smiling"
+        }
+      ]
+    },
+    {
+      "quote": "Whenever I'm about to do something, I think, 'Would an idiot do that?'",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Life rule"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Prank"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "Chili"
+        }
+      ]
+    },
+    {
+      "quote": "Assistant Regional Manager! Assistant TO the Regional Manager.",
+      "description": "Office • Correction",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Claims the title"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Corrects Dwight"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Laughs"
+        }
+      ]
+    },
+    {
+      "quote": "Through concentration, I can raise and lower my cholesterol at will.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Why would you raise it?"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Asking"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Staring"
+        }
+      ]
+    },
+    {
+      "quote": "So I can lower it.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Answering Pam"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Impressed"
+        },
+        {
+          "title": "Oscar",
+          "description": "Skeptical"
+        }
+      ]
+    },
+    {
+      "quote": "Question: Which bear is best?",
+      "description": "Desk • Cold Open",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "False! Black bear"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Asking as Dwight"
+        },
+        {
+          "title": "Stanley",
+          "description": "Sleeping"
+        }
+      ]
+    },
+    {
+      "quote": "False. Black bear.",
+      "description": "Desk • Cold Open",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Serious answer"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Bears. Beets."
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "Cornell"
+        }
+      ]
+    },
+    {
+      "quote": "Before I do anything, I ask myself: would an idiot do that? And if they would, I do not do that thing.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Wisdom"
+        },
+        {
+          "title": "Creed Bratton",
+          "description": "Mung beans"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "Notebook"
+        }
+      ]
+    },
+    {
+      "quote": "I am faster than 80% of all snakes.",
+      "description": "Office • Bragging",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Schrute Farms"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Doubtful"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Believing"
+        }
+      ]
+    },
+    {
+      "quote": "If I'm dead, you guys have been dead for weeks.",
+      "description": "Conference Room • CPR",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Wearing the dummy's face"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Scared"
+        },
+        {
+          "title": "David Wallace",
+          "description": "Speechless"
+        }
+      ]
+    },
+    {
+      "quote": "Why did you cut the face off the dummy?!",
+      "description": "Corporate • David Wallace",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Clarice..."
+        },
+        {
+          "title": "Michael Scott",
+          "description": "He didn't think it was realistic"
+        },
+        {
+          "title": "David Wallace",
+          "description": "Scolding Dwight"
+        }
+      ]
+    },
+    {
+      "quote": "It's $3,500!",
+      "description": "Corporate • David Wallace",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Five thousand three hundred dollars?!"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Silent"
+        },
+        {
+          "title": "David Wallace",
+          "description": "About the CPR dummy"
+        }
+      ]
+    },
+    {
+      "quote": "Security in this office park is a joke.",
+      "description": "Parking Lot • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Last year I came to work with my spud-gun"
+        },
+        {
+          "title": "Creed Bratton",
+          "description": "Quality assurance"
+        },
+        {
+          "title": "Toby Flenderson",
+          "description": "HR"
+        }
+      ]
+    }
+  ]
+}
