@@ -7,7 +7,7 @@
   "tag": "Who said it?",
   "answer_type": "character",
   "price": 150,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "I don't have an ego. My Facebook photo is a landscape.",
@@ -291,6 +291,671 @@
         {
           "title": "Abed Nadir",
           "description": "Meta"
+        }
+      ]
+    },
+    {
+      "quote": "What's a 'diminutive'?",
+      "description": "Study Room • Vocabulary",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Dictionary"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Explaining"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Asking"
+        }
+      ]
+    },
+    {
+      "quote": "I have Changnesia!",
+      "description": "Season 4 • Kevin",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Believing him"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Fake amnesia"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Not buying it"
+        }
+      ]
+    },
+    {
+      "quote": "Greendale: You're already accepted!",
+      "description": "Campus • Slogan",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "School motto"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Sighing"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Camera"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a cat! I'm a sexy cat!",
+      "description": "Acting Class • Nic Cage",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Acting breakdown"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Clapping"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Scared"
+        }
+      ]
+    },
+    {
+      "quote": "Did someone say 'crazy person'?",
+      "description": "Study Room • Doorway",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Puns"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Ventilation shaft"
+        },
+        {
+          "title": "Leonard",
+          "description": "Pool"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna make a documentary about Greendale!",
+      "description": "Campus • Camera",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Filming everyone"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Posing"
+        },
+        {
+          "title": "Chang",
+          "description": "Photobombing"
+        }
+      ]
+    },
+    {
+      "quote": "Don't eat the crab dip! Yay-yay!",
+      "description": "Study Room F • Troy's Joke",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Blank stare"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Proud of his joke"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Chortling"
+        }
+      ]
+    },
+    {
+      "quote": "Buy my frozen pizza! Four stars!",
+      "description": "YouTube • Leonard's Reviews",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Garrett",
+          "description": "Choir"
+        },
+        {
+          "title": "Leonard Rodriguez",
+          "description": "Food reviewer"
+        },
+        {
+          "title": "Star-Burns",
+          "description": "Meth lab"
+        }
+      ]
+    },
+    {
+      "quote": "Shut up, Leonard! I know about your prescription socks!",
+      "description": "Cafeteria • Jeff's Insult",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Roasting Leonard"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Cafeteria"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a high-functioning sociopath—no, wait, I'm just Abed.",
+      "description": "Study Room • Sherlock Joke",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Analyzing everyone"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Stop"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Psychology major"
+        }
+      ]
+    },
+    {
+      "quote": "Troy and Abed in the moooorning!",
+      "description": "Study Room F • Talk Show",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Annoyed"
+        },
+        {
+          "title": "Troy & Abed",
+          "description": "Morning show hosts"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Guest"
+        }
+      ]
+    },
+    {
+      "quote": "I have to go to the bank today! What am I supposed to tell them, I had good news and bad news?!",
+      "description": "Study Room • Half-Man Half-Woman Costume",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Duali-dean of Man"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Keytar"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Mansion"
+        }
+      ]
+    },
+    {
+      "quote": "I can excuse racism, but I draw the line at animal cruelty.",
+      "description": "Study Room • Shirley & Britta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Animal rights"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "You can excuse racism?!"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Shocked"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna punch you in the heart!",
+      "description": "Study Room • Threat",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Calm"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Sweet voice"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Protesting"
+        }
+      ]
+    },
+    {
+      "quote": "Wait... that's 'saved' Garrett?",
+      "description": "Campus • Whispering",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Looking at Garrett"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Nods"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Camera"
+        }
+      ]
+    },
+    {
+      "quote": "Inspector Spacetime! Where are we? More importantly, WHEN are we?",
+      "description": "TV • Convention",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Quoting the show"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Constable Reggie"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Bored"
+        }
+      ]
+    },
+    {
+      "quote": "Wait... you can't disappoint a picture!",
+      "description": "Season 2 • LeVar Burton",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Camera"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Crying in the bathroom"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Gift"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a TV character! Look at the camera!",
+      "description": "Study Room • Documentary",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Staring into the lens"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Stop Jim-ing the camera"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Waving"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Batman.",
+      "description": "Season 1 • Halloween",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Saving Jeff & Pierce"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Eddie Murphy"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Cowboy"
+        }
+      ]
+    },
+    {
+      "quote": "Have you met me?!",
+      "description": "Study Room F • Chang's Entrance",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Costume"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Mansion"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "El Tigre Chino"
+        }
+      ]
+    },
+    {
+      "quote": "If I'm Batman, then you're...",
+      "description": "Study Room • Roleplay",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "To Troy"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Spider-Man"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Catwoman"
+        }
+      ]
+    },
+    {
+      "quote": "I'll allow it.",
+      "description": "Spanish 101 • Chang's Class",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Cheating"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Raising hand"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Señor Chang"
+        }
+      ]
+    },
+    {
+      "quote": "GAY MARRIAGE!",
+      "description": "Cafeteria • Chainsaw",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Costume"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Pilates & chainsaw"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Ducking"
+        }
+      ]
+    },
+    {
+      "quote": "Take care of Greendale, Jeff.",
+      "description": "Airport • Goodbye",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Camera"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Before FBI"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Bar"
+        }
+      ]
+    },
+    {
+      "quote": "This better not awaken anything in me.",
+      "description": "Office • Dalmatian Video",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Dalmatian obsession"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Walking away"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "Me llamo T-Bone, la araña discoteca!",
+      "description": "Spanish 101 • Rap",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Beatboxing"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Rapping"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Dancing"
+        }
+      ]
+    },
+    {
+      "quote": "We're in a claymation Christmas!",
+      "description": "Study Room • Stop-Motion",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Seeing everyone in clay"
+        },
+        {
+          "title": "Professor Duncan",
+          "description": "Therapy"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Ballerina"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a security guard now!",
+      "description": "Season 3 • Campus",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Hiring"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Changlorious Bastards"
+        },
+        {
+          "title": "Leonard",
+          "description": "Pool"
+        }
+      ]
+    },
+    {
+      "quote": "My whole brain is crying!",
+      "description": "Season 2 • Conspiracy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Calm"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Overwhelmed by twists"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Shooting blank"
+        }
+      ]
+    },
+    {
+      "quote": "You're a psych major! Diagnose me!",
+      "description": "Study Room • Challenge",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Trying to diagnose"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Mocking Britta"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Already did"
+        }
+      ]
+    },
+    {
+      "quote": "CRISIS ALERT!",
+      "description": "Campus • Running Through Hallway",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Magnitude",
+          "description": "Pop pop"
+        },
+        {
+          "title": "Garrett Lambert",
+          "description": "Sweaty & panicked"
+        },
+        {
+          "title": "Star-Burns",
+          "description": "Lizard"
+        }
+      ]
+    },
+    {
+      "quote": "I'm literally dying. No, I'm not, I'm fine.",
+      "description": "Study Room F • Drama",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Overreacting"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Pen"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Baking"
+        }
+      ]
+    },
+    {
+      "quote": "Welcome to the Dreamatorium!",
+      "description": "Apartment 303 • Cardboard Grid",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Imagination room"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Inspector Spacetime"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Cleaning"
+        }
+      ]
+    },
+    {
+      "quote": "Fire can't go through doors, stupid! It's not a ghost!",
+      "description": "Study Room • Debate",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Ghosts can't go through doors!"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Arguing with Pierce"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Taking notes"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna eat your brains! No, wait, I'm just hungry.",
+      "description": "Halloween • Cafeteria",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Troy Barnes",
+          "description": "Sexy Dracula"
+        },
+        {
+          "title": "Leonard",
+          "description": "Zombie"
+        },
+        {
+          "title": "Garrett",
+          "description": "Running"
         }
       ]
     }

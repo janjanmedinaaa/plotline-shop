@@ -7,7 +7,7 @@
   "tag": "When was this?",
   "answer_type": "episode",
   "price": 160,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "Troy and Abed in the morning... NIGHTS!",
@@ -291,6 +291,671 @@
         {
           "title": "S3E04 • Remedial Chaos Theory",
           "description": "Pizza"
+        }
+      ]
+    },
+    {
+      "quote": "Cool. Cool cool cool... #AndAMovie.",
+      "description": "Season 6 • Series Finale",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E01 • Ladders",
+          "description": "Bar"
+        },
+        {
+          "title": "S6E12 • Wedding Videography",
+          "description": "Toast"
+        },
+        {
+          "title": "S6E13 • Emotional Consequences of Broadcast Television",
+          "description": "Airport hug"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a community college student, not a loser!",
+      "description": "Season 1 • Pilot",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Forming the study group"
+        },
+        {
+          "title": "S1E07 • Introduction to Statistics",
+          "description": "Halloween"
+        },
+        {
+          "title": "S1E21 • Contemporary American Poultry",
+          "description": "Chicken"
+        }
+      ]
+    },
+    {
+      "quote": "Fire can't go through doors, stupid! It's not a ghost!",
+      "description": "Study Room • Debate",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Ghosts can't go through doors!"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Arguing with Pierce"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Taking notes"
+        }
+      ]
+    },
+    {
+      "quote": "I don't have an ego. My Facebook photo is a landscape.",
+      "description": "Study Room • Speech",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Classic Winger"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Eye roll"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Old"
+        }
+      ]
+    },
+    {
+      "quote": "Troy and Abed are in mourning!",
+      "description": "Season 3 • Funeral",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Troy & Abed",
+          "description": "Thought 'mourning' meant 'morning'"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Scolding them"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Facepalm"
+        }
+      ]
+    },
+    {
+      "quote": "Donde esta la biblioteca?",
+      "description": "Spanish 101 • Rap",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Troy & Abed",
+          "description": "Spanish rap"
+        },
+        {
+          "title": "Jeff & Britta",
+          "description": "Arguing"
+        },
+        {
+          "title": "Pierce & Shirley",
+          "description": "Listening"
+        }
+      ]
+    },
+    {
+      "quote": "CRISIS ALERT!",
+      "description": "Campus • Running Through Hallway",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Magnitude",
+          "description": "Pop pop"
+        },
+        {
+          "title": "Garrett Lambert",
+          "description": "Sweaty & panicked"
+        },
+        {
+          "title": "Star-Burns",
+          "description": "Lizard"
+        }
+      ]
+    },
+    {
+      "quote": "E Pluribus Anus.",
+      "description": "Flag • Greendale Seal",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Proud of the flag"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "It's a butt!"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Designed it"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna punch you in the heart!",
+      "description": "Study Room • Threat",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Calm"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Sweet voice"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Protesting"
+        }
+      ]
+    },
+    {
+      "quote": "Ghosts can't go through doors, stupid! It's not fire!",
+      "description": "Study Room • Debate",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Opposite of Chang"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Fire"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Analyzing"
+        }
+      ]
+    },
+    {
+      "quote": "This is a 'My Dinner with Andre' homage!",
+      "description": "Restaurant • Birthday",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Explaining to Jeff"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "I thought we were just having dinner"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Pulp Fiction"
+        }
+      ]
+    },
+    {
+      "quote": "Stop doing the Disney face!",
+      "description": "Study Room • Annie's Eyes",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Weakening"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Big puppy eyes"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Immunity"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a level 7 susceptible!",
+      "description": "Season 6 • Honda",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Skeptical"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Buying a Honda CR-V"
+        },
+        {
+          "title": "Frankie Dart",
+          "description": "Disappointed"
+        }
+      ]
+    },
+    {
+      "quote": "We're doing a bottle episode!",
+      "description": "Study Room • Locking Doors",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Calling the trope"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "My pen!"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Groaning"
+        }
+      ]
+    },
+    {
+      "quote": "Set phasers to 'love me'!",
+      "description": "Season 2 • Bathroom",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Star Trek"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Singing Reading Rainbow"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Hallway"
+        }
+      ]
+    },
+    {
+      "quote": "It's a GI Joe cartoon! Yo Joe!",
+      "description": "Season 5 • Animated",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E11 • G.I. Jeff",
+          "description": "Jeff's 40th birthday"
+        },
+        {
+          "title": "S5E08 • App Development",
+          "description": "Beenz"
+        },
+        {
+          "title": "S5E05 • Geothermal Escapism",
+          "description": "Lava"
+        }
+      ]
+    },
+    {
+      "quote": "I am Señor Chang! And I'm so ill!",
+      "description": "Spanish 101 • Rap",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Payday"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Intro song"
+        },
+        {
+          "title": "Magnitude",
+          "description": "Pop pop"
+        }
+      ]
+    },
+    {
+      "quote": "Inspector Spacetime! Where are we? More importantly, WHEN are we?",
+      "description": "TV • Convention",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Quoting the show"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Constable Reggie"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Bored"
+        }
+      ]
+    },
+    {
+      "quote": "Annie's pretty young, we try not to sexualize her.",
+      "description": "Study Room • Jeff & Troy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Troy Barnes",
+          "description": "Nodding"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Observing"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "To Buddy"
+        }
+      ]
+    },
+    {
+      "quote": "Now there's a man who knows how to wear a hat!",
+      "description": "Season 6 • Wedding",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Dalmatian"
+        },
+        {
+          "title": "Elroy Patashnik",
+          "description": "Keith David"
+        },
+        {
+          "title": "Frankie Dart",
+          "description": "Clipboard"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a professor of anthropology—actually, I'm just drunk.",
+      "description": "Faculty Lounge • Office",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Office"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Spanish"
+        },
+        {
+          "title": "Ian Duncan",
+          "description": "John Oliver's character"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a nerd! I'm a cool guy!",
+      "description": "Study Room • Troy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Cool"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Suit"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "In denial"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a high-functioning sociopath—no, wait, I'm just Abed.",
+      "description": "Study Room • Sherlock Joke",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Analyzing everyone"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Stop"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Psychology major"
+        }
+      ]
+    },
+    {
+      "quote": "Elroy! Encourage white people!",
+      "description": "Season 6 • RV",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E01 • Ladders",
+          "description": "Frankie arrives"
+        },
+        {
+          "title": "S6E12 • Wedding Videography",
+          "description": "Garrett's wedding"
+        },
+        {
+          "title": "S6E13 • Emotional Consequences of Broadcast Television",
+          "description": "Finale"
+        }
+      ]
+    },
+    {
+      "quote": "Streets ahead!",
+      "description": "Study Room F • Pierce's Coinage",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Mocks it"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Confused"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Hawthorne Wipes"
+        }
+      ]
+    },
+    {
+      "quote": "It's called 'being a grown-up', Annie!",
+      "description": "Study Room • Argument",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Lecturing"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Doing the Disney face"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Mhm"
+        }
+      ]
+    },
+    {
+      "quote": "Well, I'm a peanut bar and I'm here to say, your checks will arrive on another day!",
+      "description": "Study Room • Payday Rap",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Rap breakdown"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Beatboxing"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Filming"
+        }
+      ]
+    },
+    {
+      "quote": "Take care of Greendale, Jeff.",
+      "description": "Airport • Goodbye",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Camera"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Before FBI"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Bar"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna win that $100,000 for Greendale!",
+      "description": "Season 2 • Paintball Finale",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E06 • Epidemiology",
+          "description": "Zombies"
+        },
+        {
+          "title": "S2E19 • Critical Film Studies",
+          "description": "Diner"
+        },
+        {
+          "title": "S2E23 • A Fistful of Paintballs",
+          "description": "City College invasion"
+        }
+      ]
+    },
+    {
+      "quote": "My name is Ian Duncan, and I'm here to say—wait, no.",
+      "description": "Campus • Office",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Payday"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Keytar"
+        },
+        {
+          "title": "Ian Duncan",
+          "description": "British professor"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, Britta's in this?",
+      "description": "Greendale • Dean's Reaction",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Sigh"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Binder"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Disappointed"
+        }
+      ]
+    },
+    {
+      "quote": "Watch me.",
+      "description": "Study Room • Standing Up",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "About to give a speech"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Inspired"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Ready"
+        }
+      ]
+    },
+    {
+      "quote": "My whole brain is crying!",
+      "description": "Season 2 • Conspiracy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E09 • Conspiracy Theories and Interior Design",
+          "description": "Professor Professorson"
+        },
+        {
+          "title": "S2E08 • Cooperative Calligraphy",
+          "description": "Pen"
+        },
+        {
+          "title": "S2E14 • Advanced D&D",
+          "description": "Dice"
+        }
+      ]
+    },
+    {
+      "quote": "Six seasons and a movie!",
+      "description": "Study Room F • The Cape",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Predicting the future"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Skeptical"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Believing"
+        }
+      ]
+    },
+    {
+      "quote": "Now there's a man who knows how to marry his cousin!",
+      "description": "Season 6 • Wedding",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E01 • Ladders",
+          "description": "Bar"
+        },
+        {
+          "title": "S6E12 • Wedding Videography",
+          "description": "Elroy's addiction to encouraging white people"
+        },
+        {
+          "title": "S6E13 • Series Finale",
+          "description": "Bar"
         }
       ]
     }

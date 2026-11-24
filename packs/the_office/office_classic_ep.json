@@ -7,7 +7,7 @@
   "tag": "When was this?",
   "answer_type": "episode",
   "price": 160,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "Today, smoking is gonna save lives.",
@@ -291,6 +291,671 @@
         {
           "title": "S9E23 • Finale",
           "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "I do declare!",
+      "description": "Season 6 • Conference Room",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Wedding"
+        },
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "Dance"
+        },
+        {
+          "title": "S6E10 • Murder",
+          "description": "Michael's Southern accent"
+        }
+      ]
+    },
+    {
+      "quote": "Well, well, well, how the turntables...",
+      "description": "Season 5 • Michael Scott Paper Company",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E25 • Broke",
+          "description": "Negotiating buyout with David Wallace"
+        },
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "CPR"
+        },
+        {
+          "title": "S5E26 • Casual Friday",
+          "description": "Chili"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Gabe! Look at my costume!",
+      "description": "Season 7 • Halloween",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S7E06 • Costume Contest",
+          "description": "Gabe as Lady Gaga"
+        },
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "Spanking"
+        },
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Packing"
+        }
+      ]
+    },
+    {
+      "quote": "I bought a gaydar from Sharper Image!",
+      "description": "Season 3 • Desk",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E07 • Branch Closing",
+          "description": "Fax"
+        },
+        {
+          "title": "S2E21 • Conflict Resolution",
+          "description": "Files"
+        },
+        {
+          "title": "S3E01 • Gay Witch Hunt",
+          "description": "Jim's prank"
+        }
+      ]
+    },
+    {
+      "quote": "Belsnickel is here! Impish or admirable?",
+      "description": "Season 9 • Christmas",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S9E03 • Andy's Ancestry",
+          "description": "Asian Jim"
+        },
+        {
+          "title": "S9E09 • Dwight Christmas",
+          "description": "Pennsylvania Dutch"
+        },
+        {
+          "title": "S9E23 • Finale",
+          "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "Our balls are in your court.",
+      "description": "Season 5 • Conference Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E25 • Broke",
+          "description": "Michael, Pam & Ryan"
+        },
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Fire"
+        },
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Hotel"
+        }
+      ]
+    },
+    {
+      "quote": "Kevin's Famous Chili.",
+      "description": "Season 5 • Cold Open",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E26 • Casual Friday",
+          "description": "Undercooked onions"
+        },
+        {
+          "title": "S6E01 • Gossip",
+          "description": "Parkour"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Osso buco"
+        }
+      ]
+    },
+    {
+      "quote": "Walk on the coals! I want the job!",
+      "description": "Season 3 • Lake",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E09 • The Convict",
+          "description": "Prison"
+        },
+        {
+          "title": "S3E20 • Product Recall",
+          "description": "Watermark"
+        },
+        {
+          "title": "S3E23 • Beach Games",
+          "description": "Pam's speech"
+        }
+      ]
+    },
+    {
+      "quote": "Let's burn Utica to the ground.",
+      "description": "Season 4 • Car",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E01 • Fun Run",
+          "description": "Car"
+        },
+        {
+          "title": "S4E05 • Launch Party",
+          "description": "Pizza"
+        },
+        {
+          "title": "S4E10 • Branch Wars",
+          "description": "Industrial copier"
+        }
+      ]
+    },
+    {
+      "quote": "Goodbye, Toby! It's been nice!",
+      "description": "Season 4 • Parking Lot",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S4E18 • Goodbye, Toby",
+          "description": "Ferris wheel"
+        },
+        {
+          "title": "S4E16 • Did I Stutter?",
+          "description": "Stanley"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Dundie"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not gonna let you down, Pam. Wait—I ripped my veil!",
+      "description": "Season 6 • Niagara",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E25 • Broke",
+          "description": "Van"
+        },
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Jim cuts his tie"
+        },
+        {
+          "title": "S6E12 • Scott's Tots",
+          "description": "School"
+        }
+      ]
+    },
+    {
+      "quote": "We're doing a lip dub!",
+      "description": "Season 7 • Premiere",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "Human nature"
+        },
+        {
+          "title": "S6E01 • Gossip",
+          "description": "Parkour"
+        },
+        {
+          "title": "S5E26 • Casual Friday",
+          "description": "Chili"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna get you an iPod for Christmas!",
+      "description": "Season 2 • Secret Santa",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E10 • Christmas Party",
+          "description": "Yankee Swap"
+        },
+        {
+          "title": "S2E12 • The Injury",
+          "description": "Grill"
+        },
+        {
+          "title": "S2E22 • Casino Night",
+          "description": "Poker"
+        }
+      ]
+    },
+    {
+      "quote": "Two queens on Casino Night! I'm gonna drop a deuce on everybody!",
+      "description": "Season 2 • Warehouse",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E10 • Christmas Party",
+          "description": "Teapot"
+        },
+        {
+          "title": "S2E22 • Casino Night",
+          "description": "Michael's two dates"
+        },
+        {
+          "title": "S3E01 • Gay Witch Hunt",
+          "description": "Oscar"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna marry Angela!",
+      "description": "Season 9 • Car",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S9E09 • Dwight Christmas",
+          "description": "Punch"
+        },
+        {
+          "title": "S9E03 • Andy's Ancestry",
+          "description": "Boat"
+        },
+        {
+          "title": "S9E21 • A.A.R.M.",
+          "description": "Dwight's megaphones"
+        }
+      ]
+    },
+    {
+      "quote": "Pretzel Day! Well, I like Pretzel Day.",
+      "description": "Season 3 • Lobby",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E01 • Gay Witch Hunt",
+          "description": "Gaydar"
+        },
+        {
+          "title": "S3E05 • Initiation",
+          "description": "Stanley's favorite day"
+        },
+        {
+          "title": "S3E09 • The Convict",
+          "description": "Prison"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna hit a massive drive! Wait—my car!",
+      "description": "Season 4 • Fun Run",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S4E01 • Fun Run",
+          "description": "Michael hits Meredith"
+        },
+        {
+          "title": "S4E05 • Launch Party",
+          "description": "Pizza"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "TV"
+        }
+      ]
+    },
+    {
+      "quote": "Alfredo's Pizza Cafe, or Pizza by Alfredo?",
+      "description": "Season 4 • Conference Room",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S4E01 • Fun Run",
+          "description": "Fettuccine"
+        },
+        {
+          "title": "S4E05 • Launch Party",
+          "description": "Hot circle of garbage"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Osso buco"
+        }
+      ]
+    },
+    {
+      "quote": "Michael, you came! That's what she said.",
+      "description": "Season 9 • Series Finale",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S9E23 • Finale",
+          "description": "Michael is Dwight's best man"
+        },
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Airport"
+        },
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "My stapler is in Jell-O!",
+      "description": "Season 1 • Pilot",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E21 • Conflict Resolution",
+          "description": "Nickels"
+        },
+        {
+          "title": "S1E01 • Pilot",
+          "description": "First prank"
+        },
+        {
+          "title": "S3E01 • Gay Witch Hunt",
+          "description": "Gaydar"
+        }
+      ]
+    },
+    {
+      "quote": "Murder in Savannah! There has been a murder!",
+      "description": "Season 6 • Board Game",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "CPR"
+        },
+        {
+          "title": "S6E01 • Gossip",
+          "description": "Parkour"
+        },
+        {
+          "title": "S6E10 • Murder",
+          "description": "I do declare!"
+        }
+      ]
+    },
+    {
+      "quote": "My desk is wrapped in Christmas paper!",
+      "description": "Season 5 • Mega-Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E11 • Moroccan Christmas",
+          "description": "Wrapping paper desk collapses"
+        },
+        {
+          "title": "S3E10 • A Benihana Christmas",
+          "description": "Bike"
+        },
+        {
+          "title": "S6E13 • Secret Santa",
+          "description": "Phyllis"
+        }
+      ]
+    },
+    {
+      "quote": "You're the best boss I ever had.",
+      "description": "Season 7 • Office",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S7E06 • Costume Contest",
+          "description": "Coupon book"
+        },
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Jim's farewell"
+        },
+        {
+          "title": "S9E23 • Finale",
+          "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "I'm in love with you, Pam.",
+      "description": "Season 2 • Casino Night",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E10 • Christmas Party",
+          "description": "Teapot"
+        },
+        {
+          "title": "S2E22 • Casino Night",
+          "description": "Parking lot confession"
+        },
+        {
+          "title": "S3E23 • Beach Games",
+          "description": "Coals"
+        }
+      ]
+    },
+    {
+      "quote": "Parkour! Parkour!",
+      "description": "Season 6 • Cold Open",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Fire"
+        },
+        {
+          "title": "S6E01 • Gossip",
+          "description": "Jumping on warehouse boxes"
+        },
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "Lip dub"
+        }
+      ]
+    },
+    {
+      "quote": "Future Dwight: Do not drink the coffee. It's poisoned.",
+      "description": "Season 3 • Fax",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E21 • Conflict Resolution",
+          "description": "Nickels"
+        },
+        {
+          "title": "S3E07 • Branch Closing",
+          "description": "Jim faxes Dwight from the future"
+        },
+        {
+          "title": "S4E09 • Local Ad",
+          "description": "Commercial"
+        }
+      ]
+    },
+    {
+      "quote": "Flonkerton! Box of paper snowshoe racing!",
+      "description": "Season 2 • Olympics",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E05 • Basketball",
+          "description": "Gym"
+        },
+        {
+          "title": "S2E01 • The Dundies",
+          "description": "Awards"
+        },
+        {
+          "title": "S2E03 • Office Olympics",
+          "description": "Yogurt lid medals"
+        }
+      ]
+    },
+    {
+      "quote": "Secret weapon! Stanley, dribble!",
+      "description": "Season 1 • Warehouse",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E02 • Diversity Day",
+          "description": "Chris Rock"
+        },
+        {
+          "title": "S1E05 • Basketball",
+          "description": "Office vs. Warehouse"
+        },
+        {
+          "title": "S2E03 • Office Olympics",
+          "description": "Flonkerton"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna be the Regional Manager!",
+      "description": "Season 8 • Conference Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S8E01 • The List",
+          "description": "Andy Bernard steps up"
+        },
+        {
+          "title": "S8E23 • Turf War",
+          "description": "Syracuse"
+        },
+        {
+          "title": "S9E03 • Andy's Ancestry",
+          "description": "Family"
+        }
+      ]
+    },
+    {
+      "quote": "Sabre! Dunder Mifflin is a part of Sabre!",
+      "description": "Season 6 • Song",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Dance"
+        },
+        {
+          "title": "S6E12 • Scott's Tots",
+          "description": "School"
+        },
+        {
+          "title": "S6E15 • Sabre",
+          "description": "Christian Slater video"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a victim of a hate crime! Stanley knows what I'm talking about.",
+      "description": "Season 1 • Diversity",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E02 • Diversity Day",
+          "description": "Index cards on foreheads"
+        },
+        {
+          "title": "S1E05 • Basketball",
+          "description": "Warehouse"
+        },
+        {
+          "title": "S2E01 • The Dundies",
+          "description": "Chili's"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the fucking Lizard King.",
+      "description": "Season 8 • Phone",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Office"
+        },
+        {
+          "title": "S8E23 • Turf War",
+          "description": "Robert California to Andy"
+        },
+        {
+          "title": "S9E23 • Finale",
+          "description": "Bar"
+        }
+      ]
+    },
+    {
+      "quote": "I am Beyoncé, always.",
+      "description": "Season 4 • Parking Lot",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E01 • Fun Run",
+          "description": "Rabies"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Candle"
+        },
+        {
+          "title": "S4E10 • Branch Wars",
+          "description": "Wait—S4/S5"
+        }
+      ]
+    },
+    {
+      "quote": "I feel like all my kids grew up and then they married each other.",
+      "description": "Season 9 • Series Finale",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S9E23 • Finale",
+          "description": "Michael's talking head"
+        },
+        {
+          "title": "S7E21 • Michael's Last Dundies",
+          "description": "Chili's"
+        },
+        {
+          "title": "S8E23 • Turf War",
+          "description": "Office"
+        }
+      ]
+    },
+    {
+      "quote": "Goodbye, Michael. See you tomorrow for lunch!",
+      "description": "Season 7 • Airport",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Pam catches Michael at the gate"
+        },
+        {
+          "title": "S7E21 • Michael's Last Dundies",
+          "description": "Song"
+        },
+        {
+          "title": "S8E01 • The List",
+          "description": "Robert California"
         }
       ]
     }

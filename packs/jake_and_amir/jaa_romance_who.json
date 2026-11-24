@@ -7,7 +7,7 @@
   "tag": "Who said it?",
   "answer_type": "character",
   "price": 150,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "Swipe right for a good time, swipe left for a great time!",
@@ -290,6 +290,671 @@
         },
         {
           "title": "Murph",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "Did you just eat a whole jar of mayo?",
+      "description": "Office • Lunch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Horrified"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "It's aioli!"
+        },
+        {
+          "title": "Streeter",
+          "description": "Grossed out"
+        }
+      ]
+    },
+    {
+      "quote": "Dinner tonight? My treat—you pay!",
+      "description": "Office • Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Classic scam"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "No"
+        },
+        {
+          "title": "Pat",
+          "description": "Leaving"
+        }
+      ]
+    },
+    {
+      "quote": "Bad vest! No, it's jeans!",
+      "description": "Office • Outfit Critique",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Wearing a vest"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Calling out Amir's vest"
+        },
+        {
+          "title": "Ricky Van Veen",
+          "description": "CEO"
+        }
+      ]
+    },
+    {
+      "quote": "You're a nightmare.",
+      "description": "Office • Every Day",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Sighing"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "A good nightmare?"
+        },
+        {
+          "title": "Dan",
+          "description": "Nodding"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Rick Fox! And I love eggs!",
+      "description": "Office • NBA Guest",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Milk"
+        },
+        {
+          "title": "Thomas Middleditch",
+          "description": "Actor"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Egg obsession"
+        }
+      ]
+    },
+    {
+      "quote": "Hello, Amir! Remember me? Penis Anthony Doubligné!",
+      "description": "Office • Thomas Middleditch",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Sulu Candles"
+        },
+        {
+          "title": "Thomas Middleditch",
+          "description": "As Doobs"
+        },
+        {
+          "title": "Murph",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "Stop! Just stop talking!",
+      "description": "Office • Every Episode",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Losing patience"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Still talking"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Typing"
+        }
+      ]
+    },
+    {
+      "quote": "I found these nuggets in my pocket from Tuesday!",
+      "description": "Office • Snack",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Pocket nuggets"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Throw them away"
+        },
+        {
+          "title": "Streeter",
+          "description": "Eating"
+        }
+      ]
+    },
+    {
+      "quote": "Amir, I'm gonna kick your ass!",
+      "description": "Office • Murph",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Sitting"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Hiding"
+        },
+        {
+          "title": "Brian Murphy (Murph)",
+          "description": "Enforcer"
+        }
+      ]
+    },
+    {
+      "quote": "That's a bad tweet.",
+      "description": "Office • Social Media",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Reading aloud"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Cringing"
+        },
+        {
+          "title": "Sarah Schneider",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "Why is there a raccoon in your drawer?",
+      "description": "Office • Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Opening drawer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "He's my accountant!"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Running"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the Milk Man! Give me a glass!",
+      "description": "Office • Ben Schwartz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "As the Milk Man"
+        },
+        {
+          "title": "Thomas Middleditch",
+          "description": "Doobs"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Drinking"
+        }
+      ]
+    },
+    {
+      "quote": "I'm eating a cockmeat sandwich!",
+      "description": "Office • Lunch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Shocking Jake"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Please stop"
+        },
+        {
+          "title": "Murph",
+          "description": "Walking away"
+        }
+      ]
+    },
+    {
+      "quote": "Why did you bring a live pigeon to work?",
+      "description": "Office • Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Questioning Amir"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "He's my friend!"
+        },
+        {
+          "title": "Streeter",
+          "description": "Ducking"
+        }
+      ]
+    },
+    {
+      "quote": "Dinner tonight?",
+      "description": "Office Desk • Classic Opener",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Asking Jake"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Annoyed"
+        },
+        {
+          "title": "Streeter Seidell",
+          "description": "Nearby"
+        }
+      ]
+    },
+    {
+      "quote": "Why are you eating raw cookie dough with your hands?",
+      "description": "Office • Desk",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Delicious"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Disgusted"
+        },
+        {
+          "title": "Sarah",
+          "description": "Watching"
+        }
+      ]
+    },
+    {
+      "quote": "How is that fair?!",
+      "description": "Office • Every Episode",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Complaining"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Explaining"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Ignoring"
+        }
+      ]
+    },
+    {
+      "quote": "It's called 'efficiency'!",
+      "description": "Kitchen • Soup",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "No it's not"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Hot soup!"
+        },
+        {
+          "title": "Streeter",
+          "description": "Leaving"
+        }
+      ]
+    },
+    {
+      "quote": "That's HR! Run!",
+      "description": "Office • Hallway",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Sitting"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Panicking"
+        },
+        {
+          "title": "Murph",
+          "description": "Calling HR"
+        }
+      ]
+    },
+    {
+      "quote": "You gotta learn how to be funny, man.",
+      "description": "Office • Comedy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Laughing"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "To Amir"
+        },
+        {
+          "title": "Thomas Middleditch",
+          "description": "Doobs"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna sue you!",
+      "description": "Office • Argument",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "For what?"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Emotional distress"
+        },
+        {
+          "title": "Pat",
+          "description": "Working"
+        }
+      ]
+    },
+    {
+      "quote": "My vest! It's called style, Amir!",
+      "description": "Office • Outfit",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Defensive about his vest"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Mocking him"
+        },
+        {
+          "title": "Streeter",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "You broke the coffee machine!",
+      "description": "Kitchen • Morning",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Blaming Amir"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "I put soup in it!"
+        },
+        {
+          "title": "Pat",
+          "description": "Crying"
+        }
+      ]
+    },
+    {
+      "quote": "Do you think I look like a cool guy?",
+      "description": "Office • Mirror",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Asking Amir for validation"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "You look like a golden god"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Cherry"
+        }
+      ]
+    },
+    {
+      "quote": "I'm doing taxes! With crayons!",
+      "description": "Office • April",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Staring"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CPA"
+        },
+        {
+          "title": "Ricky",
+          "description": "Auditing"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Carrot Slat!",
+      "description": "Office • Ben Schwartz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Another weird alias"
+        },
+        {
+          "title": "Thomas Middleditch",
+          "description": "Doobs"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "That's a bad idea.",
+      "description": "Office • Always Right",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Warning Amir"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Doing it anyway"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Cheering"
+        }
+      ]
+    },
+    {
+      "quote": "Do you want a bite of my hot dog?",
+      "description": "Office • No Bun",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Bare hot dog"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "No"
+        },
+        {
+          "title": "Dan",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "Namaste.",
+      "description": "Office • Fake Zen",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "After screaming"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "Still mad"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Working"
+        }
+      ]
+    },
+    {
+      "quote": "A-weird!",
+      "description": "Office • Adjective",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Weirding out"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "That's not a word"
+        },
+        {
+          "title": "Dan",
+          "description": "Desk"
+        }
+      ]
+    },
+    {
+      "quote": "You're sitting in my chair!",
+      "description": "Office • Morning",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Arriving"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "I'm you today!"
+        },
+        {
+          "title": "Streeter",
+          "description": "Watching"
+        }
+      ]
+    },
+    {
+      "quote": "It's a protein shake! Made of cheese!",
+      "description": "Office • Blender",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Gym bro"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "No it's not"
+        },
+        {
+          "title": "Murph",
+          "description": "Weights"
+        }
+      ]
+    },
+    {
+      "quote": "I'm writing a screenplay! It's called 'The Vest'!",
+      "description": "Office • Typing",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Stop"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Oscar bait"
+        },
+        {
+          "title": "Doobs",
+          "description": "Auditioning"
+        }
+      ]
+    },
+    {
+      "quote": "Please, just do your job.",
+      "description": "Office • Tired",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Begging"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "Refusing"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "Working"
+        }
+      ]
+    },
+    {
+      "quote": "Hey! Leave Amir alone—actually, no, hit him.",
+      "description": "Office • Streeter",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "Watching"
+        },
+        {
+          "title": "Streeter Seidell",
+          "description": "Prank war"
+        },
+        {
+          "title": "Pat Cassels",
           "description": "Desk"
         }
       ]

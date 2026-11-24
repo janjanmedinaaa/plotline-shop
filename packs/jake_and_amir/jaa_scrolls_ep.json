@@ -7,7 +7,7 @@
   "tag": "When was this?",
   "answer_type": "episode",
   "price": 160,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "Number 10: A salmon named Ben!",
@@ -291,6 +291,671 @@
         {
           "title": "Top 10 Birthday Wishes",
           "description": "Amir's wish"
+        }
+      ]
+    },
+    {
+      "quote": "Dinner tonight?",
+      "description": "Office • Classic",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dinner Tonight",
+          "description": "Original recurring bit"
+        },
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Scroll",
+          "description": "Top 10"
+        }
+      ]
+    },
+    {
+      "quote": "You're a coward and a fool!",
+      "description": "Office • Argument",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dope",
+          "description": "Taupe"
+        },
+        {
+          "title": "Vest",
+          "description": "Clothes"
+        },
+        {
+          "title": "Coward and a Fool",
+          "description": "Amir's insult"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a golden god!",
+      "description": "Office • Ego",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Todah",
+          "description": "Desk"
+        },
+        {
+          "title": "Go Bills",
+          "description": "Football"
+        },
+        {
+          "title": "Golden God",
+          "description": "Amir's speech"
+        }
+      ]
+    },
+    {
+      "quote": "Dinner tonight? One last time?",
+      "description": "Office • Finale",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Road Trip: Vegas",
+          "description": "Diner"
+        },
+        {
+          "title": "Hotel Room",
+          "description": "Room service"
+        },
+        {
+          "title": "Series Finale",
+          "description": "Jake says yes"
+        }
+      ]
+    },
+    {
+      "quote": "Penis Anthony Doubligné!",
+      "description": "Office • Doobs",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Scroll",
+          "description": "List"
+        },
+        {
+          "title": "Doobs",
+          "description": "Thomas Middleditch"
+        }
+      ]
+    },
+    {
+      "quote": "Chicken nuggets! In my pocket!",
+      "description": "Office • Lunch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Nuggets",
+          "description": "Amir's pocket nuggets"
+        },
+        {
+          "title": "Scroll",
+          "description": "Paper"
+        },
+        {
+          "title": "Poker",
+          "description": "Card game"
+        }
+      ]
+    },
+    {
+      "quote": "I got a Tinder! Swipe right!",
+      "description": "Office • Dating App",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Scroll",
+          "description": "List"
+        },
+        {
+          "title": "Fashion",
+          "description": "Vest"
+        },
+        {
+          "title": "Tinder",
+          "description": "Amir's profile"
+        }
+      ]
+    },
+    {
+      "quote": "Go Bills!",
+      "description": "Office • Sports",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Todah",
+          "description": "Thank you"
+        },
+        {
+          "title": "Go Bills",
+          "description": "Random Buffalo Bills cheer"
+        },
+        {
+          "title": "Karate",
+          "description": "Belt"
+        }
+      ]
+    },
+    {
+      "quote": "Bad vest!",
+      "description": "Office • Fashion",
+      "correct": 1,
+      "options": [
+        {
+          "title": "A-Weird",
+          "description": "Desk"
+        },
+        {
+          "title": "Vest",
+          "description": "Jake's vest"
+        },
+        {
+          "title": "Fedora",
+          "description": "Hat"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna tip the pilot!",
+      "description": "Airplane • Landing",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Road Trip: Vegas",
+          "description": "Valet"
+        },
+        {
+          "title": "Hotel Room",
+          "description": "Bellhop"
+        },
+        {
+          "title": "Airplane",
+          "description": "Clapping on landing"
+        }
+      ]
+    },
+    {
+      "quote": "Let's go to the beach! I brought a winter coat!",
+      "description": "California • Sand",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Road Trip: Vegas",
+          "description": "Desert"
+        },
+        {
+          "title": "Moving to LA",
+          "description": "Beach day"
+        },
+        {
+          "title": "Hotel Room",
+          "description": "Pool"
+        }
+      ]
+    },
+    {
+      "quote": "I'm beefing!",
+      "description": "Office • Crying",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Beefing",
+          "description": "Tears of soy"
+        },
+        {
+          "title": "Nuggets",
+          "description": "Pocket"
+        },
+        {
+          "title": "Scroll",
+          "description": "Paper"
+        }
+      ]
+    },
+    {
+      "quote": "Why did you bring a passport to New Jersey?",
+      "description": "Car • Tunnel",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Airplane",
+          "description": "Gate"
+        },
+        {
+          "title": "Moving to LA",
+          "description": "Boxes"
+        },
+        {
+          "title": "Road Trip: Atlantic City",
+          "description": "Border joke"
+        }
+      ]
+    },
+    {
+      "quote": "We're going to Vegas, baby!",
+      "description": "Road Trip • Car",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Road Trip: Vegas",
+          "description": "Amir drives"
+        },
+        {
+          "title": "Road Trip: LA",
+          "description": "Coast"
+        },
+        {
+          "title": "Airplane",
+          "description": "Flight"
+        }
+      ]
+    },
+    {
+      "quote": "I lost all our money at blackjack!",
+      "description": "Casino • Vegas",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Hotel Room",
+          "description": "Check-in"
+        },
+        {
+          "title": "Road Trip: Vegas",
+          "description": "Amir gambles"
+        },
+        {
+          "title": "Airplane",
+          "description": "Duty free"
+        }
+      ]
+    },
+    {
+      "quote": "A-weird!",
+      "description": "Office • Weird",
+      "correct": 0,
+      "options": [
+        {
+          "title": "A-Weird",
+          "description": "Amir's adjective"
+        },
+        {
+          "title": "Ass",
+          "description": "Word"
+        },
+        {
+          "title": "Cool",
+          "description": "Shades"
+        }
+      ]
+    },
+    {
+      "quote": "A sleeveless shirt for this piece of dirt makes the sweeties go squirt!",
+      "description": "Office • Outfit",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Beefing",
+          "description": "Crying"
+        },
+        {
+          "title": "Fashion",
+          "description": "Amir's vest/shirt"
+        },
+        {
+          "title": "Nuggets",
+          "description": "Chicken"
+        }
+      ]
+    },
+    {
+      "quote": "We're moving to Los Angeles!",
+      "description": "Office • Finale Era",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Moving to LA",
+          "description": "Saying goodbye to NYC"
+        },
+        {
+          "title": "Road Trip: Vegas",
+          "description": "Casino"
+        },
+        {
+          "title": "Hotel Room",
+          "description": "Pool"
+        }
+      ]
+    },
+    {
+      "quote": "I'm beefing! Look at me, I'm beefing!",
+      "description": "Office • Crying",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Beefing",
+          "description": "Weeping tears of soy"
+        },
+        {
+          "title": "Scroll",
+          "description": "Top 10"
+        },
+        {
+          "title": "Tinder",
+          "description": "Dating app"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the Milk Man!",
+      "description": "Office • Ben Schwartz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk delivery"
+        },
+        {
+          "title": "Doobs",
+          "description": "Actor"
+        },
+        {
+          "title": "Tinder",
+          "description": "App"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the Milk Man! I've got milk!",
+      "description": "Guest Star • Ben Schwartz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Ben Schwartz as the Milk Man"
+        },
+        {
+          "title": "Scroll",
+          "description": "Top 10 Scroll"
+        },
+        {
+          "title": "vest",
+          "description": "Corduroy Pant"
+        }
+      ]
+    },
+    {
+      "quote": "I'm staying in the mini-bar!",
+      "description": "Hotel • Night",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Hotel Room",
+          "description": "Expensive snacks"
+        },
+        {
+          "title": "Road Trip: Vegas",
+          "description": "Buffet"
+        },
+        {
+          "title": "Moving to LA",
+          "description": "Packing"
+        }
+      ]
+    },
+    {
+      "quote": "We missed our flight! Because you were eating mayo!",
+      "description": "Airport • Gate",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Road Trip: Vegas",
+          "description": "Rest stop"
+        },
+        {
+          "title": "Airplane",
+          "description": "TSA"
+        },
+        {
+          "title": "Hotel Room",
+          "description": "Lobby"
+        }
+      ]
+    },
+    {
+      "quote": "Top 10 Fish to Fry! By Amir Valerie Blumenfeld!",
+      "description": "Office Desk • Scroll",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Doobs",
+          "description": "Huddy"
+        },
+        {
+          "title": "Scroll",
+          "description": "Amir's giant paper scroll"
+        }
+      ]
+    },
+    {
+      "quote": "Todah! Todah!",
+      "description": "Office • Hebrew",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Todah",
+          "description": "Amir says thank you"
+        },
+        {
+          "title": "Namaste",
+          "description": "Zen"
+        },
+        {
+          "title": "Go Bills",
+          "description": "Sports"
+        }
+      ]
+    },
+    {
+      "quote": "We're beefing!",
+      "description": "Office • Both Crying",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Nuggets",
+          "description": "Pocket"
+        },
+        {
+          "title": "Cheryl",
+          "description": "Jake & Amir cry together"
+        },
+        {
+          "title": "Doobs",
+          "description": "Set"
+        }
+      ]
+    },
+    {
+      "quote": "One almond! How much do you think it's worth?",
+      "description": "Office • Snack",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Fedora",
+          "description": "Hat"
+        },
+        {
+          "title": "Tinder",
+          "description": "App"
+        },
+        {
+          "title": "One Almond",
+          "description": "Amir's walnut/almond obsession"
+        }
+      ]
+    },
+    {
+      "quote": "Did you bring any luggage? Just a bag of loose cheese.",
+      "description": "Road Trip • Trunk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Road Trip: Vegas",
+          "description": "Packing"
+        },
+        {
+          "title": "Road Trip: Austin",
+          "description": "BBQ"
+        },
+        {
+          "title": "Hotel",
+          "description": "Room"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a golden god, and you're a troll named Rod!",
+      "description": "Office • Standing on Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Golden God",
+          "description": "Amir's rant"
+        },
+        {
+          "title": "One Almond",
+          "description": "Walnut"
+        },
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        }
+      ]
+    },
+    {
+      "quote": "Taupe! That's so taupe!",
+      "description": "Office • Rating",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dinner Tonight",
+          "description": "Booth"
+        },
+        {
+          "title": "Dope",
+          "description": "Amir invents 'taupe'"
+        },
+        {
+          "title": "Ass",
+          "description": "Insult"
+        }
+      ]
+    },
+    {
+      "quote": "It's called 'Karate'!",
+      "description": "Office • Fight",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Golden God",
+          "description": "Desk"
+        },
+        {
+          "title": "Karate",
+          "description": "Amir's black belt"
+        },
+        {
+          "title": "Doobs",
+          "description": "Actor"
+        }
+      ]
+    },
+    {
+      "quote": "Doobs! Penis Anthony Doubligné!",
+      "description": "Guest Star • Thomas Middleditch",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Doobs",
+          "description": "Amir's childhood nemesis"
+        },
+        {
+          "title": "Cheryl",
+          "description": "Date"
+        }
+      ]
+    },
+    {
+      "quote": "I'm driving! With my feet!",
+      "description": "Highway • Steering Wheel",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Road Trip: Vegas",
+          "description": "Dangerous driving"
+        },
+        {
+          "title": "Airplane",
+          "description": "Cockpit"
+        },
+        {
+          "title": "Hotel Room",
+          "description": "Valet"
+        }
+      ]
+    },
+    {
+      "quote": "One almond!",
+      "description": "Office • Snack",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Nuggets",
+          "description": "Chicken"
+        },
+        {
+          "title": "One Almond",
+          "description": "Walnut"
+        },
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a bit of a martyr!",
+      "description": "Office • Sacrifice",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Karate",
+          "description": "Belt"
+        },
+        {
+          "title": "Fedora",
+          "description": "Hat"
+        },
+        {
+          "title": "Martyr",
+          "description": "Amir's fake heroism"
         }
       ]
     }

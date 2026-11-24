@@ -7,7 +7,7 @@
   "tag": "Who said it?",
   "answer_type": "character",
   "price": 150,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "Fact: Bears eat beets.",
@@ -291,6 +291,671 @@
         {
           "title": "Toby Flenderson",
           "description": "HR"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the fucking Lizard King.",
+      "description": "Phone • Robert California",
+      "correct": 1,
+      "options": [
+        {
+          "title": "David Wallace",
+          "description": "Buying back Dunder Mifflin"
+        },
+        {
+          "title": "Robert California",
+          "description": "You don't even know my real name"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "Listening"
+        }
+      ]
+    },
+    {
+      "quote": "First of all, how dare you?",
+      "description": "Annex • Talking Head",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ryan Howard",
+          "description": "WUPHF"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "Fashion & gossip"
+        },
+        {
+          "title": "Toby Flenderson",
+          "description": "Sighing"
+        }
+      ]
+    },
+    {
+      "quote": "I wish there was a way to know you're in the good old days before you've actually left them.",
+      "description": "Series Finale • Talking Head",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Austin"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Art"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "Final quote"
+        }
+      ]
+    },
+    {
+      "quote": "I'm happy for you, Dwight.",
+      "description": "Wedding • Barn",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Tears"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Bestisch Mensch"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Smiling"
+        }
+      ]
+    },
+    {
+      "quote": "Will you marry me? In Yoda's voice!",
+      "description": "Office • Annex",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "Ring"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Beets"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Proposing to Holly"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a Dunder Mifflin man!",
+      "description": "Season 9 • Warehouse",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Creed Bratton",
+          "description": "Arrested"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Florida"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "Bar"
+        }
+      ]
+    },
+    {
+      "quote": "Don't ever, for any reason, do anything to anyone, for any reason ever...",
+      "description": "Corporate • Michael",
+      "correct": 2,
+      "options": [
+        {
+          "title": "David Wallace",
+          "description": "Listening"
+        },
+        {
+          "title": "Jan Levinson",
+          "description": "Sighing"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Philosophy"
+        }
+      ]
+    },
+    {
+      "quote": "Disposable cameras are fun, although it does seem wasteful.",
+      "description": "Office • Talking Head",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pam Beesly",
+          "description": "Art"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "Throws camera in trash"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "Selfies"
+        }
+      ]
+    },
+    {
+      "quote": "Dinkin flicka.",
+      "description": "Warehouse • Teaching Michael Slang",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Darryl Philbin",
+          "description": "Fleece it out"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Crossword"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "Guitar"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a mind reader, David.",
+      "description": "Office • Prank",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Asian Jim"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "You're not Jim!"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Kissing Asian Jim"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Prison Mike! And the worst thing about prison was the Dementors!",
+      "description": "Conference Room • Convict Day",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Purple bandana"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Holding back laughter"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Crossword"
+        }
+      ]
+    },
+    {
+      "quote": "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Philosophy"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Nodding"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "Temp"
+        }
+      ]
+    },
+    {
+      "quote": "Suck It! Take out your Suck It and you suck it!",
+      "description": "Hot Tub • David Wallace",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Weirded out"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Interested"
+        },
+        {
+          "title": "David Wallace",
+          "description": "Invention"
+        }
+      ]
+    },
+    {
+      "quote": "Plan A was marrying her a long, long time ago. Pretty much the day I met her.",
+      "description": "Season 6 • Boat",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Niagara Falls"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Crying happy tears"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Best man"
+        }
+      ]
+    },
+    {
+      "quote": "Marry me, will you? Yes, I will!",
+      "description": "Office • Sprinklers",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Erin Hannon",
+          "description": "Watching"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Crying"
+        },
+        {
+          "title": "Holly Flax",
+          "description": "Saying yes to Michael"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Jo Bennett, and I don't like liars.",
+      "description": "Office • Sabre",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jan Levinson",
+          "description": "New York"
+        },
+        {
+          "title": "Jo Bennett",
+          "description": "Kathy Bates"
+        },
+        {
+          "title": "Nellie Bertram",
+          "description": "Florida"
+        }
+      ]
+    },
+    {
+      "quote": "Save Bandit!",
+      "description": "Season 5 • Fire Drill",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "Vending machine"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "In the ceiling"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "Throwing her cat"
+        }
+      ]
+    },
+    {
+      "quote": "That's what she said!",
+      "description": "Dunder Mifflin • Every Meeting",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Regional Manager"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Assistant TO the Regional Manager"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Camera look"
+        }
+      ]
+    },
+    {
+      "quote": "You miss 100% of the shots you don't take. — Wayne Gretzky — Michael Scott.",
+      "description": "Conference Room • Whiteboard",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Crediting himself"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Drawing"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Saluting"
+        }
+      ]
+    },
+    {
+      "quote": "Ryan started the fire!",
+      "description": "Parking Lot • Singing",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Cheering"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "Dancing"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "About the cheesy pita"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Michael Scarn! Threat Level Midnight!",
+      "description": "Conference Room • Movie Screening",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Secret agent"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Samuel L. Chang"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Goldenface"
+        }
+      ]
+    },
+    {
+      "quote": "Whitest Sneakers Award!",
+      "description": "Chili's • Trophy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Presenting"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Drunk speech"
+        },
+        {
+          "title": "Roy Anderson",
+          "description": "Leaving"
+        }
+      ]
+    },
+    {
+      "quote": "Bushiest Beaver Award!",
+      "description": "Chili's • Trophy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Misspelled for Phyllis"
+        },
+        {
+          "title": "Phyllis Vance",
+          "description": "Wait, it says Bushiest..."
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "Hats off to you for not seeing race.",
+      "description": "Desk • Asian Jim",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Confused"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Smiling"
+        },
+        {
+          "title": "Randall Park (Asian Jim)",
+          "description": "Classic cold open"
+        }
+      ]
+    },
+    {
+      "quote": "I'm just gonna put his stapler in Jell-O again.",
+      "description": "Pilot • Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Classic prank"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Helping"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "MICHAEL!"
+        }
+      ]
+    },
+    {
+      "quote": "I love inside jokes. I'd love to be a part of one someday.",
+      "description": "Parking Lot • Stamford Merger",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Jealous of Jim & Josh"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Quiet"
+        },
+        {
+          "title": "Karen Filippelli",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "NO! GOD! NO, GOD, PLEASE, NO! NO! NOOOO!",
+      "description": "Annex • Toby Returns",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Seeing Toby Flenderson"
+        },
+        {
+          "title": "Toby Flenderson",
+          "description": "HR"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Watching"
+        }
+      ]
+    },
+    {
+      "quote": "Hottest in the Office!",
+      "description": "Chili's • Trophy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Presenting to Ryan"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "Jealous"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "Embarrassed"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna punch that wall!",
+      "description": "Office • Phone in Ceiling",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "Rockin' Robin"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Ducking"
+        },
+        {
+          "title": "Toby Flenderson",
+          "description": "Calling anger management"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna miss you, Michael.",
+      "description": "Office • Desk",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Recommendation letter"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Airport"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Tomorrow at lunch"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the Scranton Strangler—wait, no, I'm not.",
+      "description": "Office • Creed",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Creed Bratton",
+          "description": "Halloween blood on shirt"
+        },
+        {
+          "title": "Toby Flenderson",
+          "description": "Jury duty"
+        },
+        {
+          "title": "Gabe Lewis",
+          "description": "Skeleton man"
+        }
+      ]
+    },
+    {
+      "quote": "9,986,000 minutes! We actually sat down and did the math.",
+      "description": "Conference Room • Song",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Surprised"
+        },
+        {
+          "title": "The Office Cast",
+          "description": "Singing Seasons of Love"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Harmony"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna get a teapot!",
+      "description": "Season 2 • Secret Santa",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Gift for Pam"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "iPod"
+        },
+        {
+          "title": "Phyllis Vance",
+          "description": "Oven mitt"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a little bit terrified of her.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "About Angela"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "Cookies"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "Tax"
+        }
+      ]
+    },
+    {
+      "quote": "In the parking lot today, there was a circus!",
+      "description": "Office • Talking Head",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "A cappella"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "Weird childhood"
+        },
+        {
+          "title": "Holly Flax",
+          "description": "Nashua"
         }
       ]
     }

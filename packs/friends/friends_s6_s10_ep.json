@@ -7,7 +7,7 @@
   "tag": "When was this?",
   "answer_type": "episode",
   "price": 170,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "That's a lot of information to get in thirty seconds.",
@@ -291,6 +291,671 @@
         {
           "title": "S10E17 • The Last One",
           "description": "Final reunion"
+        }
+      ]
+    },
+    {
+      "quote": "It's 18 pages... FRONT AND BACK!",
+      "description": "Season 4 • Beach House",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E15 • Take a Break",
+          "description": "Break"
+        },
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Quiz"
+        },
+        {
+          "title": "S4E01 • The One with the Jellyfish",
+          "description": "Rachel's letter"
+        }
+      ]
+    },
+    {
+      "quote": "I love you, Monica.",
+      "description": "Season 7 • Wedding",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Vows"
+        },
+        {
+          "title": "Richard Burke",
+          "description": "Cigar"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Best man"
+        }
+      ]
+    },
+    {
+      "quote": "You make me happier than I ever thought I could be.",
+      "description": "Season 6 • Apartment 20",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Proposal speech"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Airport"
+        },
+        {
+          "title": "Mike Hannigan",
+          "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna go get a spoon.",
+      "description": "Season 7 • Hallway Floor",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Eating floor cheesecake"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Guilty"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Stolen cheesecake"
+        }
+      ]
+    },
+    {
+      "quote": "I'm sorry, I just really wanted to see you.",
+      "description": "Season 2 • Central Perk Rain",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Umbrella"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "After the list"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Rain"
+        }
+      ]
+    },
+    {
+      "quote": "Did you confuse it with your own turkey sandwich with a Moist Maker?",
+      "description": "Season 5 • Dr. Ledbetter's Office",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "On sabbatical"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Hungry"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Veggie"
+        }
+      ]
+    },
+    {
+      "quote": "It tastes like feet!",
+      "description": "Season 6 • Balcony",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Seconds"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Napkin"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "About Rachel's trifle"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna be the Ultimate Fighting Champion!",
+      "description": "Season 3 • Arena",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Watching"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Wincing"
+        },
+        {
+          "title": "Pete Becker",
+          "description": "Jon Favreau"
+        }
+      ]
+    },
+    {
+      "quote": "Something is wrong with the left phalange!",
+      "description": "Season 10 • Plane",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Phone call"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Seat"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Terminal"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a neat guy.",
+      "description": "Season 6 • Elizabeth's Dad",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Doing pushups"
+        },
+        {
+          "title": "Paul Stevens",
+          "description": "Bruce Willis"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Couch"
+        }
+      ]
+    },
+    {
+      "quote": "If I have to, I'll pee on anyone!",
+      "description": "Season 4 • Beach",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Jellyfish"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Stung"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Stepped up"
+        }
+      ]
+    },
+    {
+      "quote": "I hate Thanksgiving!",
+      "description": "Every Thanksgiving • Couch",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Loves food"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Parents' divorce"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Turkey"
+        }
+      ]
+    },
+    {
+      "quote": "Wait... you had a turkey on your head!",
+      "description": "Season 5 • Flashback Thanksgiving",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E01 • After Ross Says Rachel",
+          "description": "Hotel"
+        },
+        {
+          "title": "S5E08 • The One with All the Thanksgivings",
+          "description": "Monica dances with a turkey"
+        },
+        {
+          "title": "S6E09 • Ross Got High",
+          "description": "Trifle"
+        }
+      ]
+    },
+    {
+      "quote": "Little black curly hair!",
+      "description": "Central Perk • Open Mic",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Original song"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Keyboard"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Clapping"
+        }
+      ]
+    },
+    {
+      "quote": "Unagi.",
+      "description": "Season 6 • Martial Arts",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Salmon skin roll"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "A state of total awareness"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "Your collective dating record reads like a who's who of human crap.",
+      "description": "Season 1 • Poker Night",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Couch"
+        },
+        {
+          "title": "S1E18 • The One with All the Poker",
+          "description": "Guys vs. Girls"
+        },
+        {
+          "title": "S2E07 • The One Where Ross Finds Out",
+          "description": "Cat"
+        }
+      ]
+    },
+    {
+      "quote": "Three divorces! Three divorces!",
+      "description": "Season 6 • Central Perk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "The Divorce Force"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Las Vegas"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Counting"
+        }
+      ]
+    },
+    {
+      "quote": "Why is it inside out?!",
+      "description": "Season 5 • Cat",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E21 • The One with the Ball",
+          "description": "Rachel's hairless cat"
+        },
+        {
+          "title": "S5E14 • Everybody Finds Out",
+          "description": "Balcony"
+        },
+        {
+          "title": "S5E09 • Ross's Sandwich",
+          "description": "Break room"
+        }
+      ]
+    },
+    {
+      "quote": "Hi, I'm Chandler. I make jokes when I'm uncomfortable.",
+      "description": "Central Perk • Awkward Silence",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Self-aware"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Sandwich"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Divorce"
+        }
+      ]
+    },
+    {
+      "quote": "You're a shoe! You're a shoe! You're a shoe!",
+      "description": "Season 1 • Phone Call",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Closet"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Telling her dad off"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Central Perk"
+        }
+      ]
+    },
+    {
+      "quote": "It's a moo point. It's like a cow's opinion.",
+      "description": "Season 7 • Central Perk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "It doesn't matter—it's moo"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Stunned"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Speechless"
+        }
+      ]
+    },
+    {
+      "quote": "I'm wonderfully weird!",
+      "description": "Season 9 • Mike's Parents",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Kitchen"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Paris"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "To Mike"
+        }
+      ]
+    },
+    {
+      "quote": "I got a turkey on my head!",
+      "description": "Season 5 • Flashback",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "1992"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Laughing"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "1992 Thanksgiving"
+        }
+      ]
+    },
+    {
+      "quote": "That's right, I stepped up!",
+      "description": "Season 4 • Beach",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Watching"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Guilty"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "About the jellyfish"
+        }
+      ]
+    },
+    {
+      "quote": "They don't know that we know they know we know!",
+      "description": "Season 5 • Ugly Naked Guy's",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Bathroom"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Confused"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Explaining the messers"
+        }
+      ]
+    },
+    {
+      "quote": "No uterus, no opinion!",
+      "description": "Season 8 • Hospital",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Kitchen"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "To Ross during labor"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Hallway"
+        }
+      ]
+    },
+    {
+      "quote": "Welcome to my world!",
+      "description": "Season 4 • London",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Janice",
+          "description": "Nail salon"
+        },
+        {
+          "title": "Gunther",
+          "description": "Counter"
+        },
+        {
+          "title": "Emily Waltham",
+          "description": "To Ross"
+        }
+      ]
+    },
+    {
+      "quote": "He's her lobster!",
+      "description": "Season 2 • Prom Video",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E14 • The One with the Prom Video",
+          "description": "Phoebe's lobster theory"
+        },
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Wedding dress"
+        },
+        {
+          "title": "S3E15 • The One Where Ross and Rachel Take a Break",
+          "description": "Break"
+        }
+      ]
+    },
+    {
+      "quote": "I too am a neat guy.",
+      "description": "Season 6 • Mirror",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Door"
+        },
+        {
+          "title": "Paul Stevens",
+          "description": "Pep talk in mirror"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "TV"
+        }
+      ]
+    },
+    {
+      "quote": "You're a terrible friend, Ross.",
+      "description": "Season 8 • Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Mona",
+          "description": "What was wrong with Mona?"
+        },
+        {
+          "title": "Emily Waltham",
+          "description": "London"
+        },
+        {
+          "title": "Carol Willick",
+          "description": "Museum"
+        }
+      ]
+    },
+    {
+      "quote": "Could I BE wearing any more clothes?",
+      "description": "Season 3 • Getting Ready",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E02 • The One Where No One's Ready",
+          "description": "Ross's museum benefit"
+        },
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Quiz"
+        },
+        {
+          "title": "S5E14 • The One Where Everybody Finds Out",
+          "description": "Secret"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not gonna let you go.",
+      "description": "Season 10 • Airport",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Hallway"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Chasing Rachel"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Cab"
+        }
+      ]
+    },
+    {
+      "quote": "Mississippi-lessly?!",
+      "description": "Season 10 • Spray Tan Salon",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Counted '1 Mississippi'"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Laughing at the tan"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Counting"
+        }
+      ]
+    },
+    {
+      "quote": "You're so great, I love you!",
+      "description": "Season 5 • Turkey Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "First time saying I love you to Monica"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Fez & sunglasses"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Couch"
+        }
+      ]
+    },
+    {
+      "quote": "Unless we're on a break!",
+      "description": "Season 10 • Ross's Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Teasing Ross"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Don't even joke"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Smiling"
         }
       ]
     }

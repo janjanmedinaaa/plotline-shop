@@ -7,7 +7,7 @@
   "tag": "When was this?",
   "answer_type": "episode",
   "price": 170,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "Well, well, well, how the turntables...",
@@ -291,6 +291,671 @@
         {
           "title": "S9E23 • Finale",
           "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "I feel God in this Chili's tonight.",
+      "description": "Season 2 • Chili's",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E09 • The Convict",
+          "description": "Prison"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Dinner"
+        },
+        {
+          "title": "S2E01 • The Dundies",
+          "description": "Pam's speech"
+        }
+      ]
+    },
+    {
+      "quote": "Snip, snap! Snip, snap! Snip, snap!",
+      "description": "Season 4 • Condos",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "CPR"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Michael & Jan's fight"
+        },
+        {
+          "title": "S2E12 • The Injury",
+          "description": "Foreman Grill"
+        }
+      ]
+    },
+    {
+      "quote": "You took me by the hand... made me a man...",
+      "description": "Season 4 • Hunter's CD",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E01 • The Dundies",
+          "description": "Chili's"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "That One Night"
+        },
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Song"
+        }
+      ]
+    },
+    {
+      "quote": "Dwight's snowball fight!",
+      "description": "Season 7 • Christmas",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E11 • Moroccan Christmas",
+          "description": "Desk"
+        },
+        {
+          "title": "S7E11 • Classy Christmas",
+          "description": "Snowman army"
+        },
+        {
+          "title": "S8E10 • Christmas Wishes",
+          "description": "Andy"
+        }
+      ]
+    },
+    {
+      "quote": "My stapler is in Jell-O!",
+      "description": "Season 1 • Pilot",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E21 • Conflict Resolution",
+          "description": "Nickels"
+        },
+        {
+          "title": "S1E01 • Pilot",
+          "description": "First prank"
+        },
+        {
+          "title": "S3E01 • Gay Witch Hunt",
+          "description": "Gaydar"
+        }
+      ]
+    },
+    {
+      "quote": "SAVE BANDIT!",
+      "description": "Season 5 • Ceiling Cat",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Angela throws Bandit"
+        },
+        {
+          "title": "S3E20 • Safety Training",
+          "description": "Trampoline"
+        },
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "Did I stutter?!",
+      "description": "Season 4 • Conference Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S4E16 • Did I Stutter?",
+          "description": "Stanley snaps at Michael"
+        },
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Heart attack"
+        },
+        {
+          "title": "S2E12 • The Injury",
+          "description": "MRI"
+        }
+      ]
+    },
+    {
+      "quote": "Will you marry me, Holly? No, wait, Andy!",
+      "description": "Season 4 • Finale",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S4E18 • Goodbye, Toby",
+          "description": "Andy proposes to Angela"
+        },
+        {
+          "title": "S4E01 • Fun Run",
+          "description": "Rabies"
+        },
+        {
+          "title": "S4E05 • Launch Party",
+          "description": "Website"
+        }
+      ]
+    },
+    {
+      "quote": "Flonkerton! Box of paper snowshoe racing!",
+      "description": "Season 2 • Olympics",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E05 • Basketball",
+          "description": "Gym"
+        },
+        {
+          "title": "S2E01 • The Dundies",
+          "description": "Awards"
+        },
+        {
+          "title": "S2E03 • Office Olympics",
+          "description": "Yogurt lid medals"
+        }
+      ]
+    },
+    {
+      "quote": "I'm in love with you, Pam.",
+      "description": "Season 2 • Casino Night",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E10 • Christmas Party",
+          "description": "Teapot"
+        },
+        {
+          "title": "S2E22 • Casino Night",
+          "description": "Parking lot confession"
+        },
+        {
+          "title": "S3E23 • Beach Games",
+          "description": "Coals"
+        }
+      ]
+    },
+    {
+      "quote": "Goodbye, Toby! It's been nice!",
+      "description": "Season 4 • Parking Lot",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S4E18 • Goodbye, Toby",
+          "description": "Ferris wheel"
+        },
+        {
+          "title": "S4E16 • Did I Stutter?",
+          "description": "Stanley"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Dundie"
+        }
+      ]
+    },
+    {
+      "quote": "My desk is wrapped in Christmas paper!",
+      "description": "Season 5 • Mega-Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E11 • Moroccan Christmas",
+          "description": "Wrapping paper desk collapses"
+        },
+        {
+          "title": "S3E10 • A Benihana Christmas",
+          "description": "Bike"
+        },
+        {
+          "title": "S6E13 • Secret Santa",
+          "description": "Phyllis"
+        }
+      ]
+    },
+    {
+      "quote": "Murder in Savannah! There has been a murder!",
+      "description": "Season 6 • Board Game",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "CPR"
+        },
+        {
+          "title": "S6E01 • Gossip",
+          "description": "Parkour"
+        },
+        {
+          "title": "S6E10 • Murder",
+          "description": "I do declare!"
+        }
+      ]
+    },
+    {
+      "quote": "I do declare!",
+      "description": "Season 6 • Conference Room",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Wedding"
+        },
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "Dance"
+        },
+        {
+          "title": "S6E10 • Murder",
+          "description": "Michael's Southern accent"
+        }
+      ]
+    },
+    {
+      "quote": "Dwight, you ignorant slut!",
+      "description": "Season 3 • Roof",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Fire"
+        },
+        {
+          "title": "S3E19 • Safety Training",
+          "description": "Depression skit"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "TV"
+        }
+      ]
+    },
+    {
+      "quote": "We're doing a lip dub!",
+      "description": "Season 7 • Premiere",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "Human nature"
+        },
+        {
+          "title": "S6E01 • Gossip",
+          "description": "Parkour"
+        },
+        {
+          "title": "S5E26 • Casual Friday",
+          "description": "Chili"
+        }
+      ]
+    },
+    {
+      "quote": "I bought a gaydar from Sharper Image!",
+      "description": "Season 3 • Desk",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E07 • Branch Closing",
+          "description": "Fax"
+        },
+        {
+          "title": "S2E21 • Conflict Resolution",
+          "description": "Files"
+        },
+        {
+          "title": "S3E01 • Gay Witch Hunt",
+          "description": "Jim's prank"
+        }
+      ]
+    },
+    {
+      "quote": "Alfredo's Pizza Cafe, or Pizza by Alfredo?",
+      "description": "Season 4 • Conference Room",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S4E01 • Fun Run",
+          "description": "Fettuccine"
+        },
+        {
+          "title": "S4E05 • Launch Party",
+          "description": "Hot circle of garbage"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Osso buco"
+        }
+      ]
+    },
+    {
+      "quote": "They're lithium!",
+      "description": "Season 6 • Classroom",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S6E12 • Scott's Tots",
+          "description": "Laptop batteries"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Plasma TV"
+        },
+        {
+          "title": "S7E22 • Goodbye, Michael",
+          "description": "Airport"
+        }
+      ]
+    },
+    {
+      "quote": "It's a $200 plasma screen TV! Good luck paying me back on your zero dollars a year salary!",
+      "description": "Season 4 • Condo",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E01 • Fun Run",
+          "description": "Check"
+        },
+        {
+          "title": "S4E05 • Launch Party",
+          "description": "Pizza"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Jan's candle room"
+        }
+      ]
+    },
+    {
+      "quote": "I burned my foot on a George Foreman Grill!",
+      "description": "Season 2 • Morning",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Plasma TV"
+        },
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Fire"
+        },
+        {
+          "title": "S2E12 • The Injury",
+          "description": "Dwight's concussion"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a victim of a hate crime! Stanley knows what I'm talking about.",
+      "description": "Season 1 • Diversity",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E02 • Diversity Day",
+          "description": "Index cards on foreheads"
+        },
+        {
+          "title": "S1E05 • Basketball",
+          "description": "Warehouse"
+        },
+        {
+          "title": "S2E01 • The Dundies",
+          "description": "Chili's"
+        }
+      ]
+    },
+    {
+      "quote": "Parkour! Parkour!",
+      "description": "Season 6 • Cold Open",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Fire"
+        },
+        {
+          "title": "S6E01 • Gossip",
+          "description": "Jumping on warehouse boxes"
+        },
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "Lip dub"
+        }
+      ]
+    },
+    {
+      "quote": "Identity theft is not a joke, Jim!",
+      "description": "Season 3 • Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E20 • Product Recall",
+          "description": "Millions of families suffer!"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Wine"
+        },
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Boat"
+        }
+      ]
+    },
+    {
+      "quote": "Why are there nickels in my phone?!",
+      "description": "Season 2 • Jim's Prank",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E21 • Conflict Resolution",
+          "description": "Toby's complaint files"
+        },
+        {
+          "title": "S3E20 • Product Recall",
+          "description": "Bears"
+        },
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "Fire"
+        }
+      ]
+    },
+    {
+      "quote": "Two queens on Casino Night! I'm gonna drop a deuce on everybody!",
+      "description": "Season 2 • Warehouse",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S2E10 • Christmas Party",
+          "description": "Teapot"
+        },
+        {
+          "title": "S2E22 • Casino Night",
+          "description": "Michael's two dates"
+        },
+        {
+          "title": "S3E01 • Gay Witch Hunt",
+          "description": "Oscar"
+        }
+      ]
+    },
+    {
+      "quote": "The secret is to undercook the onions.",
+      "description": "Season 5 • Cold Open",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E16 • Did I Stutter?",
+          "description": "Meeting"
+        },
+        {
+          "title": "S6E04 • Niagara",
+          "description": "Hotel"
+        },
+        {
+          "title": "S5E26 • Casual Friday",
+          "description": "Kevin's Famous Chili"
+        }
+      ]
+    },
+    {
+      "quote": "9,986,000 minutes!",
+      "description": "Season 7 • Conference Room",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E12 • Scott's Tots",
+          "description": "School"
+        },
+        {
+          "title": "S7E21 • Michael's Last Dundies",
+          "description": "Office song for Michael"
+        },
+        {
+          "title": "S9E23 • Finale",
+          "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "The worst thing about prison was the Dementors!",
+      "description": "Season 3 • Conference Room",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E20 • Product Recall",
+          "description": "Watermark"
+        },
+        {
+          "title": "S3E09 • The Convict",
+          "description": "Prison Mike"
+        },
+        {
+          "title": "S2E12 • The Injury",
+          "description": "Crutches"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna get you an iPod for Christmas!",
+      "description": "Season 2 • Secret Santa",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E10 • Christmas Party",
+          "description": "Yankee Swap"
+        },
+        {
+          "title": "S2E12 • The Injury",
+          "description": "Grill"
+        },
+        {
+          "title": "S2E22 • Casino Night",
+          "description": "Poker"
+        }
+      ]
+    },
+    {
+      "quote": "Walk on the coals! I want the job!",
+      "description": "Season 3 • Lake",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S3E09 • The Convict",
+          "description": "Prison"
+        },
+        {
+          "title": "S3E20 • Product Recall",
+          "description": "Watermark"
+        },
+        {
+          "title": "S3E23 • Beach Games",
+          "description": "Pam's speech"
+        }
+      ]
+    },
+    {
+      "quote": "Pretzel Day! Well, I like Pretzel Day.",
+      "description": "Season 3 • Lobby",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E01 • Gay Witch Hunt",
+          "description": "Gaydar"
+        },
+        {
+          "title": "S3E05 • Initiation",
+          "description": "Stanley's favorite day"
+        },
+        {
+          "title": "S3E09 • The Convict",
+          "description": "Prison"
+        }
+      ]
+    },
+    {
+      "quote": "I am Beyoncé, always.",
+      "description": "Season 4 • Parking Lot",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S4E01 • Fun Run",
+          "description": "Rabies"
+        },
+        {
+          "title": "S4E13 • Dinner Party",
+          "description": "Candle"
+        },
+        {
+          "title": "S4E10 • Branch Wars",
+          "description": "Wait—S4/S5"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna make it! No, I'm not!",
+      "description": "Season 5 • Carpet",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E14 • Stress Relief",
+          "description": "CPR"
+        },
+        {
+          "title": "S3E19 • Safety Training",
+          "description": "Bouncy castle"
+        },
+        {
+          "title": "S5E26 • Casual Friday",
+          "description": "Kevin spills the chili"
+        }
+      ]
+    },
+    {
+      "quote": "Look at me, I'm Asian Jim!",
+      "description": "Season 9 • Cold Open",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S8E14 • Special Project",
+          "description": "Florida"
+        },
+        {
+          "title": "S9E03 • Andy's Ancestry",
+          "description": "Randall Park"
+        },
+        {
+          "title": "S7E01 • Nepotism",
+          "description": "Lip dub"
         }
       ]
     }

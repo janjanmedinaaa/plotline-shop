@@ -7,7 +7,7 @@
   "tag": "When was this?",
   "answer_type": "episode",
   "price": 160,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "We're going to Vegas, baby!",
@@ -291,6 +291,671 @@
         {
           "title": "Series Finale",
           "description": "Jake says yes"
+        }
+      ]
+    },
+    {
+      "quote": "Number 8: A plate of hot spum!",
+      "description": "Office • Gross List",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Nuggets",
+          "description": "Pocket"
+        },
+        {
+          "title": "Top 10 Foods",
+          "description": "Amir's menu"
+        }
+      ]
+    },
+    {
+      "quote": "A-weird!",
+      "description": "Office • Weird",
+      "correct": 0,
+      "options": [
+        {
+          "title": "A-Weird",
+          "description": "Amir's adjective"
+        },
+        {
+          "title": "Ass",
+          "description": "Word"
+        },
+        {
+          "title": "Cool",
+          "description": "Shades"
+        }
+      ]
+    },
+    {
+      "quote": "Bad vest!",
+      "description": "Office • Fashion",
+      "correct": 1,
+      "options": [
+        {
+          "title": "A-Weird",
+          "description": "Desk"
+        },
+        {
+          "title": "Vest",
+          "description": "Jake's vest"
+        },
+        {
+          "title": "Fedora",
+          "description": "Hat"
+        }
+      ]
+    },
+    {
+      "quote": "Todah! Todah!",
+      "description": "Office • Hebrew",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Todah",
+          "description": "Amir says thank you"
+        },
+        {
+          "title": "Namaste",
+          "description": "Zen"
+        },
+        {
+          "title": "Go Bills",
+          "description": "Sports"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a golden god!",
+      "description": "Office • Ego",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Todah",
+          "description": "Desk"
+        },
+        {
+          "title": "Go Bills",
+          "description": "Football"
+        },
+        {
+          "title": "Golden God",
+          "description": "Amir's speech"
+        }
+      ]
+    },
+    {
+      "quote": "A-a-a-a-almond!",
+      "description": "Office • Chanting",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Scroll",
+          "description": "Paper"
+        },
+        {
+          "title": "Beefing",
+          "description": "Crying"
+        },
+        {
+          "title": "One Almond",
+          "description": "Desk chant"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the Milk Man! I've got milk!",
+      "description": "Guest Star • Ben Schwartz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Ben Schwartz as the Milk Man"
+        },
+        {
+          "title": "Scroll",
+          "description": "Top 10 Scroll"
+        },
+        {
+          "title": "vest",
+          "description": "Corduroy Pant"
+        }
+      ]
+    },
+    {
+      "quote": "Chicken nuggets! In my pocket!",
+      "description": "Office • Lunch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Nuggets",
+          "description": "Amir's pocket nuggets"
+        },
+        {
+          "title": "Scroll",
+          "description": "Paper"
+        },
+        {
+          "title": "Poker",
+          "description": "Card game"
+        }
+      ]
+    },
+    {
+      "quote": "Number 9: A hot dog with no bun!",
+      "description": "Office • Scroll",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Nuggets",
+          "description": "Pocket"
+        },
+        {
+          "title": "One Almond",
+          "description": "Nut"
+        },
+        {
+          "title": "Top 10 BBQ Foods",
+          "description": "Grill"
+        }
+      ]
+    },
+    {
+      "quote": "A sleeveless shirt for this piece of dirt makes the sweeties go squirt!",
+      "description": "Office • Outfit",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Beefing",
+          "description": "Crying"
+        },
+        {
+          "title": "Fashion",
+          "description": "Amir's vest/shirt"
+        },
+        {
+          "title": "Nuggets",
+          "description": "Chicken"
+        }
+      ]
+    },
+    {
+      "quote": "Number 4: A baby Bjorn for my cat!",
+      "description": "Office • Scroll",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Top 10 Baby Names",
+          "description": "Cats"
+        },
+        {
+          "title": "Pigeon",
+          "description": "Bird"
+        },
+        {
+          "title": "Tinder",
+          "description": "Profile"
+        }
+      ]
+    },
+    {
+      "quote": "Number 10: A salmon named Ben!",
+      "description": "Scroll • Top 10 Fish",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Top 10 Fish to Fry",
+          "description": "Amir's scroll"
+        },
+        {
+          "title": "Top 10 Scroll",
+          "description": "Names"
+        },
+        {
+          "title": "One Almond",
+          "description": "Walnut"
+        }
+      ]
+    },
+    {
+      "quote": "Number 5: Just a little bit of salt!",
+      "description": "Office • Scroll",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Top 10 Sandwich Toppings",
+          "description": "Salt"
+        },
+        {
+          "title": "One Almond",
+          "description": "Almond"
+        },
+        {
+          "title": "Beer",
+          "description": "Drink"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna buy a walnut! It's the same thing!",
+      "description": "Office • Desk",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Top 10 Foods",
+          "description": "Menu"
+        },
+        {
+          "title": "Milk Man",
+          "description": "Glass"
+        },
+        {
+          "title": "One Almond",
+          "description": "Amir's obsession"
+        }
+      ]
+    },
+    {
+      "quote": "We're beefing!",
+      "description": "Office • Both Crying",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Nuggets",
+          "description": "Pocket"
+        },
+        {
+          "title": "Cheryl",
+          "description": "Jake & Amir cry together"
+        },
+        {
+          "title": "Doobs",
+          "description": "Set"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a pimp and a cool!",
+      "description": "Office • Sunglasses",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Doobs",
+          "description": "Actor"
+        },
+        {
+          "title": "Cool",
+          "description": "Amir's fake confidence"
+        }
+      ]
+    },
+    {
+      "quote": "Number 6: A glass of warm milk.",
+      "description": "Office • Scroll",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Ben Schwartz"
+        },
+        {
+          "title": "Top 10 Drinks",
+          "description": "List"
+        },
+        {
+          "title": "Beer",
+          "description": "Pub"
+        }
+      ]
+    },
+    {
+      "quote": "I'm beefing!",
+      "description": "Office • Crying",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Beefing",
+          "description": "Tears of soy"
+        },
+        {
+          "title": "Nuggets",
+          "description": "Pocket"
+        },
+        {
+          "title": "Scroll",
+          "description": "Paper"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a bit of a martyr!",
+      "description": "Office • Sacrifice",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Karate",
+          "description": "Belt"
+        },
+        {
+          "title": "Fedora",
+          "description": "Hat"
+        },
+        {
+          "title": "Martyr",
+          "description": "Amir's fake heroism"
+        }
+      ]
+    },
+    {
+      "quote": "Taupe! That's so taupe!",
+      "description": "Office • Rating",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dinner Tonight",
+          "description": "Booth"
+        },
+        {
+          "title": "Dope",
+          "description": "Amir invents 'taupe'"
+        },
+        {
+          "title": "Ass",
+          "description": "Insult"
+        }
+      ]
+    },
+    {
+      "quote": "It's called 'Karate'!",
+      "description": "Office • Fight",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Golden God",
+          "description": "Desk"
+        },
+        {
+          "title": "Karate",
+          "description": "Amir's black belt"
+        },
+        {
+          "title": "Doobs",
+          "description": "Actor"
+        }
+      ]
+    },
+    {
+      "quote": "Number 1: A hug from Jake!",
+      "description": "Office • Sweet Ending",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Beefing",
+          "description": "Tears"
+        },
+        {
+          "title": "Cheryl",
+          "description": "Date"
+        },
+        {
+          "title": "Top 10 Birthday Wishes",
+          "description": "Amir's wish"
+        }
+      ]
+    },
+    {
+      "quote": "I'm beefing! Look at me, I'm beefing!",
+      "description": "Office • Crying",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Beefing",
+          "description": "Weeping tears of soy"
+        },
+        {
+          "title": "Scroll",
+          "description": "Top 10"
+        },
+        {
+          "title": "Tinder",
+          "description": "Dating app"
+        }
+      ]
+    },
+    {
+      "quote": "I got a Tinder! Swipe right!",
+      "description": "Office • Dating App",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Scroll",
+          "description": "List"
+        },
+        {
+          "title": "Fashion",
+          "description": "Vest"
+        },
+        {
+          "title": "Tinder",
+          "description": "Amir's profile"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna buy a fedora!",
+      "description": "Office • Insecure Jake",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Scroll",
+          "description": "List"
+        },
+        {
+          "title": "Fedora",
+          "description": "Jake's hat"
+        },
+        {
+          "title": "Nuggets",
+          "description": "Food"
+        }
+      ]
+    },
+    {
+      "quote": "One almond!",
+      "description": "Office • Snack",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Nuggets",
+          "description": "Chicken"
+        },
+        {
+          "title": "One Almond",
+          "description": "Walnut"
+        },
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        }
+      ]
+    },
+    {
+      "quote": "Doobs! Penis Anthony Doubligné!",
+      "description": "Guest Star • Thomas Middleditch",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Doobs",
+          "description": "Amir's childhood nemesis"
+        },
+        {
+          "title": "Cheryl",
+          "description": "Date"
+        }
+      ]
+    },
+    {
+      "quote": "Number 2: A pair of jeans that fits!",
+      "description": "Office • Scroll",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Fashion",
+          "description": "Vest"
+        },
+        {
+          "title": "Top 10 Outfits",
+          "description": "Jeans"
+        },
+        {
+          "title": "Fedora",
+          "description": "Hat"
+        }
+      ]
+    },
+    {
+      "quote": "Number 3: Just yell 'Taupe!' at strangers.",
+      "description": "Office • Scroll",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Beefing",
+          "description": "Soy"
+        },
+        {
+          "title": "Top 10 Compliments",
+          "description": "Dope/Taupe"
+        },
+        {
+          "title": "Cool",
+          "description": "Shades"
+        }
+      ]
+    },
+    {
+      "quote": "One almond! How much do you think it's worth?",
+      "description": "Office • Snack",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Fedora",
+          "description": "Hat"
+        },
+        {
+          "title": "Tinder",
+          "description": "App"
+        },
+        {
+          "title": "One Almond",
+          "description": "Amir's walnut/almond obsession"
+        }
+      ]
+    },
+    {
+      "quote": "Ass!",
+      "description": "Office • Insult",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ass",
+          "description": "Stop saying 'ass'!"
+        },
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Doobs",
+          "description": "Huddy"
+        }
+      ]
+    },
+    {
+      "quote": "I'm the Milk Man!",
+      "description": "Office • Ben Schwartz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk delivery"
+        },
+        {
+          "title": "Doobs",
+          "description": "Actor"
+        },
+        {
+          "title": "Tinder",
+          "description": "App"
+        }
+      ]
+    },
+    {
+      "quote": "Penis Anthony Doubligné!",
+      "description": "Office • Doobs",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Scroll",
+          "description": "List"
+        },
+        {
+          "title": "Doobs",
+          "description": "Thomas Middleditch"
+        }
+      ]
+    },
+    {
+      "quote": "Number 1: A bad amount of money!",
+      "description": "Office • Scroll",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Top 10 Fish to Fry",
+          "description": "Fish"
+        },
+        {
+          "title": "Top 10 Things to Buy",
+          "description": "Amir's budget"
+        },
+        {
+          "title": "Tinder",
+          "description": "Swipe"
+        }
+      ]
+    },
+    {
+      "quote": "Dinner tonight?",
+      "description": "Office • Classic",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dinner Tonight",
+          "description": "Original recurring bit"
+        },
+        {
+          "title": "Milk Man",
+          "description": "Milk"
+        },
+        {
+          "title": "Scroll",
+          "description": "Top 10"
         }
       ]
     }

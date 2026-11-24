@@ -7,7 +7,7 @@
   "tag": "Who said it?",
   "answer_type": "character",
   "price": 150,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "Could I BE wearing any more clothes?",
@@ -291,6 +291,671 @@
         {
           "title": "Chandler Bing",
           "description": "Break room"
+        }
+      ]
+    },
+    {
+      "quote": "Jingle bitch screwed me over!",
+      "description": "Season 2 • Central Perk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Smelly Cat commercial"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Coffee"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Kitchen"
+        }
+      ]
+    },
+    {
+      "quote": "My name is Regina Phalange.",
+      "description": "Everywhere • Phoebe's Alias",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Fake name"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Airport"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Chef"
+        }
+      ]
+    },
+    {
+      "quote": "Princess Consuela Banana-Hammock.",
+      "description": "Season 10 • Name Change",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Married Mike"
+        },
+        {
+          "title": "Mike Hannigan",
+          "description": "Crap Bag"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna go, because I don't want to be here.",
+      "description": "Central Perk • Couch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Blunt exit"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Nods"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Waves"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna go get a spoon.",
+      "description": "Season 7 • Hallway Floor",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Eating floor cheesecake"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Guilty"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Stolen cheesecake"
+        }
+      ]
+    },
+    {
+      "quote": "Here come the meat sweats.",
+      "description": "Season 8 • Thanksgiving",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Eating an entire turkey"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Gravy"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Maternity pants"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a neat guy.",
+      "description": "Season 6 • Elizabeth's Dad",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Doing pushups"
+        },
+        {
+          "title": "Paul Stevens",
+          "description": "Bruce Willis"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Couch"
+        }
+      ]
+    },
+    {
+      "quote": "Paper! Snow! A ghost!",
+      "description": "Season 6 • Pyramid Game Show",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Guessing 'things that are white'"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Frustrated"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Watching"
+        }
+      ]
+    },
+    {
+      "quote": "Maternity pants! Those are my Thanksgiving pants!",
+      "description": "Season 8 • Living Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Stretchy waistband"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Watching football"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Cooking"
+        }
+      ]
+    },
+    {
+      "quote": "That's brand new information!",
+      "description": "Season 8 • Apartment 20",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Pretending she didn't know"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Pregnancy test"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Holding the stick"
+        }
+      ]
+    },
+    {
+      "quote": "I'm fine! I'm totally fine!",
+      "description": "Season 10 • Making Fajitas",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "High-pitched squeak"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Worried"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Eating"
+        }
+      ]
+    },
+    {
+      "quote": "I'm curvy and I like it!",
+      "description": "Season 7 • Turkey Pants",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Cooking"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Teasing"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Phoebe's maternity pants"
+        }
+      ]
+    },
+    {
+      "quote": "Why is your family Scottish? Why is your family ROSS?!",
+      "description": "Season 7 • Bagpipes",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Playing bagpipes"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Covering ears"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Screaming over the pipes"
+        }
+      ]
+    },
+    {
+      "quote": "This plane doesn't even have a phalange!",
+      "description": "Season 10 • Plane to Paris",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Stopping Rachel's flight"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Leaving"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Running"
+        }
+      ]
+    },
+    {
+      "quote": "Did you confuse it with your own turkey sandwich with a Moist Maker?",
+      "description": "Season 5 • Dr. Ledbetter's Office",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "On sabbatical"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Hungry"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Veggie"
+        }
+      ]
+    },
+    {
+      "quote": "It's not my fault! I'm a twin!",
+      "description": "Season 6 • Ursula",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Twin sister"
+        },
+        {
+          "title": "Ursula Buffay",
+          "description": "Waitress"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Dated Ursula"
+        }
+      ]
+    },
+    {
+      "quote": "What's not to like? Custard, good. Jam, good. Meat, GOOD!",
+      "description": "Season 6 • Apartment 20",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Loved the trifle"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Tastes like feet!"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Hid his plate"
+        }
+      ]
+    },
+    {
+      "quote": "My two greatest enemies: Rachel Green and complex carbohydrates.",
+      "description": "Season 8 • Thanksgiving",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Laughing"
+        },
+        {
+          "title": "Will Colbert",
+          "description": "Looking at Rachel"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Turkey"
+        }
+      ]
+    },
+    {
+      "quote": "You make me happier than I ever thought I could be.",
+      "description": "Season 6 • Apartment 20",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Proposal speech"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Airport"
+        },
+        {
+          "title": "Mike Hannigan",
+          "description": "Wedding"
+        }
+      ]
+    },
+    {
+      "quote": "Denise! I talk about her all the time! DENISE!",
+      "description": "Season 6 • Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Secret roommate"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Looking for a place"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "DANGER! DANGER!",
+      "description": "Season 6 • Unagi Prank",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Jumping out at Rachel & Phoebe"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Laughing"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Unimpressed"
+        }
+      ]
+    },
+    {
+      "quote": "Look at me! I'm Chandler! Could I BE wearing any more clothes?",
+      "description": "Apartment 20 • Lunges",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Doing lunges"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Waiting"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "Welcome to my world!",
+      "description": "Season 4 • London",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Janice",
+          "description": "Nail salon"
+        },
+        {
+          "title": "Gunther",
+          "description": "Counter"
+        },
+        {
+          "title": "Emily Waltham",
+          "description": "To Ross"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not gonna let you go.",
+      "description": "Season 10 • Airport",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Hallway"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Chasing Rachel"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Cab"
+        }
+      ]
+    },
+    {
+      "quote": "It tastes like feet!",
+      "description": "Season 6 • Balcony",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Seconds"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Napkin"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "About Rachel's trifle"
+        }
+      ]
+    },
+    {
+      "quote": "You're my lobster.",
+      "description": "Central Perk • Forever",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Vows"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "To Rachel"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "To a sandwich"
+        }
+      ]
+    },
+    {
+      "quote": "You're a terrible friend, Ross.",
+      "description": "Season 8 • Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Mona",
+          "description": "What was wrong with Mona?"
+        },
+        {
+          "title": "Emily Waltham",
+          "description": "London"
+        },
+        {
+          "title": "Carol Willick",
+          "description": "Museum"
+        }
+      ]
+    },
+    {
+      "quote": "The fridge broke, so I had to eat everything.",
+      "description": "Apartment 19 • Kitchen",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Logical solution"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Paying for it"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Cheesecake"
+        }
+      ]
+    },
+    {
+      "quote": "Come on, Will, just take off your shirt and tell us!",
+      "description": "Season 8 • Thanksgiving",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Admiring Brad Pitt's character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Cooking"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Blushing"
+        }
+      ]
+    },
+    {
+      "quote": "He's a transponster!",
+      "description": "Season 4 • Quiz",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Cheering"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Panicking at the buzzer"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Screaming"
+        }
+      ]
+    },
+    {
+      "quote": "You're so great, I love you!",
+      "description": "Season 5 • Turkey Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "First time saying I love you to Monica"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Fez & sunglasses"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Couch"
+        }
+      ]
+    },
+    {
+      "quote": "I thought you'd be... happier.",
+      "description": "Season 6 • Candlelit Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Proposing to Monica"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Opening the door"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "London"
+        }
+      ]
+    },
+    {
+      "quote": "Wait, where?",
+      "description": "Season 10 • Last Line",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "After Rachel asks 'get some coffee?'"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Doorway"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Keys"
+        }
+      ]
+    },
+    {
+      "quote": "EEEEE! EEEEE!",
+      "description": "Season 7 • Playing Bagpipes",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Playing"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Singing along with the pipes"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Holding back laughter"
+        }
+      ]
+    },
+    {
+      "quote": "CONGRATULATIONS!",
+      "description": "Season 10 • Phone Call",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Adoption agency calls"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Hugging"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Crying"
         }
       ]
     }

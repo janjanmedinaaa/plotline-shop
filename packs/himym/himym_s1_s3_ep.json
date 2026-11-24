@@ -7,7 +7,7 @@
   "tag": "When was this?",
   "answer_type": "episode",
   "price": 170,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "Have you met Ted?",
@@ -291,6 +291,671 @@
         {
           "title": "S1E22 • Come On",
           "description": "Rain"
+        }
+      ]
+    },
+    {
+      "quote": "Why is there a goat in our bathroom?",
+      "description": "Season 4 • Ted's 31st Birthday",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S4E24 • The Leap",
+          "description": "The goat finally attacks"
+        },
+        {
+          "title": "S3E17 • The Goat",
+          "description": "30th birthday"
+        },
+        {
+          "title": "S1E10 • The Pineapple Incident",
+          "description": "Pineapple"
+        }
+      ]
+    },
+    {
+      "quote": "Crazy Eyes.",
+      "description": "Season 2 • Chloe at the Coffee Shop",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E05 • How I Met Everyone Else",
+          "description": "Hot/Crazy"
+        },
+        {
+          "title": "S2E07 • Swarley",
+          "description": "Marshall's date Chloe"
+        },
+        {
+          "title": "S1E10 • Pineapple Incident",
+          "description": "Pineapple"
+        }
+      ]
+    },
+    {
+      "quote": "The Three Days Rule! Wait three days!",
+      "description": "Season 4 • Texting",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S4E05 • Shelter Island",
+          "description": "Wedding"
+        },
+        {
+          "title": "S4E21 • The Three Days Rule",
+          "description": "Holli"
+        },
+        {
+          "title": "S4E24 • The Leap",
+          "description": "Rooftop"
+        }
+      ]
+    },
+    {
+      "quote": "Let's go to the mall, today!",
+      "description": "Season 2 • Robin Sparkles Debut",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "MacLaren's"
+        },
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Canadian pop star reveal"
+        },
+        {
+          "title": "S3E16 • Sandcastles in the Sand",
+          "description": "Sequel"
+        }
+      ]
+    },
+    {
+      "quote": "Countdown from 50 to 1...",
+      "description": "Season 6 • Bad News",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E08 • Natural History",
+          "description": "Museum"
+        },
+        {
+          "title": "S6E13 • Bad News",
+          "description": "Marshall's dad"
+        },
+        {
+          "title": "S6E14 • Last Words",
+          "description": "Funeral"
+        }
+      ]
+    },
+    {
+      "quote": "The Naked Man: works two out of three times.",
+      "description": "Season 4 • Mitch's Move",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "Scuba Diver"
+        },
+        {
+          "title": "S4E09 • The Naked Man",
+          "description": "Mitch's guaranteed move"
+        },
+        {
+          "title": "S2E14 • Monday Night Football",
+          "description": "Sensory Deprivator"
+        }
+      ]
+    },
+    {
+      "quote": "Challenge Accepted!",
+      "description": "Season 6 • Finale",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E19 • Legendaddy",
+          "description": "Basketball hoop"
+        },
+        {
+          "title": "S6E20 • The Exploding Meatball Sub",
+          "description": "Sub"
+        },
+        {
+          "title": "S6E24 • Challenge Accepted",
+          "description": "Pressing the button"
+        }
+      ]
+    },
+    {
+      "quote": "The Robin: the final play.",
+      "description": "Season 8 • WWN Rooftop",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "Scuba"
+        },
+        {
+          "title": "S8E12 • The Final Page",
+          "description": "Barney proposes to Robin"
+        },
+        {
+          "title": "S9E24 • Last Forever",
+          "description": "Finale"
+        }
+      ]
+    },
+    {
+      "quote": "Weekend at Barney's.",
+      "description": "Season 8 • Controlling Dead Barney",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "Fake billionaire"
+        },
+        {
+          "title": "S7E03 • Ducky Tie",
+          "description": "Teppanyaki"
+        },
+        {
+          "title": "S8E18 • Weekend at Barney's",
+          "description": "Ted & Marshall's puppetry"
+        }
+      ]
+    },
+    {
+      "quote": "That's how I met your mother.",
+      "description": "Season 9 • Series Finale",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S9E16 • How Your Mother Met Me",
+          "description": "200th"
+        },
+        {
+          "title": "S9E22 • The End of the Aisle",
+          "description": "Wedding"
+        },
+        {
+          "title": "S9E24 • Last Forever",
+          "description": "Farhampton train platform"
+        }
+      ]
+    },
+    {
+      "quote": "The Lorenzo Von Matterhorn.",
+      "description": "Season 5 • Fake Wikipedia Pages",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "Barney invents a billionaire"
+        },
+        {
+          "title": "S3E14 • The Bracket",
+          "description": "64-girl bracket"
+        },
+        {
+          "title": "S4E24 • The Leap",
+          "description": "Rooftop jump"
+        }
+      ]
+    },
+    {
+      "quote": "The Exploding Meatball Sub!",
+      "description": "Season 6 • Vengeance",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E04 • Subway Wars",
+          "description": "Subway"
+        },
+        {
+          "title": "S6E20 • The Exploding Meatball Sub",
+          "description": "Barney's 10-year prank"
+        },
+        {
+          "title": "S6E24 • Challenge Accepted",
+          "description": "Demolition"
+        }
+      ]
+    },
+    {
+      "quote": "She left me at the altar.",
+      "description": "Season 4 • Wedding",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S4E05 • Shelter Island",
+          "description": "Stella leaves Ted"
+        },
+        {
+          "title": "S4E01 • Do I Know You?",
+          "description": "Proposal"
+        },
+        {
+          "title": "S4E09 • The Naked Man",
+          "description": "Couch"
+        }
+      ]
+    },
+    {
+      "quote": "Hot/Crazy Scale.",
+      "description": "Season 3 • Barney's Graph",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S3E05 • How I Met Everyone Else",
+          "description": "Blah-Blah"
+        },
+        {
+          "title": "S4E01 • Do I Know You?",
+          "description": "Proposal"
+        },
+        {
+          "title": "S1E10 • Pineapple Incident",
+          "description": "Trudy"
+        }
+      ]
+    },
+    {
+      "quote": "Architect of Destruction! The Arcadian!",
+      "description": "Season 6 • Zoey",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S6E04 • Subway Wars",
+          "description": "Subway"
+        },
+        {
+          "title": "S6E11 • The Mermaid Theory",
+          "description": "Boat"
+        },
+        {
+          "title": "S6E05 • Architect of Destruction",
+          "description": "GNB headquarters"
+        }
+      ]
+    },
+    {
+      "quote": "La Vie En Rose on the ukulele.",
+      "description": "Season 9 • Balcony",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S9E08 • The Lighthouse",
+          "description": "Lighthouse"
+        },
+        {
+          "title": "S9E11 • Bedtime Stories",
+          "description": "Bus"
+        },
+        {
+          "title": "S9E16 • How Your Mother Met Me",
+          "description": "Ted hears Tracy sing"
+        }
+      ]
+    },
+    {
+      "quote": "How Your Mother Met Me.",
+      "description": "Season 9 • 200th Episode",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S9E01 • The Locket",
+          "description": "Locket"
+        },
+        {
+          "title": "S9E11 • Bedtime Stories",
+          "description": "Bus"
+        },
+        {
+          "title": "S9E16 • How Your Mother Met Me",
+          "description": "Tracy's 8-year journey"
+        }
+      ]
+    },
+    {
+      "quote": "Robots Versus Wrestlers!",
+      "description": "Season 5 • Highbrow Party",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E10 • The Window",
+          "description": "Overall"
+        },
+        {
+          "title": "S5E12 • Girls Versus Suits",
+          "description": "Bar"
+        },
+        {
+          "title": "S5E22 • Robots Versus Wrestlers",
+          "description": "Annual tradition"
+        }
+      ]
+    },
+    {
+      "quote": "Do you still love me? No.",
+      "description": "Season 7 • Rooftop",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S7E12 • Symphony of Illumination",
+          "description": "Christmas"
+        },
+        {
+          "title": "S7E10 • Tick Tick Tick",
+          "description": "Bar"
+        },
+        {
+          "title": "S7E17 • No Pressure",
+          "description": "Yellow umbrellas"
+        }
+      ]
+    },
+    {
+      "quote": "Platinum Rule: never date anyone you see regularly.",
+      "description": "Season 3 • Eight Steps",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Olive theory"
+        },
+        {
+          "title": "S5E12 • Girls Versus Suits",
+          "description": "Suit song"
+        },
+        {
+          "title": "S3E11 • The Platinum Rule",
+          "description": "Ted & Stella"
+        }
+      ]
+    },
+    {
+      "quote": "Bang, bang, bangity bang!",
+      "description": "Season 5 • Rabbit or Duck",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Mall"
+        },
+        {
+          "title": "S3E09 • Slapsgiving",
+          "description": "Song"
+        },
+        {
+          "title": "S5E15 • Rabbit or Duck",
+          "description": "Barney's phone"
+        }
+      ]
+    },
+    {
+      "quote": "Puzzles! Why is it called Puzzles?",
+      "description": "Season 4 • Ted & Barney's Bar",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S4E13 • Three Days of Snow",
+          "description": "That's the puzzle!"
+        },
+        {
+          "title": "S1E01 • Pilot",
+          "description": "MacLaren's"
+        },
+        {
+          "title": "S7E12 • Symphony of Illumination",
+          "description": "Lights"
+        }
+      ]
+    },
+    {
+      "quote": "Where did the pineapple come from?",
+      "description": "Season 1 • Blackout Mystery",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "French horn"
+        },
+        {
+          "title": "S2E09 • Slap Bet",
+          "description": "Slap"
+        },
+        {
+          "title": "S1E10 • The Pineapple Incident",
+          "description": "Ted wakes up with Trudy"
+        }
+      ]
+    },
+    {
+      "quote": "Subway Wars! Who gets there fastest?",
+      "description": "Season 6 • NYC Race",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E01 • Big Days",
+          "description": "Punchy"
+        },
+        {
+          "title": "S6E04 • Subway Wars",
+          "description": "Maury Povich"
+        },
+        {
+          "title": "S6E10 • Blitzgiving",
+          "description": "Turkey"
+        }
+      ]
+    },
+    {
+      "quote": "Blitzgiving! Awww, man!",
+      "description": "Season 6 • The Blitz Curse",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E09 • Slapsgiving",
+          "description": "Turkey"
+        },
+        {
+          "title": "S6E10 • Blitzgiving",
+          "description": "Steve 'The Blitz' Henry"
+        },
+        {
+          "title": "S5E09 • Slapsgiving 2",
+          "description": "Slap 4"
+        }
+      ]
+    },
+    {
+      "quote": "Tick, tick, tick... a second that never ends.",
+      "description": "Season 7 • Cruise Ship",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S7E10 • Tick Tick Tick",
+          "description": "Barney & Robin's pact"
+        },
+        {
+          "title": "S7E03 • Ducky Tie",
+          "description": "Teppanyaki"
+        },
+        {
+          "title": "S7E12 • Symphony of Illumination",
+          "description": "Lights"
+        }
+      ]
+    },
+    {
+      "quote": "Ring Bear—not Ring Bearer!",
+      "description": "Season 9 • Ceremony",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S9E01 • The Locket",
+          "description": "Limo"
+        },
+        {
+          "title": "S9E22 • The End of the Aisle",
+          "description": "Trevor the bear"
+        },
+        {
+          "title": "S9E24 • Last Forever",
+          "description": "Booth"
+        }
+      ]
+    },
+    {
+      "quote": "The Ashtray! The Captain's Boats!",
+      "description": "Season 8 • Gallery",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S8E05 • The Autumn of Breakups",
+          "description": "Apartment"
+        },
+        {
+          "title": "S8E17 • The Ashtray",
+          "description": "Lily's art consultant job"
+        },
+        {
+          "title": "S8E20 • The Time Travelers",
+          "description": "20 years"
+        }
+      ]
+    },
+    {
+      "quote": "The Lemon Law: five minutes to decide.",
+      "description": "Season 1 • First Date Rule",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "He's Not Coming"
+        },
+        {
+          "title": "S3E01 • Wait for It",
+          "description": "Tattoo"
+        },
+        {
+          "title": "S1E16 • Cupcake",
+          "description": "Wait—S1E17 Life Among the Gorillas / S1E11"
+        }
+      ]
+    },
+    {
+      "quote": "The Cockamouse!",
+      "description": "Season 1 • Apartment 4A",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E07 • Matchmaker",
+          "description": "Half cockroach, half mouse"
+        },
+        {
+          "title": "S2E17 • Arrivederci, Fiero",
+          "description": "Fiero"
+        },
+        {
+          "title": "S4E24 • The Leap",
+          "description": "Goat"
+        }
+      ]
+    },
+    {
+      "quote": "Something New! One ticket to Farhampton.",
+      "description": "Season 8 • Finale",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S8E12 • The Final Page",
+          "description": "WWN"
+        },
+        {
+          "title": "S8E20 • The Time Travelers",
+          "description": "Booth"
+        },
+        {
+          "title": "S8E24 • Something New",
+          "description": "First reveal of the Mother"
+        }
+      ]
+    },
+    {
+      "quote": "Robin 101: a class taught by Barney.",
+      "description": "Season 5 • Classroom",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E03 • Robin 101",
+          "description": "Ted takes notes on Robin"
+        },
+        {
+          "title": "S5E08 • The Playbook",
+          "description": "Scuba"
+        },
+        {
+          "title": "S5E12 • Girls Versus Suits",
+          "description": "Musical"
+        }
+      ]
+    },
+    {
+      "quote": "The Locket! Where is the locket?",
+      "description": "Season 9 • Farhampton",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S9E01 • The Locket",
+          "description": "Heading to the wedding"
+        },
+        {
+          "title": "S9E08 • The Lighthouse",
+          "description": "Proposal"
+        },
+        {
+          "title": "S9E16 • How Your Mother Met Me",
+          "description": "Yellow umbrella"
+        }
+      ]
+    },
+    {
+      "quote": "The End of the Aisle.",
+      "description": "Season 9 • Barney & Robin's Wedding",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S9E21 • Gary Blauman",
+          "description": "Cocktail hour"
+        },
+        {
+          "title": "S9E22 • The End of the Aisle",
+          "description": "Ring Bear"
+        },
+        {
+          "title": "S9E24 • Last Forever",
+          "description": "Station"
+        }
+      ]
+    },
+    {
+      "quote": "You're All Alone.",
+      "description": "Season 8 • Time Travelers",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S6E13 • Bad News",
+          "description": "Countdown"
+        },
+        {
+          "title": "S8E20 • The Time Travelers",
+          "description": "20 years from now"
+        },
+        {
+          "title": "S9E16 • How Your Mother Met Me",
+          "description": "Tracy"
         }
       ]
     }

@@ -7,7 +7,7 @@
   "tag": "Who said it?",
   "answer_type": "character",
   "price": 150,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "I think I'm in love with you.",
@@ -291,6 +291,671 @@
         {
           "title": "Marshall Eriksen",
           "description": "Gazing at a mystery"
+        }
+      ]
+    },
+    {
+      "quote": "No-can-dosville, babydoll!",
+      "description": "Movie Theater • Jed Mosely",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Laughing"
+        },
+        {
+          "title": "Jed Mosely",
+          "description": "Ted's movie counterpart"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Quoting it"
+        }
+      ]
+    },
+    {
+      "quote": "I'm so proud of you.",
+      "description": "Season 6 • Farhampton",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Booth"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "WWN"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Supporting Marshall"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not ready for this.",
+      "description": "Season 6 • Outside MacLaren's",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "After hearing about his dad"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Cab"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Street"
+        }
+      ]
+    },
+    {
+      "quote": "Love doesn't make sense. You can't logic your way into or out of it.",
+      "description": "Season 9 • Beach",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Fiero"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Playbook"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Talking to Jeanette"
+        }
+      ]
+    },
+    {
+      "quote": "Lawyered!",
+      "description": "Apartment 4A • Winning an Argument",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "GNB executive"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Columbia Law grad"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Architect"
+        }
+      ]
+    },
+    {
+      "quote": "That's a huge mistake!",
+      "description": "Season 2 • San Francisco",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Apartment"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Breakup"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Art fellowship regret"
+        }
+      ]
+    },
+    {
+      "quote": "Pause!",
+      "description": "Season 5 • Unpause Argument",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Couch"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Fighting with Marshall"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Booth"
+        }
+      ]
+    },
+    {
+      "quote": "You're a wonderful man, Ted Mosby.",
+      "description": "Season 8 • Train Station",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Park"
+        },
+        {
+          "title": "Victoria",
+          "description": "Bakery"
+        },
+        {
+          "title": "Tracy McConnell",
+          "description": "The Mother"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a hero. Wait—yes I am.",
+      "description": "Season 2 • Laser Tag",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Barnacle"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Big Fudge"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Mosbius Designs"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna win you back!",
+      "description": "Season 2 • Apartment",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Horn"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "To Lily"
+        }
+      ]
+    },
+    {
+      "quote": "It's gonna be legen—wait for it—dary!",
+      "description": "Season 1 • Night Out in NYC",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Catchphrase king"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Metro News 1"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Kindergarten teacher"
+        }
+      ]
+    },
+    {
+      "quote": "Where's my Skee-Ball?",
+      "description": "Season 6 • Dave & Buster's",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Big Fudge"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Arcade"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Booth"
+        }
+      ]
+    },
+    {
+      "quote": "Challenge accepted!",
+      "description": "MacLaren's Pub • Dare Accepted",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Never backs down"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Slap Bet champion"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Hopeless romantic"
+        }
+      ]
+    },
+    {
+      "quote": "Boats! Boats! Boats!",
+      "description": "TV Commercial • Becky's Ad",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "News 1"
+        },
+        {
+          "title": "Becky",
+          "description": "Morning show co-host"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Art gallery"
+        }
+      ]
+    },
+    {
+      "quote": "You can't just say 'I'm Big Fudge'!",
+      "description": "MacLaren's • Nickname",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Supreme Court bound"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Architect"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        }
+      ]
+    },
+    {
+      "quote": "Every Halloween, I bring a spare costume.",
+      "description": "Season 1 • Roof",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Top Gun"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Hanging Chad"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Pirate"
+        }
+      ]
+    },
+    {
+      "quote": "You can't cling to the past, because no matter how tightly you hold on, it's already gone.",
+      "description": "Season 9 • Sunrise",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Beach"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Letting go of Robin"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Farhampton"
+        }
+      ]
+    },
+    {
+      "quote": "You're the love of my life. Everything I have and everything I am is yours.",
+      "description": "Season 9 • Altar",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Vows to Robin"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Vows to Lily"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "To Tracy"
+        }
+      ]
+    },
+    {
+      "quote": "Whatever you do in this life, it's not legendary unless your friends are there to see it.",
+      "description": "MacLaren's • Barney's Wisdom",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "To Ted"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "To Lily"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "To Patrice"
+        }
+      ]
+    },
+    {
+      "quote": "Swarley!",
+      "description": "Coffee Shop • Wrong Cup Name",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Hates the nickname"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Calls him Swarley"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Laughs along"
+        }
+      ]
+    },
+    {
+      "quote": "It's called 'The Wedding Bride'!",
+      "description": "Movie Theater • Jed Mosely",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "Hates the movie"
+        },
+        {
+          "title": "Tony Grafanello",
+          "description": "Wrote the screenplay"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Loves it"
+        }
+      ]
+    },
+    {
+      "quote": "What's your favorite kind of bear?",
+      "description": "Season 7 • Quiz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Loves trivia"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Playbook"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Architecture"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not a morning person.",
+      "description": "Metro News 1 • 4 A.M. Shift",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "4 A.M. news"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Professor"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna eat a sandwich.",
+      "description": "College • Wesleyan Dorm",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Future Ted's euphemism"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "Never eats sandwiches"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "Newsroom"
+        }
+      ]
+    },
+    {
+      "quote": "No, I'm Ted's best friend!",
+      "description": "Apartment 4A • Argument",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Competes with Marshall"
+        },
+        {
+          "title": "Carl",
+          "description": "Bar"
+        },
+        {
+          "title": "Ranjit",
+          "description": "Limo"
+        }
+      ]
+    },
+    {
+      "quote": "We're gonna be okay.",
+      "description": "Season 8 • Porch",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Porch front"
+        },
+        {
+          "title": "Ranjit",
+          "description": "Limo"
+        }
+      ]
+    },
+    {
+      "quote": "Aldrin Justice!",
+      "description": "Ted's Office • Stealing Druthers' Baseball",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Law school"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Teaching Hammond Druthers a lesson"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "GNB"
+        }
+      ]
+    },
+    {
+      "quote": "Hello!",
+      "description": "Limousine • Whenever the Gang Needs a Ride",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        },
+        {
+          "title": "Carl the Bartender",
+          "description": "MacLaren's"
+        },
+        {
+          "title": "Ranjit",
+          "description": "Bangladeshi limo driver"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a bass player.",
+      "description": "Season 9 • Farhampton",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "French horn"
+        },
+        {
+          "title": "Tracy McConnell",
+          "description": "Super-Economix"
+        }
+      ]
+    },
+    {
+      "quote": "Look around, Ted. You're all alone.",
+      "description": "Season 8 • MacLaren's",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Time Travelers hallucination"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Minnesota"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Art show"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a Minnesota Viking!",
+      "description": "Season 4 • Little Minnesota",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Gary Blauman's bar"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Cleveland"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "New York"
+        }
+      ]
+    },
+    {
+      "quote": "Suit up!",
+      "description": "MacLaren's Booth • Barney's Golden Rule",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Always in a suit"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Architecture professor"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "Lawyer"
+        }
+      ]
+    },
+    {
+      "quote": "If you're not scared, you're not taking a chance.",
+      "description": "Season 4 • Roof",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "Suit"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Before the leap"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "San Francisco"
+        }
+      ]
+    },
+    {
+      "quote": "Let's go to the mall!",
+      "description": "1990s Music Video • Canada",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "As Robin Sparkles"
+        },
+        {
+          "title": "Jessica Glitter",
+          "description": "Space Teens"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Singing along"
+        }
+      ]
+    },
+    {
+      "quote": "Sometimes even if you know how something's gonna end, that doesn't mean you can't enjoy the ride.",
+      "description": "Season 2 • Closing",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "Wedding"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "Art"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "Narrating"
         }
       ]
     }

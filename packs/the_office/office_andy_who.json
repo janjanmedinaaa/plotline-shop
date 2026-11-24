@@ -7,7 +7,7 @@
   "tag": "Who said it?",
   "answer_type": "character",
   "price": 150,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "I went to Cornell. Ever heard of it?",
@@ -291,6 +291,671 @@
         {
           "title": "Holly Flax",
           "description": "Saying yes to Michael"
+        }
+      ]
+    },
+    {
+      "quote": "You don't even know what a write-off is!",
+      "description": "Warehouse • Darryl",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Darryl Philbin",
+          "description": "Foreman"
+        },
+        {
+          "title": "Roy Anderson",
+          "description": "Truck"
+        },
+        {
+          "title": "Lonny",
+          "description": "Forklift"
+        }
+      ]
+    },
+    {
+      "quote": "You're hardly my first!",
+      "description": "Condo • Dinner Party",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jan Levinson",
+          "description": "About Hunter"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "THAT'S WHAT SHE SAID!"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Ducking"
+        }
+      ]
+    },
+    {
+      "quote": "Wait... you're the best man?!",
+      "description": "Season 9 • Barn",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Guten Pranken"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Seeing Michael"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "Smiling"
+        }
+      ]
+    },
+    {
+      "quote": "Hats off to you for not seeing race.",
+      "description": "Desk • Asian Jim",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Confused"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Smiling"
+        },
+        {
+          "title": "Randall Park (Asian Jim)",
+          "description": "Classic cold open"
+        }
+      ]
+    },
+    {
+      "quote": "Bushiest Beaver Award!",
+      "description": "Chili's • Trophy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Misspelled for Phyllis"
+        },
+        {
+          "title": "Phyllis Vance",
+          "description": "Wait, it says Bushiest..."
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "Everything is sex.",
+      "description": "Conference Room • Metaphor",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "That's what she said"
+        },
+        {
+          "title": "Robert California",
+          "description": "Nature vs. sexual metaphor"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "Taking notes"
+        }
+      ]
+    },
+    {
+      "quote": "So I can lower it.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Answering Pam"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Impressed"
+        },
+        {
+          "title": "Oscar",
+          "description": "Skeptical"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a million-dollar idea!",
+      "description": "Conference Room • WUPHF",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Investing"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "Pitching WUPHF"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "No"
+        }
+      ]
+    },
+    {
+      "quote": "I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive...",
+      "description": "Office • Pretzel Day",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "Chili"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "364 days till the next Pretzel Day"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "Spreadsheet"
+        }
+      ]
+    },
+    {
+      "quote": "I declare BANKRUPTCY!",
+      "description": "Bullpen • Standing Up",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "You can't just say it"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "Accounting"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "M&Ms"
+        }
+      ]
+    },
+    {
+      "quote": "Fact: Bears eat beets.",
+      "description": "Desk • Cold Open",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Dressed as Dwight"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Confused"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Laughing"
+        }
+      ]
+    },
+    {
+      "quote": "False. Black bear.",
+      "description": "Desk • Cold Open",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Serious answer"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Bears. Beets."
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "Cornell"
+        }
+      ]
+    },
+    {
+      "quote": "There's a lot of beauty in ordinary things. Isn't that kind of the point?",
+      "description": "Series Finale • Closing Line",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Walking out"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Photos"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Final line of the series"
+        }
+      ]
+    },
+    {
+      "quote": "Before I do anything, I ask myself: would an idiot do that? And if they would, I do not do that thing.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Wisdom"
+        },
+        {
+          "title": "Creed Bratton",
+          "description": "Mung beans"
+        },
+        {
+          "title": "Ryan Howard",
+          "description": "Notebook"
+        }
+      ]
+    },
+    {
+      "quote": "I'm just gonna put his stapler in Jell-O again.",
+      "description": "Pilot • Desk",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Classic prank"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Helping"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "MICHAEL!"
+        }
+      ]
+    },
+    {
+      "quote": "I am faster than 80% of all snakes.",
+      "description": "Office • Bragging",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Schrute Farms"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Doubtful"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "Believing"
+        }
+      ]
+    },
+    {
+      "quote": "That's what she said!",
+      "description": "Dunder Mifflin • Every Meeting",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Regional Manager"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Assistant TO the Regional Manager"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Camera look"
+        }
+      ]
+    },
+    {
+      "quote": "I'm happy for you, Dwight.",
+      "description": "Wedding • Barn",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Tears"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Bestisch Mensch"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Smiling"
+        }
+      ]
+    },
+    {
+      "quote": "I'm taking a mental health day.",
+      "description": "Office • Couch",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "Chili"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Sleeping"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "Actually..."
+        }
+      ]
+    },
+    {
+      "quote": "B-O-B-O-D-D-Y. What does the first B stand for?",
+      "description": "Conference Room • Creed as Manager",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Creed Bratton",
+          "description": "Biznus!"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "I like it!"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Writing it down"
+        }
+      ]
+    },
+    {
+      "quote": "I'm Prison Mike! And the worst thing about prison was the Dementors!",
+      "description": "Conference Room • Convict Day",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Purple bandana"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Holding back laughter"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Crossword"
+        }
+      ]
+    },
+    {
+      "quote": "I have a lot of questions. Number one: how dare you?",
+      "description": "Conference Room • Kelly",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Angela Martin",
+          "description": "Cats"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "To Ryan"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "Actually...",
+      "description": "Office • Correcting Everyone",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Angela Martin",
+          "description": "Party Planning"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "Math"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The 'Actually' guy"
+        }
+      ]
+    },
+    {
+      "quote": "It's Halloween. That is really, really good timing.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Creed Bratton",
+          "description": "Covered in blood"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Pumpkin head"
+        },
+        {
+          "title": "Gabe Lewis",
+          "description": "Skeleton"
+        }
+      ]
+    },
+    {
+      "quote": "Be careful! There's a lot of beauty in ordinary things.",
+      "description": "Series Finale • Talking Head",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Paper"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Isn't that kind of the point?"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "Smiling"
+        }
+      ]
+    },
+    {
+      "quote": "It's a yes!",
+      "description": "Season 3 • Conference Room",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Meeting"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Smiling with tears"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "Right now, this is just a job. If I advance any higher, this would be my career.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Early seasons"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Ambitious"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Pretzel Day"
+        }
+      ]
+    },
+    {
+      "quote": "This is going to hurt like a motherf—",
+      "description": "Conference Room • Goodbye",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Final talking head"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "Tearing up"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "Airport"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna get a teapot!",
+      "description": "Season 2 • Secret Santa",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "Gift for Pam"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "iPod"
+        },
+        {
+          "title": "Phyllis Vance",
+          "description": "Oven mitt"
+        }
+      ]
+    },
+    {
+      "quote": "Why did you cut the face off the dummy?!",
+      "description": "Corporate • David Wallace",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "Clarice..."
+        },
+        {
+          "title": "Michael Scott",
+          "description": "He didn't think it was realistic"
+        },
+        {
+          "title": "David Wallace",
+          "description": "Scolding Dwight"
+        }
+      ]
+    },
+    {
+      "quote": "Why waste time say lot word when few word do trick?",
+      "description": "Bullpen • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "Sea World / See world"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "Crossword"
+        },
+        {
+          "title": "Creed Bratton",
+          "description": "Mung beans"
+        }
+      ]
+    },
+    {
+      "quote": "Suck It! Take out your Suck It and you suck it!",
+      "description": "Hot Tub • David Wallace",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Weirded out"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Interested"
+        },
+        {
+          "title": "David Wallace",
+          "description": "Invention"
+        }
+      ]
+    },
+    {
+      "quote": "NO! GOD! NO, GOD, PLEASE, NO! NO! NOOOO!",
+      "description": "Annex • Toby Returns",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Seeing Toby Flenderson"
+        },
+        {
+          "title": "Toby Flenderson",
+          "description": "HR"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "Watching"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a little bit terrified of her.",
+      "description": "Office • Talking Head",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "About Angela"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "Cookies"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "Tax"
+        }
+      ]
+    },
+    {
+      "quote": "Ryan started the fire!",
+      "description": "Parking Lot • Singing",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "Cheering"
+        },
+        {
+          "title": "Kelly Kapoor",
+          "description": "Dancing"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "About the cheesy pita"
         }
       ]
     }

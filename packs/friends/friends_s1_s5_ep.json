@@ -7,7 +7,7 @@
   "tag": "When was this?",
   "answer_type": "episode",
   "price": 170,
-  "quote_count": 15,
+  "quote_count": 50,
   "questions": [
     {
       "quote": "I'm not gonna be a shoe!",
@@ -291,6 +291,671 @@
         {
           "title": "S3E08 • Giant Poking Device",
           "description": "Window"
+        }
+      ]
+    },
+    {
+      "quote": "Ah, salmon skin roll.",
+      "description": "Season 6 • Central Perk",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Unagi"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Teasing Ross"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Smirking"
+        }
+      ]
+    },
+    {
+      "quote": "I'm trapped in an ATM vestibule with Jill Goodacre!",
+      "description": "Season 1 • Blackout",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Central Perk"
+        },
+        {
+          "title": "S1E07 • The One with the Blackout",
+          "description": "Chandler's whisper"
+        },
+        {
+          "title": "S2E14 • The One with the Prom Video",
+          "description": "Bracelet"
+        }
+      ]
+    },
+    {
+      "quote": "Years ago, when I was backpacking across Western Europe...",
+      "description": "Season 8 • Mount Tibidabo",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S8E04 • The One with the Videotape",
+          "description": "Ken Adams story"
+        },
+        {
+          "title": "S8E09 • The Rumor",
+          "description": "Thanksgiving"
+        },
+        {
+          "title": "S8E24 • Rachel Has a Baby",
+          "description": "Hospital"
+        }
+      ]
+    },
+    {
+      "quote": "He's a transponster!",
+      "description": "Season 4 • Quiz",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Cheering"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Panicking at the buzzer"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Screaming"
+        }
+      ]
+    },
+    {
+      "quote": "Welcome to the real world. It sucks. You're gonna love it.",
+      "description": "Season 1 • Pilot",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S1E01 • The One Where Monica Gets a Roommate",
+          "description": "Monica to Rachel"
+        },
+        {
+          "title": "S1E07 • The One with the Blackout",
+          "description": "Vestibule"
+        },
+        {
+          "title": "S2E07 • The One Where Ross Finds Out",
+          "description": "Cat"
+        }
+      ]
+    },
+    {
+      "quote": "Wait, where?",
+      "description": "Season 10 • Last Line",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "After Rachel asks 'get some coffee?'"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Doorway"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Keys"
+        }
+      ]
+    },
+    {
+      "quote": "What is Chandler Bing's job?!",
+      "description": "Season 4 • Lightning Round",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S3E02 • The One Where No One's Ready",
+          "description": "Chair fight"
+        },
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Transponster!"
+        },
+        {
+          "title": "S5E16 • The One with the Cop",
+          "description": "Pivot"
+        }
+      ]
+    },
+    {
+      "quote": "Denise! I talk about her all the time! DENISE!",
+      "description": "Season 6 • Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Secret roommate"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Looking for a place"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Confused"
+        }
+      ]
+    },
+    {
+      "quote": "The fridge broke, so I had to eat everything.",
+      "description": "Apartment 19 • Kitchen",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Logical solution"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Paying for it"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Cheesecake"
+        }
+      ]
+    },
+    {
+      "quote": "DANGER! DANGER!",
+      "description": "Season 6 • Unagi Prank",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Jumping out at Rachel & Phoebe"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Laughing"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Unimpressed"
+        }
+      ]
+    },
+    {
+      "quote": "That's right, I stepped up!",
+      "description": "Season 4 • Beach",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Watching"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Guilty"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "About the jellyfish"
+        }
+      ]
+    },
+    {
+      "quote": "We're late! The floating heads!",
+      "description": "Season 10 • Hallway Door",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Angry"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Lock"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Stuck in the door"
+        }
+      ]
+    },
+    {
+      "quote": "My eyes! My eyes!",
+      "description": "Season 5 • Ugly Naked Guy's",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E14 • The One Where Everybody Finds Out",
+          "description": "Phoebe sees Monica & Chandler"
+        },
+        {
+          "title": "S5E08 • The One with All the Thanksgivings",
+          "description": "Turkey"
+        },
+        {
+          "title": "S6E09 • The One Where Ross Got High",
+          "description": "Trifle"
+        }
+      ]
+    },
+    {
+      "quote": "I'm sorry, I just really wanted to see you.",
+      "description": "Season 2 • Central Perk Rain",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Umbrella"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "After the list"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Rain"
+        }
+      ]
+    },
+    {
+      "quote": "I'm not gonna let you go to Paris, Rachel.",
+      "description": "Season 10 • Airport",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Gunther",
+          "description": "Confessing"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Terminal"
+        },
+        {
+          "title": "Mark Robinson",
+          "description": "Bloomingdale's"
+        }
+      ]
+    },
+    {
+      "quote": "The Geller Cup!",
+      "description": "Season 3 • Football Field",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Troll doll on a 2x4"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Cheater"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Watching"
+        }
+      ]
+    },
+    {
+      "quote": "I'm a huge fan of your work, Joey.",
+      "description": "Days of Our Lives • Set",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Gunther",
+          "description": "Coffee"
+        },
+        {
+          "title": "Richard Burke",
+          "description": "Cigar"
+        },
+        {
+          "title": "Mr. Heckles",
+          "description": "Broom"
+        }
+      ]
+    },
+    {
+      "quote": "Something is wrong with the left phalange!",
+      "description": "Season 10 • Plane",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Phone call"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Seat"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Terminal"
+        }
+      ]
+    },
+    {
+      "quote": "See? He's her lobster!",
+      "description": "Season 2 • Apartment 20",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E14 • The One with the Prom Video",
+          "description": "Ross & Rachel kiss"
+        },
+        {
+          "title": "S3E02 • The One Where No One's Ready",
+          "description": "Dress"
+        },
+        {
+          "title": "S10E17 • The Last One",
+          "description": "Keys"
+        }
+      ]
+    },
+    {
+      "quote": "Je m'appelle Claude.",
+      "description": "Season 10 • Theater",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S10E03 • Ross's Tan",
+          "description": "Salon"
+        },
+        {
+          "title": "S10E13 • The One Where Joey Speaks French",
+          "description": "Phoebe's lesson"
+        },
+        {
+          "title": "S10E17 • The Last One",
+          "description": "Moving"
+        }
+      ]
+    },
+    {
+      "quote": "He's her lobster!",
+      "description": "Season 2 • Prom Video",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S2E14 • The One with the Prom Video",
+          "description": "Phoebe's lobster theory"
+        },
+        {
+          "title": "S1E01 • Pilot",
+          "description": "Wedding dress"
+        },
+        {
+          "title": "S3E15 • The One Where Ross and Rachel Take a Break",
+          "description": "Break"
+        }
+      ]
+    },
+    {
+      "quote": "I'm fine! Totally fine!",
+      "description": "Season 10 • Fajitas",
+      "correct": 2,
+      "options": [
+        {
+          "title": "S5E16 • The One with the Cop",
+          "description": "Couch"
+        },
+        {
+          "title": "S6E17 • The One with Unagi",
+          "description": "Salmon"
+        },
+        {
+          "title": "S10E02 • The One Where Ross Is Fine",
+          "description": "Ross's squeaky voice"
+        }
+      ]
+    },
+    {
+      "quote": "Va fa napoli!",
+      "description": "Apartment 20 • Italian",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Grandmother's phrase"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Chef"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Duck"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna be the Ultimate Fighting Champion!",
+      "description": "Season 3 • Arena",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Watching"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Wincing"
+        },
+        {
+          "title": "Pete Becker",
+          "description": "Jon Favreau"
+        }
+      ]
+    },
+    {
+      "quote": "I'm gonna miss you guys.",
+      "description": "Season 10 • Empty Apartment",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Keys"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Packing for Paris"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Couch"
+        }
+      ]
+    },
+    {
+      "quote": "You're a terrible friend, Ross.",
+      "description": "Season 8 • Apartment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Mona",
+          "description": "What was wrong with Mona?"
+        },
+        {
+          "title": "Emily Waltham",
+          "description": "London"
+        },
+        {
+          "title": "Carol Willick",
+          "description": "Museum"
+        }
+      ]
+    },
+    {
+      "quote": "I'm wonderfully weird!",
+      "description": "Season 9 • Mike's Parents",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Kitchen"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Paris"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "To Mike"
+        }
+      ]
+    },
+    {
+      "quote": "You're a shoe! You're a shoe! You're a shoe!",
+      "description": "Season 1 • Phone Call",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Closet"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Telling her dad off"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Central Perk"
+        }
+      ]
+    },
+    {
+      "quote": "They don't know that we know they know we know!",
+      "description": "Season 5 • Window",
+      "correct": 0,
+      "options": [
+        {
+          "title": "S5E14 • The One Where Everybody Finds Out",
+          "description": "Monica & Chandler's secret"
+        },
+        {
+          "title": "S5E16 • The One with the Cop",
+          "description": "Couch"
+        },
+        {
+          "title": "S4E12 • The One with the Embryos",
+          "description": "Bet"
+        }
+      ]
+    },
+    {
+      "quote": "Welcome to my world!",
+      "description": "Season 4 • London",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Janice",
+          "description": "Nail salon"
+        },
+        {
+          "title": "Gunther",
+          "description": "Counter"
+        },
+        {
+          "title": "Emily Waltham",
+          "description": "To Ross"
+        }
+      ]
+    },
+    {
+      "quote": "You're a wonderful mother.",
+      "description": "Season 8 • Hospital",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Emma"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Twins"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "To Rachel"
+        }
+      ]
+    },
+    {
+      "quote": "I thought you'd be... happier.",
+      "description": "Season 6 • Candlelit Room",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Proposing to Monica"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Opening the door"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "London"
+        }
+      ]
+    },
+    {
+      "quote": "Wait, you're not gonna eat the whole turkey?",
+      "description": "Season 8 • Dining Table",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Amazed at Joey"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Pregnant"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Carving"
+        }
+      ]
+    },
+    {
+      "quote": "Why God, why?! We had a deal!",
+      "description": "Season 7 • 30th Birthday",
+      "correct": 1,
+      "options": [
+        {
+          "title": "S7E10 • Holiday Armadillo",
+          "description": "Armadillo"
+        },
+        {
+          "title": "S7E14 • The One Where They All Turn Thirty",
+          "description": "Joey cries at 30"
+        },
+        {
+          "title": "S8E09 • The Rumor",
+          "description": "High school"
+        }
+      ]
+    },
+    {
+      "quote": "Happy Hanukkah, Ben!",
+      "description": "Season 7 • Apartment",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Santa"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Armadillo"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Drums"
         }
       ]
     }
