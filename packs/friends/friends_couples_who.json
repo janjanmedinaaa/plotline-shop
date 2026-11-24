@@ -486,7 +486,7 @@
     },
     {
       "quote": "Oh. My. God.",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -714,7 +714,7 @@
     },
     {
       "quote": "No more Falafel for you!",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -771,7 +771,7 @@
     },
     {
       "quote": "Could I BE wearing any more clothes?",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -846,9 +846,9 @@
       ]
     },
     {
-      "quote": "No uterus, no opinion!",
-      "description": "Season 8 • Hospital",
-      "correct": 1,
+      "quote": "See? He's her lobster.",
+      "description": "S2E14 • The One with the Prom Video",
+      "correct": 2,
       "options": [
         {
           "title": "Monica Geller",
@@ -865,9 +865,9 @@
       ]
     },
     {
-      "quote": "I KNOW!",
-      "description": "Friends • Classic Scene",
-      "correct": 1,
+      "quote": "Well, maybe I don't need your money. Wait, wait, I said maybe!",
+      "description": "S1E01 • The One Where Monica Gets a Roommate",
+      "correct": 0,
       "options": [
         {
           "title": "Rachel Green",
@@ -903,9 +903,9 @@
       ]
     },
     {
-      "quote": "You threw my sandwich away?!",
-      "description": "Season 5 • Museum",
-      "correct": 0,
+      "quote": "Welcome to the real world. It sucks. You're gonna love it.",
+      "description": "Friends • Classic Scene",
+      "correct": 2,
       "options": [
         {
           "title": "Ross Geller",

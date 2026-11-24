@@ -239,7 +239,7 @@
     },
     {
       "quote": "Je m'appelle Claude.",
-      "description": "Friends • Theater",
+      "description": "Spoken by Joey Tribbiani",
       "correct": 1,
       "options": [
         {
@@ -391,7 +391,7 @@
     },
     {
       "quote": "Could I BE wearing any more clothes?",
-      "description": "Friends • Getting Ready",
+      "description": "Spoken by Joey Tribbiani",
       "correct": 0,
       "options": [
         {
@@ -410,7 +410,7 @@
     },
     {
       "quote": "My eyes! My eyes!",
-      "description": "Friends • Friends • Ugly Naked Guy's",
+      "description": "Friends • Ugly Naked Guy's",
       "correct": 0,
       "options": [
         {
@@ -429,7 +429,7 @@
     },
     {
       "quote": "When were you... under me?",
-      "description": "Friends • Friends • Central Perk",
+      "description": "Friends • Central Perk",
       "correct": 2,
       "options": [
         {
@@ -448,7 +448,7 @@
     },
     {
       "quote": "See? He's her lobster!",
-      "description": "Friends • Friends • Apartment 20",
+      "description": "Friends • Apartment 20",
       "correct": 0,
       "options": [
         {
@@ -486,7 +486,7 @@
     },
     {
       "quote": "You fell asleep?!",
-      "description": "Friends • Friends • Bedroom",
+      "description": "Friends • Bedroom",
       "correct": 2,
       "options": [
         {
@@ -505,7 +505,7 @@
     },
     {
       "quote": "We taped thirty chopsticks together to reach across the street.",
-      "description": "Friends • Friends • Apartment 20",
+      "description": "Friends • Apartment 20",
       "correct": 0,
       "options": [
         {
@@ -562,7 +562,7 @@
     },
     {
       "quote": "They don't know that we know they know we know!",
-      "description": "Friends • Friends • Window",
+      "description": "Spoken by Phoebe Buffay",
       "correct": 0,
       "options": [
         {
@@ -581,7 +581,7 @@
     },
     {
       "quote": "Custard, good. Jam, good. Meat, GOOD!",
-      "description": "Friends • Friends • Thanksgiving",
+      "description": "Friends • Thanksgiving",
       "correct": 0,
       "options": [
         {
@@ -619,7 +619,7 @@
     },
     {
       "quote": "That's not even a word!",
-      "description": "Friends • Friends • Apartment Bet",
+      "description": "Friends • Apartment Bet",
       "correct": 1,
       "options": [
         {
@@ -638,7 +638,7 @@
     },
     {
       "quote": "My fajitas are ready, and I'm totally fine!",
-      "description": "Friends • Friends • Fajitas",
+      "description": "Friends • Fajitas",
       "correct": 2,
       "options": [
         {
@@ -657,7 +657,7 @@
     },
     {
       "quote": "Welcome to the real world. It sucks. You're gonna love it.",
-      "description": "Friends • Friends • Pilot",
+      "description": "Spoken by Monica Geller",
       "correct": 0,
       "options": [
         {
@@ -695,7 +695,7 @@
     },
     {
       "quote": "Look at me, I'm Chandlerrr!",
-      "description": "Friends • Friends • Bedroom",
+      "description": "Friends • Bedroom",
       "correct": 1,
       "options": [
         {
@@ -714,7 +714,7 @@
     },
     {
       "quote": "Seven! Seven! Seven!",
-      "description": "Friends • Friends • Living Room",
+      "description": "Friends • Living Room",
       "correct": 2,
       "options": [
         {
@@ -752,7 +752,7 @@
     },
     {
       "quote": "I'm going to Yemen! 15 Yemen Road, Yemen!",
-      "description": "Friends • Friends • Airport",
+      "description": "Friends • Airport",
       "correct": 1,
       "options": [
         {
@@ -771,7 +771,7 @@
     },
     {
       "quote": "Did you confuse it with your own turkey leftover?",
-      "description": "Friends • Friends • Museum",
+      "description": "Friends • Museum",
       "correct": 2,
       "options": [
         {
@@ -790,7 +790,7 @@
     },
     {
       "quote": "Pivot! Pivot! PIVOT!",
-      "description": "Friends • Friends • Stairwell",
+      "description": "Spoken by Ross Geller",
       "correct": 1,
       "options": [
         {
@@ -809,7 +809,7 @@
     },
     {
       "quote": "I'm trapped in an ATM vestibule with Jill Goodacre!",
-      "description": "Friends • Friends • Blackout",
+      "description": "Friends • Blackout",
       "correct": 1,
       "options": [
         {
@@ -828,7 +828,7 @@
     },
     {
       "quote": "Red Ross!",
-      "description": "Friends • Friends • Rugby",
+      "description": "Friends • Rugby",
       "correct": 0,
       "options": [
         {
@@ -847,7 +847,7 @@
     },
     {
       "quote": "I said the wrong name right in front of everyone at the altar.",
-      "description": "Friends • Friends • London Altar",
+      "description": "Friends • London Altar",
       "correct": 2,
       "options": [
         {
@@ -866,7 +866,7 @@
     },
     {
       "quote": "In London?!",
-      "description": "Friends • Friends • Reception",
+      "description": "Friends • Reception",
       "correct": 0,
       "options": [
         {
@@ -885,7 +885,7 @@
     },
     {
       "quote": "Paper! Snow! A ghost!",
-      "description": "Friends • Friends • Game Show",
+      "description": "Spoken by Joey Tribbiani",
       "correct": 2,
       "options": [
         {
@@ -903,8 +903,8 @@
       ]
     },
     {
-      "quote": "I'm not gonna be a shoe!",
-      "description": "Friends • Friends • Coffee Shop",
+      "quote": "I wish I could, but I don't want to.",
+      "description": "Spoken by Phoebe Buffay",
       "correct": 0,
       "options": [
         {
@@ -923,7 +923,7 @@
     },
     {
       "quote": "That's not a cat!",
-      "description": "Friends • Friends • Apartment",
+      "description": "Friends • Apartment",
       "correct": 0,
       "options": [
         {

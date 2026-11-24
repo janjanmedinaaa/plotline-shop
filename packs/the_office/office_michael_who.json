@@ -182,7 +182,7 @@
     },
     {
       "quote": "Boom! Roasted!",
-      "description": "The Office (US) • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -257,9 +257,9 @@
       ]
     },
     {
-      "quote": "Why are you the way that you are?",
-      "description": "Conference Room • To Toby",
-      "correct": 0,
+      "quote": "I talk a lot, so I've learned to just tune myself out.",
+      "description": "S7E17 • Threat Level Midnight",
+      "correct": 2,
       "options": [
         {
           "title": "Michael Scott",
@@ -561,8 +561,8 @@
       ]
     },
     {
-      "quote": "Why waste time say lot word when few word do trick?",
-      "description": "Bullpen • Talking Head",
+      "quote": "I just want to lie on the beach and eat hot dogs.",
+      "description": "S3E23 • Beach Games",
       "correct": 0,
       "options": [
         {
@@ -676,7 +676,7 @@
     },
     {
       "quote": "I'm the fucking Lizard King.",
-      "description": "The Office (US) • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -695,7 +695,7 @@
     },
     {
       "quote": "It's $3,500!",
-      "description": "The Office (US) • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -733,7 +733,7 @@
     },
     {
       "quote": "You don't even know what a write-off is!",
-      "description": "The Office (US) • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -846,9 +846,9 @@
       ]
     },
     {
-      "quote": "Before I do anything, I ask myself: would an idiot do that? And if they would, I do not do that thing.",
-      "description": "Office • Talking Head",
-      "correct": 0,
+      "quote": "Just pretend like we're talking until the cops leave.",
+      "description": "S7E25 • Search Committee",
+      "correct": 1,
       "options": [
         {
           "title": "Dwight Schrute",
@@ -922,9 +922,9 @@
       ]
     },
     {
-      "quote": "Suck It! Take out your Suck It and you suck it!",
-      "description": "The Office (US) • Classic Scene",
-      "correct": 2,
+      "quote": "If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.",
+      "description": "S6E22 • Secretary's Day",
+      "correct": 0,
       "options": [
         {
           "title": "Michael Scott",

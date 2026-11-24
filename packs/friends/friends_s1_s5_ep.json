@@ -239,7 +239,7 @@
     },
     {
       "quote": "Paper! Snow! A ghost!",
-      "description": "Friends • Game Show",
+      "description": "Spoken by Joey Tribbiani",
       "correct": 2,
       "options": [
         {
@@ -334,7 +334,7 @@
     },
     {
       "quote": "Welcome to the real world. It sucks. You're gonna love it.",
-      "description": "Friends • Pilot",
+      "description": "Spoken by Monica Geller",
       "correct": 0,
       "options": [
         {
@@ -410,7 +410,7 @@
     },
     {
       "quote": "Je m'appelle Claude.",
-      "description": "Friends • Theater",
+      "description": "Spoken by Joey Tribbiani",
       "correct": 1,
       "options": [
         {
@@ -467,7 +467,7 @@
     },
     {
       "quote": "They don't know that we know they know we know!",
-      "description": "Friends • Window",
+      "description": "Spoken by Phoebe Buffay",
       "correct": 0,
       "options": [
         {
@@ -505,7 +505,7 @@
     },
     {
       "quote": "Pivot! Pivot! PIVOT!",
-      "description": "Friends • Friends • Stairwell",
+      "description": "Spoken by Ross Geller",
       "correct": 1,
       "options": [
         {
@@ -580,9 +580,9 @@
       ]
     },
     {
-      "quote": "I'm hopeless and awkward and desperate for love!",
-      "description": "Spoken by Chandler Bing",
-      "correct": 0,
+      "quote": "Well, maybe I don't need your money. Wait, wait, I said maybe!",
+      "description": "Spoken by Rachel Green",
+      "correct": 1,
       "options": [
         {
           "title": "S6E24 • The One with the Proposal",
@@ -599,8 +599,8 @@
       ]
     },
     {
-      "quote": "I'm gonna go get one of those job things.",
-      "description": "Spoken by Rachel Green",
+      "quote": "I wish I could, but I don't want to.",
+      "description": "Spoken by Phoebe Buffay",
       "correct": 1,
       "options": [
         {
@@ -619,7 +619,7 @@
     },
     {
       "quote": "Could I BE wearing any more clothes?",
-      "description": "Friends • Friends • Getting Ready",
+      "description": "Spoken by Joey Tribbiani",
       "correct": 0,
       "options": [
         {
@@ -733,7 +733,7 @@
     },
     {
       "quote": "I said the wrong name right in front of everyone at the altar.",
-      "description": "Friends • Friends • London Altar",
+      "description": "Friends • London Altar",
       "correct": 2,
       "options": [
         {
@@ -771,7 +771,7 @@
     },
     {
       "quote": "My best friend and my sister!",
-      "description": "Friends • Friends • Season 5/6 • Apartment",
+      "description": "Friends • Season 5/6 • Apartment",
       "correct": 2,
       "options": [
         {
@@ -847,7 +847,7 @@
     },
     {
       "quote": "Seven! Seven! Seven!",
-      "description": "Friends • Friends • Living Room",
+      "description": "Friends • Living Room",
       "correct": 2,
       "options": [
         {
@@ -866,7 +866,7 @@
     },
     {
       "quote": "I got off the plane.",
-      "description": "Friends • Friends • Series Finale",
+      "description": "Friends • Series Finale",
       "correct": 1,
       "options": [
         {
@@ -885,7 +885,7 @@
     },
     {
       "quote": "Veto!",
-      "description": "Friends • Friends • Baby Names",
+      "description": "Friends • Baby Names",
       "correct": 0,
       "options": [
         {
@@ -904,7 +904,7 @@
     },
     {
       "quote": "That's not even a word!",
-      "description": "Friends • Friends • Apartment Bet",
+      "description": "Friends • Apartment Bet",
       "correct": 1,
       "options": [
         {
@@ -923,7 +923,7 @@
     },
     {
       "quote": "Custard, good. Jam, good. Meat, GOOD!",
-      "description": "Friends • Friends • Thanksgiving",
+      "description": "Friends • Thanksgiving",
       "correct": 0,
       "options": [
         {

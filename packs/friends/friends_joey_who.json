@@ -410,7 +410,7 @@
     },
     {
       "quote": "No more Falafel for you!",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -562,7 +562,7 @@
     },
     {
       "quote": "Could I BE wearing any more clothes?",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -714,7 +714,7 @@
     },
     {
       "quote": "I KNOW!",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -789,8 +789,8 @@
       ]
     },
     {
-      "quote": "The Geller Cup!",
-      "description": "Season 3 • Football Field",
+      "quote": "Welcome to the real world. It sucks. You're gonna love it.",
+      "description": "Friends • Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -827,9 +827,9 @@
       ]
     },
     {
-      "quote": "Oh. My. God.",
-      "description": "Friends • Classic Scene",
-      "correct": 2,
+      "quote": "Well, maybe I don't need your money. Wait, wait, I said maybe!",
+      "description": "S1E01 • The One Where Monica Gets a Roommate",
+      "correct": 1,
       "options": [
         {
           "title": "Monica Geller",
@@ -903,8 +903,8 @@
       ]
     },
     {
-      "quote": "It's not my fault! I'm a twin!",
-      "description": "Season 6 • Ursula",
+      "quote": "See? He's her lobster.",
+      "description": "S2E14 • The One with the Prom Video",
       "correct": 0,
       "options": [
         {

@@ -87,7 +87,7 @@
     },
     {
       "quote": "I'm a vampire!",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -125,7 +125,7 @@
     },
     {
       "quote": "I'm gonna bake you cookies, Robin!",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -296,7 +296,7 @@
     },
     {
       "quote": "Suit up!",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -713,8 +713,8 @@
       ]
     },
     {
-      "quote": "If you have chemistry, you only need one other thing: timing.",
-      "description": "Season 7 • Snowing Outside",
+      "quote": "The future is scary, but you can't just run back to the past because it's familiar.",
+      "description": "S7E17 • No Pressure",
       "correct": 2,
       "options": [
         {
@@ -733,7 +733,7 @@
     },
     {
       "quote": "Gouda!",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -789,9 +789,9 @@
       ]
     },
     {
-      "quote": "You son of a beetch!",
-      "description": "How I Met Your Mother • Classic Scene",
-      "correct": 2,
+      "quote": "I love a Scotch that's old enough to order its own Scotch.",
+      "description": "S4E03 • I Heart NJ",
+      "correct": 0,
       "options": [
         {
           "title": "Robin Scherbatsky",
@@ -865,9 +865,9 @@
       ]
     },
     {
-      "quote": "I'm a judge!",
-      "description": "Season 9 • Farhampton",
-      "correct": 0,
+      "quote": "You see, kids, right from the moment I met your mom I knew: I have to love this woman as much as I can.",
+      "description": "S9E24 • Last Forever",
+      "correct": 2,
       "options": [
         {
           "title": "Marshall Eriksen",
@@ -903,8 +903,8 @@
       ]
     },
     {
-      "quote": "Where's the poop, Robin?",
-      "description": "How I Met Your Mother • Classic Scene",
+      "quote": "Look, you can't design your life like a building. It doesn't work that way. You just have to live it, and it'll design itself.",
+      "description": "S4E24 • The Leap",
       "correct": 2,
       "options": [
         {
@@ -922,9 +922,9 @@
       ]
     },
     {
-      "quote": "I'm not ready for this.",
-      "description": "Season 6 • Outside MacLaren's",
-      "correct": 0,
+      "quote": "Whenever I'm sad, I stop being sad and be awesome instead. True story.",
+      "description": "S2E01 • Where Were We?",
+      "correct": 2,
       "options": [
         {
           "title": "Marshall Eriksen",
@@ -941,9 +941,9 @@
       ]
     },
     {
-      "quote": "Lilypad and Marshmallow.",
-      "description": "Apartment 4A • Couple Nicknames",
-      "correct": 1,
+      "quote": "If you're not scared, you're not taking a chance, and if you're not taking a chance, then what the hell are you doing?",
+      "description": "S4E24 • The Leap",
+      "correct": 0,
       "options": [
         {
           "title": "Ted Mosby",

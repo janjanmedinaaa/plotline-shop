@@ -334,7 +334,7 @@
     },
     {
       "quote": "That's nice!",
-      "description": "Community • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -619,7 +619,7 @@
     },
     {
       "quote": "Don't preach to me about romance, Annie! I had a three-way in a hot air balloon!",
-      "description": "Community • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -846,9 +846,9 @@
       ]
     },
     {
-      "quote": "It's not a meteor, it's a cookie wand!",
-      "description": "Season 1 • Dorm",
-      "correct": 1,
+      "quote": "The thing some men call 'failure,' I call 'living—breakfast!' And I'm not leaving until I've cleaned out the buffet.",
+      "description": "S1E01 • Pilot",
+      "correct": 2,
       "options": [
         {
           "title": "Abed Nadir",
@@ -904,7 +904,7 @@
     },
     {
       "quote": "Oh, Britta's in this?",
-      "description": "Community • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {

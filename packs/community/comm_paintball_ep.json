@@ -333,7 +333,7 @@
       ]
     },
     {
-      "quote": "It's a GI Joe cartoon! Yo Joe!",
+      "quote": "Knowing is half the battle!",
       "description": "Community • Animated",
       "correct": 0,
       "options": [
@@ -391,7 +391,7 @@
     },
     {
       "quote": "My whole brain is crying!",
-      "description": "Community • Conspiracy",
+      "description": "Spoken by Troy Barnes",
       "correct": 0,
       "options": [
         {
@@ -505,7 +505,7 @@
     },
     {
       "quote": "Welcome to the Dreamatorium!",
-      "description": "Community • Apartment 303",
+      "description": "Spoken by Abed Nadir",
       "correct": 1,
       "options": [
         {
@@ -543,7 +543,7 @@
     },
     {
       "quote": "I'm a sexy cat!",
-      "description": "Community • Season 3/5 • Nic Cage",
+      "description": "Spoken by Abed Nadir",
       "correct": 0,
       "options": [
         {
@@ -732,9 +732,9 @@
       ]
     },
     {
-      "quote": "You're streets behind!",
-      "description": "Community • Study Room",
-      "correct": 2,
+      "quote": "Cool. Cool cool cool.",
+      "description": "Spoken by Abed Nadir",
+      "correct": 0,
       "options": [
         {
           "title": "S1E01 • Pilot",
@@ -790,7 +790,7 @@
     },
     {
       "quote": "I'm a level 7 susceptible!",
-      "description": "Community • Honda CR-V",
+      "description": "Spoken by Dean Pelton",
       "correct": 1,
       "options": [
         {
@@ -865,9 +865,9 @@
       ]
     },
     {
-      "quote": "I'm a level 5 laser lotus!",
-      "description": "Community • Pierce's Religion",
-      "correct": 1,
+      "quote": "The thing some men call 'failure,' I call 'living—breakfast!' And I'm not leaving until I've cleaned out the buffet.",
+      "description": "Spoken by Pierce Hawthorne",
+      "correct": 0,
       "options": [
         {
           "title": "S1E01 • Pilot",

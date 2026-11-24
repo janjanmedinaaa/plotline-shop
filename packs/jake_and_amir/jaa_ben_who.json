@@ -846,49 +846,30 @@
       ]
     },
     {
-      "quote": "I'm not insecure! You're insecure!",
-      "description": "Jake and Amir • Classic Scene",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Jake Hurwitz",
-          "description": "CollegeHumor cast & writer"
-        },
-        {
-          "title": "Amir Blumenfeld",
-          "description": "CollegeHumor cast & writer"
-        },
-        {
-          "title": "Murph",
-          "description": "CollegeHumor cast member"
-        }
-      ]
-    },
-    {
-      "quote": "How is that fair?!",
-      "description": "Jake and Amir • Classic Scene",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Amir Blumenfeld",
-          "description": "CollegeHumor cast & writer"
-        },
-        {
-          "title": "Jake Hurwitz",
-          "description": "CollegeHumor cast & writer"
-        },
-        {
-          "title": "Pat Cassels",
-          "description": "CollegeHumor writer & cast"
-        }
-      ]
-    },
-    {
-      "quote": "Just be yourself. Wait, no, be someone else.",
+      "quote": "I'd punch my mother in the gut for twenty dollars.",
       "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
         {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast member"
+        }
+      ]
+    },
+    {
+      "quote": "I deserve so much more than this.",
+      "description": "Jake and Amir • Classic Scene",
+      "correct": 0,
+      "options": [
+        {
           "title": "Amir Blumenfeld",
           "description": "CollegeHumor cast & writer"
         },
@@ -903,7 +884,26 @@
       ]
     },
     {
-      "quote": "Let's double date!",
+      "quote": "If you have to ask, then you don't know.",
+      "description": "Jake and Amir • Classic Scene",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "CollegeHumor writer & cast"
+        }
+      ]
+    },
+    {
+      "quote": "I don't know if you've ever seen an iguana cry before, but I know for a fact that I have.",
       "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
@@ -922,7 +922,7 @@
       ]
     },
     {
-      "quote": "Swipe right for a good time, swipe left for a great time!",
+      "quote": "All day, every day, every hour, got a chicken nugget in my pocket!",
       "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
@@ -941,9 +941,9 @@
       ]
     },
     {
-      "quote": "I'm a pimp and a cool! Ask me anytime!",
+      "quote": "I could solve ANY cube: Rubik's Cube... et cetera.",
       "description": "Jake and Amir • Classic Scene",
-      "correct": 0,
+      "correct": 1,
       "options": [
         {
           "title": "Jake Hurwitz",

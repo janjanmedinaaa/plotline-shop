@@ -371,9 +371,9 @@
       ]
     },
     {
-      "quote": "Security in this office park is a joke.",
-      "description": "Parking Lot • Talking Head",
-      "correct": 0,
+      "quote": "Just pretend like we're talking until the cops leave.",
+      "description": "S7E25 • Search Committee",
+      "correct": 1,
       "options": [
         {
           "title": "Dwight Schrute",
@@ -429,7 +429,7 @@
     },
     {
       "quote": "Why did you cut the face off the dummy?!",
-      "description": "The Office (US) • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -600,7 +600,7 @@
     },
     {
       "quote": "I have a lot of questions. Number one: how dare you?",
-      "description": "The Office (US) • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -713,9 +713,9 @@
       ]
     },
     {
-      "quote": "Actually...",
-      "description": "Office • Correcting Everyone",
-      "correct": 2,
+      "quote": "I just want to lie on the beach and eat hot dogs.",
+      "description": "S3E23 • Beach Games",
+      "correct": 1,
       "options": [
         {
           "title": "Angela Martin",
@@ -884,8 +884,8 @@
       ]
     },
     {
-      "quote": "First of all, how dare you?",
-      "description": "Annex • Talking Head",
+      "quote": "I talk a lot, so I've learned to just tune myself out.",
+      "description": "S7E17 • Threat Level Midnight",
       "correct": 1,
       "options": [
         {
@@ -941,9 +941,9 @@
       ]
     },
     {
-      "quote": "I'm not offended by homosexuality. In the '60s, I made love to many, many women.",
-      "description": "Office • Talking Head",
-      "correct": 0,
+      "quote": "If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.",
+      "description": "S6E22 • Secretary's Day",
+      "correct": 1,
       "options": [
         {
           "title": "Creed Bratton",

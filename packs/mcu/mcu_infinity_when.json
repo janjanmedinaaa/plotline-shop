@@ -10,951 +10,951 @@
   "questions": [
     {
       "quote": "The truth is... I am Iron Man.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Stark Industries Press Conference",
+      "description": "MCU • Stark Industries Press Conference",
       "correct": 0,
       "options": [
         {
           "title": "Iron Man",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Iron Man 2",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Puny god.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Stark Tower Floor Smash",
+      "description": "MCU • Stark Tower Floor Smash",
       "correct": 1,
       "options": [
         {
           "title": "Thor: Ragnarok",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Age of Ultron",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "I'm with you till the end of the line.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Helicarrier Bridge",
+      "description": "Spoken by Steve Rogers",
       "correct": 2,
       "options": [
         {
           "title": "Captain America: The First Avenger",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain America: Civil War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain America: The Winter Soldier",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Dormammu, I've come to bargain.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Dark Dimension Time Loop",
+      "description": "MCU • Dark Dimension Time Loop",
       "correct": 0,
       "options": [
         {
           "title": "Doctor Strange",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Spider-Man: No Way Home",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "He's a friend from work!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Grandmaster's Arena",
+      "description": "MCU • Grandmaster's Arena",
       "correct": 1,
       "options": [
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Thor: Ragnarok",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Thor: Love and Thunder",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Mr. Stark, I don't feel so good.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Titan Aftermath",
+      "description": "MCU • Titan Aftermath",
       "correct": 2,
       "options": [
         {
           "title": "Spider-Man: Homecoming",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Avengers... assemble.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Portals Open",
+      "description": "MCU • Portals Open",
       "correct": 0,
       "options": [
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Age of Ultron",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "There are no strings on me.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Sokovia Research Base",
+      "description": "MCU • Sokovia Research Base",
       "correct": 1,
       "options": [
         {
           "title": "Iron Man 3",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Age of Ultron",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain America: Civil War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Higher, further, faster, baby.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Space Hangar",
+      "description": "MCU • Space Hangar",
       "correct": 2,
       "options": [
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "The Marvels",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain Marvel",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Just because something works doesn't mean it can't be improved.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Shuri's Lab",
+      "description": "MCU • Shuri's Lab",
       "correct": 0,
       "options": [
         {
           "title": "Black Panther",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Black Panther: Wakanda Forever",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Sometimes you gotta run before you can walk.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Workshop Flight Test",
+      "description": "MCU • Workshop Flight Test",
       "correct": 0,
       "options": [
         {
           "title": "Iron Man",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Iron Man 2",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Iron Man 3",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "I have successfully privatized world peace.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Senate Hearing",
+      "description": "MCU • Senate Hearing",
       "correct": 1,
       "options": [
         {
           "title": "Iron Man",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Iron Man 2",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Another!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • New Mexico Diner",
+      "description": "MCU • New Mexico Diner",
       "correct": 0,
       "options": [
         {
           "title": "Thor",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Thor: Ragnarok",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Not a good soldier, but a good man.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Camp Lehigh",
+      "description": "MCU • Camp Lehigh",
       "correct": 2,
       "options": [
         {
           "title": "Captain America: The Winter Soldier",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain America: Civil War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain America: The First Avenger",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "I had a date.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Times Square Awakening",
+      "description": "MCU • Times Square Awakening",
       "correct": 0,
       "options": [
         {
           "title": "Captain America: The First Avenger",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "That's a lot of red in my ledger.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Helicarrier Cell",
+      "description": "MCU • Helicarrier Cell",
       "correct": 1,
       "options": [
         {
           "title": "Iron Man 2",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Black Widow",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "We create our own demons.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Opening Voiceover",
+      "description": "MCU • Opening Voiceover",
       "correct": 2,
       "options": [
         {
           "title": "Iron Man",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Iron Man 2",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Iron Man 3",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Hail HYDRA.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • S.H.I.E.L.D. Briefing",
+      "description": "MCU • S.H.I.E.L.D. Briefing",
       "correct": 0,
       "options": [
         {
           "title": "Captain America: The Winter Soldier",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Age of Ultron",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "I'm Mary Poppins, y'all!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Ego's Planet",
+      "description": "MCU • Ego's Planet",
       "correct": 1,
       "options": [
         {
           "title": "Guardians of the Galaxy",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Guardians of the Galaxy Vol. 2",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "You didn't see that coming?",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Sokovia Streets",
+      "description": "MCU • Sokovia Streets",
       "correct": 2,
       "options": [
         {
           "title": "Captain America: Civil War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Age of Ultron",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Baskin-Robbins always finds out.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Ice Cream Shop",
+      "description": "MCU • Ice Cream Shop",
       "correct": 0,
       "options": [
         {
           "title": "Ant-Man",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Ant-Man and the Wasp",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain America: Civil War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Yeah, I know, I know.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Stark Tower",
+      "description": "MCU • Stark Tower",
       "correct": 1,
       "options": [
         {
           "title": "Captain America: Civil War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain America: The First Avenger",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "They never get the faces right.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Berlin Containment",
+      "description": "MCU • Berlin Containment",
       "correct": 2,
       "options": [
         {
           "title": "Captain America: The Winter Soldier",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain America: Civil War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Forget everything that you think you know.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Kamar-Taj",
+      "description": "MCU • Kamar-Taj",
       "correct": 0,
       "options": [
         {
           "title": "Doctor Strange",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Doctor Strange in the Multiverse of Madness",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Spider-Man: No Way Home",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "If you're nothing without this suit, then you shouldn't have it.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Queens Rooftop",
+      "description": "MCU • Queens Rooftop",
       "correct": 1,
       "options": [
         {
           "title": "Captain America: Civil War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Spider-Man: Homecoming",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Spider-Man: Far From Home",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "I've been falling for thirty minutes!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • New York Sanctum",
+      "description": "Spoken by Loki",
       "correct": 2,
       "options": [
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Thor: The Dark World",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Thor: Ragnarok",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "In times of crisis, the wise build bridges, while the foolish build barriers.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • UN Summit",
+      "description": "MCU • UN Summit",
       "correct": 0,
       "options": [
         {
           "title": "Black Panther",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Black Panther: Wakanda Forever",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Perfectly balanced, as all things should be.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Gamora Flashback",
+      "description": "MCU • Gamora Flashback",
       "correct": 1,
       "options": [
         {
           "title": "Avengers: Age of Ultron",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "You should have gone for the head.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Wakanda Forest",
+      "description": "MCU • Wakanda Forest",
       "correct": 2,
       "options": [
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Thor: Ragnarok",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Do you guys just put the word 'quantum' in front of everything?",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Van Lab",
+      "description": "MCU • Van Lab",
       "correct": 0,
       "options": [
         {
           "title": "Ant-Man and the Wasp",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Ant-Man",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "On your left.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Compound Ruins",
+      "description": "Spoken by Steve Rogers",
       "correct": 1,
       "options": [
         {
           "title": "Captain America: Civil War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Proof that Tony Stark has a heart.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Pepper's Gift",
+      "description": "MCU • Pepper's Gift",
       "correct": 2,
       "options": [
         {
           "title": "Iron Man 2",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Iron Man 3",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Iron Man",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "I'm always angry.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Midtown Manhattan",
+      "description": "MCU • Midtown Manhattan",
       "correct": 0,
       "options": [
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Age of Ultron",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Thor: Ragnarok",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "You get to be a hero.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • San Francisco",
+      "description": "MCU • San Francisco",
       "correct": 1,
       "options": [
         {
           "title": "Ant-Man",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Ant-Man and the Wasp",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "I'm just a kid from Brooklyn.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Alleyway",
+      "description": "Spoken by Steve Rogers",
       "correct": 2,
       "options": [
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain America: The Winter Soldier",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain America: The First Avenger",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "I ignored my destiny once. I cannot do that again.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Soul World",
+      "description": "MCU • Soul World",
       "correct": 0,
       "options": [
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Guardians of the Galaxy",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "I love you 3000.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Stark Cabin",
+      "description": "Spoken by Tony Stark",
       "correct": 1,
       "options": [
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Spider-Man: Far From Home",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "He's fast and she's weird.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Avengers Tower",
+      "description": "MCU • Avengers Tower",
       "correct": 2,
       "options": [
         {
           "title": "Captain America: Civil War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Age of Ultron",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "You're a good man, with a good heart.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Camp Lehigh",
+      "description": "MCU • Camp Lehigh",
       "correct": 0,
       "options": [
         {
           "title": "Captain America: The First Avenger",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain America: The Winter Soldier",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Get this man a shield.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Wakanda Palace",
+      "description": "MCU • Wakanda Palace",
       "correct": 1,
       "options": [
         {
           "title": "Captain America: Civil War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Black Panther",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Why was she up there all this time?",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Edinburgh / Wakanda",
+      "description": "MCU • Edinburgh / Wakanda",
       "correct": 2,
       "options": [
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Black Panther",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "I'm not a hero. I'm a high-functioning sociopath—no, wait, that's...",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Stark Expo",
+      "description": "MCU • Stark Expo",
       "correct": 0,
       "options": [
         {
           "title": "Iron Man 2",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Iron Man 3",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Doctor Strange",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "I know what it's like to lose.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Statesman Opening",
+      "description": "MCU • Statesman Opening",
       "correct": 1,
       "options": [
         {
           "title": "Guardians of the Galaxy",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "The hardest choices require the strongest wills.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Titan",
+      "description": "Spoken by Thanos",
       "correct": 2,
       "options": [
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Doctor Strange",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "I went forward in time to view alternate futures.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Titan",
+      "description": "MCU • Titan",
       "correct": 0,
       "options": [
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Doctor Strange",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "It's not about how much we lost. It's about how much we have left.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Compound",
+      "description": "MCU • Compound",
       "correct": 1,
       "options": [
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain America: Civil War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "This is the fight of our lives.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Briefing Room",
+      "description": "MCU • Briefing Room",
       "correct": 2,
       "options": [
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Age of Ultron",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "No resurrections this time.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Statesman",
+      "description": "MCU • Statesman",
       "correct": 0,
       "options": [
         {
           "title": "Avengers: Infinity War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Thor: The Dark World",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "I am Groot.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Kyln Prison",
+      "description": "MCU • Kyln Prison",
       "correct": 1,
       "options": [
         {
           "title": "Thor: Ragnarok",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Guardians of the Galaxy",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     },
     {
       "quote": "Let's finish this.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Siberian Bunker",
+      "description": "MCU • Siberian Bunker",
       "correct": 2,
       "options": [
         {
           "title": "Avengers: Endgame",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "The Avengers",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         },
         {
           "title": "Captain America: Civil War",
-          "description": "Marvel Cinematic Universe"
+          "description": "MCU"
         }
       ]
     }

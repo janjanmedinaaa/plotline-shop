@@ -11,7 +11,7 @@
   "questions": [
     {
       "quote": "Could I BE wearing any more clothes?",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -182,7 +182,7 @@
     },
     {
       "quote": "Oh. My. God.",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -201,7 +201,7 @@
     },
     {
       "quote": "I KNOW!",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -315,7 +315,7 @@
     },
     {
       "quote": "My name is Regina Phalange.",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -884,9 +884,9 @@
       ]
     },
     {
-      "quote": "I thought you'd be... happier.",
-      "description": "Season 6 • Candlelit Room",
-      "correct": 0,
+      "quote": "Welcome to the real world. It sucks. You're gonna love it.",
+      "description": "Friends • Classic Scene",
+      "correct": 1,
       "options": [
         {
           "title": "Chandler Bing",
@@ -922,8 +922,8 @@
       ]
     },
     {
-      "quote": "EEEEE! EEEEE!",
-      "description": "Season 7 • Playing Bagpipes",
+      "quote": "See? He's her lobster.",
+      "description": "S2E14 • The One with the Prom Video",
       "correct": 1,
       "options": [
         {
@@ -941,9 +941,9 @@
       ]
     },
     {
-      "quote": "CONGRATULATIONS!",
-      "description": "Season 10 • Phone Call",
-      "correct": 0,
+      "quote": "Well, maybe I don't need your money. Wait, wait, I said maybe!",
+      "description": "S1E01 • The One Where Monica Gets a Roommate",
+      "correct": 2,
       "options": [
         {
           "title": "Monica Geller",

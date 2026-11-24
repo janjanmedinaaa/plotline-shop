@@ -827,7 +827,7 @@
       ]
     },
     {
-      "quote": "Namaste.",
+      "quote": "I'd punch my mother in the gut for twenty dollars.",
       "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
@@ -846,7 +846,7 @@
       ]
     },
     {
-      "quote": "A-weird!",
+      "quote": "I deserve so much more than this.",
       "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
@@ -865,9 +865,9 @@
       ]
     },
     {
-      "quote": "You're sitting in my chair!",
+      "quote": "If you have to ask, then you don't know.",
       "description": "Jake and Amir • Classic Scene",
-      "correct": 0,
+      "correct": 1,
       "options": [
         {
           "title": "Jake Hurwitz",
@@ -884,7 +884,7 @@
       ]
     },
     {
-      "quote": "It's a protein shake! Made of cheese!",
+      "quote": "I don't know if you've ever seen an iguana cry before, but I know for a fact that I have.",
       "description": "Jake and Amir • Classic Scene",
       "correct": 0,
       "options": [
@@ -903,7 +903,7 @@
       ]
     },
     {
-      "quote": "I'm writing a screenplay! It's called 'The Vest'!",
+      "quote": "All day, every day, every hour, got a chicken nugget in my pocket!",
       "description": "Jake and Amir • Classic Scene",
       "correct": 1,
       "options": [
@@ -922,9 +922,9 @@
       ]
     },
     {
-      "quote": "Please, just do your job.",
+      "quote": "I could solve ANY cube: Rubik's Cube... et cetera.",
       "description": "Jake and Amir • Classic Scene",
-      "correct": 0,
+      "correct": 1,
       "options": [
         {
           "title": "Jake Hurwitz",

@@ -10,951 +10,951 @@
   "questions": [
     {
       "quote": "Float like a butterfly, sting like a bee. My name is Steven with a V.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Museum & Alps",
+      "description": "MCU • Museum & Alps",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Summon the suit!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • London Street",
+      "description": "MCU • London Street",
       "correct": 1,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "There's chaos in you.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Cult Village",
+      "description": "MCU • Cult Village",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Do you swear to protect the travelers of the night?",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Ennead Chamber",
+      "description": "MCU • Ennead Chamber",
       "correct": 1,
       "options": [
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Hi!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Psychiatric Ward",
+      "description": "MCU • Psychiatric Ward",
       "correct": 2,
       "options": [
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "You are my son, Marc. You're the only one I have left.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Scales of Justice",
+      "description": "MCU • Scales of Justice",
       "correct": 1,
       "options": [
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Are you an Egyptian superhero?",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Cairo Alley",
+      "description": "MCU • Cairo Alley",
       "correct": 2,
       "options": [
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "I'm not crazy. I have a sleeping disorder.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Steven's Flat",
+      "description": "MCU • Steven's Flat",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "You saved me. Now let me save you.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Duat",
+      "description": "MCU • Duat",
       "correct": 1,
       "options": [
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Meet my friend, Jake Lockley.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Post-Credits Limo",
+      "description": "MCU • Post-Credits Limo",
       "correct": 2,
       "options": [
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Later, gators!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Gift Shop",
+      "description": "MCU • Gift Shop",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Gus has two fins, not one!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Pet Shop",
+      "description": "MCU • Pet Shop",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "You're a worm!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Bathroom",
+      "description": "MCU • Bathroom",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Don't you dare take control!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Cupcake Van",
+      "description": "MCU • Cupcake Van",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "I'm Marc Spector. And you need to let me take over.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Mirror",
+      "description": "MCU • Mirror",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Why did you summon a three-piece suit?",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • London",
+      "description": "MCU • London",
       "correct": 1,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "I'm Layla. Your wife.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Steven's Flat",
+      "description": "MCU • Steven's Flat",
       "correct": 1,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "You're not a hero. You're a killer.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Storage Locker",
+      "description": "MCU • Storage Locker",
       "correct": 1,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Ammit will judge everyone before they commit evil.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Cult Compound",
+      "description": "MCU • Cult Compound",
       "correct": 1,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Give me the body, Steven!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Street",
+      "description": "MCU • Street",
       "correct": 1,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Did you just turn back the night sky?",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Cairo",
+      "description": "MCU • Cairo",
       "correct": 2,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "You're banned from the Ennead.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Pyramid",
+      "description": "MCU • Pyramid",
       "correct": 2,
       "options": [
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "I didn't do that! That wasn't me!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Rooftop",
+      "description": "MCU • Rooftop",
       "correct": 2,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "You're looking for Senfu's tomb.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Mansion",
+      "description": "MCU • Mansion",
       "correct": 2,
       "options": [
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "This is the last time I trust you.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Desert",
+      "description": "MCU • Desert",
       "correct": 2,
       "options": [
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "It's Alexander the Great!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Tomb",
+      "description": "MCU • Tomb",
       "correct": 1,
       "options": [
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Are we dead?",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Psychiatric Ward",
+      "description": "MCU • Psychiatric Ward",
       "correct": 1,
       "options": [
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "You're not supposed to be here!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Tomb",
+      "description": "MCU • Tomb",
       "correct": 1,
       "options": [
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "There's another one in there!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Hallway",
+      "description": "MCU • Hallway",
       "correct": 1,
       "options": [
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "We're in a mental hospital.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Rec Room",
+      "description": "MCU • Rec Room",
       "correct": 1,
       "options": [
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Your scales aren't balanced!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Duat Ship",
+      "description": "MCU • Duat Ship",
       "correct": 1,
       "options": [
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "I created you to protect me.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Childhood Room",
+      "description": "MCU • Childhood Room",
       "correct": 1,
       "options": [
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "You're the only real thing I ever had.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Duat",
+      "description": "MCU • Duat",
       "correct": 1,
       "options": [
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Welcome to the Field of Reeds.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Golden Field",
+      "description": "MCU • Golden Field",
       "correct": 1,
       "options": [
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "It wasn't your fault, Marc.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Cave",
+      "description": "MCU • Cave",
       "correct": 1,
       "options": [
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "I'm not leaving without Steven.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Field of Reeds",
+      "description": "MCU • Field of Reeds",
       "correct": 2,
       "options": [
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Release Khonshu!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Pyramid",
+      "description": "MCU • Pyramid",
       "correct": 2,
       "options": [
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "We can bind Ammit in a mortal body.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Temple",
+      "description": "MCU • Temple",
       "correct": 2,
       "options": [
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "You're my avatar now, Layla.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Pyramid",
+      "description": "MCU • Pyramid",
       "correct": 2,
       "options": [
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "We're done, Khonshu. Let us go.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Cairo Sky",
+      "description": "MCU • Cairo Sky",
       "correct": 2,
       "options": [
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "I'm Steven Grant, and I work in a gift shop.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Bus",
+      "description": "MCU • Bus",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Why is there sand in my bed?",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Flat",
+      "description": "MCU • Flat",
       "correct": 0,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Wait, I have a passport?",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Locker",
+      "description": "MCU • Locker",
       "correct": 1,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "You're a terrible tour guide!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Cairo",
+      "description": "MCU • Cairo",
       "correct": 2,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Hekate's beard!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Tomb",
+      "description": "MCU • Tomb",
       "correct": 1,
       "options": [
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "That's a hippo!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Ward",
+      "description": "MCU • Ward",
       "correct": 1,
       "options": [
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "I'm not Marc! I'm Steven!",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Ward",
+      "description": "MCU • Ward",
       "correct": 1,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "We did it together.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Cairo",
+      "description": "MCU • Cairo",
       "correct": 2,
       "options": [
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E05 • Asylum",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Don't wake up in the Alps again.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Flat",
+      "description": "MCU • Flat",
       "correct": 2,
       "options": [
         {
           "title": "S1E01 • The Goldfish Problem",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E02 • Summon the Suit",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     },
     {
       "quote": "Hoy es tu día.",
-      "description": "Marvel Cinematic Universe • Marvel Cinematic Universe • Post-Credits",
+      "description": "MCU • Post-Credits",
       "correct": 2,
       "options": [
         {
           "title": "S1E03 • The Friendly Type",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E04 • The Tomb",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         },
         {
           "title": "S1E06 • Gods and Monsters",
-          "description": "Marvel Cinematic Universe • Season 1"
+          "description": "MCU • Season 1"
         }
       ]
     }

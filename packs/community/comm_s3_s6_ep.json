@@ -11,7 +11,7 @@
   "questions": [
     {
       "quote": "I'm a sexy cat!",
-      "description": "Community • Season 3/5 • Nic Cage",
+      "description": "Spoken by Abed Nadir",
       "correct": 0,
       "options": [
         {
@@ -87,7 +87,7 @@
     },
     {
       "quote": "Welcome to the Dreamatorium!",
-      "description": "Community • Apartment 303",
+      "description": "Spoken by Abed Nadir",
       "correct": 1,
       "options": [
         {
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "quote": "It's a GI Joe cartoon! Yo Joe!",
+      "quote": "Knowing is half the battle!",
       "description": "Community • Animated",
       "correct": 0,
       "options": [
@@ -239,7 +239,7 @@
     },
     {
       "quote": "I'm a level 7 susceptible!",
-      "description": "Community • Honda CR-V",
+      "description": "Spoken by Dean Pelton",
       "correct": 1,
       "options": [
         {
@@ -429,7 +429,7 @@
     },
     {
       "quote": "Priority registration! Let the games begin!",
-      "description": "Community • Community • Paintball",
+      "description": "Community • Paintball",
       "correct": 2,
       "options": [
         {
@@ -467,7 +467,7 @@
     },
     {
       "quote": "My Dinner with Andre... at a fancy restaurant!",
-      "description": "Community • Community • Pulp Fiction",
+      "description": "Community • Pulp Fiction",
       "correct": 1,
       "options": [
         {
@@ -486,7 +486,7 @@
     },
     {
       "quote": "Anthropology! Why is Betty White choking Jeff?",
-      "description": "Community • Community • Premiere",
+      "description": "Community • Premiere",
       "correct": 0,
       "options": [
         {
@@ -505,7 +505,7 @@
     },
     {
       "quote": "Nobody leaves Study Room F until we find that purple pen!",
-      "description": "Community • Community • Study Room F",
+      "description": "Community • Study Room F",
       "correct": 2,
       "options": [
         {
@@ -543,7 +543,7 @@
     },
     {
       "quote": "Clearly you don't understand anything about defeating trolls.",
-      "description": "Community • Community • Darkest Timeline",
+      "description": "Community • Darkest Timeline",
       "correct": 0,
       "options": [
         {
@@ -562,7 +562,7 @@
     },
     {
       "quote": "I'm playing pool in shorts? No, I'm playing naked!",
-      "description": "Community • Community • Gym",
+      "description": "Community • Gym",
       "correct": 1,
       "options": [
         {
@@ -581,7 +581,7 @@
     },
     {
       "quote": "Professor Professorson!",
-      "description": "Community • Community • Night School",
+      "description": "Community • Night School",
       "correct": 0,
       "options": [
         {
@@ -600,7 +600,7 @@
     },
     {
       "quote": "Roll the twenty-sided die for initiative!",
-      "description": "Community • Community • Study Room Table",
+      "description": "Community • Study Room Table",
       "correct": 2,
       "options": [
         {
@@ -619,7 +619,7 @@
     },
     {
       "quote": "As far back as I can remember, I always wanted to be in a Mafia movie.",
-      "description": "Community • Community • Chicken Fingers",
+      "description": "Community • Chicken Fingers",
       "correct": 0,
       "options": [
         {
@@ -638,7 +638,7 @@
     },
     {
       "quote": "Objection! We're doing Law & Order!",
-      "description": "Community • Community • Biology Yam",
+      "description": "Community • Biology Yam",
       "correct": 1,
       "options": [
         {
@@ -657,7 +657,7 @@
     },
     {
       "quote": "You're a wizard, Pierce!",
-      "description": "Community • Community • D&D",
+      "description": "Community • D&D",
       "correct": 0,
       "options": [
         {
@@ -676,7 +676,7 @@
     },
     {
       "quote": "Taco meat from the army surplus store!",
-      "description": "Community • Community • Halloween",
+      "description": "Community • Halloween",
       "correct": 2,
       "options": [
         {
@@ -695,7 +695,7 @@
     },
     {
       "quote": "We're a Mafia! Selling chicken fingers!",
-      "description": "Community • Community • Cafeteria",
+      "description": "Community • Cafeteria",
       "correct": 2,
       "options": [
         {
@@ -714,7 +714,7 @@
     },
     {
       "quote": "This campus isn't big enough for two rival forts!",
-      "description": "Community • Community • Documentary",
+      "description": "Community • Documentary",
       "correct": 2,
       "options": [
         {
@@ -733,7 +733,7 @@
     },
     {
       "quote": "My whole brain is crying!",
-      "description": "Community • Community • Conspiracy",
+      "description": "Spoken by Troy Barnes",
       "correct": 0,
       "options": [
         {
@@ -790,7 +790,7 @@
     },
     {
       "quote": "All hail the Fives! Fours are barely human!",
-      "description": "Community • Community • App Dystopia",
+      "description": "Community • App Dystopia",
       "correct": 1,
       "options": [
         {
@@ -828,7 +828,7 @@
     },
     {
       "quote": "Wait... there are other timelines?",
-      "description": "Community • Community • Rolling the Die",
+      "description": "Community • Rolling the Die",
       "correct": 0,
       "options": [
         {
@@ -847,7 +847,7 @@
     },
     {
       "quote": "ABBA! Why is ABBA playing during a zombie outbreak?!",
-      "description": "Community • Community • Halloween",
+      "description": "Community • Halloween",
       "correct": 1,
       "options": [
         {
@@ -865,9 +865,9 @@
       ]
     },
     {
-      "quote": "You're streets behind!",
-      "description": "Community • Community • Study Room",
-      "correct": 2,
+      "quote": "Cool. Cool cool cool.",
+      "description": "Spoken by Abed Nadir",
+      "correct": 0,
       "options": [
         {
           "title": "S1E01 • Pilot",
@@ -922,9 +922,9 @@
       ]
     },
     {
-      "quote": "I'm Batman. And I'm saving you.",
-      "description": "Community • Community • Halloween",
-      "correct": 1,
+      "quote": "The thing some men call 'failure,' I call 'living—breakfast!' And I'm not leaving until I've cleaned out the buffet.",
+      "description": "Spoken by Pierce Hawthorne",
+      "correct": 0,
       "options": [
         {
           "title": "S1E01 • Pilot",
@@ -942,7 +942,7 @@
     },
     {
       "quote": "Roxanne! No!",
-      "description": "Community • Community • Apartment 303",
+      "description": "Community • Apartment 303",
       "correct": 0,
       "options": [
         {

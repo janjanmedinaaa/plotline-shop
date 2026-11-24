@@ -49,7 +49,7 @@
     },
     {
       "quote": "Classic Schmosby!",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -220,7 +220,7 @@
     },
     {
       "quote": "Gouda!",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -543,7 +543,7 @@
     },
     {
       "quote": "Boats! Boats! Boats!",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -638,7 +638,7 @@
     },
     {
       "quote": "Whatever you do in this life, it's not legendary unless your friends are there to see it.",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -732,9 +732,9 @@
       ]
     },
     {
-      "quote": "I'm gonna eat a sandwich.",
-      "description": "College • Wesleyan Dorm",
-      "correct": 0,
+      "quote": "The future is scary, but you can't just run back to the past because it's familiar.",
+      "description": "S7E17 • No Pressure",
+      "correct": 2,
       "options": [
         {
           "title": "Marshall Eriksen",
@@ -846,9 +846,9 @@
       ]
     },
     {
-      "quote": "Look around, Ted. You're all alone.",
-      "description": "Season 8 • MacLaren's",
-      "correct": 0,
+      "quote": "Look, you can't design your life like a building. It doesn't work that way. You just have to live it, and it'll design itself.",
+      "description": "S4E24 • The Leap",
+      "correct": 2,
       "options": [
         {
           "title": "Barney Stinson",
@@ -884,9 +884,9 @@
       ]
     },
     {
-      "quote": "Suit up!",
-      "description": "How I Met Your Mother • Classic Scene",
-      "correct": 0,
+      "quote": "You see, kids, right from the moment I met your mom I knew: I have to love this woman as much as I can.",
+      "description": "S9E24 • Last Forever",
+      "correct": 1,
       "options": [
         {
           "title": "Barney Stinson",
@@ -903,9 +903,9 @@
       ]
     },
     {
-      "quote": "If you're not scared, you're not taking a chance.",
-      "description": "Season 4 • Roof",
-      "correct": 1,
+      "quote": "Whenever I'm sad, I stop being sad and be awesome instead. True story.",
+      "description": "S2E01 • Where Were We?",
+      "correct": 0,
       "options": [
         {
           "title": "Barney Stinson",
@@ -922,8 +922,8 @@
       ]
     },
     {
-      "quote": "Let's go to the mall!",
-      "description": "1990s Music Video • Canada",
+      "quote": "I love a Scotch that's old enough to order its own Scotch.",
+      "description": "S4E03 • I Heart NJ",
       "correct": 0,
       "options": [
         {
@@ -941,8 +941,8 @@
       ]
     },
     {
-      "quote": "Sometimes even if you know how something's gonna end, that doesn't mean you can't enjoy the ride.",
-      "description": "Season 2 • Closing",
+      "quote": "If you're not scared, you're not taking a chance, and if you're not taking a chance, then what the hell are you doing?",
+      "description": "S4E24 • The Leap",
       "correct": 2,
       "options": [
         {

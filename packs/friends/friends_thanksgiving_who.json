@@ -448,7 +448,7 @@
     },
     {
       "quote": "Could I BE wearing any more clothes?",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -884,8 +884,8 @@
       ]
     },
     {
-      "quote": "Jingle bitch screwed me over!",
-      "description": "Season 2 • Central Perk",
+      "quote": "See? He's her lobster.",
+      "description": "S2E14 • The One with the Prom Video",
       "correct": 0,
       "options": [
         {
@@ -903,9 +903,9 @@
       ]
     },
     {
-      "quote": "Alright, what are we having?",
-      "description": "Season 7 • Hallway Floor",
-      "correct": 0,
+      "quote": "Well, maybe I don't need your money. Wait, wait, I said maybe!",
+      "description": "S1E01 • The One Where Monica Gets a Roommate",
+      "correct": 2,
       "options": [
         {
           "title": "Joey Tribbiani",
@@ -941,9 +941,9 @@
       ]
     },
     {
-      "quote": "Va fa napoli!",
-      "description": "Apartment 20 • Italian",
-      "correct": 0,
+      "quote": "Welcome to the real world. It sucks. You're gonna love it.",
+      "description": "Friends • Classic Scene",
+      "correct": 1,
       "options": [
         {
           "title": "Joey Tribbiani",

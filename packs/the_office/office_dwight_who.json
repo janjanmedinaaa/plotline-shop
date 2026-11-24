@@ -239,7 +239,7 @@
     },
     {
       "quote": "Why did you cut the face off the dummy?!",
-      "description": "The Office (US) • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -258,7 +258,7 @@
     },
     {
       "quote": "It's $3,500!",
-      "description": "The Office (US) • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -296,7 +296,7 @@
     },
     {
       "quote": "I'm the fucking Lizard King.",
-      "description": "The Office (US) • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -410,7 +410,7 @@
     },
     {
       "quote": "Don't ever, for any reason, do anything to anyone, for any reason ever...",
-      "description": "The Office (US) • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -524,7 +524,7 @@
     },
     {
       "quote": "Suck It! Take out your Suck It and you suck it!",
-      "description": "The Office (US) • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -808,9 +808,9 @@
       ]
     },
     {
-      "quote": "Hottest in the Office!",
-      "description": "Chili's • Trophy",
-      "correct": 2,
+      "quote": "I talk a lot, so I've learned to just tune myself out.",
+      "description": "S7E17 • Threat Level Midnight",
+      "correct": 1,
       "options": [
         {
           "title": "Michael Scott",
@@ -865,8 +865,8 @@
       ]
     },
     {
-      "quote": "Nobody steals from Creed Bratton and gets away with it.",
-      "description": "The Office (US) • Classic Scene",
+      "quote": "Just pretend like we're talking until the cops leave.",
+      "description": "S7E25 • Search Committee",
       "correct": 0,
       "options": [
         {
@@ -903,9 +903,9 @@
       ]
     },
     {
-      "quote": "I'm gonna get a teapot!",
-      "description": "Season 2 • Secret Santa",
-      "correct": 0,
+      "quote": "If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.",
+      "description": "S6E22 • Secretary's Day",
+      "correct": 1,
       "options": [
         {
           "title": "Jim Halpert",
@@ -922,9 +922,9 @@
       ]
     },
     {
-      "quote": "I'm a little bit terrified of her.",
-      "description": "Office • Talking Head",
-      "correct": 0,
+      "quote": "I just want to lie on the beach and eat hot dogs.",
+      "description": "S3E23 • Beach Games",
+      "correct": 1,
       "options": [
         {
           "title": "Jim Halpert",

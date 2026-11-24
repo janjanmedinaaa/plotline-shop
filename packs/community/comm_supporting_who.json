@@ -239,7 +239,7 @@
     },
     {
       "quote": "Buy my frozen pizza! Four stars!",
-      "description": "Community • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -258,7 +258,7 @@
     },
     {
       "quote": "I'm a level 6 laser lotus!",
-      "description": "Community • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -581,7 +581,7 @@
     },
     {
       "quote": "I can excuse racism, but I draw the line at animal cruelty.",
-      "description": "Community • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -828,7 +828,7 @@
     },
     {
       "quote": "Someone's been eating my pies!",
-      "description": "Community • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -885,7 +885,7 @@
     },
     {
       "quote": "Don't preach to me about romance, Annie! I had a three-way in a hot air balloon!",
-      "description": "Community • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -941,9 +941,9 @@
       ]
     },
     {
-      "quote": "Have you met me?!",
-      "description": "Study Room F • Chang's Entrance",
-      "correct": 2,
+      "quote": "The thing some men call 'failure,' I call 'living—breakfast!' And I'm not leaving until I've cleaned out the buffet.",
+      "description": "S1E01 • Pilot",
+      "correct": 1,
       "options": [
         {
           "title": "Dean Pelton",

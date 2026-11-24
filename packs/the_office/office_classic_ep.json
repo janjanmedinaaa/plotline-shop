@@ -182,7 +182,7 @@
     },
     {
       "quote": "Did I stutter?!",
-      "description": "The Office (US) • Conference Room",
+      "description": "Spoken by Stanley Hudson",
       "correct": 0,
       "options": [
         {
@@ -428,7 +428,7 @@
       ]
     },
     {
-      "quote": "Walk on the coals! I want the job!",
+      "quote": "I want you to look at me and see that I'm not afraid anymore!",
       "description": "The Office (US) • Lake",
       "correct": 2,
       "options": [
@@ -732,9 +732,9 @@
       ]
     },
     {
-      "quote": "I'm in love with you, Pam.",
-      "description": "The Office (US) • Casino Night",
-      "correct": 1,
+      "quote": "I just want to lie on the beach and eat hot dogs.",
+      "description": "Spoken by Kevin Malone",
+      "correct": 2,
       "options": [
         {
           "title": "S2E10 • Christmas Party",
@@ -752,7 +752,7 @@
     },
     {
       "quote": "Hardcore parkour!",
-      "description": "The Office (US) • Cold Open",
+      "description": "Spoken by Michael, Dwight & Andy",
       "correct": 1,
       "options": [
         {
@@ -789,7 +789,7 @@
       ]
     },
     {
-      "quote": "Flonkerton! Box of paper snowshoe racing!",
+      "quote": "Thank you, delegate from Iceland!",
       "description": "The Office (US) • Olympics",
       "correct": 2,
       "options": [
@@ -808,7 +808,7 @@
       ]
     },
     {
-      "quote": "Secret weapon! Stanley, dribble!",
+      "quote": "I usually don't play sports, because I'm a lover, not a fighter.",
       "description": "The Office (US) • Warehouse",
       "correct": 1,
       "options": [
@@ -846,7 +846,7 @@
       ]
     },
     {
-      "quote": "Sabre! Dunder Mifflin is a part of Sabre!",
+      "quote": "Have you ever tasted a rainbow? At Sabre, you will.",
       "description": "The Office (US) • Song",
       "correct": 2,
       "options": [
@@ -865,7 +865,7 @@
       ]
     },
     {
-      "quote": "I'm a victim of a hate crime! Stanley knows what I'm talking about.",
+      "quote": "Every time black people want to have a good time, ignorant-ass people want to ruin it!",
       "description": "The Office (US) • Diversity",
       "correct": 0,
       "options": [
@@ -885,7 +885,7 @@
     },
     {
       "quote": "I'm the fucking Lizard King.",
-      "description": "The Office (US) • Phone",
+      "description": "Spoken by Robert California",
       "correct": 1,
       "options": [
         {

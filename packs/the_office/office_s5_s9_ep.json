@@ -106,7 +106,7 @@
     },
     {
       "quote": "I'm the fucking Lizard King.",
-      "description": "The Office (US) • Phone",
+      "description": "Spoken by Robert California",
       "correct": 1,
       "options": [
         {
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "quote": "Sabre! Dunder Mifflin is a part of Sabre!",
+      "quote": "Have you ever tasted a rainbow? At Sabre, you will.",
       "description": "The Office (US) • Song",
       "correct": 2,
       "options": [
@@ -410,7 +410,7 @@
     },
     {
       "quote": "Did I stutter?!",
-      "description": "The Office (US) • Conference Room",
+      "description": "Spoken by Stanley Hudson",
       "correct": 0,
       "options": [
         {
@@ -447,7 +447,7 @@
       ]
     },
     {
-      "quote": "Flonkerton! Box of paper snowshoe racing!",
+      "quote": "Thank you, delegate from Iceland!",
       "description": "The Office (US) • Olympics",
       "correct": 2,
       "options": [
@@ -694,7 +694,7 @@
       ]
     },
     {
-      "quote": "I'm a victim of a hate crime! Stanley knows what I'm talking about.",
+      "quote": "Every time black people want to have a good time, ignorant-ass people want to ruin it!",
       "description": "The Office (US) • Diversity",
       "correct": 0,
       "options": [
@@ -714,7 +714,7 @@
     },
     {
       "quote": "Hardcore parkour!",
-      "description": "The Office (US) • Cold Open",
+      "description": "Spoken by Michael, Dwight & Andy",
       "correct": 1,
       "options": [
         {
@@ -865,8 +865,8 @@
       ]
     },
     {
-      "quote": "Walk on the coals! I want the job!",
-      "description": "The Office (US) • Lake",
+      "quote": "I just want to lie on the beach and eat hot dogs.",
+      "description": "Spoken by Kevin Malone",
       "correct": 2,
       "options": [
         {

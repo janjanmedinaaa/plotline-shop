@@ -10,8 +10,8 @@
   "quote_count": 50,
   "questions": [
     {
-      "quote": "She left me at the altar.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Wedding",
+      "quote": "I don't belong here, Ted. I shouldn't have come.",
+      "description": "How I Met Your Mother • Wedding",
       "correct": 0,
       "options": [
         {
@@ -30,7 +30,7 @@
     },
     {
       "quote": "Jesus waited three days, and he came back!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Texting",
+      "description": "How I Met Your Mother • Texting",
       "correct": 1,
       "options": [
         {
@@ -48,8 +48,8 @@
       ]
     },
     {
-      "quote": "Jump! To the other roof!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Finale",
+      "quote": "Sometimes our best decisions are the ones that don't make any sense at all.",
+      "description": "How I Met Your Mother • Finale",
       "correct": 2,
       "options": [
         {
@@ -67,8 +67,8 @@
       ]
     },
     {
-      "quote": "Robin 101: a class taught by Barney.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Classroom",
+      "quote": "She's not a morning person, Ted, she's a night owl.",
+      "description": "How I Met Your Mother • Classroom",
       "correct": 0,
       "options": [
         {
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "quote": "The Window is open!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Maggie Wilks",
+      "quote": "The window is open! Take your shot right now!",
+      "description": "How I Met Your Mother • Maggie Wilks",
       "correct": 1,
       "options": [
         {
@@ -106,7 +106,7 @@
     },
     {
       "quote": "Every year we watch giant machines fight guys in tights.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Highbrow Party",
+      "description": "How I Met Your Mother • Highbrow Party",
       "correct": 2,
       "options": [
         {
@@ -125,7 +125,7 @@
     },
     {
       "quote": "Doppelgängers! We've seen four of five!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Finale",
+      "description": "How I Met Your Mother • Finale",
       "correct": 0,
       "options": [
         {
@@ -143,8 +143,8 @@
       ]
     },
     {
-      "quote": "Subway Wars! Who gets there fastest?",
-      "description": "How I Met Your Mother • How I Met Your Mother • NYC Race",
+      "quote": "This isn't just a race—it's about who owns New York!",
+      "description": "How I Met Your Mother • NYC Race",
       "correct": 1,
       "options": [
         {
@@ -162,8 +162,8 @@
       ]
     },
     {
-      "quote": "Architect of Destruction! The Arcadian!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Zoey",
+      "quote": "You're tearing down a landmark just to build a bank!",
+      "description": "How I Met Your Mother • Zoey",
       "correct": 2,
       "options": [
         {
@@ -182,7 +182,7 @@
     },
     {
       "quote": "We're sneaking into the museum gala after hours.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Museum",
+      "description": "How I Met Your Mother • Museum",
       "correct": 0,
       "options": [
         {
@@ -201,7 +201,7 @@
     },
     {
       "quote": "Countdown from 50 to 1...",
-      "description": "How I Met Your Mother • How I Met Your Mother • Bad News",
+      "description": "How I Met Your Mother • Bad News",
       "correct": 1,
       "options": [
         {
@@ -220,7 +220,7 @@
     },
     {
       "quote": "You're a really good friend, Ted.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Minnesota",
+      "description": "How I Met Your Mother • Minnesota",
       "correct": 2,
       "options": [
         {
@@ -239,7 +239,7 @@
     },
     {
       "quote": "Hopeless! Look at my dad!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Legendaddy",
+      "description": "How I Met Your Mother • Legendaddy",
       "correct": 0,
       "options": [
         {
@@ -258,7 +258,7 @@
     },
     {
       "quote": "I've been waiting ten years for this marinara payback.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Vengeance",
+      "description": "How I Met Your Mother • Vengeance",
       "correct": 1,
       "options": [
         {
@@ -277,7 +277,7 @@
     },
     {
       "quote": "Wait for it—I'm pushing the demolition button right now.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Finale",
+      "description": "How I Met Your Mother • Finale",
       "correct": 2,
       "options": [
         {
@@ -296,7 +296,7 @@
     },
     {
       "quote": "It's the Return of the Shirt!",
-      "description": "How I Met Your Mother • How I Met Your Mother • 6-Year-Old Shirt",
+      "description": "How I Met Your Mother • 6-Year-Old Shirt",
       "correct": 0,
       "options": [
         {
@@ -315,7 +315,7 @@
     },
     {
       "quote": "Bachelor party! Not at a strip club!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Atlantic City",
+      "description": "How I Met Your Mother • Atlantic City",
       "correct": 2,
       "options": [
         {
@@ -334,7 +334,7 @@
     },
     {
       "quote": "Two minutes! Ten dates in two minutes!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Stella's Office",
+      "description": "How I Met Your Mother • Stella's Office",
       "correct": 1,
       "options": [
         {
@@ -353,7 +353,7 @@
     },
     {
       "quote": "Something New! One ticket to Farhampton.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Finale",
+      "description": "How I Met Your Mother • Finale",
       "correct": 2,
       "options": [
         {
@@ -372,7 +372,7 @@
     },
     {
       "quote": "I turned the whole apartment into a light show for you.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Apartment Lights",
+      "description": "How I Met Your Mother • Apartment Lights",
       "correct": 1,
       "options": [
         {
@@ -391,7 +391,7 @@
     },
     {
       "quote": "Why is there a goat in our bathroom?",
-      "description": "How I Met Your Mother • How I Met Your Mother • Ted's 31st Birthday",
+      "description": "How I Met Your Mother • Ted's 31st Birthday",
       "correct": 0,
       "options": [
         {
@@ -410,7 +410,7 @@
     },
     {
       "quote": "We're going to Philadelphia!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Airport",
+      "description": "How I Met Your Mother • Airport",
       "correct": 2,
       "options": [
         {
@@ -429,7 +429,7 @@
     },
     {
       "quote": "The Robin: the final play.",
-      "description": "How I Met Your Mother • How I Met Your Mother • WWN Rooftop",
+      "description": "How I Met Your Mother • WWN Rooftop",
       "correct": 1,
       "options": [
         {
@@ -448,7 +448,7 @@
     },
     {
       "quote": "I've been waiting eight years to hear the other side of that umbrella.",
-      "description": "How I Met Your Mother • How I Met Your Mother • 200th Episode",
+      "description": "How I Met Your Mother • 200th Episode",
       "correct": 2,
       "options": [
         {
@@ -467,7 +467,7 @@
     },
     {
       "quote": "Two Beavers Are Better Than One!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Space Teens",
+      "description": "How I Met Your Mother • Space Teens",
       "correct": 0,
       "options": [
         {
@@ -486,7 +486,7 @@
     },
     {
       "quote": "Crazy Eyes.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Chloe at the Coffee Shop",
+      "description": "How I Met Your Mother • Chloe at the Coffee Shop",
       "correct": 1,
       "options": [
         {
@@ -505,7 +505,7 @@
     },
     {
       "quote": "I even wrote a song for the occasion on the piano.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Thanksgiving",
+      "description": "How I Met Your Mother • Thanksgiving",
       "correct": 1,
       "options": [
         {
@@ -524,7 +524,7 @@
     },
     {
       "quote": "Where did the pineapple come from?",
-      "description": "How I Met Your Mother • How I Met Your Mother • Blackout Mystery",
+      "description": "How I Met Your Mother • Blackout Mystery",
       "correct": 2,
       "options": [
         {
@@ -543,7 +543,7 @@
     },
     {
       "quote": "P.S. I Love You — Robin Daggers!",
-      "description": "How I Met Your Mother • How I Met Your Mother • 90s Grunge",
+      "description": "How I Met Your Mother • 90s Grunge",
       "correct": 2,
       "options": [
         {
@@ -562,7 +562,7 @@
     },
     {
       "quote": "The Cockamouse!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Apartment 4A",
+      "description": "How I Met Your Mother • Apartment 4A",
       "correct": 0,
       "options": [
         {
@@ -580,9 +580,9 @@
       ]
     },
     {
-      "quote": "The Lorenzo Von Matterhorn.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Fake Wikipedia Pages",
-      "correct": 0,
+      "quote": "If you're not scared, you're not taking a chance, and if you're not taking a chance, then what the hell are you doing?",
+      "description": "Spoken by Ted Mosby",
+      "correct": 2,
       "options": [
         {
           "title": "S5E08 • The Playbook",
@@ -600,7 +600,7 @@
     },
     {
       "quote": "Weekend at Barney's.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Controlling Dead Barney",
+      "description": "How I Met Your Mother • Controlling Dead Barney",
       "correct": 2,
       "options": [
         {
@@ -619,7 +619,7 @@
     },
     {
       "quote": "The Lemon Law: five minutes to decide.",
-      "description": "How I Met Your Mother • How I Met Your Mother • First Date Rule",
+      "description": "How I Met Your Mother • First Date Rule",
       "correct": 2,
       "options": [
         {
@@ -638,7 +638,7 @@
     },
     {
       "quote": "Wait for it...",
-      "description": "How I Met Your Mother • How I Met Your Mother • Argentina",
+      "description": "How I Met Your Mother • Argentina",
       "correct": 0,
       "options": [
         {
@@ -657,7 +657,7 @@
     },
     {
       "quote": "I'm having a miracle!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Finale",
+      "description": "How I Met Your Mother • Finale",
       "correct": 0,
       "options": [
         {
@@ -676,7 +676,7 @@
     },
     {
       "quote": "La Vie En Rose on the ukulele.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Balcony",
+      "description": "How I Met Your Mother • Balcony",
       "correct": 2,
       "options": [
         {
@@ -695,7 +695,7 @@
     },
     {
       "quote": "Have you met Ted?",
-      "description": "How I Met Your Mother • How I Met Your Mother • First Episode",
+      "description": "Spoken by Barney Stinson",
       "correct": 0,
       "options": [
         {
@@ -714,7 +714,7 @@
     },
     {
       "quote": "Nothing suits me like a suit!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Musical Number",
+      "description": "How I Met Your Mother • Musical Number",
       "correct": 0,
       "options": [
         {
@@ -733,7 +733,7 @@
     },
     {
       "quote": "Okay is lame. Be awesome!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Nightclub",
+      "description": "How I Met Your Mother • Nightclub",
       "correct": 1,
       "options": [
         {
@@ -752,7 +752,7 @@
     },
     {
       "quote": "He's the guy who stole four curly fries from my plate!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Wedding",
+      "description": "How I Met Your Mother • Wedding",
       "correct": 0,
       "options": [
         {
@@ -770,8 +770,8 @@
       ]
     },
     {
-      "quote": "Do you love me?",
-      "description": "How I Met Your Mother • How I Met Your Mother • Rooftop",
+      "quote": "The future is scary, but you can't just run back to the past because it's familiar.",
+      "description": "Spoken by Robin Scherbatsky",
       "correct": 2,
       "options": [
         {
@@ -790,7 +790,7 @@
     },
     {
       "quote": "The Yellow Umbrella.",
-      "description": "How I Met Your Mother • How I Met Your Mother • St. Patrick's Day",
+      "description": "How I Met Your Mother • St. Patrick's Day",
       "correct": 2,
       "options": [
         {
@@ -809,7 +809,7 @@
     },
     {
       "quote": "You're All Alone.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Time Travelers",
+      "description": "How I Met Your Mother • Time Travelers",
       "correct": 1,
       "options": [
         {
@@ -828,7 +828,7 @@
     },
     {
       "quote": "Whenever he leaves early, something amazing happens!",
-      "description": "How I Met Your Mother • How I Met Your Mother • The Blitz Curse",
+      "description": "How I Met Your Mother • The Blitz Curse",
       "correct": 1,
       "options": [
         {
@@ -847,7 +847,7 @@
     },
     {
       "quote": "Let's go to the mall, today!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Robin Sparkles Debut",
+      "description": "How I Met Your Mother • Robin Sparkles Debut",
       "correct": 1,
       "options": [
         {
@@ -866,7 +866,7 @@
     },
     {
       "quote": "If I can't put Marvin to sleep, this bus ride will never end.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Bus",
+      "description": "How I Met Your Mother • Bus",
       "correct": 1,
       "options": [
         {
@@ -885,7 +885,7 @@
     },
     {
       "quote": "I made it rain!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Ted's Rain Dance",
+      "description": "How I Met Your Mother • Ted's Rain Dance",
       "correct": 2,
       "options": [
         {
@@ -904,7 +904,7 @@
     },
     {
       "quote": "That's how I met your mother.",
-      "description": "How I Met Your Mother • How I Met Your Mother • Series Finale",
+      "description": "How I Met Your Mother • Series Finale",
       "correct": 2,
       "options": [
         {
@@ -923,7 +923,7 @@
     },
     {
       "quote": "Bang, bang, bangity bang!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Rabbit or Duck",
+      "description": "How I Met Your Mother • Rabbit or Duck",
       "correct": 2,
       "options": [
         {
@@ -942,7 +942,7 @@
     },
     {
       "quote": "No spoilers! Sensory Deprivator 5000!",
-      "description": "How I Met Your Mother • How I Met Your Mother • Super Bowl",
+      "description": "How I Met Your Mother • Super Bowl",
       "correct": 1,
       "options": [
         {

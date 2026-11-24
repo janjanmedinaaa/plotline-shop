@@ -220,7 +220,7 @@
     },
     {
       "quote": "My whole brain is crying!",
-      "description": "Community • Conspiracy",
+      "description": "Spoken by Troy Barnes",
       "correct": 0,
       "options": [
         {
@@ -276,9 +276,9 @@
       ]
     },
     {
-      "quote": "You're streets behind!",
-      "description": "Community • Study Room",
-      "correct": 2,
+      "quote": "Cool. Cool cool cool.",
+      "description": "Spoken by Abed Nadir",
+      "correct": 0,
       "options": [
         {
           "title": "S1E01 • Pilot",
@@ -429,7 +429,7 @@
     },
     {
       "quote": "I'm a level 7 susceptible!",
-      "description": "Community • Honda CR-V",
+      "description": "Spoken by Dean Pelton",
       "correct": 1,
       "options": [
         {
@@ -467,7 +467,7 @@
     },
     {
       "quote": "All hail the Fives! Fours are barely human!",
-      "description": "Community • Community • App Dystopia",
+      "description": "Community • App Dystopia",
       "correct": 1,
       "options": [
         {
@@ -486,7 +486,7 @@
     },
     {
       "quote": "Roll the twenty-sided die for initiative!",
-      "description": "Community • Community • Study Room Table",
+      "description": "Community • Study Room Table",
       "correct": 2,
       "options": [
         {
@@ -505,7 +505,7 @@
     },
     {
       "quote": "Now there's a man who knows how to marry his cousin!",
-      "description": "Community • Community • Wedding",
+      "description": "Community • Wedding",
       "correct": 1,
       "options": [
         {
@@ -523,8 +523,8 @@
       ]
     },
     {
-      "quote": "It's a GI Joe cartoon! Yo Joe!",
-      "description": "Community • Community • Animated",
+      "quote": "Knowing is half the battle!",
+      "description": "Community • Animated",
       "correct": 0,
       "options": [
         {
@@ -543,7 +543,7 @@
     },
     {
       "quote": "As far back as I can remember, I always wanted to be in a Mafia movie.",
-      "description": "Community • Community • Chicken Fingers",
+      "description": "Community • Chicken Fingers",
       "correct": 0,
       "options": [
         {
@@ -562,7 +562,7 @@
     },
     {
       "quote": "Nobody leaves Study Room F until we find that purple pen!",
-      "description": "Community • Community • Study Room F",
+      "description": "Community • Study Room F",
       "correct": 2,
       "options": [
         {
@@ -619,7 +619,7 @@
     },
     {
       "quote": "ABBA! Why is ABBA playing during a zombie outbreak?!",
-      "description": "Community • Community • Halloween",
+      "description": "Community • Halloween",
       "correct": 1,
       "options": [
         {
@@ -656,8 +656,8 @@
       ]
     },
     {
-      "quote": "I'm gonna need you to stop making that face.",
-      "description": "Spoken by Jeff Winger",
+      "quote": "The thing some men call 'failure,' I call 'living—breakfast!' And I'm not leaving until I've cleaned out the buffet.",
+      "description": "Spoken by Pierce Hawthorne",
       "correct": 0,
       "options": [
         {
@@ -695,7 +695,7 @@
     },
     {
       "quote": "Welcome to the Dreamatorium!",
-      "description": "Community • Apartment 303",
+      "description": "Spoken by Abed Nadir",
       "correct": 1,
       "options": [
         {
@@ -714,7 +714,7 @@
     },
     {
       "quote": "The floor is lava!",
-      "description": "Community • Community • Troy's Goodbye",
+      "description": "Community • Troy's Goodbye",
       "correct": 0,
       "options": [
         {
@@ -752,7 +752,7 @@
     },
     {
       "quote": "Cool. Cool cool cool... #AndAMovie.",
-      "description": "Community • Community • Series Finale",
+      "description": "Community • Series Finale",
       "correct": 2,
       "options": [
         {
@@ -771,7 +771,7 @@
     },
     {
       "quote": "Greendale is on lockdown! Paintball!",
-      "description": "Community • Community • Priority Registration",
+      "description": "Community • Priority Registration",
       "correct": 1,
       "options": [
         {
@@ -847,7 +847,7 @@
     },
     {
       "quote": "Elroy! Encourage white people!",
-      "description": "Community • Community • RV",
+      "description": "Community • RV",
       "correct": 1,
       "options": [
         {
@@ -904,7 +904,7 @@
     },
     {
       "quote": "I'm a sexy cat!",
-      "description": "Community • Season 3/5 • Nic Cage",
+      "description": "Spoken by Abed Nadir",
       "correct": 0,
       "options": [
         {
@@ -942,7 +942,7 @@
     },
     {
       "quote": "This campus isn't big enough for two rival forts!",
-      "description": "Community • Community • Documentary",
+      "description": "Community • Documentary",
       "correct": 2,
       "options": [
         {

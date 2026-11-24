@@ -11,7 +11,7 @@
   "questions": [
     {
       "quote": "My name is Regina Phalange.",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -391,7 +391,7 @@
     },
     {
       "quote": "Oh. My. God.",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -751,8 +751,8 @@
       ]
     },
     {
-      "quote": "I'm wonderfully weird!",
-      "description": "Season 9 • Mike's Parents",
+      "quote": "See? He's her lobster.",
+      "description": "S2E14 • The One with the Prom Video",
       "correct": 2,
       "options": [
         {
@@ -846,9 +846,9 @@
       ]
     },
     {
-      "quote": "I'm curvy and I like it!",
-      "description": "Season 7 • Turkey Pants",
-      "correct": 2,
+      "quote": "Welcome to the real world. It sucks. You're gonna love it.",
+      "description": "Friends • Classic Scene",
+      "correct": 0,
       "options": [
         {
           "title": "Monica Geller",
@@ -885,7 +885,7 @@
     },
     {
       "quote": "Could I BE wearing any more clothes?",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -941,9 +941,9 @@
       ]
     },
     {
-      "quote": "Three divorces! Three divorces!",
-      "description": "Season 6 • Central Perk",
-      "correct": 0,
+      "quote": "Well, maybe I don't need your money. Wait, wait, I said maybe!",
+      "description": "S1E01 • The One Where Monica Gets a Roommate",
+      "correct": 1,
       "options": [
         {
           "title": "Ross Geller",

@@ -11,7 +11,7 @@
   "questions": [
     {
       "quote": "Whatever you do in this life, it's not legendary unless your friends are there to see it.",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -296,7 +296,7 @@
     },
     {
       "quote": "I'm a vampire!",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -315,7 +315,7 @@
     },
     {
       "quote": "Classic Schmosby!",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -334,7 +334,7 @@
     },
     {
       "quote": "I'm gonna bake you cookies, Robin!",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -391,7 +391,7 @@
     },
     {
       "quote": "Gouda!",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -524,7 +524,7 @@
     },
     {
       "quote": "Boats! Boats! Boats!",
-      "description": "How I Met Your Mother • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -732,8 +732,8 @@
       ]
     },
     {
-      "quote": "Nobody asked you, Patrice!",
-      "description": "World Wide News • Office Rant",
+      "quote": "The future is scary, but you can't just run back to the past because it's familiar.",
+      "description": "S7E17 • No Pressure",
       "correct": 2,
       "options": [
         {
@@ -865,8 +865,8 @@
       ]
     },
     {
-      "quote": "Kids, I'm going to tell you an incredible story.",
-      "description": "Pilot • 2030 Study",
+      "quote": "You see, kids, right from the moment I met your mom I knew: I have to love this woman as much as I can.",
+      "description": "S9E24 • Last Forever",
       "correct": 0,
       "options": [
         {
@@ -884,9 +884,9 @@
       ]
     },
     {
-      "quote": "But um...",
-      "description": "Morning Show • Drinking Game",
-      "correct": 0,
+      "quote": "Look, you can't design your life like a building. It doesn't work that way. You just have to live it, and it'll design itself.",
+      "description": "S4E24 • The Leap",
+      "correct": 2,
       "options": [
         {
           "title": "Robin Scherbatsky",
@@ -903,9 +903,9 @@
       ]
     },
     {
-      "quote": "You son of a beetch!",
-      "description": "How I Met Your Mother • Classic Scene",
-      "correct": 2,
+      "quote": "I love a Scotch that's old enough to order its own Scotch.",
+      "description": "S4E03 • I Heart NJ",
+      "correct": 0,
       "options": [
         {
           "title": "Robin Scherbatsky",
@@ -922,9 +922,9 @@
       ]
     },
     {
-      "quote": "Where's the poop, Robin?",
-      "description": "How I Met Your Mother • Classic Scene",
-      "correct": 2,
+      "quote": "If you're not scared, you're not taking a chance, and if you're not taking a chance, then what the hell are you doing?",
+      "description": "S4E24 • The Leap",
+      "correct": 0,
       "options": [
         {
           "title": "Ted Mosby",
@@ -941,9 +941,9 @@
       ]
     },
     {
-      "quote": "You can't just say 'I'm Big Fudge'!",
-      "description": "MacLaren's • Nickname",
-      "correct": 0,
+      "quote": "Whenever I'm sad, I stop being sad and be awesome instead. True story.",
+      "description": "S2E01 • Where Were We?",
+      "correct": 2,
       "options": [
         {
           "title": "Marshall Eriksen",

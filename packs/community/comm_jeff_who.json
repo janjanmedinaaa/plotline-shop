@@ -258,7 +258,7 @@
     },
     {
       "quote": "Someone's been eating my pies!",
-      "description": "Community • Classic Scene",
+      "description": "Classic Scene",
       "correct": 2,
       "options": [
         {
@@ -410,7 +410,7 @@
     },
     {
       "quote": "Don't eat the crab dip! Yay-yay!",
-      "description": "Community • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -429,7 +429,7 @@
     },
     {
       "quote": "Buy my frozen pizza! Four stars!",
-      "description": "Community • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -448,7 +448,7 @@
     },
     {
       "quote": "Shut up, Leonard! I know about your prescription socks!",
-      "description": "Community • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -524,7 +524,7 @@
     },
     {
       "quote": "I can excuse racism, but I draw the line at animal cruelty.",
-      "description": "Community • Classic Scene",
+      "description": "Classic Scene",
       "correct": 0,
       "options": [
         {
@@ -922,9 +922,9 @@
       ]
     },
     {
-      "quote": "Fire can't go through doors, stupid! It's not a ghost!",
-      "description": "Study Room • Debate",
-      "correct": 1,
+      "quote": "The thing some men call 'failure,' I call 'living—breakfast!' And I'm not leaving until I've cleaned out the buffet.",
+      "description": "S1E01 • Pilot",
+      "correct": 0,
       "options": [
         {
           "title": "Pierce Hawthorne",

@@ -694,8 +694,8 @@
       ]
     },
     {
-      "quote": "My name is Regina Phalange.",
-      "description": "Friends • Classic Scene",
+      "quote": "See? He's her lobster.",
+      "description": "S2E14 • The One with the Prom Video",
       "correct": 0,
       "options": [
         {
@@ -771,7 +771,7 @@
     },
     {
       "quote": "No more Falafel for you!",
-      "description": "Friends • Classic Scene",
+      "description": "Classic Scene",
       "correct": 1,
       "options": [
         {
@@ -884,9 +884,9 @@
       ]
     },
     {
-      "quote": "Maternity pants! Those are my Thanksgiving pants!",
-      "description": "Season 8 • Living Room",
-      "correct": 0,
+      "quote": "Welcome to the real world. It sucks. You're gonna love it.",
+      "description": "Friends • Classic Scene",
+      "correct": 2,
       "options": [
         {
           "title": "Joey Tribbiani",
@@ -903,9 +903,9 @@
       ]
     },
     {
-      "quote": "Princess Consuela Banana-Hammock.",
-      "description": "Season 10 • Name Change",
-      "correct": 0,
+      "quote": "Well, maybe I don't need your money. Wait, wait, I said maybe!",
+      "description": "S1E01 • The One Where Monica Gets a Roommate",
+      "correct": 2,
       "options": [
         {
           "title": "Phoebe Buffay",
