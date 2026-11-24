@@ -1,7 +1,7 @@
 {
-  "id": "friends_ross_who",
-  "title": "Friends: Ross's Meltdowns",
-  "description": "Tanning beds, leather pants, fajitas, and divorces.",
+  "id": "friends_food_who",
+  "title": "Friends: Food & Coffee",
+  "description": "Who said these famous food, turkey, and coffee lines?",
   "category": "series",
   "group": "Friends",
   "tag": "Who said it?",
@@ -10,9 +10,9 @@
   "quote_count": 50,
   "questions": [
     {
-      "quote": "I'm fine! Hey, I'm great! I'm just, I'm just proud of us. There's no weirdness, no tension.",
-      "description": "Friends • The One Where Ross Is Fine",
-      "correct": 0,
+      "quote": "Phew! I tell you, it's hot with all this stuff on. I better not do any - you know - lunges!",
+      "description": "Friends • The One Where No One's Ready",
+      "correct": 1,
       "options": [
         {
           "title": "Ross Geller",
@@ -20,26 +20,26 @@
         },
         {
           "title": "Joey Tribbiani",
-          "description": "Friends character"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "And to love. Ah, love. L-O-V-E, love. L is for life. And what is life without love?",
-      "description": "Friends • The One Where Ross Is Fine",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
           "description": "Friends character"
         },
         {
           "title": "Chandler Bing",
           "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "I can hear traffic and birds. I can hear the voices in my head again!",
+      "description": "Friends • The One Where Emma Cries",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
         },
         {
           "title": "Joey Tribbiani",
@@ -48,130 +48,35 @@
       ]
     },
     {
-      "quote": "Well uh, I like how you look, what are you?",
-      "description": "Friends • The One with Ross' Tan",
+      "quote": "What? When have I ever touched myself in front of you guys?",
+      "description": "Friends • The One Where No One Proposes",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "How do you know she's gonna start talking?",
+      "description": "Friends • The One with the Lottery",
       "correct": 2,
       "options": [
         {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "While we're waiting, why don't you guys record your message to Emma?",
-      "description": "Friends • The One with the Cake",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
           "title": "Chandler Bing",
           "description": "Friends character"
         },
         {
           "title": "Phoebe Buffay",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "You're mad at me about last night? I was trying to do the right thing!",
-      "description": "Friends • The One Where Joey Speaks French",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "I can't believe this! I was being a good guy! I treated you with respect and understanding!",
-      "description": "Friends • The One Where Joey Speaks French",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Friends character"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "I've got to say, I've not had sex a lot of times before; this is the worst ever!",
-      "description": "Friends • The One Where Joey Speaks French",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "So, if you take this job you'll be moving to Paris?",
-      "description": "Friends • The One Where Estelle Dies",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "No, no!! Oh, my god, did she get off the plane? Did she get off the plane?",
-      "description": "Friends • Part 2",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Chandler Bing",
           "description": "Friends character"
         },
         {
@@ -181,92 +86,35 @@
       ]
     },
     {
-      "quote": "Me neither, okay? We're done being stupid.",
-      "description": "Friends • Part 2",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "Hey, tell me again what I do when Mr. Roper calls?",
-      "description": "Friends • The One with Five Steaks and an Eggplant",
+      "quote": "My agent just called me with an audition for Days of Our Lives!",
+      "description": "Friends • The One with Russ",
       "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "No, it's not 'interesting'! It's very not interesting! It's 100% the opposite of interesting!",
-      "description": "Friends • The One Where Ross Finds Out",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "You had no right to tell me you ever had feelings for me!",
-      "description": "Friends • The One Where Ross Finds Out",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Joey Tribbiani",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "I was doing great with Julie before I found out about you!",
-      "description": "Friends • The One Where Ross Finds Out",
-      "correct": 1,
       "options": [
         {
           "title": "Joey Tribbiani",
           "description": "Friends character"
         },
         {
-          "title": "Ross Geller",
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Let's play one more time, okay? And remember if I win, you do not move to Paris.",
+      "description": "Friends • The One with Rachel's Going Away Party",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
           "description": "Friends character"
         },
         {
@@ -276,149 +124,54 @@
       ]
     },
     {
-      "quote": "C'mon, what, you never think about our future?",
-      "description": "Friends • The One Where Old Yeller Dies",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "Well, aren't you forgettin' something? What, what, what is, uh, what is that guy's name? Dad!",
-      "description": "Friends • The One with the Jam",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "I'm not trying to \"get out\" of anything, okay? I thought our relationship was dead.",
-      "description": "Friends • The One with the Morning After",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "I didn't know what I was taking responsibility for! Okay? I didn't finish the letter!",
+      "quote": "And, hey, just so you know — it's not that common, it doesn't happen to every guy, and it is a big deal!",
       "description": "Friends • The One with the Jellyfish",
       "correct": 0,
       "options": [
         {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "It was five-thirty in the morning. And you had rambled on for eighteen pages. FRONT AND BACK!",
-      "description": "Friends • The One with the Jellyfish",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "Oh, oh, oh, and by the way, y-o-u-apostrophe-r-e means \"you are\". Y-o-u-r means \"your\"!",
-      "description": "Friends • The One with the Jellyfish",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        },
-        {
           "title": "Rachel Green",
           "description": "Friends character"
         },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "Nooo!! Gandalf?! Gandalf is coming to town?",
-      "description": "Friends • The One Where They're Going to Party!",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "Gandalf the wizard. Hello! Didn't you read Lord of the Rings in high school?",
-      "description": "Friends • The One Where They're Going to Party!",
-      "correct": 1,
-      "options": [
         {
           "title": "Chandler Bing",
           "description": "Friends character"
         },
         {
           "title": "Ross Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Überweiss! It's new, it's German, it's extra tough.",
+      "description": "Friends • The One with the East German Laundry Detergent",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Some of the words a little too sophisticated for you?",
+      "description": "Friends • The One Where Rachel's Sister Babysits",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
           "description": "Friends character"
         },
         {
@@ -428,85 +181,9 @@
       ]
     },
     {
-      "quote": "So the first time you asked a guy out he turned you down?",
-      "description": "Friends • The One with Rachel's Crush",
+      "quote": "Why would I kiss a girl and then put her on your bed?",
+      "description": "Friends • The One Where the Stripper Cries",
       "correct": 2,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "She lives there. I live here. I mean, she'd have to move here. She should move here!",
-      "description": "Friends • The One with All the Haste",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "My Thanksgiving leftover sandwich! I can't believe someone ate it!",
-      "description": "Friends • The One with Ross's Sandwich",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "That would be incredible! Thank you so much! I still can't believe someone ate it!! I left a note!",
-      "description": "Friends • The One with Ross's Sandwich",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "Really? So what would you say? \"Keep your mitts off my grub\"?",
-      "description": "Friends • The One with Ross's Sandwich",
-      "correct": 0,
       "options": [
         {
           "title": "Ross Geller",
@@ -517,41 +194,22 @@
           "description": "Friends character"
         },
         {
-          "title": "Monica Geller",
+          "title": "Chandler Bing",
           "description": "Friends character"
         }
       ]
     },
     {
-      "quote": "Just the one divorce in '99. WHOO. You know what? I'm going to be happy this year, I'm gonna make myself happy.",
-      "description": "Friends • The One with All the Resolutions",
-      "correct": 1,
+      "quote": "No! Half of the taste is in the smell! You're sucking up all the taste units!",
+      "description": "Friends • The One with the Ride-Along",
+      "correct": 2,
       "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
         {
           "title": "Rachel Green",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "You're right, I'm sorry. Will you marry me? .",
-      "description": "Friends • The One with the Girl Who Hits Joey",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
           "description": "Friends character"
         },
         {
@@ -561,122 +219,27 @@
       ]
     },
     {
-      "quote": "You know what I think?... She's weird. It's because she's a twin. Twins are weird.",
-      "description": "Friends • The One with the Apothecary Table",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "You know what's not one-of-a-kind? A twin!",
-      "description": "Friends • The One with the Apothecary Table",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Monica Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "Yeah, they print jokes, interviews, hard-hitting journalism. It's not just about the pictures!",
-      "description": "Friends • The One with the Joke",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Chandler Bing",
-          "description": "Friends character"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "Y'know what? Fine! Get attacked! I don't even care!",
-      "description": "Friends • The One with Unagi",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "You guys call him Cute Coffeehouse Guy? We call him \"Hums While He Pees.\"",
-      "description": "Friends • The One with the Engagement Picture",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "Dude, you didn't say Die Hard. Is everything okay?",
-      "description": "Friends • The One with the Nap Partners",
+      "quote": "Before or after you were shot by your own troops?",
+      "description": "Friends • The One with the Ride-Along",
       "correct": 1,
       "options": [
         {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
           "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
           "description": "Friends character"
         }
       ]
     },
     {
-      "quote": "Mine stole my newspaper! It's like a crime wave!",
-      "description": "Friends • The One with All the Candy",
+      "quote": "Hey, that's never gonna make it all the way over here, buddy!",
+      "description": "Friends • The One with the Giant Poking Device",
       "correct": 1,
       "options": [
         {
@@ -684,121 +247,7 @@
           "description": "Friends character"
         },
         {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "The Armadillo was actually not so thrilled about that part!",
-      "description": "Friends • The One with the Holiday Armadillo",
-      "correct": 2,
-      "options": [
-        {
           "title": "Joey Tribbiani",
-          "description": "Friends character"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "Now wait a minute, you be nice! All right? I didn’t bring you here so you can ambush her.",
-      "description": "Friends • The One with All the Cheesecakes",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Friends character"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "Oh really? Is that how you felt when you turned thirty?",
-      "description": "Friends • The One Where They All Turn Thirty",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "A no-sex pact, huh? I seem to have one of those going with every woman in America.",
-      "description": "Friends • The One with Ross and Monica's Cousin",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Joey Tribbiani",
-          "description": "Friends character"
-        },
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "Rain? \"Hi, my name is Rain. I have my own kiln and my dress is made out of wheat.\"",
-      "description": "Friends • The One Where Chandler Takes a Bath",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ross Geller",
-          "description": "Friends character"
-        },
-        {
-          "title": "Phoebe Buffay",
-          "description": "Friends character"
-        },
-        {
-          "title": "Chandler Bing",
-          "description": "Friends character"
-        }
-      ]
-    },
-    {
-      "quote": "This is insane! I'm not gonna make love to you just so you'll go into labor!",
-      "description": "Friends • The One Where Rachel Is Late",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Rachel Green",
-          "description": "Friends character"
-        },
-        {
-          "title": "Phoebe Buffay",
           "description": "Friends character"
         },
         {
@@ -810,29 +259,48 @@
     {
       "quote": "Mom, you know what? I can't deal with this right now. I'm sorry...",
       "description": "Friends • Part 1",
-      "correct": 1,
+      "correct": 2,
       "options": [
         {
-          "title": "Joey Tribbiani",
-          "description": "Friends character"
-        },
-        {
-          "title": "Ross Geller",
+          "title": "Monica Geller",
           "description": "Friends character"
         },
         {
           "title": "Rachel Green",
           "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
         }
       ]
     },
     {
-      "quote": "What? When have I ever touched myself in front of you guys?",
-      "description": "Friends • The One Where No One Proposes",
-      "correct": 0,
+      "quote": "Oh, you only had a year! We only hung out every night!",
+      "description": "Friends • The One Where Ross Finds Out",
+      "correct": 1,
       "options": [
         {
-          "title": "Ross Geller",
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Do you really think the best reason to get married is because you're sorry?",
+      "description": "Friends • The One with the Girl Who Hits Joey",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
           "description": "Friends character"
         },
         {
@@ -840,14 +308,52 @@
           "description": "Friends character"
         },
         {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh man, he took the five of spades! Oh, no, no, no. Here it is.",
+      "description": "Friends • The One with the Cat",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
           "title": "Joey Tribbiani",
           "description": "Friends character"
         }
       ]
     },
     {
-      "quote": "Rach, you did not leave the water running. Please just...just pull yourself together okay?",
-      "description": "Friends • The One with Phoebe's Birthday Dinner",
+      "quote": "I wonder why Ross said that he died?",
+      "description": "Friends • The One with the Pediatrician",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Monica couldn't tell time till she was 13!",
+      "description": "Friends • The One with Rachel's Assistant",
       "correct": 0,
       "options": [
         {
@@ -855,11 +361,11 @@
           "description": "Friends character"
         },
         {
-          "title": "Chandler Bing",
+          "title": "Phoebe Buffay",
           "description": "Friends character"
         },
         {
-          "title": "Phoebe Buffay",
+          "title": "Monica Geller",
           "description": "Friends character"
         }
       ]
@@ -874,26 +380,26 @@
           "description": "Friends character"
         },
         {
-          "title": "Joey Tribbiani",
+          "title": "Monica Geller",
           "description": "Friends character"
         },
         {
-          "title": "Rachel Green",
+          "title": "Joey Tribbiani",
           "description": "Friends character"
         }
       ]
     },
     {
-      "quote": "Uh, don't you think that would be a little weird? I mean, two guys in a romantic inn...",
-      "description": "Friends • The One with Rachel's Dream",
-      "correct": 1,
+      "quote": "Wow, so tonight might be the night. You nervous?",
+      "description": "Friends • The One with Ross' Tan",
+      "correct": 2,
       "options": [
         {
-          "title": "Joey Tribbiani",
+          "title": "Monica Geller",
           "description": "Friends character"
         },
         {
-          "title": "Ross Geller",
+          "title": "Joey Tribbiani",
           "description": "Friends character"
         },
         {
@@ -903,8 +409,8 @@
       ]
     },
     {
-      "quote": "I guess... It still seems a little... moonlight boat ride!",
-      "description": "Friends • The One with Rachel's Dream",
+      "quote": "Just the one divorce in '99. WHOO. You know what? I'm going to be happy this year, I'm gonna make myself happy.",
+      "description": "Friends • The One with All the Resolutions",
       "correct": 1,
       "options": [
         {
@@ -922,12 +428,50 @@
       ]
     },
     {
-      "quote": "Uh... uh... Well, Joey and I had discussed getting in an early morning racquetball game. But, um, apparently, somebody overslept.",
-      "description": "Friends • The One with Mrs. Bing",
+      "quote": "Well, I guess Monica should know about Atlantic City!",
+      "description": "Friends • The One with Rachel's Assistant",
       "correct": 0,
       "options": [
         {
           "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Someday I'll tell you about the time I stabbed a cop!",
+      "description": "Friends • The One with Ross's Sandwich",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "What? Are you afraid you’re gonna run out? Cut me a real piece!",
+      "description": "Friends • The One with the Rumor",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
           "description": "Friends character"
         },
         {
@@ -935,14 +479,299 @@
           "description": "Friends character"
         },
         {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Seriously, Ross, breathe louder, that's great.",
+      "description": "Friends • The One Where Rachel Is Late",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Wait! Ross- I'm jealous! I'm jealous!",
+      "description": "Friends • The One with All the Jealousy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "I'm fine! Hey, I'm great! I'm just, I'm just proud of us. There's no weirdness, no tension.",
+      "description": "Friends • The One Where Ross Is Fine",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "You were my first kiss with Rachel?ǃ",
+      "description": "Friends • The One Where the Stripper Cries",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "If you had to, what would you give up? Food or sex?",
+      "description": "Friends • The One Where Chandler Gets Caught",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Hi Emma. It's the year 2020. Are you still enjoying your nap?",
+      "description": "Friends • The One with the Cake",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Hello, ya! It's time for your massage, ya! Put your face in the hole!",
+      "description": "Friends • The One with the Fertility Test",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
           "title": "Chandler Bing",
           "description": "Friends character"
         }
       ]
     },
     {
-      "quote": "I don't think that Monica's failures...",
-      "description": "Friends • The One with the Boobies",
+      "quote": "Ok, I got one, I got one. Uh, if he blows into one, does the other one get bigger?",
+      "description": "Friends • The One With the Breast Milk",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, you guys, \"Hums While He Pees\" just asked me out!",
+      "description": "Friends • The One with the Engagement Picture",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "That's easy! You just have to think of him as a — as a jar of pickles that won't open.",
+      "description": "Friends • The One with the Ring",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Why did you look at me when you said that?",
+      "description": "Friends • The One with Five Steaks and an Eggplant",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "You're sure? Nobody uh, handed out, uh, mints or anything?",
+      "description": "Friends • The One with the Ick Factor",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "And starting to think about settling down!",
+      "description": "Friends • The One with the Cake",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, Rach, by any chance, did you come by here and pick Emma up?",
+      "description": "Friends • The One with the Blind Dates",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Beth... Beth dies? If I keep reading is Beth gonna die?",
+      "description": "Friends • The One Where Monica & Richard Are Just Friends",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "No, no!! Oh, my god, did she get off the plane? Did she get off the plane?",
+      "description": "Friends • Part 2",
       "correct": 0,
       "options": [
         {
@@ -955,6 +784,177 @@
         },
         {
           "title": "Rachel Green",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Joey kept screaming at me. Do it now, do it, do it, do it, do it now! Sometimes late at night I can still hear the screaming.",
+      "description": "Friends • The One with the Jellyfish",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Honey, we are so meant to be. Look, we both have copies of the Annie soundtrack!",
+      "description": "Friends • The One with The Tea Leaves",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Wow! You certainly think a lot of yourself.",
+      "description": "Friends • The One with the Cop",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh he's nice. He's nice! Y'know, you always stick up for the people we fog!",
+      "description": "Friends • The One with the Yeti",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "She lives there. I live here. I mean, she'd have to move here. She should move here!",
+      "description": "Friends • The One with All the Haste",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Monica Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Why would you start again after chewing all that quitting gum?",
+      "description": "Friends • The One Without the Ski Trip",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah. Yeah, but it was a really, really long time ago! Does she still feel bad?",
+      "description": "Friends • The One with the Nap Partners",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Ross Geller",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, we set up a court in your room. Uh, you didn't really like that grey lamp, did you?",
+      "description": "Friends • The One with the Two Parties",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Joey Tribbiani",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
+          "description": "Friends character"
+        }
+      ]
+    },
+    {
+      "quote": "Look! Look what the-Look what the floating heads did!",
+      "description": "Friends • The One with the Late Thanksgiving",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Phoebe Buffay",
+          "description": "Friends character"
+        },
+        {
+          "title": "Rachel Green",
+          "description": "Friends character"
+        },
+        {
+          "title": "Chandler Bing",
           "description": "Friends character"
         }
       ]

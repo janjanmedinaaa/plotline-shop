@@ -1,25 +1,44 @@
 {
-  "id": "office_michael_who",
-  "title": "The Office: Michael Scott",
-  "description": "That's what she said, Prison Mike, and Dunder Mifflin's boss.",
+  "id": "office_scranton_who",
+  "title": "The Office: Scranton Branch",
+  "description": "Who said it at Dunder Mifflin Scranton?",
   "category": "series",
-  "group": "The Office (US)",
+  "group": "The Office",
   "tag": "Who said it?",
   "answer_type": "character",
-  "price": 150,
+  "price": 160,
   "quote_count": 50,
   "questions": [
     {
-      "quote": "That is totally inappropriate! You should never yell at the client. You never yell at the client!",
-      "description": "The Office • Customer Survey",
-      "correct": 1,
+      "quote": "Oh, not likely. 3 billion women on the planet, most of them live in Asia, so the numbers just don't add up.",
+      "description": "The Office • Blood Drive",
+      "correct": 2,
       "options": [
         {
-          "title": "Dwight Schrute",
+          "title": "Pam Beesly",
           "description": "The Office character"
         },
         {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "If Michael organizes some kind of group hug, stand next to me.",
+      "description": "The Office • Beach Games",
+      "correct": 1,
+      "options": [
+        {
           "title": "Michael Scott",
+          "description": "The Office character"
+        },
+        {
+          "title": "Dwight Schrute",
           "description": "The Office character"
         },
         {
@@ -29,104 +48,85 @@
       ]
     },
     {
-      "quote": "Hello, Mr. Buttlicker. How may we help you?",
-      "description": "The Office • Customer Survey",
-      "correct": 1,
+      "quote": "Ooooh, now do the Swedish chef.",
+      "description": "The Office • Murder",
+      "correct": 0,
       "options": [
         {
-          "title": "Erin Hannon",
+          "title": "Kevin Malone",
           "description": "The Office character"
         },
         {
-          "title": "Michael Scott",
+          "title": "Jim Halpert",
           "description": "The Office character"
         },
         {
-          "title": "Oscar Martinez",
+          "title": "Angela Martin",
           "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "See how it's done? Thank you very much, sir. I don't think you'll regret it. See what I did?",
-      "description": "The Office • Customer Survey",
+      "quote": "OK, that's great. I guess what I'm most concerned with is damage to company property. That's all.",
+      "description": "The Office • Pilot",
       "correct": 1,
       "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
         {
           "title": "Dwight Schrute",
           "description": "The Office character"
         },
         {
           "title": "Michael Scott",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Jim, Jim, Jim. Jim, Jim, Jim, Jim, Jim, Jim, Jim.",
+      "description": "The Office • The Job",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Dwight Schrute",
           "description": "The Office character"
         },
         {
           "title": "Andy Bernard",
           "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Why am I so sad? Am I doing the wrong thing?",
-      "description": "The Office • Goodbye, Michael",
-      "correct": 2,
-      "options": [
+        },
         {
           "title": "Angela Martin",
           "description": "The Office character"
-        },
-        {
-          "title": "Oscar Martinez",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "That's what I said. That's what she said.",
-      "description": "The Office • Survivor Man",
-      "correct": 0,
+      "quote": "So tell me about your new girlfriend.",
+      "description": "The Office • PDA",
+      "correct": 2,
       "options": [
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Dwight Schrute",
-          "description": "The Office character"
-        },
         {
           "title": "Stanley Hudson",
           "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Maybe the Michael Scott Paper Company was a huge mistake. I should leave. I should go and start my own paper company. That'll show 'em.",
-      "description": "The Office • Michael Scott Paper Company",
-      "correct": 0,
-      "options": [
+        },
         {
           "title": "Michael Scott",
           "description": "The Office character"
         },
         {
-          "title": "Dwight Schrute",
-          "description": "The Office character"
-        },
-        {
-          "title": "Kevin Malone",
+          "title": "Erin Hannon",
           "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "And yeah. Jim, this is the time to stop putting Dwight's personal effects into Jell-O.",
-      "description": "The Office • Pilot",
-      "correct": 2,
+      "quote": "I'm the same around horny people.",
+      "description": "The Office • Moving On",
+      "correct": 1,
       "options": [
         {
           "title": "Jim Halpert",
@@ -137,92 +137,39 @@
           "description": "The Office character"
         },
         {
-          "title": "Michael Scott",
+          "title": "Andy Bernard",
           "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "Nice. That's the way it is around here. It just kind of goes round and round.",
-      "description": "The Office • Pilot",
-      "correct": 2,
+      "quote": "Do you think Kevin cares what other people think about him? Or Creed or Meredith? Oh my gosh! These are my role models now.",
+      "description": "The Office • The Target",
+      "correct": 1,
       "options": [
-        {
-          "title": "Andy Bernard",
-          "description": "The Office character"
-        },
         {
           "title": "Erin Hannon",
           "description": "The Office character"
         },
         {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Pudding. Pudding... I'm trying to think of another dessert to do.",
-      "description": "The Office • Pilot",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Stanley Hudson",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
           "title": "Pam Beesly",
           "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Uh, none. You're picking a healthcare plan.",
-      "description": "The Office • Health Care",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Stanley Hudson",
-          "description": "The Office character"
         },
-        {
-          "title": "Oscar Martinez",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "I will use your talents come baseball season, my friend. Or if we box.",
-      "description": "The Office • Basketball",
-      "correct": 1,
-      "options": [
         {
           "title": "Kevin Malone",
           "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "Happy birthday, Jesus. Sorry your party's so lame.",
-      "description": "The Office • Christmas Party",
+      "quote": "Sorry, Stinky, can't do it. Too busy.",
+      "description": "The Office • Suit Warehouse",
       "correct": 2,
       "options": [
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        },
         {
           "title": "Angela Martin",
           "description": "The Office character"
@@ -230,9 +177,43 @@
         {
           "title": "Jim Halpert",
           "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "That's as hard as I can hint.",
+      "description": "The Office • Sabre",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
         },
         {
           "title": "Michael Scott",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, there's an inner circle. Oh yeah.",
+      "description": "The Office • The Inner Circle",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        },
+        {
+          "title": "Andy Bernard",
           "description": "The Office character"
         }
       ]
@@ -240,485 +221,10 @@
     {
       "quote": "Yes, Darryl, the sales department makes sales. Good.",
       "description": "The Office • Booze Cruise",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Angela Martin",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Give the bottle to me, Dwight. Just keep your eyes on the road. Give me the bottle or you're fired.",
-      "description": "The Office • The Injury",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Kevin Malone",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Andy Bernard",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "I love inside jokes. I'd love to be a part of one someday.",
-      "description": "The Office • The Convention",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Dwight Schrute",
-          "description": "The Office character"
-        },
-        {
-          "title": "Erin Hannon",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Your dentist's name is Crentist... huh. Sounds a lot like dentist.",
-      "description": "The Office • The Coup",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Oscar Martinez",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Dwight Schrute",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "I'd like everybody's attention. Christmas is cancelled.",
-      "description": "The Office • A Benihana Christmas",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Angela Martin",
-          "description": "The Office character"
-        },
-        {
-          "title": "Andy Bernard",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Keep it up, Stanley, and you'll lose New Year's.",
-      "description": "The Office • A Benihana Christmas",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Dwight Schrute",
-          "description": "The Office character"
-        },
-        {
-          "title": "Kevin Malone",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "No... that's a German woman named... Urkel... grue.",
-      "description": "The Office • Back From Vacation",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Andy Bernard",
-          "description": "The Office character"
-        },
-        {
-          "title": "Dwight Schrute",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "The Jamaicans don't have a word for \"impossible.\"",
-      "description": "The Office • Back From Vacation",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Erin Hannon",
-          "description": "The Office character"
-        },
-        {
-          "title": "Angela Martin",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Fool me once, strike one. Fool me twice... strike three.",
-      "description": "The Office • Traveling Salesmen",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Kevin Malone",
-          "description": "The Office character"
-        },
-        {
-          "title": "Andy Bernard",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "No need for consternation. Everything is under control.",
-      "description": "The Office • The Negotiation",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Oscar Martinez",
-          "description": "The Office character"
-        },
-        {
-          "title": "Kevin Malone",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "It was a crime of passion, Jan. Not a disgruntled employee. Everyone here is extremely gruntled.",
-      "description": "The Office • The Negotiation",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Erin Hannon",
-          "description": "The Office character"
-        },
-        {
-          "title": "Stanley Hudson",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "I don't think that this is totally just a woman's suit. At the very least it's bisexual.",
-      "description": "The Office • The Negotiation",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Dwight Schrute",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Oh crap. Deactivate the car alarm. Clean up the mess.",
-      "description": "The Office • Safety Training",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Angela Martin",
-          "description": "The Office character"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Today, we are not just spending a day at the beach.",
-      "description": "The Office • Beach Games",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Kevin Malone",
-          "description": "The Office character"
-        },
-        {
-          "title": "Dwight Schrute",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "If you don't like it, Stanley, you can go to the back of the bus.",
-      "description": "The Office • Beach Games",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Dwight Schrute",
-          "description": "The Office character"
-        },
-        {
-          "title": "Angela Martin",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Or the front of the bus. Or drive the bus.",
-      "description": "The Office • Beach Games",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Kevin Malone",
-          "description": "The Office character"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Ladies and gentlemen, I have some bad news. Meredith was hit by a car.",
-      "description": "The Office • Fun Run",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Stanley Hudson",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Oscar Martinez",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "I'm not superstitious, but I...I am a little stitious.",
-      "description": "The Office • Fun Run",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jim Halpert",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Erin Hannon",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Wish I could, but I can't. Well, can, but won't. Should, maybe, but shorn't.",
-      "description": "The Office • Chair Model",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Stanley Hudson",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Dwight Schrute",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Friends joke with one another. Hey you're poor. Hey, your momma's dead. That's what friends do.",
-      "description": "The Office • Did I Stutter?",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Kevin Malone",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Pam Beesly",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "You know Dwight, sometimes... I dunno, I think you say things just to agree with me.",
-      "description": "The Office • Goodbye, Toby",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Angela Martin",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Stanley Hudson",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "I would not... steal the bread. And I would not let my family go hungry.",
-      "description": "The Office • Business Ethics",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Oscar Martinez",
-          "description": "The Office character"
-        },
-        {
-          "title": "Kevin Malone",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Great practical joke, Jim. Got me to go to the annex.",
-      "description": "The Office • Frame Toby",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Dwight Schrute",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Kevin Malone",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "You must feel pretty good about yourself right now.",
-      "description": "The Office • Frame Toby",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Erin Hannon",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Andy Bernard",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Why don't you explain this to me like I'm five.",
-      "description": "The Office • The Surplus",
       "correct": 2,
       "options": [
         {
           "title": "Stanley Hudson",
-          "description": "The Office character"
-        },
-        {
-          "title": "Erin Hannon",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "That is true. We have gone down the wrong path many, many times.",
-      "description": "The Office • Prince Family Paper",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Oscar Martinez",
           "description": "The Office character"
         },
         {
@@ -734,44 +240,6 @@
     {
       "quote": "I just had some thoughts that I wanted to share with you people.",
       "description": "The Office • Stress Relief",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Oscar Martinez",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Andy Bernard",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Andy, Cornell called. They think you suck. And you’re gayer than Oscar. Boom. Roasted.",
-      "description": "The Office • Stress Relief",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jim Halpert",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
-        {
-          "title": "Oscar Martinez",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "Listen, listen, Stanley. You don't need to answer me now.",
-      "description": "The Office • Two Weeks",
       "correct": 0,
       "options": [
         {
@@ -783,18 +251,37 @@
           "description": "The Office character"
         },
         {
-          "title": "Angela Martin",
+          "title": "Jim Halpert",
           "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "Just...I want you to think about it. I am starting my own company...",
-      "description": "The Office • Two Weeks",
+      "quote": "There's gotta be a better way to do this. This is literally how they built the pyramids.",
+      "description": "The Office • Lotto",
       "correct": 1,
       "options": [
         {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
           "title": "Andy Bernard",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "If you don't like it, Stanley, you can go to the back of the bus.",
+      "description": "The Office • Beach Games",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Erin Hannon",
           "description": "The Office character"
         },
         {
@@ -802,20 +289,35 @@
           "description": "The Office character"
         },
         {
-          "title": "Kevin Malone",
+          "title": "Oscar Martinez",
           "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "You're not letting me finish and you just lost out on a million dollars.",
-      "description": "The Office • Two Weeks",
+      "quote": "And I didn't tell anyone, 'cause I'm not really sure how I feel about it.",
+      "description": "The Office • Conflict Resolution",
       "correct": 1,
       "options": [
         {
           "title": "Kevin Malone",
           "description": "The Office character"
         },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "I have really enjoyed our time together.",
+      "description": "The Office • The Delivery",
+      "correct": 1,
+      "options": [
         {
           "title": "Michael Scott",
           "description": "The Office character"
@@ -823,12 +325,130 @@
         {
           "title": "Erin Hannon",
           "description": "The Office character"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "Be that as it may, I have your meatball parm sandwich here, and I am going to eat it.",
-      "description": "The Office • Heavy Competition",
+      "quote": "BUTTLICKER, OUR PRICES HAVE NEVER BEEN LOWER!",
+      "description": "The Office • Customer Survey",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "All right. Then... it's a date.",
+      "description": "The Office • The Job",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Probably nothing. Or Strychnine. Or Lemonade and Strychnine, which is actually what it was.",
+      "description": "The Office • Moving On",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Erin Hannon",
+          "description": "The Office character"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "He lives on Sesame Street, dumbass.",
+      "description": "The Office • Murder",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "It's that I wish Jessica was dead.",
+      "description": "The Office • Christmas Wishes",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Erin Hannon",
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "You know what? I'm gonna start dating her even harder.",
+      "description": "The Office • The Lover",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "...He's a crime fighting beaver.",
+      "description": "The Office • Todd Packer",
       "correct": 2,
       "options": [
         {
@@ -836,7 +456,26 @@
           "description": "The Office character"
         },
         {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Nice. That's the way it is around here. It just kind of goes round and round.",
+      "description": "The Office • Pilot",
+      "correct": 2,
+      "options": [
+        {
           "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Kevin Malone",
           "description": "The Office character"
         },
         {
@@ -846,31 +485,12 @@
       ]
     },
     {
-      "quote": "Yeah. It's routine. I'm just a little bit scared.",
-      "description": "The Office • The Meeting",
-      "correct": 1,
+      "quote": "So you have an extra dollar.",
+      "description": "The Office • The Surplus",
+      "correct": 2,
       "options": [
-        {
-          "title": "Pam Beesly",
-          "description": "The Office character"
-        },
-        {
-          "title": "Michael Scott",
-          "description": "The Office character"
-        },
         {
           "title": "Angela Martin",
-          "description": "The Office character"
-        }
-      ]
-    },
-    {
-      "quote": "That's... no, no, it's not about numbers, Pam. It's about attitude.",
-      "description": "The Office • Double Date",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Michael Scott",
           "description": "The Office character"
         },
         {
@@ -878,14 +498,33 @@
           "description": "The Office character"
         },
         {
-          "title": "Pam Beesly",
+          "title": "Oscar Martinez",
           "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "I wish the windows weren't tinted so people could see us in here.",
-      "description": "The Office • Shareholder Meeting",
+      "quote": "How would anyone even know...",
+      "description": "The Office • Dwight Christmas",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, he's in rehab, actually.",
+      "description": "The Office • The Boat",
       "correct": 1,
       "options": [
         {
@@ -893,7 +532,64 @@
           "description": "The Office character"
         },
         {
+          "title": "Andy Bernard",
+          "description": "The Office character"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "I don't think that this is totally just a woman's suit. At the very least it's bisexual.",
+      "description": "The Office • The Negotiation",
+      "correct": 0,
+      "options": [
+        {
           "title": "Michael Scott",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "No. My doctor wants me to gain weight.",
+      "description": "The Office • Weight Loss",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "No. I want Tropical Christmas.",
+      "description": "The Office • Dwight Christmas",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
           "description": "The Office character"
         },
         {
@@ -903,9 +599,85 @@
       ]
     },
     {
-      "quote": "Definitely. Look they got pillows. That's bigger than my bed.",
-      "description": "The Office • Shareholder Meeting",
+      "quote": "Maybe the Michael Scott Paper Company was a huge mistake. I should leave. I should go and start my own paper company. That'll show 'em.",
+      "description": "The Office • Michael Scott Paper Company",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "The Office character"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Son, you have to talk louder!",
+      "description": "The Office • Customer Survey",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "That's debatable. There are basically two schools of thought.",
+      "description": "The Office • Product Recall",
       "correct": 1,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "We search for the organs! Where's the heart? The precious heart?",
+      "description": "The Office • Stress Relief",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "You don't have our attention.",
+      "description": "The Office • WUPHF.com",
+      "correct": 0,
       "options": [
         {
           "title": "Stanley Hudson",
@@ -916,22 +688,41 @@
           "description": "The Office character"
         },
         {
-          "title": "Kevin Malone",
+          "title": "Pam Beesly",
           "description": "The Office character"
         }
       ]
     },
     {
-      "quote": "David, guess who I am sitting here dressed as.",
-      "description": "The Office • Secret Santa",
-      "correct": 0,
+      "quote": "She's listening to 50 Shades of Grey.",
+      "description": "The Office • Promos",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Erin Hannon",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "She's not doing it to hurt you.",
+      "description": "The Office • Lecture Circuit (Part 2)",
+      "correct": 2,
       "options": [
         {
           "title": "Michael Scott",
           "description": "The Office character"
         },
         {
-          "title": "Andy Bernard",
+          "title": "Angela Martin",
           "description": "The Office character"
         },
         {
@@ -941,10 +732,185 @@
       ]
     },
     {
-      "quote": "I will give you a hint. His last name is Christ. He has the power of flight. He can heal leopards.",
-      "description": "The Office • Secret Santa",
+      "quote": "Just...I want you to think about it. I am starting my own company...",
+      "description": "The Office • Two Weeks",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Jo, I accidentally fired a gun in the office today.",
+      "description": "The Office • Dwight K. Schrute, (Acting) Manager",
       "correct": 0,
       "options": [
+        {
+          "title": "Dwight Schrute",
+          "description": "The Office character"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, quick. Who says moustache?",
+      "description": "The Office • Welcome Party",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "That was the moment that you knew you liked me.",
+      "description": "The Office • Launch Party",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Why are you doing this, Goldenface?",
+      "description": "The Office • Threat Level Midnight",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Nothing but vomit and diapers over here.",
+      "description": "The Office • New Leads",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        },
+        {
+          "title": "Erin Hannon",
+          "description": "The Office character"
+        },
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "No, it's not. They call it Quad-Desk.",
+      "description": "The Office • St. Patrick's Day",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Erin Hannon",
+          "description": "The Office character"
+        },
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "I cannot wait for that joke to be over.",
+      "description": "The Office • The Delivery",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh my goodness, you sound sexy.",
+      "description": "The Office • Goodbye, Toby",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Stanley Hudson",
+          "description": "The Office character"
+        },
+        {
+          "title": "Angela Martin",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "I wish the windows weren't tinted so people could see us in here.",
+      "description": "The Office • Shareholder Meeting",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        },
         {
           "title": "Michael Scott",
           "description": "The Office character"
@@ -952,9 +918,43 @@
         {
           "title": "Dwight Schrute",
           "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "No, that's... not how it works.",
+      "description": "The Office • Business Ethics",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Andy Bernard",
+          "description": "The Office character"
         },
         {
-          "title": "Erin Hannon",
+          "title": "Oscar Martinez",
+          "description": "The Office character"
+        },
+        {
+          "title": "Michael Scott",
+          "description": "The Office character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, it's the... carry the 4... it doesn't work.",
+      "description": "The Office • Work Bus",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pam Beesly",
+          "description": "The Office character"
+        },
+        {
+          "title": "Kevin Malone",
+          "description": "The Office character"
+        },
+        {
+          "title": "Jim Halpert",
           "description": "The Office character"
         }
       ]

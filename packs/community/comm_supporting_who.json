@@ -10,168 +10,16 @@
   "quote_count": 50,
   "questions": [
     {
-      "quote": "If you have to ask, you're streets behind.",
-      "description": "Community • Contemporary American Poultry",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Community character"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "I'll show you the tool that's most important to our survival, but fair warning: it's my penis.",
+      "quote": "Jeff, do you think you'll marry Britta?",
       "description": "Community • Anthropology 101",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Dean Pelton",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "That's inappropriate; I'm assuming on the mouth.",
-      "description": "Community • Anthropology 101",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Annie Edison",
-          "description": "Community character"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Don't blame yourself; he bought a lot of his organs from questionable sources.",
-      "description": "Community • Advanced Gay",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "I thought this was regionals. Don't let my confusion undercut the importance.",
-      "description": "Community • Regional Holiday Music",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Ben Chang",
-          "description": "Community character"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Order, family, genus, species. I used a mnemonic device. \"Kevin Please Come Over For Gay Sex.\"",
-      "description": "Community • Virtual Systems Analysis",
       "correct": 0,
       "options": [
         {
-          "title": "Pierce Hawthorne",
+          "title": "Abed Nadir",
           "description": "Community character"
         },
         {
           "title": "Ben Chang",
-          "description": "Community character"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Uh-Oh. He's playing the Rain Man card. Let's bounce.",
-      "description": "Community • Digital Estate Planning",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Community character"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "A. That is racist. B. Swamis can't drive, they're Indians.",
-      "description": "Community • The First Chang Dynasty",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Community character"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Ghosts can’t go through doors, stupid; they’re not fire.",
-      "description": "Community • Paranormal Parentage",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
           "description": "Community character"
         },
         {
@@ -181,506 +29,69 @@
       ]
     },
     {
-      "quote": "You can't just repeat it, you need to explain yourself.",
-      "description": "Community • Analysis of Cork-Based Networking",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Annie Edison",
-          "description": "Community character"
-        },
-        {
-          "title": "Ian Duncan",
-          "description": "Community character"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Nothing. Nothing. It's nothing... Th-th-the stupid steering wheel is on the wrong side of the car.",
-      "description": "Community • Bondage and Beta Male Sexuality",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Troy Barnes",
-          "description": "Community character"
-        },
-        {
-          "title": "Ian Duncan",
-          "description": "Community character"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "I don’t know what that means, but I’m writing it down.",
-      "description": "Community • Ladders",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Community character"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Community character"
-        },
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "I know you think that, Abed, but you don't know any better.",
-      "description": "Community • Ladders",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Britta Perry",
-          "description": "Community character"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Community character"
-        },
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "It's not enough. But maybe if you added more apologies...",
-      "description": "Community • Ladders",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Britta Perry",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "I found the smell. Someone filed a taco. Things that will otherwise get filed straight to my thighs.",
-      "description": "Community • Basic Crisis Room Decorum",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Community character"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "I'm not psychic, Annie; that's an illusion caused by extreme preparedness.",
-      "description": "Community • Basic Crisis Room Decorum",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Dean Pelton",
-          "description": "Community character"
-        },
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "I'm sorry, Annie, but I don't think you're seeing this for what it is.",
-      "description": "Community • Basic Crisis Room Decorum",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Community character"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Okay, let's not get carried away. We need oxygen.",
-      "description": "Community • Queer Studies & Advanced Waxing",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        },
-        {
-          "title": "Dean Pelton",
-          "description": "Community character"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "These guys are giving hackers a bad name. And \"hacker\" is already such a dumb name.",
-      "description": "Community • Basic Email Security",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Shirley Bennett",
-          "description": "Community character"
-        },
-        {
-          "title": "Elroy Patashnik",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "All he did was throw his hat and make us pass briefcases.",
-      "description": "Community • Grifting 101",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Elroy Patashnik",
-          "description": "Community character"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "...And that solves the matter of the giant hand. If there's no other business-",
-      "description": "Community • Basic RV Repair and Palmistry",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Ben Chang",
-          "description": "Community character"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Community character"
-        },
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Names. Give me names or you're expelled; that's simple.",
-      "description": "Community • Modern Espionage",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Hey, British dentistry is not on trial!",
+      "quote": "She confessed to protect her classmates, because you were threatening to flunk everyone!",
       "description": "Community • Advanced Criminal Law",
-      "correct": 2,
+      "correct": 1,
       "options": [
         {
-          "title": "Troy Barnes",
+          "title": "Dean Pelton",
           "description": "Community character"
         },
         {
-          "title": "Britta Perry",
+          "title": "Jeff Winger",
           "description": "Community character"
         },
         {
-          "title": "Ian Duncan",
+          "title": "Annie Edison",
           "description": "Community character"
         }
       ]
     },
     {
-      "quote": "Wait a minute; what about Richard?",
-      "description": "Community • Messianic Myths and Ancient Peoples",
+      "quote": "You sound a little like Jeff.",
+      "description": "Community • Basic Crisis Room Decorum",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "I have an idea. Bear down for midterms.",
+      "description": "Community • Analysis of Cork-Based Networking",
       "correct": 0,
-      "options": [
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Dean Pelton",
-          "description": "Community character"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "That's the meaning of Christmas?",
-      "description": "Community • Abed's Uncontrollable Christmas",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Dean Pelton",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Oh, right, cry. Let it out. Baste your chubby cheeks in tears of gravy. You weren't crying when you were stealing my friends!",
-      "description": "Community • Advanced Dungeons & Dragons",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Shirley Bennett",
-          "description": "Community character"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Did you know that the Canadian mallard is the only water fowl that bites his father's head off on his way out of the womb?",
-      "description": "Community • Advanced Gay",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Britta Perry",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Dean Pelton",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "I don't know. I looked it up on the Wikipedia.",
-      "description": "Community • Advanced Gay",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Shirley Bennett",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "What the hell are regionals?",
-      "description": "Community • Regional Holiday Music",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Shirley Bennett",
-          "description": "Community character"
-        },
-        {
-          "title": "Annie Edison",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Now I can’t remember anything! Thanks!",
-      "description": "Community • Virtual Systems Analysis",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Dean Pelton",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Abed Nadir",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "LET'S BURN THIS MOTHER DOWN!!",
-      "description": "Community • Course Listing Unavailable",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Annie Edison",
-          "description": "Community character"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "What happened to \"good morning\"?",
-      "description": "Community • Queer Studies & Advanced Waxing",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Jeff Winger",
-          "description": "Community character"
-        },
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        },
-        {
-          "title": "Britta Perry",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "No, because why would I? Because that’s moon man talk. You mentioned a new kid earlier who told you about the new Honda Fit?",
-      "description": "Community • Advanced Safety Features",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Annie Edison",
-          "description": "Community character"
-        },
-        {
-          "title": "Troy Barnes",
-          "description": "Community character"
-        },
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "So, Abed, what happens in season 7?",
-      "description": "Community • Emotional Consequences of Broadcast Television",
-      "correct": 2,
       "options": [
         {
           "title": "Ben Chang",
           "description": "Community character"
         },
         {
-          "title": "Abed Nadir",
+          "title": "Shirley Bennett",
           "description": "Community character"
         },
         {
-          "title": "Frankie Dart",
+          "title": "Annie Edison",
           "description": "Community character"
         }
       ]
     },
     {
-      "quote": "I'll...see...what I can do...?",
-      "description": "Community • Emotional Consequences of Broadcast Television",
+      "quote": "I wanna know why these goblins are attacking us. Maybe these woods are their rightful land, and from their perspective-",
+      "description": "Community • Advanced Dungeons & Dragons",
       "correct": 0,
       "options": [
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        },
-        {
-          "title": "Dean Pelton",
-          "description": "Community character"
-        },
         {
           "title": "Britta Perry",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Oh, okay. Good. But if we’re gonna do something, let’s do it as a team. I’ll get the ball rolling. Maybe he has a tiny penis.",
-      "description": "Community • Social Psychology",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Pierce Hawthorne",
           "description": "Community character"
         },
         {
@@ -688,7 +99,7 @@
           "description": "Community character"
         },
         {
-          "title": "Jeff Winger",
+          "title": "Dean Pelton",
           "description": "Community character"
         }
       ]
@@ -696,64 +107,45 @@
     {
       "quote": "He’s crying. And now he’s barking.",
       "description": "Community • Social Psychology",
-      "correct": 0,
+      "correct": 1,
       "options": [
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
         {
           "title": "Pierce Hawthorne",
           "description": "Community character"
         },
         {
-          "title": "Jeff Winger",
-          "description": "Community character"
-        },
-        {
-          "title": "Annie Edison",
+          "title": "Abed Nadir",
           "description": "Community character"
         }
       ]
     },
     {
-      "quote": "Well, maybe you should do it.",
-      "description": "Community • The Science of Illusion",
-      "correct": 1,
+      "quote": "Excuse me, did you just say \"Cenobite\"?",
+      "description": "Community • Introduction to Teaching",
+      "correct": 2,
       "options": [
         {
           "title": "Shirley Bennett",
           "description": "Community character"
         },
         {
-          "title": "Dean Pelton",
+          "title": "Britta Perry",
           "description": "Community character"
         },
         {
-          "title": "Jeff Winger",
+          "title": "Abed Nadir",
           "description": "Community character"
         }
       ]
     },
     {
-      "quote": "It's not a lava lamp, it's my mom.",
-      "description": "Community • The Psychology of Letting Go",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Dean Pelton",
-          "description": "Community character"
-        },
-        {
-          "title": "Jeff Winger",
-          "description": "Community character"
-        },
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Now this is why I came to America.",
-      "description": "Community • The Psychology of Letting Go",
-      "correct": 2,
+      "quote": "Is it Black Michael Chiklis?",
+      "description": "Community • Asian Population Studies",
+      "correct": 0,
       "options": [
         {
           "title": "Troy Barnes",
@@ -764,7 +156,7 @@
           "description": "Community character"
         },
         {
-          "title": "Ian Duncan",
+          "title": "Pierce Hawthorne",
           "description": "Community character"
         }
       ]
@@ -775,11 +167,11 @@
       "correct": 2,
       "options": [
         {
-          "title": "Troy Barnes",
+          "title": "Annie Edison",
           "description": "Community character"
         },
         {
-          "title": "Ben Chang",
+          "title": "Jeff Winger",
           "description": "Community character"
         },
         {
@@ -789,8 +181,65 @@
       ]
     },
     {
-      "quote": "Pierce Hawthorne and I'm sixty-six, dick.",
-      "description": "Community • Advanced Dungeons & Dragons",
+      "quote": "I don't like that word, hemorrhaging.",
+      "description": "Community • Emotional Consequences of Broadcast Television",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "If I ever, like, woke up as a donut...",
+      "description": "Community • Introduction to Statistics",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Wait, why me lookout? Why not you guys?",
+      "description": "Community • Accounting for Lawyers",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, there's business. When we tie the hand to the roof, we'd like you to use extra thick straps, please.",
+      "description": "Community • Basic RV Repair and Palmistry",
       "correct": 1,
       "options": [
         {
@@ -798,26 +247,7 @@
           "description": "Community character"
         },
         {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "Make him as fat as Fat Neil.",
-      "description": "Community • Advanced Dungeons & Dragons",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Pierce Hawthorne",
-          "description": "Community character"
-        },
-        {
-          "title": "Troy Barnes",
+          "title": "Abed Nadir",
           "description": "Community character"
         },
         {
@@ -827,8 +257,255 @@
       ]
     },
     {
-      "quote": "Because it’s gay sex, dummy.",
-      "description": "Community • Virtual Systems Analysis",
+      "quote": "And yet I won't. Case in point.",
+      "description": "Community • Intro to Political Science",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, maybe don’t show that. I don’t think we should--",
+      "description": "Community • Social Psychology",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "It's homophobic to ask questions?",
+      "description": "Community • Early 21st Century Romanticism",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "How did we get the short straw?",
+      "description": "Community • Basic Lupine Urology",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "No! I'll do it. Let them leak me!",
+      "description": "Community • Basic Email Security",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "What the hell are regionals?",
+      "description": "Community • Regional Holiday Music",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "You saved my life and changed it forever.",
+      "description": "Community • Emotional Consequences of Broadcast Television",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, I don't feel like anything action-heavy. How about something light?",
+      "description": "Community • Epidemiology",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "So you didn't hear my announcement?",
+      "description": "Community • Debate 109",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, if you're looking for something to believe in, I know a skinny little Hebrew handyman you can meet.",
+      "description": "Community • Introduction to Teaching",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Where to begin... I probably mentioned in the past my fondness for a TV program called Cougar Town.",
+      "description": "Community • Critical Film Studies",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "How are you so satisfied all the time, Abed? I mean, don't you ever want anything more out of life than cereal?",
+      "description": "Community • Home Economics",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "We're heavily invested in your situation. Nothing's more important to us than your second wedding's rehearsal going smoothly.",
+      "description": "Community • Urban Matrimony and the Sandwich Arts",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Yes! Sanity. Yeah, I mean, it's over, but on the other hand, it's over.",
+      "description": "Community • Basic Story",
       "correct": 2,
       "options": [
         {
@@ -840,22 +517,60 @@
           "description": "Community character"
         },
         {
-          "title": "Pierce Hawthorne",
+          "title": "Jeff Winger",
           "description": "Community character"
         }
       ]
     },
     {
-      "quote": "I never slept with the great Eartha Kitt",
-      "description": "Community • Intro to Felt Surrogacy",
-      "correct": 0,
+      "quote": "By the power invested in me, I pronounce you...canceled.",
+      "description": "Community • Anthropology 101",
+      "correct": 2,
       "options": [
         {
           "title": "Pierce Hawthorne",
           "description": "Community character"
         },
         {
-          "title": "Ben Chang",
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "You made this happen because you're obsessed with all of us being together next year.",
+      "description": "Community • English as a Second Language",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "And dedicate an entire cabinet to grocery bags and realize we have a favorite brand of olive oil?",
+      "description": "Community • Basic Story",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
           "description": "Community character"
         },
         {
@@ -865,27 +580,27 @@
       ]
     },
     {
-      "quote": "We have oxygen; we need wi-fi.",
-      "description": "Community • Queer Studies & Advanced Waxing",
+      "quote": "Now I can’t remember anything! Thanks!",
+      "description": "Community • Virtual Systems Analysis",
       "correct": 1,
       "options": [
         {
-          "title": "Troy Barnes",
+          "title": "Shirley Bennett",
           "description": "Community character"
         },
         {
-          "title": "Elroy Patashnik",
+          "title": "Pierce Hawthorne",
           "description": "Community character"
         },
         {
-          "title": "Annie Edison",
+          "title": "Ben Chang",
           "description": "Community character"
         }
       ]
     },
     {
-      "quote": "Escort Alex Osborne off campus.",
-      "description": "Community • Modern Espionage",
+      "quote": "Jeff! You crafty jackrabbit!",
+      "description": "Community • Remedial Chaos Theory",
       "correct": 2,
       "options": [
         {
@@ -897,52 +612,14 @@
           "description": "Community character"
         },
         {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "So I didn't put my wedding clothes on, like you said. So we can get dressed together and be girls together. This is gonna be fun.",
-      "description": "Community • Wedding Videography",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Shirley Bennett",
-          "description": "Community character"
-        },
-        {
-          "title": "Ben Chang",
-          "description": "Community character"
-        },
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        }
-      ]
-    },
-    {
-      "quote": "I don't know what that means yet.",
-      "description": "Community • Lawnmower Maintenance and Postnatal Care",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Abed Nadir",
-          "description": "Community character"
-        },
-        {
-          "title": "Frankie Dart",
-          "description": "Community character"
-        },
-        {
           "title": "Annie Edison",
           "description": "Community character"
         }
       ]
     },
     {
-      "quote": "Yes, two for two! Medium roughness, high tempo?",
-      "description": "Community • Basic Story",
+      "quote": "Annie has a point. The death of a peer, especially at our age, can trigger a whole range of emotions. As a psychologist...",
+      "description": "Community • Course Listing Unavailable",
       "correct": 0,
       "options": [
         {
@@ -950,11 +627,334 @@
           "description": "Community character"
         },
         {
-          "title": "Annie Edison",
+          "title": "Troy Barnes",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Jeff? What are you doing here?",
+      "description": "Community • Origins of Vampire Mythology",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Britta Perry",
           "description": "Community character"
         },
         {
           "title": "Shirley Bennett",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Sure. Aliens, cyborgs or zombies?",
+      "description": "Community • Epidemiology",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "How is this still happening?",
+      "description": "Community • Geography of Global Conflict",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "I haven't had one in weeks; they run out so fast.",
+      "description": "Community • Contemporary American Poultry",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Not if we never kill each other. Then we can play forever.",
+      "description": "Community • Geothermal Escapism",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "I'm afraid that I'm gonna have to put her to sleep, and... Ah, go on...",
+      "description": "Community • Contemporary American Poultry",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "'Cause I'm taking your butt to school.",
+      "description": "Community • Aerodynamics of Gender",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "You’re awfully quiet, Jeff. No one hates glee club more than you do.",
+      "description": "Community • Regional Holiday Music",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Someone has to be the last one that stands up, and now, that someone isn't me.",
+      "description": "Community • Basic Email Security",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        },
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Pierce, I'd like to commend you for letting that one go.",
+      "description": "Community • Comparative Religion",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Permission to treat the witness as hostile?",
+      "description": "Community • English as a Second Language",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, I'm a peanut bar and I'm here to say",
+      "description": "Community • VCR Maintenance and Educational Publishing",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah! That was a test and you failed.",
+      "description": "Community • Basic Human Anatomy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Troy Barnes",
+          "description": "Community character"
+        },
+        {
+          "title": "Dean Pelton",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "That is so like him! I have to go to him…",
+      "description": "Community • Origins of Vampire Mythology",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        },
+        {
+          "title": "Britta Perry",
+          "description": "Community character"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "LET'S BURN THIS MOTHER DOWN!!",
+      "description": "Community • Course Listing Unavailable",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Pierce Hawthorne",
+          "description": "Community character"
+        },
+        {
+          "title": "Annie Edison",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "No no, its fine, it's fine. It's just little a nose bleed. I get 'em when it's dry and when my face gets kicked.",
+      "description": "Community • Investigative Journalism",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jeff Winger",
+          "description": "Community character"
+        },
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        }
+      ]
+    },
+    {
+      "quote": "And you know who invented gravity, right?",
+      "description": "Community • Intro to Felt Surrogacy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ben Chang",
+          "description": "Community character"
+        },
+        {
+          "title": "Shirley Bennett",
+          "description": "Community character"
+        },
+        {
+          "title": "Abed Nadir",
           "description": "Community character"
         }
       ]

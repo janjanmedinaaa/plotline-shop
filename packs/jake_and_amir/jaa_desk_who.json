@@ -1,0 +1,963 @@
+{
+  "id": "jaa_desk_who",
+  "title": "Jake & Amir: Desk Banter",
+  "description": "Who said it across the CollegeHumor office desks?",
+  "category": "series",
+  "group": "Jake and Amir",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 50,
+  "questions": [
+    {
+      "quote": "You're overusing your air-quotes. Why do you think Bitcoin is better than money?",
+      "description": "Jake and Amir • Bitcoin",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Pat Cassels",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "So, how was dinner last night with your long lost bro?",
+      "description": "Jake and Amir • Brother Part 2",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "Yes! I kind of like when girls ask for what they want. I think that's sexy. Maybe you disagree.",
+      "description": "Jake and Amir • Tinder",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "He said \"art imitates life, Jake\" three times!",
+      "description": "Jake and Amir • Finale Part 3 Ben Schwartz 2",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "My brother is going to be here, any second, and I really",
+      "description": "Jake and Amir • Brother",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Do you mind if I ask you another follow up question?",
+      "description": "Jake and Amir • Movie Date 2",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Sarah Schneider",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, fine! Do you want to know who lived here before you guys?",
+      "description": "Jake and Amir • Real Estate Agent Part 1",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Sarah Schneider",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Streeter Seidell",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "Why is that funny? And why is that cool?",
+      "description": "Jake and Amir • Finale Part 2 Ben Schwartz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "Yes! Because of three seconds ago I have litterally changed my name yet again to Penis Dickling, The Goose!",
+      "description": "Jake and Amir • Doobs Part 3",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "actually this is kinda cool, i kinda want one now.",
+      "description": "Jake and Amir • Iphone",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pat Cassels",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Sarah Schneider",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Stop it. Do you even know what a Bitcoin is?",
+      "description": "Jake and Amir • Bitcoin",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pat Cassels",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "No more milk, we got it guys, so don't be silly stupid or dumb! No more milk",
+      "description": "Jake and Amir • Milk Man Part 2",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "What kind of interventions do you go to?",
+      "description": "Jake and Amir • Doobs Part 3",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "And no answer from the peanut gallery! Salut! So I will just assume",
+      "description": "Jake and Amir • Pizza",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "I thought you were doing it to the crowd, to me? To me, the crowd...",
+      "description": "Jake and Amir • Milk Man Part 2",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "Barely, it's just a subtle change. I'm surprised you even realised it.",
+      "description": "Jake and Amir • New Voice",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Sarah Schneider",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "We'll go talk to Ricky. You don't have to sit across from me anymore, I know you hate that.",
+      "description": "Jake and Amir • Sick Day Part 3 Goodbye",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "And, um, Pat? It's digital. It's digital. It is digital. Bitcoin's digital.",
+      "description": "Jake and Amir • Bitcoin",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Sarah Schneider",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "And you? Do you love me, brother?",
+      "description": "Jake and Amir • Road Trip Part 1 New Jersey",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Okay no, I just want you to relay this message to Pat. Amir broke his phone earlier.",
+      "description": "Jake and Amir • Miami",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sarah Schneider",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "What don't you understand, dude? She's playing hard to wet!",
+      "description": "Jake and Amir • Tinder",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "Have you heard of a little band called the Rolling Stones?",
+      "description": "Jake and Amir • Real Estate Agent Part 1",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "What am I talking about? You weren't here last week!...So I assumed you'd be gone forever!",
+      "description": "Jake and Amir • Printer",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Sarah Schneider",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "My name-- here it comes --my name is Cherry Dude!...Cherry... Dude!",
+      "description": "Jake and Amir • Real Estate Agent Part 1",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "Are you obsessed, are you a chicken bro?",
+      "description": "Jake and Amir • Rick Fox",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Streeter Seidell",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Some alone time. Totally cool. I need my space too.",
+      "description": "Jake and Amir • Dating Coach Part 2",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "I didn't get an e-mail from you, OK? Why don't you just tell me what it said?",
+      "description": "Jake and Amir • Typewriter",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Streeter Seidell",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "But you're ready for this, okay? You can handle it.",
+      "description": "Jake and Amir • Double Date Pt 2",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Streeter Seidell",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Even if one of the brothers Ryan give her away doesn't mean I can't be your best man.",
+      "description": "Jake and Amir • Celebrity Date",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Pat Cassels",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Sarah Schneider",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Why you are not holding 144 delicious hard boiled eggs right now is beyond me!",
+      "description": "Jake and Amir • Rick Fox",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "We won't know for a couple of weeks, but they flat out told me, in the room: Nooo!",
+      "description": "Jake and Amir • Doobs",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "We're putting my childhood pet to sleep and all you can focus on is my cool vest.",
+      "description": "Jake and Amir • Vest",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Oh my God oh my God oh my God! Oh, I'm so happy for you!",
+      "description": "Jake and Amir • Double Date Pt 4",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Emily Axford",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "Okay... You look like this guy though.. So... Who thinks I look like this guy?",
+      "description": "Jake and Amir • Monopoly",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Streeter Seidell",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "I'm taking a break, I'm gonna do the rest of them later",
+      "description": "Jake and Amir • Rick Fox",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sarah Schneider",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "He knows his name! Okay? You don't have to say it so fucking much!",
+      "description": "Jake and Amir • Stock Market",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Sarah Schneider",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Ok fine. I know how to do this, induce vomiting, I can do this. But I need your permission, ok?",
+      "description": "Jake and Amir • Milk Man Part 2",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, but you know what? I just double-checked it: it's way over a thousand.",
+      "description": "Jake and Amir • Finale Part 3 Ben Schwartz 2",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Streeter Seidell",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Is he dead yet, or is it not that kind of intervention",
+      "description": "Jake and Amir • Doobs Part 3",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "GET the DVDdiday! kidizayAh, I dunno, it's- just doesn't sound right",
+      "description": "Jake and Amir • Fired Commercial",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Being cool sounds hard, maybe I'm just not cut out for it.",
+      "description": "Jake and Amir • Earrings",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "I probably see myself doing you if you know what I mean?",
+      "description": "Jake and Amir • Brother Part 2",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Kumail Nanjiani",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "Lemme score a sniff? Let's go with the Ritratti. Jake what do you think?",
+      "description": "Jake and Amir • Double Date",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah right, ha! What did I do to deserve that?",
+      "description": "Jake and Amir • Monopoly",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Sarah Schneider",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Thomas Middleditch (Doobs)",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "You don't need Nikes to be worth a damn. Jesus was barefoot on the cross when he died for our sin.",
+      "description": "Jake and Amir • Shoe Scroll",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Streeter Seidell",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Amir Blumenfeld",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Sarah Schneider",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, you did: amir@dailydizzydinkydeals.com, you gotta change that email address.",
+      "description": "Jake and Amir • Survey",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Streeter Seidell",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Are you kidding? You're screaming into a Bluetooth right now!",
+      "description": "Jake and Amir • Stock Market",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Streeter Seidell",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "Jake, why are you taking the wind out of everybody's sails? Is he always like this?",
+      "description": "Jake and Amir • Finale Part 3 Ben Schwartz 2",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Rick Fox",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Pat Cassels",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    },
+    {
+      "quote": "You're dropping facts man, let's switch up the topic okay?",
+      "description": "Jake and Amir • Rap Teacher",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Hoodie Allen",
+          "description": "Jake and Amir guest star"
+        },
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Sarah Schneider",
+          "description": "CollegeHumor cast & writer"
+        }
+      ]
+    },
+    {
+      "quote": "I have roommates back at home. Wanna go over there?",
+      "description": "Jake and Amir • Finale Part 2 Ben Schwartz",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Murph",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Jake Hurwitz",
+          "description": "CollegeHumor cast & writer"
+        },
+        {
+          "title": "Ben Schwartz",
+          "description": "Jake and Amir guest star"
+        }
+      ]
+    }
+  ]
+}

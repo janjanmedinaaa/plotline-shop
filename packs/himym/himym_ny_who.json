@@ -1,196 +1,25 @@
 {
-  "id": "himym_ted_who",
-  "title": "HIMYM: Mosby Moments",
-  "description": "Architecture, red boots, and Ted's romantic speeches.",
+  "id": "himym_ny_who",
+  "title": "HIMYM: New York Nights",
+  "description": "Who said it across Manhattan's favorite friend group?",
   "category": "series",
-  "group": "How I Met Your Mother",
+  "group": "HIMYM",
   "tag": "Who said it?",
   "answer_type": "character",
-  "price": 150,
+  "price": 160,
   "quote_count": 50,
   "questions": [
     {
-      "quote": "And Robin would do all three of these before the day was out.",
-      "description": "How I Met Your Mother • Subway Wars",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "He just walked right out of the apartment. Someone must've left the door open.",
-      "description": "How I Met Your Mother • A Change of Heart",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Uh, Barney, you got a little marinara on your pajamas.",
-      "description": "How I Met Your Mother • The Exploding Meatball Sub",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Barney, there's condoms in the drawer, just take it and get out-",
-      "description": "How I Met Your Mother • Landmarks",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Of course I feel bad. I told you I love you, which is apparently the worst thing you can say to someone.",
-      "description": "How I Met Your Mother • Good Crazy",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Robin Scherbatsky",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "I'm sorry, I feel bad for the guy. I'm stealing the greatest girl in the world away from him.",
-      "description": "How I Met Your Mother • Farhampton",
+      "quote": "Ah ha, so the oldest profession would be fishermen. Kaboom! You’ve been lawyered!",
+      "description": "How I Met Your Mother • Mary the Paralegal",
       "correct": 0,
       "options": [
         {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
           "title": "Marshall Eriksen",
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Having Klaus back in our lives made me scared we're never gonna escape the past.",
-      "description": "How I Met Your Mother • The Pre-Nup",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Robin Scherbatsky",
-          "description": "How I Met Your Mother character"
-        },
-        {
           "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Bangtoberfest. This time it's really not personal.",
-      "description": "How I Met Your Mother • Nannies",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Robin Scherbatsky",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Think about it. This is the most we've seen of you two in, five months.",
-      "description": "How I Met Your Mother • Who Wants to be a Godparent?",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "\"Groins On Ice\"... Least popular Madison Square Garden holiday show ever.",
-      "description": "How I Met Your Mother • Splitsville",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Marshall Eriksen",
           "description": "How I Met Your Mother character"
         },
         {
@@ -202,14 +31,33 @@
     {
       "quote": "I mean maybe take a month off, bang some chicks, Lily's not going anywhere.",
       "description": "How I Met Your Mother • The Stamp Tramp",
-      "correct": 0,
+      "correct": 2,
       "options": [
         {
-          "title": "Ted Mosby",
+          "title": "Marshall Eriksen",
           "description": "How I Met Your Mother character"
         },
         {
           "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Barney, look I know what you're doing, ok? Please stop.",
+      "description": "How I Met Your Mother • Splitsville",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
           "description": "How I Met Your Mother character"
         },
         {
@@ -219,16 +67,73 @@
       ]
     },
     {
-      "quote": "Let's just go stay at the Lusty Leopard. They have loyalty and heart, I bet you he rewards that.",
-      "description": "How I Met Your Mother • The Stamp Tramp",
+      "quote": "Oh yes, Robin, I just love \"newdart\"...”nude art\". \"Nude art\"!",
+      "description": "How I Met Your Mother • Columns",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Cray-cray gotta go bye-bye before you get stab-stabbed.",
+      "description": "How I Met Your Mother • Bad Crazy",
       "correct": 0,
       "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
         {
           "title": "Ted Mosby",
           "description": "How I Met Your Mother character"
         },
         {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Sorry. Barney, this is unforgivable. It's over.",
+      "description": "How I Met Your Mother • The Bro Mitzvah",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
           "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, what if the heart doesn't mean anything? What if she writes them on all the cups?",
+      "description": "How I Met Your Mother • Swarley",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
           "description": "How I Met Your Mother character"
         },
         {
@@ -238,134 +143,58 @@
       ]
     },
     {
-      "quote": "Fine, let me ask you something - Barney were you a little sore this morning, especially...",
-      "description": "How I Met Your Mother • Ring Up!",
-      "correct": 0,
+      "quote": "Oh no, he's probably just barking because of the explosives.",
+      "description": "How I Met Your Mother • Part II",
+      "correct": 2,
       "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
         {
           "title": "Ted Mosby",
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Robin Scherbatsky",
+          "title": "Barney Stinson",
           "description": "How I Met Your Mother character"
         }
       ]
     },
     {
-      "quote": "I'm just saying if I was getting married in three weeks -",
-      "description": "How I Met Your Mother • Romeward Bound",
+      "quote": "Is it sick to find maturity and experience sexy?",
+      "description": "How I Met Your Mother • How Lily Stole Christmas",
       "correct": 1,
       "options": [
         {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
           "title": "Robin Scherbatsky",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "You're right, not my place. Why don't I get the next round.",
-      "description": "How I Met Your Mother • Romeward Bound",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ted Mosby",
           "description": "How I Met Your Mother character"
         },
         {
           "title": "Barney Stinson",
           "description": "How I Met Your Mother character"
         },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "It's the cinnamon. I add cinnamon. She's not in New York. Maybe in Chicago.",
-      "description": "How I Met Your Mother • Something New",
-      "correct": 2,
-      "options": [
         {
           "title": "Lily Aldrin",
           "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
         }
       ]
     },
     {
-      "quote": "The point is, one year ago today, I made a promise to myself, right at this table.",
-      "description": "How I Met Your Mother • Coming Back",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "I know, but I knew I would - and now it's a year later...",
-      "description": "How I Met Your Mother • Coming Back",
-      "correct": 2,
+      "quote": "Stanley Cup. Game six, eh? The Rangers are aboot to be sorry they ever played shinny with the Canucks.",
+      "description": "How I Met Your Mother • Intervention",
+      "correct": 1,
       "options": [
         {
           "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Here you are. Love in your eyes, baked goods in your undergarments.",
-      "description": "How I Met Your Mother • Coming Back",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Marshall Eriksen",
           "description": "How I Met Your Mother character"
         },
         {
           "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
           "description": "How I Met Your Mother character"
         }
       ]
@@ -380,22 +209,22 @@
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Marshall Eriksen",
+          "title": "Barney Stinson",
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Lily Aldrin",
+          "title": "Marshall Eriksen",
           "description": "How I Met Your Mother character"
         }
       ]
     },
     {
-      "quote": "And that's the story, right down to the surprise ending.",
-      "description": "How I Met Your Mother • Vesuvius",
+      "quote": "Twenty-four hours straight without that little bastard.",
+      "description": "How I Met Your Mother • Part II",
       "correct": 0,
       "options": [
         {
-          "title": "Ted Mosby",
+          "title": "Marshall Eriksen",
           "description": "How I Met Your Mother character"
         },
         {
@@ -409,200 +238,147 @@
       ]
     },
     {
-      "quote": "Maybe it started out that way. Maybe some part of me thought—",
+      "quote": "I know, but I knew I would - and now it's a year later...",
+      "description": "How I Met Your Mother • Coming Back",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Then why, when we said \"Hey, Moby\" did you come over here?",
+      "description": "How I Met Your Mother • The Limo",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "No Pause, that hobby is my dream. We're going to Italy.",
+      "description": "How I Met Your Mother • Unpause",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Mom don't make the rules no more, Scooter.",
+      "description": "How I Met Your Mother • Twelve Horny Women",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, I can't shake it, I can't shake this feeling that nothing about me and Barney makes any sense!",
       "description": "How I Met Your Mother • The End of the Aisle",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "That's your daughter's school. You need to go in.",
+      "description": "How I Met Your Mother • Mom and Dad",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "No, Shut Up shut down. I can't believe I don't know the clubs anymore.",
+      "description": "How I Met Your Mother • Hopeless",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "There's a pretty good chance I don't exist.",
+      "description": "How I Met Your Mother • Tailgate",
       "correct": 1,
       "options": [
         {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        },
-        {
           "title": "Ted Mosby",
           "description": "How I Met Your Mother character"
         },
-        {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Why are you bringing any of this up? There's nothing between us anymore.",
-      "description": "How I Met Your Mother • Shelter Island",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Man! What's up with Swarley?",
-      "description": "How I Met Your Mother • Swarley",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "No, I meant do you have a cold?",
-      "description": "How I Met Your Mother • How Lily Stole Christmas",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Robin Scherbatsky",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "As in, not sure whether you’d hit it?",
-      "description": "How I Met Your Mother • Bachelor Party",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "We have an expiration date, don't we?",
-      "description": "How I Met Your Mother • Something Blue",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "It's been five months for you, too?",
-      "description": "How I Met Your Mother • Rebound Bro",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Okay, if Stella doesn't like this movie, I can't marry her.",
-      "description": "How I Met Your Mother • Do I Know You?",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "What does that supposed to mean?",
-      "description": "How I Met Your Mother • Shelter Island",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Every international conflict?",
-      "description": "How I Met Your Mother • Benefits",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Oh, sorry! What's Party School Bingo?",
-      "description": "How I Met Your Mother • Three Days of Snow",
-      "correct": 2,
-      "options": [
         {
           "title": "Lily Aldrin",
           "description": "How I Met Your Mother character"
@@ -610,17 +386,13 @@
         {
           "title": "Barney Stinson",
           "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
         }
       ]
     },
     {
-      "quote": "Then what's the point, then?",
-      "description": "How I Met Your Mother • Three Days of Snow",
-      "correct": 0,
+      "quote": "Dude, I'm a girl, OK? Our girl parts are like a spider web; sometimes you're gonna catch stuff you don't want!",
+      "description": "How I Met Your Mother • Hooked",
+      "correct": 2,
       "options": [
         {
           "title": "Ted Mosby",
@@ -637,12 +409,12 @@
       ]
     },
     {
-      "quote": "Lily, you can't manipulate people like that! I've known you 12 years and I can honestly say I've NEVER BEEN MORE FURIOUS AT YOU!",
+      "quote": "Whoa whoa, settle down. Let's just settle down! I have one question: What do these bad boys feel like in bed?",
       "description": "How I Met Your Mother • The Front Porch",
-      "correct": 2,
+      "correct": 0,
       "options": [
         {
-          "title": "Robin Scherbatsky",
+          "title": "Barney Stinson",
           "description": "How I Met Your Mother character"
         },
         {
@@ -656,12 +428,12 @@
       ]
     },
     {
-      "quote": "Yeah. You want to share the oysters?",
-      "description": "How I Met Your Mother • Double Date",
+      "quote": "Thank you Marshall. Marshall, can I ask for one final favor, my friend?",
+      "description": "How I Met Your Mother • The Exploding Meatball Sub",
       "correct": 0,
       "options": [
         {
-          "title": "Ted Mosby",
+          "title": "Barney Stinson",
           "description": "How I Met Your Mother character"
         },
         {
@@ -675,9 +447,85 @@
       ]
     },
     {
-      "quote": "You have neighbors. Shut the bagpipes up!",
-      "description": "How I Met Your Mother • Bagpipes",
+      "quote": "Kids don't understand logic. Kids understand who shows up.",
+      "description": "How I Met Your Mother • Mom and Dad",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Since you're a clearly man of impeccable taste and style, I want to ask you: what do you think of the boots?",
+      "description": "How I Met Your Mother • Everything Must Go",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "What does this mean? Marshall? No... NOOOOOOOOO!",
+      "description": "How I Met Your Mother • Wait For It",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Fine, let me ask you something - Barney were you a little sore this morning, especially...",
+      "description": "How I Met Your Mother • Ring Up!",
       "correct": 1,
+      "options": [
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, shut up. You think I don't know your fake apologies by now, Ted Mosby? You're clearly still mad at me.",
+      "description": "How I Met Your Mother • How Lily Stole Christmas",
+      "correct": 0,
       "options": [
         {
           "title": "Lily Aldrin",
@@ -694,14 +542,29 @@
       ]
     },
     {
-      "quote": "And what does frat guys say to that?",
-      "description": "How I Met Your Mother • Girls Versus Suits",
-      "correct": 1,
+      "quote": "I'll give you summer teeth... Some are here, some are there.",
+      "description": "How I Met Your Mother • Intervention",
+      "correct": 2,
       "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
         {
           "title": "Robin Scherbatsky",
           "description": "How I Met Your Mother character"
-        },
+        }
+      ]
+    },
+    {
+      "quote": "No, Was was Closed. Once Was shut down, it reopened as Closed.",
+      "description": "How I Met Your Mother • Hopeless",
+      "correct": 1,
+      "options": [
         {
           "title": "Ted Mosby",
           "description": "How I Met Your Mother character"
@@ -709,12 +572,54 @@
         {
           "title": "Barney Stinson",
           "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
         }
       ]
     },
     {
-      "quote": "So um, do you ever date cute idiots?",
-      "description": "How I Met Your Mother • Girls Versus Suits",
+      "quote": "Actually, that is the date. Ted offered to help with the wedding, and well, uh...",
+      "description": "How I Met Your Mother • Band or DJ?",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "It's the cinnamon. I add cinnamon. She's not in New York. Maybe in Chicago.",
+      "description": "How I Met Your Mother • Something New",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, well, lucky you, because that is one thing you will never have to worry about.",
+      "description": "How I Met Your Mother • The Lighthouse",
       "correct": 2,
       "options": [
         {
@@ -722,102 +627,7 @@
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Absolutely! Look, there are two sides to dating - picking and getting picked. Getting picked I'm good at. Ladies love Teddy Westside.",
-      "description": "How I Met Your Mother • Rabbit or Duck",
-      "correct": 1,
-      "options": [
-        {
           "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "It’s the picking I suck at, I pick the wrong girls! But you guys are the best pickers I know. You picked each other!",
-      "description": "How I Met Your Mother • Rabbit or Duck",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "How'd you know I was going to be up here?",
-      "description": "How I Met Your Mother • Home Wreckers",
-      "correct": 2,
-      "options": [
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Robin Scherbatsky",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "And this theory applies to everything?",
-      "description": "How I Met Your Mother • Architect of Destruction",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Lily Aldrin",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "Criminals of New York, attention! This man is wearing a diamond-covered suit. You can retire on the pants alone. Merry Christmas!",
-      "description": "How I Met Your Mother • False Positive",
-      "correct": 0,
-      "options": [
-        {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Lily Aldrin",
           "description": "How I Met Your Mother character"
         },
         {
@@ -827,35 +637,54 @@
       ]
     },
     {
-      "quote": "Hey, where are our chicken wings?",
-      "description": "How I Met Your Mother • The Perfect Cocktail",
-      "correct": 1,
+      "quote": "You're not a chair, you are our best friend.",
+      "description": "How I Met Your Mother • Something Old",
+      "correct": 0,
       "options": [
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "I did get a perfect score on the A.C.T.'s. Advanced Card Tricks.",
+      "description": "How I Met Your Mother • Unpause",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
         {
           "title": "Marshall Eriksen",
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Lily Aldrin",
+          "title": "Robin Scherbatsky",
           "description": "How I Met Your Mother character"
         }
       ]
     },
     {
-      "quote": "Barney, what are you doing here?",
-      "description": "How I Met Your Mother • Landmarks",
-      "correct": 0,
+      "quote": "I thought Grandma and Grampa took care of me.",
+      "description": "How I Met Your Mother • Nannies",
+      "correct": 1,
       "options": [
         {
           "title": "Ted Mosby",
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Robin Scherbatsky",
+          "title": "Lily Aldrin",
           "description": "How I Met Your Mother character"
         },
         {
@@ -865,55 +694,245 @@
       ]
     },
     {
-      "quote": "I don't believe this. You were in love with Robin, you find out she's single, and all you've got to say is \"Bummer\"?",
-      "description": "How I Met Your Mother • No Pressure",
-      "correct": 0,
+      "quote": "Stinson's Hangover Fixer Elixir is a lie... That's the secret.",
+      "description": "How I Met Your Mother • Rally",
+      "correct": 2,
       "options": [
         {
           "title": "Ted Mosby",
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Robin Scherbatsky",
+          "title": "Lily Aldrin",
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Lily Aldrin",
+          "title": "Barney Stinson",
           "description": "How I Met Your Mother character"
         }
       ]
     },
     {
-      "quote": "Even if that somebody else was me?",
-      "description": "How I Met Your Mother • No Pressure",
-      "correct": 0,
+      "quote": "I know that Barney gave you that painting!",
+      "description": "How I Met Your Mother • Columns",
+      "correct": 2,
       "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
         {
           "title": "Ted Mosby",
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Robin Scherbatsky",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Lily Aldrin",
+          "title": "Marshall Eriksen",
           "description": "How I Met Your Mother character"
         }
       ]
     },
     {
-      "quote": "You're expecting me to go there?",
+      "quote": "I'm sorry, I feel bad for the guy. I'm stealing the greatest girl in the world away from him.",
       "description": "How I Met Your Mother • Farhampton",
       "correct": 1,
       "options": [
         {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "No, you pour the cereal first to see how much milk you need!",
+      "description": "How I Met Your Mother • Little Boys",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Wonder if I know someone I can set you up with. Drawn a blank.",
+      "description": "How I Met Your Mother • Platonish",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Lily, if you're waiting for me to suddenly turn into the wedding bride, you just give up, that's not me.",
+      "description": "How I Met Your Mother • Vesuvius",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Here you are. Love in your eyes, baked goods in your undergarments.",
+      "description": "How I Met Your Mother • Coming Back",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Wow. That's incredible. When did you get so good with kids?",
+      "description": "How I Met Your Mother • Nannies",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "I'll tell you what the big deal is. You know how I have always been best at being single?",
+      "description": "How I Met Your Mother • Bagpipes",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Barney Stinson",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Well why did you break two of them?",
+      "description": "How I Met Your Mother • Arrivederci, Fiero",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Ted Mosby",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "Fine I'll do it for you. First thing we need to do is set a date-",
+      "description": "How I Met Your Mother • Band or DJ?",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Marshall Eriksen",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "And what do you get when you get five in a row?",
+      "description": "How I Met Your Mother • Three Days of Snow",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
           "title": "Lily Aldrin",
           "description": "How I Met Your Mother character"
         },
         {
           "title": "Ted Mosby",
           "description": "How I Met Your Mother character"
+        }
+      ]
+    },
+    {
+      "quote": "I get turned on watching myself do the news during sex.",
+      "description": "How I Met Your Mother • The Pre-Nup",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Robin Scherbatsky",
+          "description": "How I Met Your Mother character"
+        },
+        {
+          "title": "Lily Aldrin",
+          "description": "How I Met Your Mother character"
         },
         {
           "title": "Barney Stinson",
@@ -922,8 +941,8 @@
       ]
     },
     {
-      "quote": "I didn't know! None of us even knew you had a sister until two years ago, including you. It's all a crazy coincidence.",
-      "description": "How I Met Your Mother • Ring Up!",
+      "quote": "I'm sorry, all rulings are final. I am not taking it back.",
+      "description": "How I Met Your Mother • The Ashtray",
       "correct": 1,
       "options": [
         {
@@ -931,26 +950,7 @@
           "description": "How I Met Your Mother character"
         },
         {
-          "title": "Ted Mosby",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Barney Stinson",
-          "description": "How I Met Your Mother character"
-        }
-      ]
-    },
-    {
-      "quote": "I don't know. It's not like you've treated women in such a way that wouldn't invite karmic retribution.",
-      "description": "How I Met Your Mother • Ring Up!",
-      "correct": 1,
-      "options": [
-        {
-          "title": "Marshall Eriksen",
-          "description": "How I Met Your Mother character"
-        },
-        {
-          "title": "Ted Mosby",
+          "title": "Lily Aldrin",
           "description": "How I Met Your Mother character"
         },
         {
