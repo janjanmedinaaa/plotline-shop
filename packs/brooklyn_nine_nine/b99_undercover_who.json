@@ -1,0 +1,963 @@
+{
+  "id": "b99_undercover_who",
+  "title": "Brooklyn Nine-Nine: Cases & Stakeouts",
+  "description": "Who said it on stakeouts, arrests, and wild cases?",
+  "category": "series",
+  "group": "Brooklyn Nine-Nine",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 50,
+  "questions": [
+    {
+      "quote": "Okay, great. Thanks, Doctor. Have a good one.",
+      "description": "Brooklyn Nine-Nine • Chocolate Milk",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Adrian Pimento",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "I hate being friends with you!",
+      "description": "Brooklyn Nine-Nine • Chocolate Milk",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Amy Santiago",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "What's up? How can I help?",
+      "description": "Brooklyn Nine-Nine • Into the Woods",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Gina Linetti",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "I know. We did it once, we can do it again.",
+      "description": "Brooklyn Nine-Nine • The Pontiac Bandit Returns",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Gina Linetti",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "I'm just... holding a road flare... stepping on some oatmeal... Just doing me.",
+      "description": "Brooklyn Nine-Nine • The Wednesday Incident",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Norm Scully",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "That's fine work, detective.",
+      "description": "Brooklyn Nine-Nine • Pilot",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Gina Linetti",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Are you talking about your new goatee? I think it's a good choice for your face. Come over here so I can take a better look.",
+      "description": "Brooklyn Nine-Nine • Captain Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Is it in your pockets?",
+      "description": "Brooklyn Nine-Nine • Thanksgiving",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Yes, the D.A. wanted me to personally thank you for your work on the Jay Street drug bust.",
+      "description": "Brooklyn Nine-Nine • The Slump",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Adrian Pimento",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Michael Hitchcock",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Turning over a new leaf. I'm gonna live that honest life. Maybe open up a bakery, buy a little house, invest in my retirement.",
+      "description": "Brooklyn Nine-Nine • The Fugitive, Part 2",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Michael Hitchcock",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Amy Santiago",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Where were you? You were gone for three hours. I know because I sang \"This Is How We Do It\" 143 times.",
+      "description": "Brooklyn Nine-Nine • Sabotage",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Amy Santiago",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "This envelope contains my inheritance from my uncle, he died a year ago. He was so rich, he had a whole room in his house just to eat in.",
+      "description": "Brooklyn Nine-Nine • Cheddar",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Amy Santiago",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Thank you for this honor, Deputy Chief.",
+      "description": "Brooklyn Nine-Nine • Stakeout",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Amy Santiago",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, my girlfriend here, thinks we're lost.",
+      "description": "Brooklyn Nine-Nine • The Bet",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Norm Scully",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Is Jay-Z really your favorite artist?",
+      "description": "Brooklyn Nine-Nine • Unsolvable",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Adrian Pimento",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "A bam-bam, boom! What the- what-?",
+      "description": "Brooklyn Nine-Nine • Halloween III",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Charles Boyle",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "I'm doing a cost-benefit analysis in my head. The benefits outweigh the costs- we have reached an accord.",
+      "description": "Brooklyn Nine-Nine • Halloween II",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Amy Santiago",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Wow. That was amazing, you beat him! I can't believe it actually worked out okay.",
+      "description": "Brooklyn Nine-Nine • The Set Up",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Damn, we are good at stashing pregnant ladies! Uh!",
+      "description": "Brooklyn Nine-Nine • Ava",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Amy Santiago",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Gina Linetti",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, well, well. Looks like Charles is out and Hitchcock's in! What do you wanna do tonight? Go to a strip club? Have dinner with my wife?",
+      "description": "Brooklyn Nine-Nine • Stakeout",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Michael Hitchcock",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Charles Boyle",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "\"Replaced\"? He should be put down! Like a horse! So who's the new sub-human piece of human garbage?",
+      "description": "Brooklyn Nine-Nine • Jake and Sophia",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Uh, sorry. I meant out of respect I will choose to stand. Sit, I will not.",
+      "description": "Brooklyn Nine-Nine • Charges and Specs",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Hitchcock",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Dumb-dumb tried to jump down the stairs. Shattered his ankle. Foot's all floppy.",
+      "description": "Brooklyn Nine-Nine • The Slaughterhouse",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Norm Scully",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "An identical mason jar!",
+      "description": "Brooklyn Nine-Nine • The Mattress",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Charles Boyle",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Adrian Pimento",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Ah, Sharon, nice to see you! You look so big, like a mighty truck.",
+      "description": "Brooklyn Nine-Nine • Ava",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Amy Santiago",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Nope. But she is the same make, model, and color.",
+      "description": "Brooklyn Nine-Nine • The Fugitive, Part 2",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Norm Scully",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Adrian Pimento",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "And it's midnight, so I guess I'm an amazing human/genius.",
+      "description": "Brooklyn Nine-Nine • HalloVeen",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amy Santiago",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Gina Linetti",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Michael Hitchcock",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Wait. I have a theory. I think \"limousine\" and \"magazine\" come from the same word.",
+      "description": "Brooklyn Nine-Nine • Sabotage",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Norm Scully",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Gina Linetti",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "It's not like I'm, uh, always-",
+      "description": "Brooklyn Nine-Nine • Karen Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Gina Linetti",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Charles Boyle",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, 68, like I said.",
+      "description": "Brooklyn Nine-Nine • The Vulture",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Charles Boyle",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Adrian Pimento",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Do you? Do you understand me?!",
+      "description": "Brooklyn Nine-Nine • Payback",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Gina Linetti",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "I'm considering it. I'm interested. I agree to participate.",
+      "description": "Brooklyn Nine-Nine • Halloween",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "And money laundering.",
+      "description": "Brooklyn Nine-Nine • The Overmining",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Hitchcock",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Charles Boyle",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "But- you guys always make fun of me!",
+      "description": "Brooklyn Nine-Nine • Halloween III",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Adrian Pimento",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Norm Scully",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Charles Boyle",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "I sent him home. He assaulted Jimmy Brogan.",
+      "description": "Brooklyn Nine-Nine • Old School",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Amy Santiago",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Norm Scully",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Diaz, I've been calling you. Why won't you answer your phone?",
+      "description": "Brooklyn Nine-Nine • Crime and Punishment",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Adrian Pimento",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, stay calm. We're gonna talk to a lawyer and get a professional opinion.",
+      "description": "Brooklyn Nine-Nine • Hostage Situation",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Hitchcock",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Charles Boyle",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Good morning Karly, Tani, looks like you're keeping the machines running smoothly.",
+      "description": "Brooklyn Nine-Nine • Coral Palms Pt. 1",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Adrian Pimento",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Norm Scully",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Can you estimate the value of everything that was taken?",
+      "description": "Brooklyn Nine-Nine • The Ebony Falcon",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Michael Hitchcock",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Norm Scully",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Yes, money laundering! Whatever!",
+      "description": "Brooklyn Nine-Nine • The Overmining",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Adrian Pimento",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Michael Hitchcock",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Genevieve, I know we just met, and I don't wanna be too forward...",
+      "description": "Brooklyn Nine-Nine • Boyle's Hunch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Charles Boyle",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Michael Hitchcock",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Do not interrupt me! Raymond, Raymond, Raymond, Raymond- seven times, once for every day your juicy, insubordinate ass is suspended.",
+      "description": "Brooklyn Nine-Nine • The Oolong Slayer",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Gina Linetti",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Madeline Wuntch",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Tight. What does She look like?",
+      "description": "Brooklyn Nine-Nine • The Audit",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Charles Boyle",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Hello again, Professor Kevin Cozner.",
+      "description": "Brooklyn Nine-Nine • The Party",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake Peralta",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Raymond Holt",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Norm Scully",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Don't lean against the door. Terry caused structural damage.",
+      "description": "Brooklyn Nine-Nine • 9 Days",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Adrian Pimento",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Michael Hitchcock",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "I think you're really great, too!",
+      "description": "Brooklyn Nine-Nine • Karen Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Amy Santiago",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Doug Judy",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Hell yeah he does! Except now the Ebony Falcon is monogamous and too tired for sex, so his only indulgence is fresh fruit yogurt parfaits.",
+      "description": "Brooklyn Nine-Nine • The Ebony Falcon",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Amy Santiago",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Michael Hitchcock",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Great. The tow truck just got here, so that'll buy us at least an hour.",
+      "description": "Brooklyn Nine-Nine • Cheddar",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Norm Scully",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Gina Linetti",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "Why are you using a road flare?!",
+      "description": "Brooklyn Nine-Nine • The Wednesday Incident",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Amy Santiago",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    },
+    {
+      "quote": "You know how it is, when you have a chance to bed an older woman, you-",
+      "description": "Brooklyn Nine-Nine • The Vulture",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Terry Jeffords",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Charles Boyle",
+          "description": "Brooklyn Nine-Nine character"
+        },
+        {
+          "title": "Rosa Diaz",
+          "description": "Brooklyn Nine-Nine character"
+        }
+      ]
+    }
+  ]
+}

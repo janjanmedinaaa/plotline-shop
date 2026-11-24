@@ -1,0 +1,963 @@
+{
+  "id": "b99_s1_s2_ep",
+  "title": "Brooklyn Nine-Nine: Seasons 1–2",
+  "description": "Match the famous quote to its Season 1 or 2 episode.",
+  "category": "series",
+  "group": "Brooklyn Nine-Nine",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 150,
+  "quote_count": 50,
+  "questions": [
+    {
+      "quote": "But could it be gently nudged into hyper speed?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Sal's Pizza",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Bet",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Charges and Specs",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Captain! I'm coming with you.",
+      "description": "Spoken by Gina Linetti",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Ebony Falcon",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Johnny and Dora",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Unsolvable",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "You mean my job as an amazing detective/genius? No, it will not. I will do all of my work, guaranteed.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Jimmy Jab Games",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Stakeout",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, Captain, I just sent you an email, uh...",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Halloween II",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Operation: Broken Feather",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Lockdown",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "All right, fine, darling; I'll ask him. Excuse me, sir!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Bet",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Det. Dave Majors",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Thanksgiving",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, hey there, Captain! Do you happen to know what day today is?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Halloween II",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Jimmy Jab Games",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Thanksgiving",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "H-hey! New captain alert! You must be the new C.O.! I'm Detective Jake Peralta, great to meet you—",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Johnny and Dora",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Sabotage",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "20 seconds to spare. Game over, Captain. Check me.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Halloween",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Pontiac Bandit",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Defense Rests",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "But how can we be sure he won't turn on us?",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Undercover",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Sal's Pizza",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Pontiac Bandit Returns",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "No. I destroyed him. There's absolutely nothing here that will set off Holt.",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 1,
+      "options": [
+        {
+          "title": "USPIS",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Wednesday Incident",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Road Trip",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, you did. Why don't you come back here and take me out to dinner?",
+      "description": "Spoken by Rosa Diaz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Pontiac Bandit",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "48 Hours",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Ebony Falcon",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I just talked to my wife. We're waiting on the operation, everything's cool.",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Full Boyle",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Chocolate Milk",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Sabotage",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "If I'm ever going to make captain, I need a good mentor; I need my rabbi.",
+      "description": "Spoken by Amy Santiago",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Det. Dave Majors",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Old School",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Sup, Peralta! Greetings from paradise! Actually, I'm a little disappointed in the hotel. How you mess up a omelette? It's just a flat egg!",
+      "description": "Spoken by Doug Judy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Pontiac Bandit Returns",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Full Boyle",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Defense Rests",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "No, sir. I wasn't- Peralta was the one that was talking!",
+      "description": "Spoken by Amy Santiago",
+      "correct": 0,
+      "options": [
+        {
+          "title": "M.E. Time",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Bet",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Commissioner, please don't talk to my detective in that tone. If you have a complaint you can take it up with me.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Mole",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Tagger",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Jimmy Jab Games",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I already got my paperwork in, Captain.",
+      "description": "Spoken by Amy Santiago",
+      "correct": 0,
+      "options": [
+        {
+          "title": "M.E. Time",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Bet",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Pontiac Bandit Returns",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Devastatingly handsome? I'm sorry. I'm uncomfortable with emotions.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Party",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Pontiac Bandit Returns",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "That was it. I was just demonstrating for Detective Peralta what a fact is.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Mole",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "48 Hours",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Det. Dave Majors",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Nice cop lingo! Look, I'm really sorry that we ruined your party. I'd love to make it up to you.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Jimmy Jab Games",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Party",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Bet",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "No! He was scared of everything! Do you remember Rosa's reaction the last time the printer jammed?",
+      "description": "Spoken by Gina Linetti",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sal's Pizza",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Unsolvable",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Look, I'll make it real simple so even these dum-dums can understand: Man did crime!",
+      "description": "Spoken by Rosa Diaz",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Operation: Broken Feather",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Old School",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Payback",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Let's have a hand for the fine master detective Jake Peralta!",
+      "description": "Spoken by Raymond Holt",
+      "correct": 2,
+      "options": [
+        {
+          "title": "M.E. Time",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Wednesday Incident",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Thank you, sir. Peralta figured out the pattern, though, so he should get credit for the collar. Have you seen him?",
+      "description": "Spoken by Amy Santiago",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Old School",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Captain Peralta",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Jake and Sophia",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "That's not what a vasectomy is. If you guys don't get back to work, I'm gonna start firing detectives!",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 2,
+      "options": [
+        {
+          "title": "USPIS",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Jake and Sophia",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Chocolate Milk",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Jake Peralta is an amazing detective/genius.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Operation: Broken Feather",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Unsolvable",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween II",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "A likely story, Pontiac- actually, you do have a lot of hair products.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "M.E. Time",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Pontiac Bandit",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "You should make me your campaign manager. I was born for politics! I have great hair and I love lying.",
+      "description": "Spoken by Gina Linetti",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chocolate Milk",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Full Boyle",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Lockdown",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "But whose melted torso did we find? Sophia's husband.",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Unsolvable",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Undercover",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, good morning, Captain Holt.",
+      "description": "Spoken by Charles Boyle",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Road Trip",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Wednesday Incident",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Precisely. Captain, turn your greatest weakness into your greatest strength, like Paris Hilton, RE: her sex tape.",
+      "description": "Spoken by Gina Linetti",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sal's Pizza",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Vulture",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Charges and Specs",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Captain Holt's uncle passed away. They weren't close, but I wanted to do something.",
+      "description": "Spoken by Amy Santiago",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Tagger",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Lockdown",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Undercover",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Wuntch time is over! Boom, did it! Had it both ways! No regrets.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Wednesday Incident",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Thanksgiving",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Stakeout",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's Gina's phone, leave me a voicemail. I won't check it 'cause it's not 1993.",
+      "description": "Spoken by Gina Linetti",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Slump",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Old School",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Mole",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "All right, I see what you're trying to do, but it's not gonna work. I'm not gonna arrest him. I'm gonna arrest him!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Tagger",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Party",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "You're going to leave my precinct and my task force alone. Or else, you're... Wuntch meat.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Pontiac Bandit",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Old School",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Mole",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "What bet? What're you guys talking about?",
+      "description": "Spoken by Michael Hitchcock",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Halloween II",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Bet",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Sergeant, is this gonna go on your spermanent record?",
+      "description": "Spoken by Charles Boyle",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Chocolate Milk",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween II",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, I could get in a lot of trouble for this. But the big secret about Captain Holt is...",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Mole",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Operation: Broken Feather",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Johnny and Dora",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Deputy Chief Wuntch is here to see you.",
+      "description": "Spoken by Rosa Diaz",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Captain Peralta",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Defense Rests",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Sabotage",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "No Peralta here! Just a janitor pushing trash around.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pilot",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Mole",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "The Deputy Commissioner threw my report into Terry's trash can. And he'd been eating yogurt earlier.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Sal's Pizza",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Party",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Tagger",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "That's what I'm talking about! Super dark, Boyle, but way more plausible than the Sarge's idiotic alarm clock theory.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Jake and Sophia",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Pontiac Bandit",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Lockdown",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "That's the lesson you draw from the fall of Addis Ababa? Raymond, you sound so naïve.",
+      "description": "Spoken by Madeline Wuntch",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chocolate Milk",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Jimmy Jab Games",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Thanksgiving",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "All right, and what happened last Halloween?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Unsolvable",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween II",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Detective Peralta has made a collar in the jewelry store heist.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 0,
+      "options": [
+        {
+          "title": "48 Hours",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Pontiac Bandit Returns",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "You know how long I've been waiting for one of you old men to kiss me?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Bet",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Jimmy Jab Games",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Undercover",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "So you dragged us over here, pretended to talk, and then snuck out the basement. Am I right?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Pontiac Bandit",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Sabotage",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Wednesday Incident",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Now, I know everyone's mad at Detective Peralta for ruining their weekend.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 1,
+      "options": [
+        {
+          "title": "USPIS",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "48 Hours",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween II",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "You wanted to see me, Captain?",
+      "description": "Spoken by Amy Santiago",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Slump",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Payback",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Det. Dave Majors",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    }
+  ]
+}

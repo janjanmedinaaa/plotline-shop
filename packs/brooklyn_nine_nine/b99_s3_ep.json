@@ -1,0 +1,963 @@
+{
+  "id": "b99_s3_ep",
+  "title": "Brooklyn Nine-Nine: Season 3",
+  "description": "Match the famous quote to its Season 3 episode.",
+  "category": "series",
+  "group": "Brooklyn Nine-Nine",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 50,
+  "questions": [
+    {
+      "quote": "Well, looks like Bob's the odd man out. Bye, Bob!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Greg and Larry",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "House Mouses",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "New Captain",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Damn. She can't do that! Can she do that?",
+      "description": "Spoken by Charles Boyle",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Halloween III",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Yippie Kayak",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Hostage Situation",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I have never once insulted you in my life! Especially vis a vis your appearance!",
+      "description": "Spoken by Gina Linetti",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Cruise",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Funeral",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween III",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Huh. Strange to be on this side of the desk.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Yippie Kayak",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Cheddar",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Funeral",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Remember last year? When you came as that... person, and/or thing?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Ava",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween III",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Cheddar",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I have a few questions about a beautiful client of yours, Genevieve Mirren-Carter.",
+      "description": "Spoken by Charles Boyle",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Boyle's Hunch",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "New Captain",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Ava",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Holt's gonna be back from his meeting in thirty minutes- what do we do?!",
+      "description": "Spoken by Rosa Diaz",
+      "correct": 2,
+      "options": [
+        {
+          "title": "New Captain",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Oolong Slayer",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "House Mouses",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, come here, come here, come here! You need to see this! I'm about to give Captain Holt his gift.",
+      "description": "Spoken by Amy Santiago",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Swedes",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Terry Kitties",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Yippie Kayak",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Why do people like these things? They're just shiny rocks.",
+      "description": "Spoken by Rosa Diaz",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Cheddar",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Swedes",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Ava",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, Gina! I need a top secret favor. Sharon has come to the precinct and I need your help.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Into the Woods",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Ava",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Greg and Larry",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah! Cause that wasn't the real file! We have to call Holt. Come on, Captain, pick up! Pick up!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Karen Peralta",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Bureau",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Cruise",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Tow truck?! What the hell'd you do to my car?!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Cheddar",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Terry Kitties",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Hostage Situation",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, you don't have to thank me. All I did was be the only person who believes in you.",
+      "description": "Spoken by Gina Linetti",
+      "correct": 0,
+      "options": [
+        {
+          "title": "9 Days",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Boyle's Hunch",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Cheddar",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "What're you lookin' at? You got a problem?",
+      "description": "Spoken by Amy Santiago",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Maximum Security",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Yippie Kayak",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Cheddar",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah. Normally, it'd be your word against his- but lucky for us, you were wearing body cams!",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Karen Peralta",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "New Captain",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Mattress",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yes! Thank you for asking. I did not feel like doing this work right now.",
+      "description": "Spoken by Gina Linetti",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Into the Woods",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Hostage Situation",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Cheddar",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "All right, all right! Looks good! Can barely tell you hulked out in here.",
+      "description": "Spoken by Gina Linetti",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Mattress",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Karen Peralta",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "9 Days",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, Gina! We got an anonymous gift basket. Yeah, it's full of treats. It's got meats, cheeses, candies- all the food groups.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Hostage Situation",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "House Mouses",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "New Captain",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "You got Hitchcock and Scully off their hunger strike.",
+      "description": "Spoken by Gina Linetti",
+      "correct": 0,
+      "options": [
+        {
+          "title": "9 Days",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Into the Woods",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Oolong Slayer",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's not a game. I'm following our captain's orders.",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 0,
+      "options": [
+        {
+          "title": "New Captain",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Karen Peralta",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Mattress",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Boyle, what are you talking about?",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The 9-8",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Karen Peralta",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "House Mouses",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "\"Tank\"?! I gained three pounds in Paris! Three pounds!",
+      "description": "Spoken by Raymond Holt",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Terry Kitties",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Oolong Slayer",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Swedes",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Ladies and gentlemen! Welcome to the most anticipated event in this precinct's history! The auction for-",
+      "description": "Spoken by Gina Linetti",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The 9-8",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Into the Woods",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween III",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Hey. Gina, how's the stalling?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Swedes",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Greg and Larry",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Cheddar",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "And you! You can't do anything except disobey orders and screw up!",
+      "description": "Spoken by Madeline Wuntch",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Oolong Slayer",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Funeral",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Greg and Larry",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I know, right! Oh, wait, you're making fun of me.",
+      "description": "Spoken by Amy Santiago",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Yippie Kayak",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "New Captain",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Boyle's Hunch",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I know! Get off my back, computer ghost!",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 0,
+      "options": [
+        {
+          "title": "New Captain",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Cruise",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Cheddar",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "What? No way! This is a nice present from an unknown, appreciative citizen that wanted us to munch!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Cruise",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "House Mouses",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Ava",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "No, he didn't, but I figured out a way to buy him something and trick him into accepting it.",
+      "description": "Spoken by Amy Santiago",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Karen Peralta",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween III",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Yippie Kayak",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I want old, expensive books. I'll send you a list.",
+      "description": "Spoken by Amy Santiago",
+      "correct": 2,
+      "options": [
+        {
+          "title": "9 Days",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween III",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Cheddar",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Keeping Captain Holt away from her. Terry says he gets very awkward near Sharon.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ava",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Bureau",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The 9-8",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Ooh! Rosa comin' in hot, Rosa comin' in hot!",
+      "description": "Spoken by Gina Linetti",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The 9-8",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Karen Peralta",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Funeral",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "But the captain can have him arrested; he has total authority on this boat.",
+      "description": "Spoken by Amy Santiago",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Mattress",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Ava",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Cruise",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Same goes for you, Peralta, 'cept for the juicy ass part, 'cause your ass is stupid.",
+      "description": "Spoken by The Vulture",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Swedes",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "House Mouses",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Oolong Slayer",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yes! There's the Rosa I know! Summer's Kiss my ass!",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Greg and Larry",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Swedes",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Yippie Kayak",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "And laughed with him about all the weight he gained in France!",
+      "description": "Spoken by Norm Scully",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Terry Kitties",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween III",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Oolong Slayer",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Amy, are you asking me to \"She's all that\" you?",
+      "description": "Spoken by Gina Linetti",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Into the Woods",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Cheddar",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Yippie Kayak",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "You called us in here to tell us that?",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Mattress",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Karen Peralta",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Yippie Kayak",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Well, Sharon is happy, and Captain Holt has no idea where she is.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Ava",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "House Mouses",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Funeral",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Peralta, it's no coincidence you're on this ship. You won a free cruise without entering a contest; how do you think that happened?",
+      "description": "Spoken by Doug Judy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Cruise",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Greg and Larry",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Ava",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "But he helped us with the heist and there was nothing about him in the paper file!",
+      "description": "Spoken by Rosa Diaz",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Boyle's Hunch",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Swedes",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Bureau",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Sir, we just caught a serial killer! I've wanted this since I was four years old!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Cheddar",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Into the Woods",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Oolong Slayer",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "What we need in here is an armored personnel carrier. A tank!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Terry Kitties",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Bureau",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Swedes",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I've got that feeling about you. I like you. I think tonight we-",
+      "description": "Spoken by Charles Boyle",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Cruise",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Boyle's Hunch",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Maximum Security",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "What?! But we saw him throw them in the garbage!",
+      "description": "Spoken by Rosa Diaz",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Funeral",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Karen Peralta",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Terry Kitties",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Peralta! Sorry to do this to you, man. I saw an opening and I had to take it. I can't go to jail! I'm too cool!",
+      "description": "Spoken by Doug Judy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Terry Kitties",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Cruise",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "New Captain",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Squad, that's enough. You're making Boyle feel bad on purpose. He's Elvis!",
+      "description": "Spoken by Raymond Holt",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Hostage Situation",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween III",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Cheddar",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "\"I hope it wasn't a mistake,\" title of your sex tape? Title of our sex tape!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Oolong Slayer",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "New Captain",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Mattress",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, Gina. Would you do me a favor?",
+      "description": "Spoken by Amy Santiago",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Into the Woods",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "New Captain",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween III",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I'll let you give me a spray tan! Any shade you want!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Hostage Situation",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The 9-8",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "House Mouses",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    }
+  ]
+}

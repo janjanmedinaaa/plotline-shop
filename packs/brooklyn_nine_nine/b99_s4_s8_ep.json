@@ -1,0 +1,963 @@
+{
+  "id": "b99_s4_s8_ep",
+  "title": "Brooklyn Nine-Nine: Seasons 4–8",
+  "description": "Match the famous quote to its Season 4–8 episode.",
+  "category": "series",
+  "group": "Brooklyn Nine-Nine",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 50,
+  "questions": [
+    {
+      "quote": "It's a metaphor! You get nothing, You lose! Good Day, Sir!",
+      "description": "Spoken by Raymond Holt",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Halloween IV",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Big House Pt. 1",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Honeymoon",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, we can afford it. Don't forget I robbed a bank. Sitting on $26 million, baby!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Fugitive, Part 2",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Crime and Punishment",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Skyfire Cycle",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "So she's stress-braiding. Big deal. That's like a one on the Santiago panic scale.",
+      "description": "Spoken by Rosa Diaz",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Set Up",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Fugitive, Part 2",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Chasing Amy",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Hawkins? How did you get over there? Who are they?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Last Ride",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Bank Job",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Audit",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Gross. Amy Santiago, will you marry me?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Halloween IV",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Set Up",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "HalloVeen",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "So what was it like getting hit by a bus?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Audit",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Fugitive, Part 2",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Coral Palms Pt. 3",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Cool. Well, I can see this is going to be a fun couple of months.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Safe House",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Night Shift",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Box",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, but in my defense Rosa bet me fifty cents I couldn't drink all that shampoo.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Halloween IV",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Overmining",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Cop-Con",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Wait! What if I admitted I made an error and apologized?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Set Up",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Coral Palms Pt. 3",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Fugitive, Part 2",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Pay no attention to him, Rosa. He's very emotional, Rosa.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Box",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Big House Pt. 1",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Honeymoon",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, Captain! I know you don't wanna talk about Monty Hall, but I did contact a Math professor.",
+      "description": "Spoken by Amy Santiago",
+      "correct": 2,
+      "options": [
+        {
+          "title": "HalloVeen",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Slaughterhouse",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Skyfire Cycle",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I knew it! I always wanted to get hit by a bus.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Audit",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Overmining",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Jake & Amy",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "What?! Gross! Rosa, those are our dads! I mean, that's not what I think. Captain Dad is just my boss.",
+      "description": "Spoken by Amy Santiago",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Serve & Protect",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Slaughterhouse",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Skyfire Cycle",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "How is that possible? Peralta arrested and harassed an innocent man.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Big House Pt. 1",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Crime and Punishment",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Set Up",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I get that, Peralta. But things will be a lot better when a man doesn't have to lose his job for you to learn a lesson.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Set Up",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Bank Job",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Honeymoon",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I see you filming, Linetti! What's in the yogurt?",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Favor",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Last Ride",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Bank Job",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Look, I owe you both an apology. Doug Judy, I underestimated your honesty. And Peralta, I underestimated your instincts.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 2,
+      "options": [
+        {
+          "title": "DFW",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Big House Pt. 1",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Fugitive, Part 2",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Wow... so we have all this room to work in?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chasing Amy",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Safe House",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Cop-Con",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "You don't know that for sure. And that's your loophole.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Cop-Con",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Favor",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Night Shift",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Attention, squad. I just got word from Peralta and Boyle.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Favor",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween IV",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Last Ride",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "NYPD! Get down on the comfortable matted floor!",
+      "description": "Spoken by Rosa Diaz",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Coral Palms Pt. 3",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Overmining",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween IV",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Ooh.. cool, cool, cool, cool, cool.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Skyfire Cycle",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Favor",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Jake & Amy",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I know; we're in a black site, Rosa. I bet they have some awesome name for it.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Game Night",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Slaughterhouse",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween IV",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "What you said, better. Rosa, leave now?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Big House Pt. 1",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Set Up",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Slaughterhouse",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "The G-Hive is real! I can't believe you did it! Gina, you're a legend! To the Nine-Nine!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Last Ride",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Night Shift",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Coral Palms Pt. 1",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "I should warn you- me and Rosa go pretty hard.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Fugitive, Part 2",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "HalloVeen",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Bank Job",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "So, do you recognize any of these men?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Halloween IV",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Chasing Amy",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "DFW",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Wait... What? Did you say \"eat people\"? Are you a cannibal, Caleb?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Cop-Con",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Coral Palms Pt. 3",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Big House Pt. 1",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "My name is Detective Ignatius Pettyfeather IX! That's I-G- Nacious...",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Coral Palms Pt. 1",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Slaughterhouse",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Serve & Protect",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Hey there, Boyle. How's your weekend?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Overmining",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Fugitive, Part 2",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Last Ride",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's Kevin's? This is devastating, I'm inconsolable. And... I've killed myself.",
+      "description": "Spoken by Raymond Holt",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Safe House",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Bank Job",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Game Night",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "You can't do that in person. It's Charles! Boyle, your co-worker.",
+      "description": "Spoken by Charles Boyle",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Honeymoon",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Skyfire Cycle",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Serve & Protect",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "\"Thirsty-ass bitch\"? Okay, Captain, now I know you're gonna step in to defend me.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Fugitive, Part 2",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Slaughterhouse",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Night Shift",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Now, you don't have to forgive me. But could you please at least give the Precinct a shot?",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Safe House",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Jake & Amy",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Serve & Protect",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Don't have it. Charged it and stuck it on a truck headed west.",
+      "description": "Spoken by Rosa Diaz",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Slaughterhouse",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Crime and Punishment",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "DFW",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Jake, what's going on? Why is Amy's hair like that?",
+      "description": "Spoken by Charles Boyle",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Bank Job",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Overmining",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Chasing Amy",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Put your magical hands where I can see them!",
+      "description": "Spoken by Charles Boyle",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Overmining",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Game Night",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Night Shift",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Thank you, Detective Boyle.",
+      "description": "Spoken by Terry Jeffords",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Honeymoon",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Audit",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Serve & Protect",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "That's right, Rosa. I'm doing the Full Bullpen!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Skyfire Cycle",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Coral Palms Pt. 1",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Slaughterhouse",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "The way you say that, it kind of makes it sound like you actually are biased.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Skyfire Cycle",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Serve & Protect",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Crime and Punishment",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Are they gonna be looking at our desks? Also, unrelated, someone left a bunch of swords at my desk.",
+      "description": "Spoken by Rosa Diaz",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Fugitive, Part 2",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Audit",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Halloween IV",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Great work, boys. We're cops. Wait, where's Captain Holt?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Jake & Amy",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Bank Job",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Crime and Punishment",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "\"I'm so confused I don't know what's happening right now\": title of your sex tape.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Serve & Protect",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Honeymoon",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "HalloVeen",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "He works for Hawkins! He put the money in the accounts!",
+      "description": "Spoken by Amy Santiago",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Slaughterhouse",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Crime and Punishment",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Coral Palms Pt. 1",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "No, please, Ames, look, it's really happening, okay? It's not part of the heist. I promise, this is real.",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "HalloVeen",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Cop-Con",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Safe House",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "And your office manager would've heard all of the screaming, but she was at her grandson's play. Lucky again!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Game Night",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Honeymoon",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Box",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Gina, what the hell?",
+      "description": "Spoken by Charles Boyle",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Favor",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Honeymoon",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Jake & Amy",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "You're gonna go back to stealing cars immediately, aren't you?",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Fugitive, Part 2",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Chasing Amy",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "HalloVeen",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "That's okay, I have no questions. That's right, I'm about to monologue, son!",
+      "description": "Spoken by Jake Peralta",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Box",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "The Fugitive, Part 2",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Coral Palms Pt. 1",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    },
+    {
+      "quote": "Well, he keeps yelling, \"Disability for life!\" so I think he's fine.",
+      "description": "Spoken by Amy Santiago",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Chasing Amy",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Coral Palms Pt. 3",
+          "description": "Brooklyn Nine-Nine episode"
+        },
+        {
+          "title": "Skyfire Cycle",
+          "description": "Brooklyn Nine-Nine episode"
+        }
+      ]
+    }
+  ]
+}
