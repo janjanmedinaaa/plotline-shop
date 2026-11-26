@@ -1,0 +1,963 @@
+{
+  "id": "icarly_webshow_who",
+  "title": "iCarly: Webcast Chaos",
+  "description": "Who said it on the iCarly webcast and in Bushwell Plaza?",
+  "category": "series",
+  "group": "iCarly",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 50,
+  "questions": [
+    {
+      "quote": "What's happening here?!",
+      "description": "iCarly • iLost My Mind",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "I'd stop this if it wasn't hilarious.",
+      "description": "iCarly • iPear Store",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "...is dating Sam. Look at this.",
+      "description": "iCarly • iCan't Take It",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Gibby",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Hey Teebs, wanna see what I got?",
+      "description": "iCarly • iStill Psycho",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Gibby",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "You're about to watch a very special episode of iCarly.",
+      "description": "iCarly • iApril Fools",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Um, let's see. Carly and I were at school.",
+      "description": "iCarly • iApril Fools",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Waaiitt, wait wait wait wait. Let's take one more chat.",
+      "description": "iCarly • iLost My Mind",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Sam loves Freddie! Sam loves Freddie!",
+      "description": "iCarly • iLost My Mind",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Gibby",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "I will be enjoying my Saturday while you videotape the auditions for me.",
+      "description": "iCarly • Pilot",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Ms. Briggs",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Gibby texted me ten times today. (he shows Carly and Sam his PearPhone)",
+      "description": "iCarly • iEnrage Gibby",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Those dingo people are dead!",
+      "description": "iCarly • iTake On Dingo",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Um&ndash; &ndash;is it weird if a guy grows hair between his toes?",
+      "description": "iCarly • iWon't Cancel The Show",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Gibby",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Want to see me rock out? How can that even happen?!",
+      "description": "iCarly • Am Your Biggest Fan",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Already on it. neverwatchiCarly.com.",
+      "description": "iCarly • iMeet Fred",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Gibby",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, go away! Get out of here!",
+      "description": "iCarly • Spy a Mean Teacher",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Gibby",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Aww, then it was worth the hearing loss.",
+      "description": "iCarly • iDate Sam & Freddie",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "IT BLEW UP, OKAY!?",
+      "description": "iCarly • iFight Shelby Marx",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Gibby",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Please never make those faces again.",
+      "description": "iCarly • Win a Date",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Aww, you stuck to the ceiling.",
+      "description": "iCarly • iGo Nuclear",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Aw. Well, I know how you feel. I remember when they said I wasn't allowed to go to camp anymore.",
+      "description": "iCarly • iPsycho",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Yes. These are Carly's favorite foods, drinks, soups and chowders...",
+      "description": "iCarly • Wanna Stay With Spencer",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "So he couldn't be here in person..",
+      "description": "iCarly • iMeet The First Lady",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        },
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "He's fine. But I really got to",
+      "description": "iCarly • Nevel",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Gibby",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "CARLY, FREDDIE'S HERE! 14,325...",
+      "description": "iCarly • Hate Sam's Boyfriend",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Gibby",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "You called in the military?",
+      "description": "iCarly • Rue the Day",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Gibby",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Mitch! Mitch! Mitch! Mitch!",
+      "description": "iCarly • iChristmas",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Is that Spencer's?",
+      "description": "iCarly • iStill Psycho",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "So, things are going good with you and Freddie?",
+      "description": "iCarly • iCan't Take It",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "What, what's happening? I'm rotating! Help! Carly! And I still have to pee!",
+      "description": "iCarly • iStill Psycho",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "I just love reading together.",
+      "description": "iCarly • iApril Fools",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, cool, then how do we make it stop transmitting!",
+      "description": "iCarly • iStill Psycho",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Gibby",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Nice. So what's it--?",
+      "description": "iCarly • Promise Not To Tell",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "I have a date with Shane tonight!",
+      "description": "iCarly • iSaw Him First",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Why does Ms. Briggs have all this stuff?",
+      "description": "iCarly • Spy a Mean Teacher",
+      "correct": 2,
+      "options": [
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "I feel like butt! (coughs) Remember that time you dared me to lick the swing set?",
+      "description": "iCarly • iReunite with Missy",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "No kidding. The lady is losing it.",
+      "description": "iCarly • Have a Lovesick Teacher",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Gibby",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, I get it. The real problem here is that you're insane!",
+      "description": "iCarly • iMeet Fred",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah? Well I bet your faces aren't made out of Maxi Glass?",
+      "description": "iCarly • iStill Psycho",
+      "correct": 1,
+      "options": [
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "YOU'LL PAY FOR THIS, CARLY SHAY! I DECLARE THAT YOU WILL RUE THIS DAY! YOU'LL RUE IT!",
+      "description": "iCarly • iWant My Website Back",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Um, yours and his? Or his and hers, or hers and his, I don't remember, but something's gotta be done about your kids!",
+      "description": "iCarly • iApril Fools",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Cause I printed it on \"three-hole paper\".",
+      "description": "iCarly • Promise Not To Tell",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "I don't wanna do this anymore.",
+      "description": "iCarly • iRocked the Vote",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Carly Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "No, we didn't fail!",
+      "description": "iCarly • iHalfoween",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Wait, is this on camera? GIBBY, COME HERE!",
+      "description": "iCarly • iTwins",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh. Uh, the cops showed up and took her down to juvie.",
+      "description": "iCarly • iWon't Cancel The Show",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "What is a haberdashery?",
+      "description": "iCarly • iGive Away a Car",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, I picked him up thinking he was a bar of soap. Good thing I realized before… Never mind.",
+      "description": "iCarly • Hatch Chicks",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Freddie Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "..and a lot of, you know..",
+      "description": "iCarly • iGo One Direction",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "T-Bo",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, if it isn't my straight-A little sister, Carl-ay.",
+      "description": "iCarly • Promise Not To Tell",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Mrs. Benson",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Gibby",
+          "description": "iCarly character"
+        }
+      ]
+    },
+    {
+      "quote": "Then I think it's very sweet you were helping your mommy knit.",
+      "description": "iCarly • Heart Art",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Nevel Papperman",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Spencer Shay",
+          "description": "iCarly character"
+        },
+        {
+          "title": "Sam Puckett",
+          "description": "iCarly character"
+        }
+      ]
+    }
+  ]
+}

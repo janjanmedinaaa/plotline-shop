@@ -241,6 +241,42 @@
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/community/comm_supporting_who.json"
     },
     {
+      "id": "dj_brothers_who",
+      "title": "Drake & Josh: Stepbrother Chaos",
+      "description": "Who said it in the Parker-Nichols house?",
+      "category": "series",
+      "group": "Drake & Josh",
+      "tag": "Who said it?",
+      "answer_type": "character",
+      "price": 150,
+      "quote_count": 50,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/drake_and_josh/dj_brothers_who.json"
+    },
+    {
+      "id": "dj_episodes_ep",
+      "title": "Drake & Josh: Classic Episodes",
+      "description": "Match the famous quote to its Drake & Josh episode.",
+      "category": "series",
+      "group": "Drake & Josh",
+      "tag": "When was this?",
+      "answer_type": "episode",
+      "price": 160,
+      "quote_count": 50,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/drake_and_josh/dj_episodes_ep.json"
+    },
+    {
+      "id": "dj_premiere_who",
+      "title": "Drake & Josh: The Premiere",
+      "description": "Who delivered these iconic Drake & Josh lines?",
+      "category": "series",
+      "group": "Drake & Josh",
+      "tag": "Who said it?",
+      "answer_type": "character",
+      "price": 150,
+      "quote_count": 50,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/drake_and_josh/dj_premiere_who.json"
+    },
+    {
       "id": "friends_central_perk_who",
       "title": "Friends: Central Perk",
       "description": "Who said it over coffee on the orange couch?",
@@ -479,6 +515,42 @@
       "price": 160,
       "quote_count": 50,
       "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/himym/himym_slapbet_ep.json"
+    },
+    {
+      "id": "icarly_episodes_ep",
+      "title": "iCarly: Classic Episodes",
+      "description": "Match the famous quote to its iCarly episode.",
+      "category": "series",
+      "group": "iCarly",
+      "tag": "When was this?",
+      "answer_type": "episode",
+      "price": 160,
+      "quote_count": 50,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/icarly/icarly_episodes_ep.json"
+    },
+    {
+      "id": "icarly_groovy_who",
+      "title": "iCarly: Groovy Smoothie",
+      "description": "Who delivered these classic iCarly comebacks and quips?",
+      "category": "series",
+      "group": "iCarly",
+      "tag": "Who said it?",
+      "answer_type": "character",
+      "price": 150,
+      "quote_count": 50,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/icarly/icarly_groovy_who.json"
+    },
+    {
+      "id": "icarly_webshow_who",
+      "title": "iCarly: Webcast Chaos",
+      "description": "Who said it on the iCarly webcast and in Bushwell Plaza?",
+      "category": "series",
+      "group": "iCarly",
+      "tag": "Who said it?",
+      "answer_type": "character",
+      "price": 150,
+      "quote_count": 50,
+      "url": "https://raw.githubusercontent.com/janjanmedinaaa/plotline-shop/main/packs/icarly/icarly_webshow_who.json"
     },
     {
       "id": "jaa_ben_who",

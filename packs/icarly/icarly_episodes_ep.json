@@ -1,0 +1,963 @@
+{
+  "id": "icarly_episodes_ep",
+  "title": "iCarly: Classic Episodes",
+  "description": "Match the famous quote to its iCarly episode.",
+  "category": "series",
+  "group": "iCarly",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 50,
+  "questions": [
+    {
+      "quote": "Troubled Waters Mental Hospital?!",
+      "description": "Spoken by Carly Shay",
+      "correct": 1,
+      "options": [
+        {
+          "title": "iRocked the Vote",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iLost My Mind",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iLove You",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh. Well, I wouldn't mind watching a little Doctor Foo.",
+      "description": "Spoken by Carly Shay",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Promote Techfoots",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Stakeout",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iPear Store",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Alright, that's the Ocean Breeze.",
+      "description": "Spoken by Gibby",
+      "correct": 0,
+      "options": [
+        {
+          "title": "iPear Store",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iGet Banned",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iParty with Victorious (Victorious Crossover)",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Don't be afraid... I just wanna eat you!",
+      "description": "Spoken by Sam Puckett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "iHalfoween",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iLove You",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iOwe You",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "But I saw the press conference and it looked to me like-- No, no, no, no, don't slam it--",
+      "description": "Spoken by Gibby",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Rue the Day",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iFight Shelby Marx",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iMust Have Locker 239",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "I'm sorry he had an aneurysm while I was dancin' with him.",
+      "description": "Spoken by Sam Puckett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iSaw Him First",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iApril Fools",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iPsycho",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "No! No, no, no, no, no-no, no. (she runs and closes the window shades)",
+      "description": "Spoken by Carly Shay",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iLook Alike",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Stakeout",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iTake On Dingo",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "I'm really getting worried about Sam. I mean, it's been three days since-",
+      "description": "Spoken by Freddie Benson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Am Your Biggest Fan",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iShock America",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iLost My Mind",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Fine. I'll lie. Go.",
+      "description": "Spoken by Spencer Shay",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iHave My Principals",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iGoodbye",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iCan't Take It",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "What time's your date?",
+      "description": "Spoken by Freddie Benson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "iToe Fat Cakes",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iCarly Awards",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iEnrage Gibby",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "What am I, a mushroom?!",
+      "description": "Spoken by Gibby",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iQ",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iShock America",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iCan't Take It",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "C'mon, c'mon, the candles, light them!",
+      "description": "Spoken by Sam Puckett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "iMeet The First Lady",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iLove You",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Spray painting this butt blue.",
+      "description": "Spoken by Carly Shay",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Like Jake",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iDate Sam & Freddie",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iBattle Chip",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "You said HOT EUROPEAN swimsuit models!",
+      "description": "Spoken by Spencer Shay",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Carly Saves TV",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iQuit iCarly",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iCarly Awards",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "This place brings back the memories, huh?",
+      "description": "Spoken by Carly Shay",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iMeet The First Lady",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iGot a Hot Room",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iStill Psycho",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "No, no, de nopedy nope, I am not gonna lie to your mother.",
+      "description": "Spoken by Spencer Shay",
+      "correct": 1,
+      "options": [
+        {
+          "title": "iRescue Carly",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iCan't Take It",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Win a Date",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Well, maybe that's cuz you don't have a girlfriend.",
+      "description": "Spoken by Carly Shay",
+      "correct": 1,
+      "options": [
+        {
+          "title": "iMake Sam Girlier",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iPear Store",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iPity the Nevel",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "We thought you meant climbing up the chimney.",
+      "description": "Spoken by Carly Shay",
+      "correct": 0,
+      "options": [
+        {
+          "title": "iStill Psycho",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iHurt Lewbert",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iMove Out",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "What do I wanna be when I grow up?",
+      "description": "Spoken by Sam Puckett",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iGot a Hot Room",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Hate Sam's Boyfriend",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iChristmas",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Don't tell the story!",
+      "description": "Spoken by Spencer Shay",
+      "correct": 1,
+      "options": [
+        {
+          "title": "iSaw Him First",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iRocked the Vote",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Like Jake",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "How much do you have?",
+      "description": "Spoken by Carly Shay",
+      "correct": 1,
+      "options": [
+        {
+          "title": "iPity the Nevel",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iOwe You",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iMove Out",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "You wanna find out?",
+      "description": "Spoken by Carly Shay",
+      "correct": 0,
+      "options": [
+        {
+          "title": "iOwe You",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iLook Alike",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iFix a Popstar",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "I did what you said. I shaved, I took a shower, I mailed that movie back to Webflix, I-",
+      "description": "Spoken by Spencer Shay",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iBattle Chip",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iPear Store",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iStage an Intervention",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Check the handbook. (he gives it to Carly)",
+      "description": "Spoken by Gibby",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iRescue Carly",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iLost My Head in Vegas",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iMust Have Locker 239",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Because I hate you.",
+      "description": "Spoken by Sam Puckett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "iSpeed Date",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iLost My Mind",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iEnrage Gibby",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Well, we can't do iCarly as long as Nevel controls our site.",
+      "description": "Spoken by Freddie Benson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iMust Have Locker 239",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iPity the Nevel",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Rue the Day",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yes, my heart is pounding.",
+      "description": "Spoken by Nevel Papperman",
+      "correct": 0,
+      "options": [
+        {
+          "title": "iGive Away a Car",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Will Date Freddie",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iLost My Mind",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Why does everything always happen to me?",
+      "description": "Spoken by Mr. Howard",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Got Detention",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iBattle Chip",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iStill Psycho",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, fine! THAT'S IT! WE ARE OVER!",
+      "description": "Spoken by Spencer Shay",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iShock America",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iSaved Your Life",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iMake Sam Girlier",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Hey Gibby, you wanna help me with-",
+      "description": "Spoken by Carly Shay",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iGive Away a Car",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Have a Lovesick Teacher",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iDate Sam & Freddie",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "If they came to life in the middle of the night and ate your family?",
+      "description": "Spoken by Carly Shay",
+      "correct": 1,
+      "options": [
+        {
+          "title": "iGet Banned",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Promote Techfoots",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iFind Spencer Friends",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, at what point did I have insanely long hair?",
+      "description": "Spoken by Spencer Shay",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iMeet The First Lady",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iShock America",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iApril Fools",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, we've got the cable hooked up. Now what?",
+      "description": "Spoken by Carly Shay",
+      "correct": 1,
+      "options": [
+        {
+          "title": "iToe Fat Cakes",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Rue the Day",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Wanna Stay With Spencer",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Uh, we just hang out and talk about stuff that happened to us in the past.",
+      "description": "Spoken by Carly Shay",
+      "correct": 0,
+      "options": [
+        {
+          "title": "iApril Fools",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iStill Psycho",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iGoodbye",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Mr Devlin's, like, the strictest teacher in school.",
+      "description": "Spoken by Freddie Benson",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iMeet The First Lady",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iMeet Fred",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Promise Not To Tell",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Then I didn't do it.",
+      "description": "Spoken by Sam Puckett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "iHave My Principals",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iQ",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Might Switch Schools",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "You were pretty mad that day-",
+      "description": "Spoken by Sam Puckett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "iApril Fools",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iWant My Website Back",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Wanna Stay With Spencer",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Why didn't you guys kiss over the weekend?",
+      "description": "Spoken by Carly Shay",
+      "correct": 1,
+      "options": [
+        {
+          "title": "iStart a Fan War",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iLove You",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iCarly Awards",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Don't walk away from me when I'm talking to you!",
+      "description": "Spoken by Freddie Benson",
+      "correct": 0,
+      "options": [
+        {
+          "title": "iDate Sam & Freddie",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iHave My Principals",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iWon't Cancel The Show",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "But I didn't turn the--",
+      "description": "Spoken by Freddie Benson",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Have a Lovesick Teacher",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Nevel",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Want a World Record",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Ohh!! The shock pen!",
+      "description": "Spoken by Sam Puckett",
+      "correct": 0,
+      "options": [
+        {
+          "title": "iStill Psycho",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iToe Fat Cakes",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Handsome Lance is picking me up at five o'clock. With his car.",
+      "description": "Spoken by Carly Shay",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iBattle Chip",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iLook Alike",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iToe Fat Cakes",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "You think he hit 25 miles an hour?",
+      "description": "Spoken by Carly Shay",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Got Detention",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iHave My Principals",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iGive Away a Car",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Well, that can't be good.",
+      "description": "Spoken by Sam Puckett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "iSpace Out",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iMeet Fred",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iLove You",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, and he tried to kiss me! He totally tried to kiss me!",
+      "description": "Spoken by Carly Shay",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Hate Sam's Boyfriend",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iGet Banned",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iSpeed Date",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": ": I don't think you guys will watch this cuz you probably get a bajillion emails a day, but if you are...iCarly is my life.",
+      "description": "Spoken by Nora Dershlit",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iFind Spencer Friends",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Am Your Biggest Fan",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iPsycho",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Aww, his mother needs surgery.",
+      "description": "Spoken by Carly Shay",
+      "correct": 0,
+      "options": [
+        {
+          "title": "iRocked the Vote",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Hate Sam's Boyfriend",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iFix a Popstar",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Okay... but you sign this first.",
+      "description": "Spoken by Carly Shay",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iApril Fools",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iWon't Cancel The Show",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iWant My Website Back",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "He'll give it back.",
+      "description": "Spoken by Carly Shay",
+      "correct": 2,
+      "options": [
+        {
+          "title": "iSam's Mom",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Carly Saves TV",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "iMeet The First Lady",
+          "description": "iCarly episode"
+        }
+      ]
+    },
+    {
+      "quote": "Don't worry, Nevel said she's hopelessly confused.",
+      "description": "Spoken by Sam Puckett",
+      "correct": 1,
+      "options": [
+        {
+          "title": "iTwins",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Rue the Day",
+          "description": "iCarly episode"
+        },
+        {
+          "title": "Promise Not To Tell",
+          "description": "iCarly episode"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,963 @@
+{
+  "id": "dj_brothers_who",
+  "title": "Drake & Josh: Stepbrother Chaos",
+  "description": "Who said it in the Parker-Nichols house?",
+  "category": "series",
+  "group": "Drake & Josh",
+  "tag": "Who said it?",
+  "answer_type": "character",
+  "price": 150,
+  "quote_count": 50,
+  "questions": [
+    {
+      "quote": "Yeah. I found all kinds of great stuff on how to repair a dune buggy.",
+      "description": "Drake & Josh • Dune Buggy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "We understand that you give people temporary jobs?",
+      "description": "Drake & Josh • I Love Sushi",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Chocolate cup. You got the wireless Battlepad!",
+      "description": "Drake & Josh • The Bet",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "About dad, alright? I think he is dating another woman.",
+      "description": "Drake & Josh • The Affair",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Look down, look down.",
+      "description": "Drake & Josh • Helicopter",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "I hate this place.",
+      "description": "Drake & Josh • Paging Dr. Drake",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, right, right, right, right.",
+      "description": "Drake & Josh • Steered Straight",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "I meant we're gonna tell Mom and Dad, and then you're gonna be in huge trouble.",
+      "description": "Drake & Josh • Tree House",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh yeah, yeah! That is perfect!",
+      "description": "Drake & Josh • Alien Invasion",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Kay, what up with the 'tude?",
+      "description": "Drake & Josh • Josh Runs Into Oprah",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, I was wrong. This is the best day of my life.",
+      "description": "Drake & Josh • The Bet",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "But I love this foot!",
+      "description": "Drake & Josh • Paging Dr. Drake",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, we have an emergency!",
+      "description": "Drake & Josh • The Drake & Josh Inn",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, so how do we buy some?",
+      "description": "Drake & Josh • Peruvian Puff Pepper",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "I'm supposed to meet Brian Horowitz at the magic palace!",
+      "description": "Drake & Josh • The Bet",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "If you use the term \"student\" loosely.",
+      "description": "Drake & Josh • Mean Teacher",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Mrs. Hayfer",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Seriously, Josh, I don't know why you're so freaked out by hospitals.",
+      "description": "Drake & Josh • Paging Dr. Drake",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Dude, I love this album more than I love myself.",
+      "description": "Drake & Josh • The Battle of Panthatar",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Help! Crazy Steve's gone berserk!",
+      "description": "Drake & Josh • Really Big Shrimp",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "They're on their way home.",
+      "description": "Drake & Josh • The Drake & Josh Inn",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Josh. Did you know about this?",
+      "description": "Drake & Josh • Dune Buggy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Thank you. So, what's been up, Helen?",
+      "description": "Drake & Josh • Little Diva",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "YOU FORGOT TO GIVE HER CELLPHONE BACK!?!? MAN THAT'S JUST GREAT THAT'S AWESOME!",
+      "description": "Drake & Josh • Drake & Josh Go Hollywood",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "You know, I'm allergic to Cumin.",
+      "description": "Drake & Josh • The Affair",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "He's in high school.",
+      "description": "Drake & Josh • We're Married",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "What? You might grow old, never get married, and die alone?",
+      "description": "Drake & Josh • The Demonator",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "OH, I AM WAY PAST MAD!",
+      "description": "Drake & Josh • Really Big Shrimp",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, the doctor sai...",
+      "description": "Drake & Josh • Dune Buggy",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "You don't have driver's licenses.",
+      "description": "Drake & Josh • Dune Buggy",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "You wanna sing a song with me?",
+      "description": "Drake & Josh • Eric Punches Drake",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "No, I meant I'm sorry I didn't tell you I was gambling, and I definitely wanna do it some more.",
+      "description": "Drake & Josh • Pool Shark",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "You do realize this is your fault.",
+      "description": "Drake & Josh • The Bet",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Well, trash dog, it looks like it's just you and me. Hey, I have garbage!",
+      "description": "Drake & Josh • Drew & Jerry",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, guys. Happy birthday, Katie.",
+      "description": "Drake & Josh • Megan's New Teacher",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Very, very, interesting.",
+      "description": "Drake & Josh • Little Sibling",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Mrs. Hayfer",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Make sure it happens. Oh, and Drake. Guess what?",
+      "description": "Drake & Josh • Little Sibling",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Mrs. Hayfer",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "If you want to know why I'm not happy, it's because when I got in the shower this morning, I found one of these again.",
+      "description": "Drake & Josh • The Affair",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "So, you have to help rebuild the treehouse tomorrow.",
+      "description": "Drake & Josh • Tree House",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Um, actually? Drake and Josh moved to Canada.",
+      "description": "Drake & Josh • Tree House",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Hey, Megan. So how was the water park?",
+      "description": "Drake & Josh • Helicopter",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Are you kidding? Drake's rash is spreading, he'll cave first.",
+      "description": "Drake & Josh • The Bet",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Can you believe them?",
+      "description": "Drake & Josh • The Bet",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, you guys think you're going to be in charge?",
+      "description": "Drake & Josh • The Drake & Josh Inn",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "I promise not to pull any pranks on you for 3 months.",
+      "description": "Drake & Josh • Sheep Thrills",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "What's a GameSphere?",
+      "description": "Drake & Josh • The Bet",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Drake Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Is this about your rash?",
+      "description": "Drake & Josh • Drake & Josh Go Hollywood",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Now, what do you eat soup with?",
+      "description": "Drake & Josh • Mindy's Back",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Walter Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Helen Dubois",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Why is he hiding from us?",
+      "description": "Drake & Josh • The Demonator",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Craig Ramirez",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Mindy Crenshaw",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "I just modified the air conditioning in your room. You guys did say you like it cold, right?",
+      "description": "Drake & Josh • Paging Dr. Drake",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Audrey Parker-Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        }
+      ]
+    },
+    {
+      "quote": "Remember the 4th grade, Josh, the twitch.",
+      "description": "Drake & Josh • Blues Brothers",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Josh Nichols",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Megan Parker",
+          "description": "Drake & Josh character"
+        },
+        {
+          "title": "Crazy Steve",
+          "description": "Drake & Josh character"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,963 @@
+{
+  "id": "dj_episodes_ep",
+  "title": "Drake & Josh: Classic Episodes",
+  "description": "Match the famous quote to its Drake & Josh episode.",
+  "category": "series",
+  "group": "Drake & Josh",
+  "tag": "When was this?",
+  "answer_type": "episode",
+  "price": 160,
+  "quote_count": 50,
+  "questions": [
+    {
+      "quote": "Come on, let's just get this back up.",
+      "description": "Spoken by Drake Parker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "The Storm",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Eric Punches Drake",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Peruvian Puff Pepper",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Well, what would we have to do?",
+      "description": "Spoken by Josh Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Believe Me, Brother",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "I Love Sushi",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Great Doheny",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Uh, no, no! You see, I'm not really her husband. We're just married.",
+      "description": "Spoken by Drake Parker",
+      "correct": 0,
+      "options": [
+        {
+          "title": "We're Married",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Dance Contest",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Who's Got Game?",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Come on. Megan! Run!",
+      "description": "Spoken by Josh Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Gary Grill",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Vicious Tiberius",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Josh Runs Into Oprah",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "You open the door or we're gonna call the cops!",
+      "description": "Spoken by Josh Nichols",
+      "correct": 0,
+      "options": [
+        {
+          "title": "My Dinner with Bobo",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Drake & Josh Inn",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Eric Punches Drake",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "So, nice night, huh?",
+      "description": "Spoken by Drake Parker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Movie Job",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Mean Teacher",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Battle of Panthatar",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Slowly, with helmets on, and bubble wrap.",
+      "description": "Spoken by Audrey Parker-Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Demonator",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Dune Buggy",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Smart Girl",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "You are so on. What d'you wanna bet?",
+      "description": "Spoken by Audrey Parker-Nichols",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Peruvian Puff Pepper",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Little Sibling",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Bet",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "I was, um...out buying some milk.",
+      "description": "Spoken by Walter Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Girl Power",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Affair",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Blues Brothers",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Well, mmm... you see, I view this whole incident as a learning experience.",
+      "description": "Spoken by Drake Parker",
+      "correct": 0,
+      "options": [
+        {
+          "title": "The Bet",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Demonator",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Gary Grill",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's the monoxipuff gas!",
+      "description": "Spoken by Drake Parker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "My Dinner with Bobo",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Wedding",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Drake & Josh Inn",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Well, my hope is to, become a famous musician and singer.",
+      "description": "Spoken by Drake Parker",
+      "correct": 0,
+      "options": [
+        {
+          "title": "We're Married",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Honor Council",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Blues Brothers",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "See you tomorrow, class.",
+      "description": "Spoken by Mrs. Hayfer",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Megan's Revenge",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Wedding",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Little Sibling",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Uh-huh. Mom gave me the recipe. I think it turned out pretty good. (Lights the candle) There!",
+      "description": "Spoken by Megan Parker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pilot",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Josh Runs Into Oprah",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Megan's New Teacher",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "JOSH! What's the matter with you?",
+      "description": "Spoken by Walter Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Driver's License",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Paging Dr. Drake",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Josh Runs Into Oprah",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "DO NOT GIVE ME YOUR TUDE, I DIDN'T FLY HER OFF TO THE WRONG CITY!",
+      "description": "Spoken by Josh Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Foam Finger",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Drake & Josh Go Hollywood",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Drew & Jerry",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "You crossed the line 8 years ago!",
+      "description": "Spoken by Josh Nichols",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Foam Finger",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Honor Council",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Dance Contest",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Seeing another woman do what?",
+      "description": "Spoken by Josh Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Girl Power",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Affair",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Believe Me, Brother",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Okay, mom and dad. Here it comes.",
+      "description": "Spoken by Josh Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Who's Got Game?",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "I Love Sushi",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Gary Grill",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's a- it's a present from Grammy! This day just keeps getting better!",
+      "description": "Spoken by Josh Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Great Doheny",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Bet",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Girl Power",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "A room, in which we live.",
+      "description": "Spoken by Drake Parker",
+      "correct": 0,
+      "options": [
+        {
+          "title": "I Love Sushi",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Mindy Loves Josh",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "First Crush",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "I'd be nervous if I knew a million people were watching me on Live TV. That's pressure.",
+      "description": "Spoken by Megan Parker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Megan's Revenge",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Blues Brothers",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Girl Power",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Boys, where's the remote?",
+      "description": "Spoken by Audrey Parker-Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pool Shark",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Dune Buggy",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Peruvian Puff Pepper",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Wha- Hey! Whoa-whoa-whoa-whoa-whoa! I didn't know she was your girlfriend!",
+      "description": "Spoken by Drake Parker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Storm",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Battle of Panthatar",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Guitar",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "That is not my job!",
+      "description": "Spoken by Drake Parker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Eric Punches Drake",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Vicious Tiberius",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Helen's Surgery",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "But they felt bad about missing your date, so they're sending another couple of guys over to meet you.",
+      "description": "Spoken by Megan Parker",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Tree House",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Sheep Thrills",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Drew & Jerry",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yeah, maybe he can tutor you in math.",
+      "description": "Spoken by Megan Parker",
+      "correct": 0,
+      "options": [
+        {
+          "title": "My Dinner with Bobo",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Gary Grill",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Tree House",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "It's a long, sad story. Could you put the ladder back up?",
+      "description": "Spoken by Josh Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Megan's New Teacher",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Two Idiots and a Baby",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Wedding",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Why are you so mean to Drake?",
+      "description": "Spoken by Josh Nichols",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Grammy",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Two Idiots and a Baby",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Great Doheny",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Assistant manager. Hey, this means I'm your boss.",
+      "description": "Spoken by Drake Parker",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Movie Job",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Drew & Jerry",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Megan's New Teacher",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Um, possibly... on the roof.",
+      "description": "Spoken by Josh Nichols",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Helicopter",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Believe Me, Brother",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Two Idiots and a Baby",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yes, yes. She's very pretty.",
+      "description": "Spoken by Josh Nichols",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Josh is Done",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Battle of Panthatar",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Demonator",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Yes, some people care about safety.",
+      "description": "Spoken by Josh Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Steered Straight",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Guitar",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Little Sibling",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "I think you're gonna love this!(Talking about her present)",
+      "description": "Spoken by Megan Parker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "First Crush",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Megan's New Teacher",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Vicious Tiberius",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oh, that's cool, Josh. Maybe afterwards, you can knit them some pretty sweaters.",
+      "description": "Spoken by Drake Parker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "#1 Fan",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "We're Married",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Football",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "You know what, Josh, I have dreams and sometimes in those dreams things happen to you.",
+      "description": "Spoken by Megan Parker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "I Love Sushi",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Dr. Phyllis Show",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Football",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "No, they said I couldn't have a cat. They said nothing about a sheep.",
+      "description": "Spoken by Megan Parker",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Sheep Thrills",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Honor Council",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "I Love Sushi",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Get dressed, we're late.",
+      "description": "Spoken by Drake Parker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pool Shark",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Drew & Jerry",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Drake & Josh Go Hollywood",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "You didn't read the contract, did you? How could you sign a contract without reading it?!",
+      "description": "Spoken by Drake Parker",
+      "correct": 1,
+      "options": [
+        {
+          "title": "I Love Sushi",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Really Big Shrimp",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Gary Grill",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Just be patient. Get it? \"Patient\"? Oh, why do I try?",
+      "description": "Spoken by Audrey Parker-Nichols",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Paging Dr. Drake",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Bet",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Affair",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "We had to jump out.",
+      "description": "Spoken by Josh Nichols",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Helicopter",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "First Crush",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Drake & Josh Inn",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Oprah? Oh, Oprah. Who's dog is this?",
+      "description": "Spoken by Josh Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Pool Shark",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Drew & Jerry",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "First Crush",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "And popcorn and soda are gonna cost you another 6 or 7.",
+      "description": "Spoken by Eric Blonowitz",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Josh is Done",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Mean Teacher",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Foam Finger",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Because you're a devious, twisted little girl.",
+      "description": "Spoken by Drake Parker",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Two Idiots and a Baby",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Guitar",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Josh Runs Into Oprah",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Where's the money?",
+      "description": "Spoken by Josh Nichols",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Theater Thug",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Dance Contest",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Little Sibling",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "I notice you're stacking that candy in an angry way.",
+      "description": "Spoken by Crazy Steve",
+      "correct": 0,
+      "options": [
+        {
+          "title": "Eric Punches Drake",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Steered Straight",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Helen's Surgery",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "Is that some of your business?",
+      "description": "Spoken by Helen Dubois",
+      "correct": 1,
+      "options": [
+        {
+          "title": "The Storm",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Helen's Surgery",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Drake & Josh Go Hollywood",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "So at midnight, you put on a suit, drove to the market, bought some milk, and then drank the entire carton on the way home?",
+      "description": "Spoken by Josh Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Peruvian Puff Pepper",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Affair",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Josh is Done",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "You got me a dirt bike?",
+      "description": "Spoken by Drake Parker",
+      "correct": 2,
+      "options": [
+        {
+          "title": "Movie Job",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Two Idiots and a Baby",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Pilot",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    },
+    {
+      "quote": "You know, you can walk over to the TV and turn it on by hand.",
+      "description": "Spoken by Audrey Parker-Nichols",
+      "correct": 1,
+      "options": [
+        {
+          "title": "Megan's Revenge",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "Dune Buggy",
+          "description": "Drake & Josh episode"
+        },
+        {
+          "title": "The Affair",
+          "description": "Drake & Josh episode"
+        }
+      ]
+    }
+  ]
+}
